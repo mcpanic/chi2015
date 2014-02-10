@@ -1,15 +1,25 @@
-       </div>
-        <div class="col-lg-2 col-md-2">
+        </div> <!-- column-main -->
+        <div class="column-left">
+        <!-- <div class="col-lg-2 col-md-2"> -->
+<?php
+  include "leftbar.php";
+?>
+        </div> <!-- column-left -->
+
+        <!-- <div class="col-lg-2 col-md-2"> -->
+        <div class="column-right">
 <?php
   include "rightbar.php";
 ?>
-        </div>
-      </div>
+        </div> <!-- column-right -->
+        
+        </div> <!-- column-wrapper -->
+      </div> <!-- container -->
 
       <hr>
 
         <footer id="footer" role="contentinfo">
-            &copy; copyright 2014 | <a href="/">ACM SIGCHI</a>
+            &copy; copyright 2014 | <a href="http://www.sigchi.org/">ACM SIGCHI</a>
         </footer>
     </div> <!-- /container -->        
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>

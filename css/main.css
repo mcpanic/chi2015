@@ -1,24 +1,337 @@
 
+body{
+	font-family: Arial;
+	font-size: 13px;
+	color: #575757;
+    /*padding-top: 50px;*/
+    padding-bottom: 20px;
+    line-height: 20px;
+    color: #58595B;    
+}
+
+a, a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 48px;
+	color: #58595B;
+	margin-top:0;
+	margin-bottom: 25px;
+	line-height: inherit;
+}
+
+h2 {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 28px;
+	color: #E4211C;
+	margin-top:0;
+	margin-bottom: 25px;	
+	line-height: inherit;
+}
+
+h3 {
+	font-family: Helvetica;
+	font-weight: 200;
+	font-size: 24px;
+	color: #231F20;
+	border-bottom: 1px solid #E4211C;
+	padding-bottom: 5px;
+	margin: 0;
+	line-height: inherit;
+}
+
+h4 {
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	color: #575757;
+	line-height: inherit;
+}
 
 /* ==========================================================================
-   Author's custom styles
+   Overall
    ========================================================================== */
+.empty{
+	height: 35px;
+	clear: both;
+}
 
+/* ==========================================================================
+   Header
+   ========================================================================== */
+.navbar{
+	color: #FFFFFF;
+	font-size: 15px;
+	background-color: transparent;	/*rgba(228, 33, 28, 0.5);*/
+	background-image:none;
+}
+
+.nav{
+	border-top: 1px solid #FFFFFF;
+	border-bottom: 1px solid #FFFFFF;
+	margin-top: 18px;
+}
+
+.nav li{
+	height: 38px;
+	padding: 8px 16px 0 16px; /* instead of 32, used 18 */
+}
+
+.nav li:first-child{
+	padding-left: 0;
+}
+
+.nav li:last-child{
+	padding-right: 0;
+}
+
+.nav li a {
+	color: #FFFFFF;
+	padding: 0 0 6px 0;
+}
+
+.nav li a:hover{
+	background-color: transparent;
+	font-weight: bold;
+	border-bottom: 5px solid #FFFFFF;
+}
+
+.nav li a.selected{
+	font-weight: bold;
+	border-bottom: 5px solid #FFFFFF;
+}
+
+/* ==========================================================================
+   Jumbotron
+   ========================================================================== */
+.jumbotron{
+	margin: 0;
+	padding: 0;
+	height: 415px;
+	background-color: #E4211C;
+	color: #FFFFFF;
+	margin-top: -80px;
+	margin-bottom: 30px;
+}
+
+.jumbotron-left{
+	display: block;
+	float: left;
+}
+
+.jumbotron-right{
+	display: block;
+	float: right;
+	margin-top: 140px;
+	margin-right: 0;
+	text-align: center;
+	font-family: Helvetica;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+.jumbotron .animation {
+	margin-left: 250px;
+}
+
+.jumbotron .date {
+	margin-bottom: 15px;
+}
+
+.jumbotron .register-button{
+	border: 3px solid #FFFFFF;
+	height: 52px;
+	width: 235px;
+	background-color: #E4211C;
+	font-family: Helvetica;
+	font-size: 22px;
+	color: #FFFFFF;
+	box-shadow: 0px 1px 10px #000000;
+}
+
+.jumbotron .register-button a{
+	color: #FFFFFF;
+}
+
+.jumbotron .register-button a:hover{
+	color: #FFFFFF;
+}
+
+.jumbotron .about-crossings{
+	margin-top: 100px;
+	font-size: 20px;
+}
+
+.jumbotron .about-crossings:hover{
+	cursor:pointer;
+}
+
+
+.column-wrapper {
+/*	position: relative;
+	overflow: hidden;*/
+	float: left;
+	width: 100%;
+}
+
+/* ==========================================================================
+   Left sidebar
+
+   ========================================================================== */
+.column-left{
+	float:left;
+	width: 250px;
+	margin-left:-100%;
+	padding: 10px;
+}
+
+/* ==========================================================================
+   Main content
+   ========================================================================== */
+.column-main{
+	float:left;
+	margin: 0 295px 0 250px;
+	/*display: inline;*/
+	padding: 10px;
+}
+
+/* ==========================================================================
+   Right sidebar
+   ========================================================================== */
+.column-right{
+	float:left;	
+	width: 295px;
+	margin-left: -295px;
+	padding: 10px;
+	background-color: rgb(221,221,221);
+}
+
+#sponsor-list{
+	margin-top: 20px;
+}
+
+#sponsor-list div{
+	padding-top: 15px;
+}
+
+#acm-sigchi-logos {
+	margin-top: 120px;
+}
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
 
 footer {
 	text-align: center;
 }
 
 
+/* ==========================================================================
+   Widgets: Chair information display block
+   ========================================================================== */
+
+.chair-list{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.chair {
+	margin: 0;
+	padding: 0;
+	float: left;
+	display: inline-block;
+}
+
+.chair:first-child{
+	margin-left: 40px;
+}
+
+.chair img{
+	margin-left: 18px;
+	margin-right: 32px;
+	width: 88px;
+	height: 88px;
+	float: left;
+}
+
+.chair-right {
+	float: left;
+	width: 120px;
+/*	display: table-cell;
+	vertical-align: bottom;*/
+}
+
+.chair .chair-name{
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	color: #575757;
+}
+
+.chair .chair-affiliation{
+	font-family: Arial;
+	font-size: 14px;
+	color: #575757;
+}
 
 
+/* ==========================================================================
+   Widgets: days left counter
+   ========================================================================== */
 
+#counter{
 
+}
 
+#counter .days-left{
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 48px;
+	color: #58595B;
+	margin-top:0;
+	margin-bottom: 25px;
+}
 
+/* ==========================================================================
+   Widgets: Sidebar list widget (deadline, news)
+   ========================================================================== */
 
+.sidebar-wrapper{
+	margin-top: 48px;
+}
 
+.sidebar-wrapper .sidebar-block.first-block{
+	margin-top: 14px;
+}
 
+.sidebar-wrapper .sidebar-block{
+	margin-top: 20px;
+}
 
+.sidebar-block ul {
+	list-style: none;
+	padding-left: 0;
+}
 
+.sidebar-date{
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 18px;
+	color: #6D6E70;	
+}
+
+.sidebar-item{
+	font-family: Helvetica;
+	font-size: 13px;
+	margin-left: 12px;
+	line-height: 20px;
+	color: #1B75BB;	
+}
 
