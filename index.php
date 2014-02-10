@@ -7,7 +7,7 @@
             The theme for CHI 2015 is "Crossings": crossing borders,  crossing boundaries, crossing disciplines, crossing people and technology, crossing past and future, crossing physical and digital, crossing art and science, … crossing you and me.
             </p>
             <p>
-            Cross into new territory by joining us in Seoul, Korea, one of the world’s most dynamic cities and the center of emerging trends in culture, technology and design.  For those who create and evaluate new systems, CHI2015 will be a central cross-point to find the latest in research and design of the world’s most innovative technologies.
+            Cross into new territory by joining us in Seoul, Korea, one of the world’s most dynamic cities and the center of emerging trends in culture, technology and design.  For those who create and evaluate new systems, CHI 2015 will be a central cross-point to find the latest in research and design of the world’s most innovative technologies.
             </p>
             <div class="empty">&nbsp;</div>
             <h2>General Conference Chairs</h2>

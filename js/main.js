@@ -22,8 +22,18 @@ function computeDaysUntil(){
 	return Math.round(Math.abs((today.getTime() - chiStartDate.getTime())/(oneDay)));
 }
 
+function addCrossingsPopover(){
+	var crossingsText = "The butterfly is a traditional cultural symbol in Korea.  As the butterfly flits from place to place, it picks up pollen and fosters new creation by taking the pollen to a new location.  Crossing paths in this way creates the potential to do new things, to find new solutions, to create new paths. Come to CHI 2015 to cross paths with expertise from around the globe."
+	$(".about-crossings").popover({
+		placement: "bottom",
+		trigger: "hover",
+		content: crossingsText
+	});
+}
+
 $( document ).ready(function() {
 	selectMenu();
 	adjustMenuWidth();
+	addCrossingsPopover();
 	$("#counter .days-left").text(computeDaysUntil());
 });
