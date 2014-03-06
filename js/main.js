@@ -11,7 +11,7 @@ function selectMenu(){
 
 function adjustMenuWidth(){
 	$('.nav li a').each(function(){
-    	$(this).parent().width($(this).width() + 4);
+    	// $(this).parent().width($(this).width() + 4);
 	});
 }
 
@@ -23,7 +23,7 @@ function computeDaysUntil(){
 }
 
 function addCrossingsPopover(){
-	var crossingsText = "The butterfly is a traditional cultural symbol in Korea.  As the butterfly flits from place to place, it picks up pollen and fosters new creation by taking the pollen to a new location.  Crossing paths in this way creates the potential to do new things, to find new solutions, to create new paths. Come to CHI 2015 to cross paths with expertise from around the globe."
+	var crossingsText = "The butterfly is a traditional cultural symbol throughout Asia and other parts of the world.  As the butterfly flits from place to place, it picks up pollen and fosters new creation by taking the pollen to a new location.  Crossing paths in this way creates the potential to do new things, to find new solutions, and to create new directions. Come to CHI 2015 to cross paths with expertise from around the globe.";
 	$(".about-crossings").popover({
 		placement: "bottom",
 		trigger: "hover",

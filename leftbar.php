@@ -16,8 +16,6 @@
 		<div class="sidebar-date">10th February 2014</div>
 		<ul>
 			<li class="sidebar-item">Panels</li>
-			<li class="sidebar-item">Student Research Comp.</li>
-			<li class="sidebar-item">Works-in-Progress</li>
 		</ul>	
 	</div>
 </div>

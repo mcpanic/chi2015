@@ -13,14 +13,14 @@
             <h2>General Conference Chairs</h2>
             <ul class="chair-list">
                 <li class="chair">
-                    <img src="img/chairs/bo_begole.png">
+                    <img src="img/people/chair_bo.png">
                     <div class="chair-right">
                         <div class="chair-name">Bo Begole</div>
                         <div class="chair-affiliation">Samsung Research America, USA</div>
                     </div>
                 </li>
                 <li class="chair">
-                    <img src="img/chairs/jinwoo_kim.png">
+                    <img src="img/people/chair_jinwoo.png">
                     <div class="chair-right">
                         <div class="chair-name">Jinwoo Kim</div>
                         <div class="chair-affiliation">Yonsei University, Korea</div>
@@ -31,14 +31,14 @@
             <h2>Technical Program Chairs</h2>
             <ul class="chair-list">
                 <li class="chair">
-                    <img src="img/chairs/woontack_woo.png">
+                    <img src="img/people/woontack_woo.png">
                     <div class="chair-right">
                         <div class="chair-name">Woontack Woo</div>
                         <div class="chair-affiliation">KAIST, Korea</div>
                     </div>
                 </li>
                 <li class="chair">
-                    <img src="img/chairs/kori_inkpen.png">
+                    <img src="img/people/kori_inkpen.png">
                     <div class="chair-right">
                         <div class="chair-name">Kori Inkpen</div>
                         <div class="chair-affiliation">Microsoft Research, USA</div>

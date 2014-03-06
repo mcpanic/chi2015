@@ -1,6 +1,7 @@
 
 body{
-	font-family: Arial;
+	/*font-family: Arial;*/
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 13px;
 	color: #575757;
     /*padding-top: 50px;*/
@@ -14,47 +15,429 @@ a, a:hover {
 }
 
 h1 {
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 48px;
 	color: #58595B;
 	margin-top:0;
 	margin-bottom: 25px;
-	line-height: inherit;
+	line-height: 48px;
 }
 
 h2 {
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 28px;
 	color: #E4211C;
 	margin-top:0;
 	margin-bottom: 25px;	
-	line-height: inherit;
+	line-height: 28px;
 }
 
 h3 {
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: 200;
 	font-size: 24px;
 	color: #231F20;
 	border-bottom: 1px solid #E4211C;
 	padding-bottom: 5px;
 	margin: 0;
-	line-height: inherit;
+	line-height: 24px;
 }
 
 h4 {
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 18px;
 	color: #575757;
-	line-height: inherit;
+	line-height: 18px;
 }
+
+
+
+
+/* ==========================================================================
+   Media queries for responsive layout
+   ========================================================================== */
+@media only screen and (min-width: 1200px){
+	.column-left{
+		float:left;
+		width: 250px;
+		margin-left:-100%;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 250px;
+	}
+
+	.column-main{
+		float:left;
+		margin: 0 250px 0 250px;
+		/*display: inline;*/
+		padding: 10px;
+	}
+
+	.column-right{
+		float:left;	
+		width: 250px;
+		margin-left: -250px;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}	
+	.nav li{
+		height: 38px;
+		padding: 8px 16px 0 16px;
+		font-size: 15px;
+	}
+	.navbar-brand{
+		display:none;
+	}
+	.jumbotron{
+		height: 415px;
+	}	
+	.jumbotron-left{	
+		width: calc(100% - 250px);
+	}
+	.jumbotron .animation {
+		margin-left: 250px;
+		/*width: 100%;*/
+	}	
+	.jumbotron-right{
+		float: right;
+		margin-top: 140px;	
+		font-size: 24px;	
+	}	
+	.jumbotron .register-button{
+		height: 52px;
+		width: 235px;
+		font-size: 22px;
+	}
+	.jumbotron .about-crossings{
+		margin-top: 100px;
+		font-size: 20px;
+	}			
+	.chair{
+		margin: 0 0 0 40px;
+	}	
+}
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+	.column-left{
+		float:left;
+		width: 250px;
+		margin-left:-100%;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 250px;
+	}
+
+	.column-main{
+		float:left;
+		margin: 0 250px 0 250px;
+		/*display: inline;*/
+		padding: 10px;
+	}
+
+	.column-right{
+		float:left;	
+		width: 250px;
+		margin-left: -250px;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}	
+	.nav li{
+		height: 38px;
+		padding: 8px 6px 0 6px;
+		font-size: 14px;
+	}
+	.navbar-brand{
+		display:none;
+	}	
+	.jumbotron{
+		height: 415px;
+	}	
+	.jumbotron-left{	
+		width: calc(100% - 250px);
+	}
+	.jumbotron .animation {
+		margin-left: 0;
+		/*width: 100%;*/
+		/*width: calc(100% - 500px);*/
+	}	
+	.jumbotron-right{
+		float: right;
+		margin-top: 140px;	
+		font-size: 24px;	
+	}	
+	.jumbotron .register-button{
+		height: 52px;
+		width: 235px;
+		font-size: 22px;
+	}
+	.jumbotron .about-crossings{
+		margin-top: 100px;
+		font-size: 20px;
+	}		
+	.chair{
+		margin: 0 0 10px 40px;
+	}
+}
+@media only screen and (min-width: 768px) and (max-width: 991px){
+	.column-left{
+		float:left;
+		width: 50%;
+		max-width: 250px;
+		margin-left: 0;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 250px;
+	}
+
+	.column-main{
+		/*float:left;*/
+		/*margin: 0 250px 0 250px;*/
+		/*display: inline;*/
+		padding: 10px;
+		margin-bottom: 30px;
+	}
+
+	.column-right{
+		float:right;	
+		width: 50%;
+		max-width: 250px;
+		margin-left: 0;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}	
+	.navbar-toggle{
+		display: block;
+	}
+	.container>.navbar-collapse.collapse{
+		display: none !important;
+	}
+	.navbar-nav {
+		float: none;
+	}
+	.navbar-header {
+		float: none;
+	}
+	.navbar-nav>li{
+		float: none;
+	}
+	.nav li{
+		height: 38px;
+		padding: 8px 6px 0 6px;
+		font-size: 14px;
+	}
+	.navbar-brand{
+		display:block;
+	}
+	.jumbotron{
+		height: 100%; /*300px;*/
+	}
+	.jumbotron-left{	
+		width: calc(100% - 250px);
+	}	
+	.jumbotron .animation {
+		margin-left: 0;
+		width: 100%;
+	}
+	.jumbotron-right{
+		float: right;
+		margin-top: 70px;	
+		font-size: 22px;	
+	}	
+	.jumbotron .register-button{
+		/*height: 52px;
+		width: 235px;*/
+		padding: 5px 30px;
+		font-size: 20px;
+	}
+	.jumbotron .about-crossings{
+		margin-top: 70px;
+		font-size: 18px;
+	}	
+	.chair{
+		margin: 0 0 10px 40px;
+	}
+}
+@media only screen and (max-width: 767px){ /* (min-width: 321px) and */
+	.column-left{
+		float:left;
+		width: 50%;
+		min-width: 250px;
+		max-width: 250px;
+		margin-left: 0;
+		margin-bottom: 30px;
+		margin-right: 50px;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 250px;
+	}
+
+	.column-main{
+		/*float:left;*/
+		/*margin: 0 250px 0 250px;*/
+		/*display: inline;*/
+		padding: 10px;
+		margin-bottom: 30px;
+	}
+
+	.column-right{
+		float: left;	
+		width: 50%;
+		min-width: 250px;
+		max-width: 250px;
+		margin-left: 0;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}	
+	.navbar-toggle{
+		display: block;
+	}
+	.container>.navbar-collapse.collapse{
+		display: none !important;
+	}
+	.nav li{
+		/*height: 38px;*/
+		padding: 8px 6px 0 6px;
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.navbar-brand{
+		display:block;
+	}
+	.jumbotron{
+		height: 100%;
+	}
+	.jumbotron-left{	
+		width: 100%; /*calc(100% - 250px);*/
+	}	
+	.jumbotron .animation {
+		margin-left: 0;
+		width: 100%;
+	}
+	.jumbotron-right{
+		/*margin-top: 70px;	*/
+		float: left;
+		margin-left: 20%;
+		font-size: 18px;	
+	}	
+	.jumbotron .register-button{
+		/*height: 52px;
+		width: 235px;*/
+		padding: 5px 30px;
+		font-size: 16px;
+	}
+	.jumbotron .about-crossings{
+		margin-top: 30px;
+		font-size: 14px;
+	}		
+	.chair{
+		margin: 0 0 10px 40px;
+	}
+}
+/* Phone Landscape (480px) */
+@media only screen and (max-width: 0px){
+	.column-left{
+		float:left;
+		width: 250px;
+		margin-left:-100%;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 250px;
+	}
+
+	.column-main{
+		/*float:left;*/
+		/*margin: 0 250px 0 250px;*/
+		/*display: inline;*/
+		padding: 10px;
+	}
+
+	.column-right{
+		float:left;	
+		width: 250px;
+		margin-left: -250px;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}
+
+	.navbar-toggle{
+		display: block;
+	}
+	.container>.navbar-collapse.collapse{
+		display: none !important;
+	}
+	.nav li{
+		height: 38px;
+		padding: 8px 6px 0 6px;
+		font-size: 14px;
+		margin-left: 10px;
+	}
+	.navbar-brand{
+		display:block;
+	}
+	.jumbotron{
+		height: 330px;
+	}
+	.jumbotron-left{	
+		width: calc(100% - 250px);
+	}	
+	.jumbotron .animation {
+		margin-left: 0;
+		width: 100%;
+	}
+	.jumbotron-right{
+		margin-top: 70px;		
+	}		
+	.chair{
+		margin: 0 0 10px 40px;
+	}
+}
+
+/* Phone Portrait (320px) */
+@media only screen and (max-width: 320px) {
+
+}
+
+
+/* Laptop/Tablet (1024px) */
+/*@media only screen and (min-width: 481px) and (max-width: 1024px) and (orientation: landscape) {	
+}
+*/
+/* Tablet Portrait (768px) */
+/*@media only screen and (min-width: 321px) and (max-width: 1024px) and (orientation: portrait) {	
+}*/
+
+/* Phone Landscape (480px) */
+/*@media only screen and (min-width: 321px) and (max-width: 480px) and (orientation: landscape) {
+}*/
+
+/* Phone Portrait (320px) */
+/*@media only screen and (max-width: 320px) {
+}*/
+
+
 
 /* ==========================================================================
    Overall
    ========================================================================== */
+.navbar-collapse, .navbar-header{
+	background-color: #E4211C;
+}
+.navbar-toggle{
+	background-color: white;
+}
+.navbar-brand{
+	color: white;
+}
+.icon-bar{
+	background-color: #ccc;
+}
 .empty{
 	height: 35px;
 	clear: both;
@@ -65,9 +448,13 @@ h4 {
    ========================================================================== */
 .navbar{
 	color: #FFFFFF;
-	font-size: 15px;
-	background-color: transparent;	/*rgba(228, 33, 28, 0.5);*/
+	/*font-size: 15px;*/
+	background-color: #E4211C; /*transparent;*/	/*rgba(228, 33, 28, 0.5);*/
 	background-image:none;
+}
+
+.navbar-collapse{
+	max-height: 400px;
 }
 
 .nav{
@@ -76,15 +463,9 @@ h4 {
 	margin-top: 18px;
 }
 
-.nav li{
-	height: 38px;
-	padding: 8px 16px 0 16px; /* instead of 32, used 18 */
-}
-
 .nav li:first-child{
 	padding-left: 0;
 }
-
 .nav li:last-child{
 	padding-right: 0;
 }
@@ -111,11 +492,10 @@ h4 {
 .jumbotron{
 	margin: 0;
 	padding: 0;
-	height: 415px;
+	margin-top: -80px;
+	margin-bottom: 30px;	
 	background-color: #E4211C;
 	color: #FFFFFF;
-	margin-top: -80px;
-	margin-bottom: 30px;
 }
 
 .jumbotron-left{
@@ -125,17 +505,11 @@ h4 {
 
 .jumbotron-right{
 	display: block;
-	float: right;
-	margin-top: 140px;
 	margin-right: 0;
 	text-align: center;
-	font-family: Helvetica;
-	font-size: 24px;
+	font-family: Helvetica, Arial, sans-serif;
+	/*font-size: 24px;*/
 	color: #FFFFFF;
-}
-
-.jumbotron .animation {
-	margin-left: 250px;
 }
 
 .jumbotron .date {
@@ -144,11 +518,11 @@ h4 {
 
 .jumbotron .register-button{
 	border: 3px solid #FFFFFF;
-	height: 52px;
+/*	height: 52px;
 	width: 235px;
-	background-color: #E4211C;
-	font-family: Helvetica;
-	font-size: 22px;
+*/	background-color: #E4211C;
+	font-family: Helvetica, Arial, sans-serif;
+	/*font-size: 22px;*/
 	color: #FFFFFF;
 	box-shadow: 0px 1px 10px #000000;
 }
@@ -161,10 +535,10 @@ h4 {
 	color: #FFFFFF;
 }
 
-.jumbotron .about-crossings{
+/*.jumbotron .about-crossings{
 	margin-top: 100px;
 	font-size: 20px;
-}
+}*/
 
 .jumbotron .about-crossings:hover{
 	cursor:pointer;
@@ -189,33 +563,35 @@ h4 {
 /* ==========================================================================
    Left sidebar
    ========================================================================== */
-.column-left{
+/*.column-left{
 	float:left;
 	width: 250px;
 	margin-left:-100%;
 	padding: 10px;
-}
+	background-image: url("../img/leftside_butterfly.png");
+	background-repeat: no-repeat;
+	background-position: 0 250px;
+}*/
 
 /* ==========================================================================
    Main content
    ========================================================================== */
-.column-main{
+/*.column-main{
 	float:left;
-	margin: 0 295px 0 250px;
-	/*display: inline;*/
+	margin: 0 250px 0 250px;
 	padding: 10px;
-}
+}*/
 
 /* ==========================================================================
    Right sidebar
    ========================================================================== */
-.column-right{
+/*.column-right{
 	float:left;	
-	width: 295px;
-	margin-left: -295px;
+	width: 250px;
+	margin-left: -250px;
 	padding: 10px;
-	background-color: rgb(221,221,221);
-}
+	background-color: rgb(242,242,242);
+}*/
 
 #sponsor-list{
 	margin-top: 20px;
@@ -244,20 +620,16 @@ footer {
    ========================================================================== */
 
 .chair-list{
+	display: inline-block;
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
 
 .chair {
-	margin: 0;
 	padding: 0;
 	float: left;
 	display: inline-block;
-}
-
-.chair:first-child{
-	margin-left: 40px;
 }
 
 .chair img{
@@ -276,14 +648,15 @@ footer {
 }
 
 .chair .chair-name{
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 18px;
 	color: #575757;
 }
 
 .chair .chair-affiliation{
-	font-family: Arial;
+	/*font-family: Arial;*/
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	color: #575757;
 }
@@ -298,7 +671,7 @@ footer {
 }
 
 #counter .days-left{
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 48px;
 	color: #58595B;
@@ -328,14 +701,14 @@ footer {
 }
 
 .sidebar-date{
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 18px;
 	color: #6D6E70;	
 }
 
 .sidebar-item{
-	font-family: Helvetica;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 13px;
 	margin-left: 12px;
 	line-height: 20px;
