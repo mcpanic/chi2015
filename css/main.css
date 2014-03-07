@@ -427,7 +427,7 @@ h4 {
    Overall
    ========================================================================== */
 .navbar-collapse, .navbar-header{
-	background-color: #E4211C;
+	background-color: transparent; /*#E4211C;*/
 }
 .navbar-toggle{
 	background-color: white;
@@ -449,8 +449,9 @@ h4 {
 .navbar{
 	color: #FFFFFF;
 	/*font-size: 15px;*/
-	background-color: #E4211C; /*transparent;*/	/*rgba(228, 33, 28, 0.5);*/
+	background-color: transparent;	/*rgba(228, 33, 28, 0.5);*/
 	background-image:none;
+	box-shadow: none;
 }
 
 .navbar-collapse{

@@ -239,7 +239,7 @@
 			"file": "header.php",
 			"settings":
 			{
-				"buffer_size": 3950,
+				"buffer_size": 3528,
 				"line_ending": "Unix"
 			}
 		},
@@ -255,7 +255,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 3146,
+				"buffer_size": 3148,
 				"line_ending": "Unix"
 			}
 		},
@@ -279,7 +279,7 @@
 			"file": "leftbar.php",
 			"settings":
 			{
-				"buffer_size": 1063,
+				"buffer_size": 956,
 				"line_ending": "Unix"
 			}
 		},
@@ -295,7 +295,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 6121,
+				"buffer_size": 13118,
 				"line_ending": "Unix"
 			}
 		},
@@ -303,7 +303,7 @@
 			"file": "js/main.js",
 			"settings":
 			{
-				"buffer_size": 1470,
+				"buffer_size": 1473,
 				"line_ending": "Unix"
 			}
 		}
@@ -368,6 +368,10 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/chi2015/js/vendor/bootstrap.js",
+		"/Applications/MAMP/htdocs/chi2015/css/bootstrap-theme.css",
+		"/Applications/MAMP/htdocs/chi2015/css/bootstrap.css",
+		"/Users/juhokim/Downloads/page/Page 1.css",
 		"/Users/juhokim/Desktop/2014.02.06/CHI2015_2/index.html",
 		"/Applications/MAMP/htdocs/chi2015/main.js",
 		"/Users/juhokim/Desktop/2014.02.06/CHI2015_2/index_files/main.css",
@@ -491,11 +495,7 @@
 		"/Applications/MAMP/htdocs/labeler/design-intro.php",
 		"/Applications/MAMP/htdocs/labeler/save-video-metadata.php",
 		"/Applications/MAMP/htdocs/labeler/update-label.php",
-		"/Applications/MAMP/htdocs/labeler/ajax-add-log.php",
-		"/Applications/MAMP/htdocs/labeler/vs-process.php",
-		"/Applications/MAMP/htdocs/labeler/vt.sql",
-		"/Applications/MAMP/htdocs/labeler/vs-intro.php",
-		"/Applications/MAMP/htdocs/labeler/test2.php"
+		"/Applications/MAMP/htdocs/labeler/ajax-add-log.php"
 	],
 	"find":
 	{
@@ -517,6 +517,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".jumbotron-right",
+			"@grid-float-breakpoint",
+			"first-child",
+			"Arial;",
+			"font-family",
+			"helvetica",
+			"HelveticaHelvetica, Arial, \"Lucida Grande\", sans-serif",
+			"url",
+			"295",
 			"pp-slider-min",
 			"peaks",
 			"drawTimeVis",
@@ -635,16 +644,7 @@
 			"removedSrc",
 			"removedDest",
 			"removedSrc",
-			"removedDest",
-			"filterSwapValue",
-			"swapDetails",
-			"removedDest",
-			"filterSwapValue",
-			"getSeverityByType",
-			"constraintsSeverityList",
-			"filterSwapValue",
-			"getConflictLengthBySeverity",
-			"filterSwapValue"
+			"removedDest"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -668,7 +668,7 @@
 	"groups":
 	[
 		{
-			"selected": 8,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -676,15 +676,15 @@
 					"file": "header.php",
 					"settings":
 					{
-						"buffer_size": 3950,
+						"buffer_size": 3528,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3411,
-								3411
+								1574,
+								1566
 							]
 						],
 						"settings":
@@ -940,15 +940,15 @@
 					"file": "index.php",
 					"settings":
 					{
-						"buffer_size": 3146,
+						"buffer_size": 3148,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1320,
-								1320
+								2843,
+								2843
 							]
 						],
 						"settings":
@@ -1062,7 +1062,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 77.0,
+						"translation.y": 49.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1334,15 +1334,15 @@
 					"file": "leftbar.php",
 					"settings":
 					{
-						"buffer_size": 1063,
+						"buffer_size": 956,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								85,
-								85
+								443,
+								443
 							]
 						],
 						"settings":
@@ -1595,15 +1595,15 @@
 					"file": "css/main.css",
 					"settings":
 					{
-						"buffer_size": 6121,
+						"buffer_size": 13118,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3026,
-								3026
+								4769,
+								4769
 							]
 						],
 						"settings":
@@ -1716,7 +1716,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2509.0,
+						"translation.y": 3873.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1726,15 +1726,15 @@
 					"file": "js/main.js",
 					"settings":
 					{
-						"buffer_size": 1470,
+						"buffer_size": 1473,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1268,
-								1268
+								422,
+								422
 							]
 						],
 						"settings":
