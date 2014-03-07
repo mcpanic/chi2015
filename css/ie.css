@@ -1,0 +1,94 @@
+    .jumbotron-left{
+    	margin-top: -80px;
+    	/*width: 400px;*/
+	}
+
+/*	.jumbotron-right{
+		width: 200px;
+	}*/
+
+.navbar-collapse, .navbar-header{
+	background-color: #E4211C !important; /*transparent;*/
+}
+
+.navbar{
+	filter: none;
+	background-color: #E4211C !important; /*transparent;*/
+}
+
+.nav li a:hover{
+	background-color: #E4211C !important; /*transparent;*/
+}
+
+
+
+
+	.column-left{
+		float:left;
+		width: 250px;
+		margin-left:-100%;
+		padding: 10px;
+		background-image: url("../img/leftside_butterfly.png");
+		background-repeat: no-repeat;
+		background-position: 0 100px;
+	}
+
+	.column-main{
+		float:left;
+		margin: 0 250px 0 250px;
+		/*display: inline;*/
+		padding: 10px;
+	}
+
+	.column-right{
+		float:left;	
+		width: 250px;
+		margin-left: -250px;
+		padding: 10px;
+		background-color: rgb(242,242,242);
+	}	
+	.nav li{
+		height: 38px;
+		padding: 8px 6px 0 6px;
+		font-size: 14px;
+	}
+	.navbar-brand{
+		display:none;
+	}	
+	.jumbotron{
+		height: 415px;
+	}	
+	.jumbotron-left{
+		position: absolute;
+		float: left;	
+		width: 690px; /*calc(100% - 250px);*/
+	}
+	.jumbotron .animation {
+		margin-left: 0;
+		max-width: 650px;
+		/*width: 400px;*/
+		/*width: 100%;*/
+		/*width: calc(100% - 500px);*/
+	}	
+	.jumbotron-right{
+		float: right;
+		margin-top: 140px;	
+		font-size: 24px;	
+	}	
+	@-moz-document url-prefix() {
+		.jumbotron-right{
+			margin-top: 60px;	
+		}			
+	}	
+	.jumbotron .register-button{
+		height: 52px;
+		width: 235px;
+		font-size: 22px;
+	}
+	.jumbotron .about-crossings{
+		margin-top: 100px;
+		font-size: 20px;
+	}		
+	.chair{
+		margin: 0 0 10px 40px;
+	}	
