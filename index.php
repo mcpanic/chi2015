@@ -31,14 +31,14 @@
             <h2>Technical Program Chairs</h2>
             <ul class="chair-list">
                 <li class="chair">
-                    <img src="img/people/woontack_woo.png">
+                    <img src="img/people/chair_woontack.png">
                     <div class="chair-right">
                         <div class="chair-name">Woontack Woo</div>
                         <div class="chair-affiliation">KAIST, Korea</div>
                     </div>
                 </li>
                 <li class="chair">
-                    <img src="img/people/kori_inkpen.png">
+                    <img src="img/people/chair_kori.png">
                     <div class="chair-right">
                         <div class="chair-name">Kori Inkpen</div>
                         <div class="chair-affiliation">Microsoft Research, USA</div>
