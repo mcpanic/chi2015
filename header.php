@@ -35,13 +35,13 @@
           <ul class="nav navbar-nav">
             <li><a href="/chi2015" class="menu-home">CHI 2015</a></li>
             <li><a href="/chi2015/impact" class="menu-impact">CHI'S IMPACT</a></li>
-            <li><a href="/chi2015/attending" class="menu-attending">ATTENDING</a></li>
+<!--             <li><a href="/chi2015/attending" class="menu-attending">ATTENDING</a></li>
             <li><a href="/chi2015/authors" class="menu-authors">AUTHORS</a></li>
             <li><a href="/chi2015/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
             <li><a href="/chi2015/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
             <li><a href="/chi2015/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
             <li><a href="/chi2015/recruiting" class="menu-recruiting">RECRUITING</a></li>
-            <li><a href="/chi2015/organizers" class="menu-organizers">ORGANIZERS</a></li>
+            <li><a href="/chi2015/organizers" class="menu-organizers">ORGANIZERS</a></li> -->
           </ul>
         </div><!--/.navbar-collapse -->
       </div>
@@ -58,7 +58,7 @@
         </div>
         <div class="jumbotron-right">
             <p class="date">April 18 - 24, 2015</p>
-            <div class="register-button"><a href="">REGISTER NOW</a></div>
+            <!-- <div class="register-button"><a href="">REGISTER NOW</a></div> -->
             <p class="about-crossings">About Crossings &#187;</p>
         </div>
       </div>

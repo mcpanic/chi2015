@@ -36,4 +36,15 @@ $( document ).ready(function() {
 	adjustMenuWidth();
 	addCrossingsPopover();
 	$("#counter .days-left").text(computeDaysUntil());
+
+	$(document).on("click", "button.navbar-toggle", function(){
+		if ($(this).hasClass("collapsed")) {// toggle yes
+			$(this).closest(".navbar").css("background-color", "transparent");
+			// console.log("to transparent");
+		} else {
+			$(this).closest(".navbar").css("background-color", "#E4211C");
+			// console.log("to red");
+		}
+		// console.log("clicked");
+	});
 });

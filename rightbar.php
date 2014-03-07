@@ -1,11 +1,12 @@
 <h3>Sponsors</h3>
 	<div id="sponsor-list">
-		<div>company 1</div>
+ 		<div>coming soon</div>
+<!--
 		<div>company 2</div>
 		<div>company 3</div>
 		<div>company 4</div>
 		<div>company 5</div>
-		<div>company 6</div>
+		<div>company 6</div> -->
 	</div>
 
 	<div id="acm-sigchi-logos">

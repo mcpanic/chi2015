@@ -67,7 +67,7 @@ h4 {
 		padding: 10px;
 		background-image: url("../img/leftside_butterfly.png");
 		background-repeat: no-repeat;
-		background-position: 0 250px;
+		background-position: 0 100px;
 	}
 
 	.column-main{
@@ -95,11 +95,19 @@ h4 {
 	.jumbotron{
 		height: 415px;
 	}	
-	.jumbotron-left{	
-		width: calc(100% - 250px);
+	.jumbotron-left{
+		position: absolute;
+		float: left;
+		width: 890px; /*calc(100% - 250px);*/
 	}
+	@-moz-document url-prefix() {
+	    .jumbotron-left{
+	    	/*margin-top: -80px;*/
+		}
+	}	
 	.jumbotron .animation {
 		margin-left: 250px;
+		max-width: 650px;
 		/*width: 100%;*/
 	}	
 	.jumbotron-right{
@@ -107,6 +115,11 @@ h4 {
 		margin-top: 140px;	
 		font-size: 24px;	
 	}	
+	@-moz-document url-prefix() {
+		.jumbotron-right{
+			margin-top: 60px;
+		}			
+	}
 	.jumbotron .register-button{
 		height: 52px;
 		width: 235px;
@@ -128,7 +141,7 @@ h4 {
 		padding: 10px;
 		background-image: url("../img/leftside_butterfly.png");
 		background-repeat: no-repeat;
-		background-position: 0 250px;
+		background-position: 0 100px;
 	}
 
 	.column-main{
@@ -156,11 +169,19 @@ h4 {
 	.jumbotron{
 		height: 415px;
 	}	
-	.jumbotron-left{	
-		width: calc(100% - 250px);
+	.jumbotron-left{
+		position: absolute;
+		float: left;	
+		width: 690px; /*calc(100% - 250px);*/
 	}
+	@-moz-document url-prefix() {
+	    .jumbotron-left{
+	    	/*margin-top: -80px;*/
+		}
+	}	
 	.jumbotron .animation {
 		margin-left: 0;
+		max-width: 650px;
 		/*width: 100%;*/
 		/*width: calc(100% - 500px);*/
 	}	
@@ -168,6 +189,11 @@ h4 {
 		float: right;
 		margin-top: 140px;	
 		font-size: 24px;	
+	}	
+	@-moz-document url-prefix() {
+		.jumbotron-right{
+			margin-top: 60px;	
+		}			
 	}	
 	.jumbotron .register-button{
 		height: 52px;
@@ -191,7 +217,7 @@ h4 {
 		padding: 10px;
 		background-image: url("../img/leftside_butterfly.png");
 		background-repeat: no-repeat;
-		background-position: 0 250px;
+		background-position: 0 100px;
 	}
 
 	.column-main{
@@ -234,10 +260,13 @@ h4 {
 		display:block;
 	}
 	.jumbotron{
-		height: 100%; /*300px;*/
+		height: 260px;
 	}
-	.jumbotron-left{	
-		width: calc(100% - 250px);
+	.jumbotron-left{
+		position: absolute;
+		float: left;
+		width: 470px; /*calc(100% - 250px);*/
+		max-width: 400px;
 	}	
 	.jumbotron .animation {
 		margin-left: 0;
@@ -248,6 +277,11 @@ h4 {
 		margin-top: 70px;	
 		font-size: 22px;	
 	}	
+/*	@-moz-document url-prefix() {
+		.jumbotron-right{
+			margin-top: 0;	
+		}			
+	}*/	
 	.jumbotron .register-button{
 		/*height: 52px;
 		width: 235px;*/
@@ -274,7 +308,7 @@ h4 {
 		padding: 10px;
 		background-image: url("../img/leftside_butterfly.png");
 		background-repeat: no-repeat;
-		background-position: 0 250px;
+		background-position: 0 100px;
 	}
 
 	.column-main{
@@ -312,8 +346,12 @@ h4 {
 	.jumbotron{
 		height: 100%;
 	}
-	.jumbotron-left{	
-		width: 100%; /*calc(100% - 250px);*/
+	.jumbotron-left{
+		float: none;	
+		width: 70%; /*calc(100% - 250px);*/
+		margin-left: 15%;
+		margin-right: 15%;
+		/*max-width: 400px;*/
 	}	
 	.jumbotron .animation {
 		margin-left: 0;
@@ -321,10 +359,10 @@ h4 {
 	}
 	.jumbotron-right{
 		/*margin-top: 70px;	*/
-		float: left;
-		margin-left: 20%;
+		float: none;
+		/*margin-left: %;*/
 		font-size: 18px;	
-	}	
+	}
 	.jumbotron .register-button{
 		/*height: 52px;
 		width: 235px;*/
@@ -339,71 +377,6 @@ h4 {
 		margin: 0 0 10px 40px;
 	}
 }
-/* Phone Landscape (480px) */
-@media only screen and (max-width: 0px){
-	.column-left{
-		float:left;
-		width: 250px;
-		margin-left:-100%;
-		padding: 10px;
-		background-image: url("../img/leftside_butterfly.png");
-		background-repeat: no-repeat;
-		background-position: 0 250px;
-	}
-
-	.column-main{
-		/*float:left;*/
-		/*margin: 0 250px 0 250px;*/
-		/*display: inline;*/
-		padding: 10px;
-	}
-
-	.column-right{
-		float:left;	
-		width: 250px;
-		margin-left: -250px;
-		padding: 10px;
-		background-color: rgb(242,242,242);
-	}
-
-	.navbar-toggle{
-		display: block;
-	}
-	.container>.navbar-collapse.collapse{
-		display: none !important;
-	}
-	.nav li{
-		height: 38px;
-		padding: 8px 6px 0 6px;
-		font-size: 14px;
-		margin-left: 10px;
-	}
-	.navbar-brand{
-		display:block;
-	}
-	.jumbotron{
-		height: 330px;
-	}
-	.jumbotron-left{	
-		width: calc(100% - 250px);
-	}	
-	.jumbotron .animation {
-		margin-left: 0;
-		width: 100%;
-	}
-	.jumbotron-right{
-		margin-top: 70px;		
-	}		
-	.chair{
-		margin: 0 0 10px 40px;
-	}
-}
-
-/* Phone Portrait (320px) */
-@media only screen and (max-width: 320px) {
-
-}
-
 
 /* Laptop/Tablet (1024px) */
 /*@media only screen and (min-width: 481px) and (max-width: 1024px) and (orientation: landscape) {	
@@ -428,6 +401,9 @@ h4 {
    ========================================================================== */
 .navbar-collapse, .navbar-header{
 	background-color: transparent; /*#E4211C;*/
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter:alpha(opacity=100);
+	opacity: 1;
 }
 .navbar-toggle{
 	background-color: white;
@@ -452,6 +428,7 @@ h4 {
 	background-color: transparent;	/*rgba(228, 33, 28, 0.5);*/
 	background-image:none;
 	box-shadow: none;
+	border-radius: 0;
 }
 
 .navbar-collapse{
@@ -501,7 +478,6 @@ h4 {
 
 .jumbotron-left{
 	display: block;
-	float: left;
 }
 
 .jumbotron-right{
