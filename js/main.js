@@ -1,4 +1,9 @@
 
+function is_touch_device() {
+  return 'ontouchstart' in window // works on most browsers 
+      || 'onmsgesturechange' in window; // works on ie10
+};
+
 function selectMenu(){
 	// TODO: debugging with edge cases and final URLs
 	var href = window.location.pathname;
@@ -26,7 +31,7 @@ function addCrossingsPopover(){
 	var crossingsText = "The butterfly is a traditional cultural symbol throughout Asia and other parts of the world.  As the butterfly flits from place to place, it picks up pollen and fosters new creation by taking the pollen to a new location.  Crossing paths in this way creates the potential to do new things, to find new solutions, and to create new directions. Come to CHI 2015 to cross paths with expertise from around the globe.";
 	$(".about-crossings").popover({
 		placement: "bottom",
-		trigger: "hover",
+		trigger: is_touch_device() ? "click" : "hover",
 		content: crossingsText
 	});
 }

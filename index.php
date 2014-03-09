@@ -16,7 +16,7 @@
                     <img src="img/people/chair_bo.png">
                     <div class="chair-right">
                         <div class="chair-name">Bo Begole</div>
-                        <div class="chair-affiliation">Samsung Research America, USA</div>
+                        <div class="chair-affiliation">Huawei, USA</div>
                     </div>
                 </li>
                 <li class="chair">
