@@ -10,7 +10,22 @@
         <meta name="description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 24, 2015">
         <meta name="keywords" content="HCI, conference, seoul, korea">
         <meta name="author" content="Juho Kim">
+        <meta name="owner" content="Association for Computing Machinery">
         <meta name="viewport" content="width=device-width">
+
+        <!-- for Facebook -->          
+        <meta property="og:title" content="CHI 2015 | Crossings" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="http://chi2015.acm.org/chi2015/img/animate2.gif" />
+        <meta property="og:url" content="http://chi2015.acm.org/" />
+        <meta property="og:description" content="" />
+
+        <!-- for Twitter -->          
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="CHI 2015 | Crossings" />
+        <meta name="twitter:description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 24, 2015" />
+        <meta name="twitter:image" content="http://chi2015.acm.org/chi2015/img/animate2.gif" />
+
         <link rel="icon" type="image/png" href="chi_favicon.png">
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
