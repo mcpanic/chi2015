@@ -7,7 +7,9 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>CHI 2015 | Crossings</title>
-        <meta name="description" content="">
+        <meta name="description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 24, 2015">
+        <meta name="keywords" content="HCI, conference, seoul, korea">
+        <meta name="author" content="Juho Kim">
         <meta name="viewport" content="width=device-width">
         <link rel="icon" type="image/png" href="chi_favicon.png">
         <link rel="stylesheet" href="css/bootstrap.min.css">
