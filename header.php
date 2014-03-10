@@ -49,19 +49,19 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/chi2015">CHI 2015</a>
+          <a class="navbar-brand" href="/">CHI 2015</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/chi2015" class="menu-home">CHI 2015</a></li>
-            <li><a href="/chi2015/impact" class="menu-impact">CHI'S IMPACT</a></li>
-<!--             <li><a href="/chi2015/attending" class="menu-attending">ATTENDING</a></li>
-            <li><a href="/chi2015/authors" class="menu-authors">AUTHORS</a></li>
-            <li><a href="/chi2015/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
-            <li><a href="/chi2015/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
-            <li><a href="/chi2015/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
-            <li><a href="/chi2015/recruiting" class="menu-recruiting">RECRUITING</a></li>
-            <li><a href="/chi2015/organizers" class="menu-organizers">ORGANIZERS</a></li> -->
+            <li><a href="/" class="menu-home">CHI 2015</a></li>
+            <li><a href="/impact" class="menu-impact">CHI'S IMPACT</a></li>
+<!--             <li><a href="/attending" class="menu-attending">ATTENDING</a></li>
+            <li><a href="/authors" class="menu-authors">AUTHORS</a></li>
+            <li><a href="/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
+            <li><a href="/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
+            <li><a href="/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
+            <li><a href="/recruiting" class="menu-recruiting">RECRUITING</a></li>
+            <li><a href="/organizers" class="menu-organizers">ORGANIZERS</a></li> -->
           </ul>
         </div><!--/.navbar-collapse -->
       </div>
