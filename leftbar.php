@@ -1,5 +1,5 @@
 <div id="counter">
-	<span class="days-left">&nbsp;</span> 
+	<span class="days-left">&nbsp;</span>
 	<span>days until CHI 2015</span>
 </div>
 
@@ -9,9 +9,9 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">10 March 2014</div>
 		<ul>
-			<li class="sidebar-item">The official CHI 2015 is open.</li>
-		</ul>	
-	</div>	
+			<li class="sidebar-item">The official CHI 2015 website is open.</li>
+		</ul>
+	</div>
 </div>
 
 <div class="sidebar-wrapper">
@@ -20,6 +20,6 @@
 		<div class="sidebar-date">22 September 2014</div>
 		<ul>
 			<li class="sidebar-item">Papers and Notes</li>
-		</ul>	
-	</div>	
+		</ul>
+	</div>
 </div>

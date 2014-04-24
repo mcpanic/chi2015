@@ -12,7 +12,7 @@
   include "rightbar.php";
 ?>
         </div> <!-- column-right -->
-        
+
         </div> <!-- column-wrapper -->
       </div> <!-- container -->
 
@@ -21,7 +21,7 @@
         <footer id="footer" role="contentinfo">
             &copy; copyright 2014 | <a href="http://www.sigchi.org/">ACM SIGCHI</a>
         </footer>
-    </div> <!-- /container -->        
+    </div> <!-- /container -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
