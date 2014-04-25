@@ -7,6 +7,12 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">25 April 2014</div>
+		<ul>
+			<li class="sidebar-item"><a href="/organizers">Organizers</a> page is updated.</li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date">10 March 2014</div>
 		<ul>
 			<li class="sidebar-item">The official CHI 2015 website is open.</li>

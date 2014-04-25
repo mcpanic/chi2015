@@ -28,9 +28,11 @@
 <dl>
         <dt><strong><a href="mailto:papers@chi2015.acm.org">Papers</a>: </strong></dt>
                 <dd>
-                        Andy Cockburn, <i>U. Canterbury</i>, <i>New Zealand</i>
+                        Andy Cockburn, <i>University of Canterbury</i>, <i>New Zealand</i>
                         <br>
-                        Joanna McGrenere, <i>U. British Columbia</i>, <i>Canada</i> <br> Jun Rekimoto, <i>U. Tokyo</i>, <i>Japan</i>
+                        Joanna McGrenere, <i>University of British Columbia</i>, <i>Canada</i>
+                        <br>
+                        Jun Rekimoto, <i>University of Tokyo</i>, <i>Japan</i>
                 </dd>
 </dl>
 
@@ -38,7 +40,7 @@
 <dl>
         <strong><dt>Best of CHI</a>: </strong></dt>
                 <dd>
-                       Mark Billinghurst, <i>U. Canterbury</i>, <i>New Zealand</i>
+                       Mark Billinghurst, <i>University of Canterbury</i>, <i>New Zealand</i>
                 </dd>
 </dl>
 
@@ -47,7 +49,7 @@
                 <dd>
                         Khai Truong, <i>UNC Charlotte</i>, <i>USA</i>
                         <br>
-                        Elaine M. Huang, <i>U. Zurich</i>, <i>Switzerland</i>
+                        Elaine M. Huang, <i>University of Zurich</i>, <i>Switzerland</i>
                 </dd>
 </dl>
 
@@ -70,7 +72,7 @@
 <dl>
         <dt><strong><a href="mailto:Interactivity@chi2015.acm.org">Interactivity</a>: </strong></dt>
                 <dd>
-                        Julie Rico Williamson, <i>U. Glasgow</i>, <i>United Kingdom</i>
+                        Julie Rico Williamson, <i>University of Glasgow</i>, <i>United Kingdom</i>
                         <br>
                         Juhyun Eune, <i>Seoul National University</i>, <i>South Korea</i>
                 </dd>
@@ -97,7 +99,7 @@
 <dl>
         <dt><strong><a href="mailto:doctoral@chi2015.acm.org">Doctoral Consortium</a>: </strong></dt>
                 <dd>
-                        Si-Jung &quot;Jun&quot; Kim, <i>U. Central Florida</i>, <i>USA</i>
+                        Si-Jung &quot;Jun&quot; Kim, <i>University of Central Florida</i>, <i>USA</i>
                         <br>
                         Jaime Teevan, <i>Microsoft Research</i>, <i>USA</i>
                         <br>
@@ -159,7 +161,7 @@
 <dl>
         <dt><strong><a href="mailto:alt.chi@chi2014.acm.org">alt.chi</a>: </strong></dt>
                 <dd>
-                        Silvia Lindtner, <i>U. California, Irvine</i>, <i>USA</i>
+                        Silvia Lindtner, <i>University of California, Irvine</i>, <i>USA</i>
                         <br>
                         Morgan Ames, <i>Intel</i>, <i>USA</i>
                         <br>
@@ -278,7 +280,7 @@
 <dl>
         <dt><strong><a href="mailto:socialmedia@chi2015.acm.org">Social Media Chair</a>: </strong></dt>
                 <dd>
-                        Max Wilson
+                        Max Wilson, <i>University of Nottingham</i>, <i>UK</i>
                         <br>
                         Kwangsu Cho, <i>Sungkyunkwan University</i>, <i>South Korea</i>
                 </dd>
