@@ -3,6 +3,8 @@
 ?>
     <h1>Organizers</h1>
 
+<h2>General Conference</h2>
+
 <dl>
         <dt><strong><a href="mailto:conferencechair@chi2015.acm.org">General Conference Chairs</a>: </strong></dt>
                 <dd>
@@ -11,6 +13,8 @@
                         Bo Begole, <i>Huawei</i>, <i>USA</i>
                 </dd>
 </dl>
+
+<h2>Technical Program</h2>
 
 <dl>
         <dt><strong><a href="mailto:technicalprogram@chi2015.acm.org">Technical Program Chairs</a>: </strong></dt>
@@ -26,17 +30,15 @@
                 <dd>
                         Andy Cockburn, <i>U. Canterbury</i>, <i>New Zealand</i>
                         <br>
-                        Joanna McGrenera, <i>U. British Columbia</i>, <i>Canada</i>
-                        <br>
-                        Jun Rekimoto, <i>U. Tokyo</i>, <i>Japan</i>
+                        Joanna McGrenere, <i>U. British Columbia</i>, <i>Canada</i> <br> Jun Rekimoto, <i>U. Tokyo</i>, <i>Japan</i>
                 </dd>
 </dl>
 
 
 <dl>
-        <dt>Best of CHI</a>: </strong></dt>
+        <strong><dt>Best of CHI</a>: </strong></dt>
                 <dd>
-                        Mark Billinghurst, <i>U. Canterbury</i>, <i>New Zealand</i>
+                       Mark Billinghurst, <i>U. Canterbury</i>, <i>New Zealand</i>
                 </dd>
 </dl>
 
@@ -139,7 +141,6 @@
                 <dd>
                         Seungyon &quot;Clair&quot; Lee, <i>Google</i>, <i>USA</i>
                         <br>
-                        Tekjin Nam, <i>KAIST</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
@@ -175,11 +176,121 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:kylekim@gmail.com">Cross-National Outreach Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:kylekim@gmail.com">Conference Theme Chair</a>: </strong></dt>
                 <dd>
                         Kyle Hyunsuk Kim, <i>Hongik University</i>, <i>South Korea</i>
                 </dd>
 </dl>
+
+<h2>Operations</h2>
+
+<dl>
+        <dt><strong><a href="mailto:svchair@chi2015.acm.org">Student Volunteer Chair</a>: </strong></dt>
+                <dd>
+                        Jon Haber, <i>University of Calgary</i>, <i>Canada</i>
+                        <br>
+                        Siroberto Scerbo, <i>Virginia Tech</i>, <i>USA</i>
+                        <br>
+                        Jieun Wee, <i>Seoul National University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong>Chair's Assistants: </strong></dt>
+                <dd>
+                        Yoojin Lee, <i>Yonsei University</i>, <i>South Korea</i>
+                        <br>
+                        Nikolas Martelaro, <i>Stanford University</i>, <i>USA</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:datamanagementchair@chi2015.acm.org">Data Management Chair</a>: </strong></dt>
+                <dd>
+                        Max Van Kleek, <i>University of Southampton</i>, <i>UK</i>
+                        <br>
+                        BoYu Gao, <i>Konkuk University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:designchair@chi2015.acm.org">Design Chair</a>: </strong></dt>
+                <dd>
+                        Elizabeth Dykstra-Erickson, <i>Cisco Systems</i>
+                        <br>
+                        Jina Wu, <i>Cisco Systems</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong>Opening Animation Director</a>: </strong></dt>
+                <dd>
+                        Chris Inkyong Whang, <i>Hongik University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:techliaison@chi2015.acm.org">Technical Liason</a>: </strong></dt>
+                <dd>
+                        Sara Drenner
+                        <br>
+                        Scooter Morris, <i>University of California, San Franscisco</i>, <i>USA</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:proceedings@chi2015.acm.org">Proceedings</a>: </strong></dt>
+                <dd>
+                        Deana Brown, <i>Georgia Tech</i>, <i>USA</i>
+                        <br>
+                        Jaejeung Kim, <i>KAIST</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:posters@chi2015.acm.org">Posters</a>: </strong></dt>
+                <dd>
+                        Hyun Joo Song, <i>Seoul National University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:infrastructureaccessibility@chi2015.acm.org">Infrastructure Accessibility Chair</a>: </strong></dt>
+                <dd>
+                        Jongbae Kim, <i>Yonsei University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:digitalaccessibility@chi2015.acm.org">Digital Accessibility Chair</a>: </strong></dt>
+                <dd>
+                        Jeff Bigham, <i>University of Rochester</i>, <i>USA</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:localhospitality@chi2015.acm.org">Local Hospitality Chair</a>: </strong></dt>
+                <dd>
+                        Junho Choi, <i>Yonsei University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:socialmedia@chi2015.acm.org">Social Media Chair</a>: </strong></dt>
+                <dd>
+                        Max Wilson
+                        <br>
+                        Kwangsu Cho, <i>Sungkyunkwan University</i>, <i>South Korea</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:webmaster@chi2015.acm.org">Webmaster</a>: </strong></dt>
+                <dd>
+                        Juho Kim, <i>MIT</i>, <i>USA</i>
+                </dd>
+</dl>
+
 
 <?php
   include "footer.php";
