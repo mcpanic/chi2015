@@ -266,7 +266,7 @@
 <dl>
         <dt><strong><a href="mailto:digitalaccessibility@chi2015.acm.org">Digital Accessibility Chair</a>: </strong></dt>
                 <dd>
-                        Jeff Bigham, <i>University of Rochester</i>, <i>USA</i>
+                        Jeff Bigham, <i>Carnegie Mellon University</i>, <i>USA</i>
                 </dd>
 </dl>
 
@@ -282,7 +282,7 @@
                 <dd>
                         Max Wilson, <i>University of Nottingham</i>, <i>UK</i>
                         <br>
-                        Kwangsu Cho, <i>Sungkyunkwan University</i>, <i>South Korea</i>
+                        Kwangsu Cho, <i>Yonsei University</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
