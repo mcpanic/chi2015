@@ -252,7 +252,7 @@
 <dl>
         <dt><strong><a href="mailto:posters@chi2015.acm.org">Posters</a>: </strong></dt>
                 <dd>
-                        Hyun Joo Song, <i>Seoul National University</i>, <i>South Korea</i>
+                        Hyunjoo Song, <i>Seoul National University</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
