@@ -103,7 +103,7 @@
                         <br>
                         Jaime Teevan, <i>Microsoft Research</i>, <i>USA</i>
                         <br>
-                        Sue Fussell, <i>Cornell University</i>, <i>USA</i>
+                        Susan Fussell, <i>Cornell University</i>, <i>USA</i>
                 </dd>
 </dl>
 
