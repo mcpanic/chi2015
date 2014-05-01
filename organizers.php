@@ -65,7 +65,7 @@
 <dl>
         <dt><strong><a href="mailto:courses@chi2015.acm.org">Courses</a>: </strong></dt>
                 <dd>
-                        Regina Bernhaupt, <i>Amazon</i>, <i>France</i>
+                        Regina Bernhaupt, <i>Ruwido</i>, <i>Austria</i>
                 </dd>
 </dl>
 
@@ -143,6 +143,9 @@
                 <dd>
                         Seungyon &quot;Clair&quot; Lee, <i>Google</i>, <i>USA</i>
                         <br>
+                        Derek Reilly, <i>Dalhousie University</i>, <i>Canada</i>
+                        <br>
+                        Geehyuk Lee, <i>KAIST</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
