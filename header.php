@@ -7,7 +7,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>CHI 2015 | Crossings</title>
-        <meta name="description" content="The ACM CHI conference is the world's premiere conference on Human Factors in Computing Systems. The CHI2015 conference will be held in Seoul, Korea from April 18 to April 24, 2015.">
+        <meta name="description" content="The ACM CHI conference is the world's premiere conference on Human Factors in Computing Systems. The CHI2015 conference will be held in Seoul, Korea from April 18 to April 23, 2015.">
         <meta name="keywords" content="HCI, conference, seoul, korea">
         <meta name="author" content="Juho Kim">
         <meta name="owner" content="Association for Computing Machinery">
@@ -18,12 +18,12 @@
         <meta property="og:type" content="website" />
         <meta property="og:image" content="http://chi2015.acm.org/img/animate2.gif" />
         <meta property="og:url" content="http://chi2015.acm.org/" />
-        <meta property="og:description" content="The ACM CHI conference is the world's premiere conference on Human Factors in Computing Systems. The CHI2015 conference will be held in Seoul, Korea from April 18 to April 24, 2015." />
+        <meta property="og:description" content="The ACM CHI conference is the world's premiere conference on Human Factors in Computing Systems. The CHI2015 conference will be held in Seoul, Korea from April 18 to April 23, 2015." />
 
         <!-- for Twitter -->
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="CHI 2015 | Crossings" />
-        <meta name="twitter:description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 24, 2015" />
+        <meta name="twitter:description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 23, 2015" />
         <meta name="twitter:image" content="http://chi2015.acm.org/img/animate2.gif" />
 
         <link rel="icon" type="image/png" href="chi_favicon.png">
@@ -78,7 +78,7 @@
             <img class="animation" src="img/animate2.gif" alt="CHI 2015 | Crossings | Seoul, Korea">
         </div>
         <div class="jumbotron-right">
-            <p class="date">April 18 - 24, 2015</p>
+            <p class="date">April 18 - 23, 2015</p>
             <!-- <div class="register-button"><a href="">REGISTER NOW</a></div> -->
             <p class="about-crossings">About Crossings &#187;</p>
         </div>

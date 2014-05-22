@@ -271,7 +271,7 @@
 			"file": "organizers.php",
 			"settings":
 			{
-				"buffer_size": 10463,
+				"buffer_size": 10645,
 				"line_ending": "Unix"
 			}
 		},
@@ -324,7 +324,10 @@
 			}
 		},
 		{
+			"contents": "<dl>\n        <dt><strong><a href=\"mailto:conferencechair@chi2015.acm.org\">General Conference Chairs</a>: </strong></dt>\n                <dd>\n                        Jinwoo Kim, <i>Yonsei University</i>, <i>South Korea</i>\n                        <br>\n                        Bo Begole, <i>Huawei</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:technicalprogram@chi2015.acm.org\">Technical Program Chairs</a>: </strong></dt>\n                <dd>\n                        Woontack Woo, <i>KAIST</i>, <i>South Korea</i>\n                        <br>\n                        Kori Inkpen, <i>Microsoft Research</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:papers@chi2015.acm.org\">Papers</a>: </strong></dt>\n                <dd>\n                        Andy Cockburn, <i>U. Canterbury</i>, <i>New Zealand</i>\n                        <br>\n                        Joanna McGrenere, <i>U. British Columbia</i>, <i>Canada</i> <br> Jun Rekimoto, <i>U. Tokyo</i>, <i>Japan</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <strong><dt>Best of CHI</a>: </strong></dt>\n                <dd>\n                       Mark Billinghurst, <i>U. Canterbury</i>, <i>New Zealand</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:panels@chi2015.acm.org\">Panels</a>: </strong></dt>\n                <dd>\n                        Khai Truong, <i>UNC Charlotte</i>, <i>USA</i>\n                        <br>\n                        Elaine M. Huang, <i>U. Zurich</i>, <i>Switzerland</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:casestudies@chi2015.acm.org\">Case Studies</a>: </strong></dt>\n                <dd>\n                        Danielle Cooley, <i>USA</i>\n                        <br>\n                        Joonhwan Lee, <i>Seoul National University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:courses@chi2015.acm.org\">Courses</a>: </strong></dt>\n                <dd>\n                        Regina Bernhaupt, <i>Amazon</i>, <i>France</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:Interactivity@chi2015.acm.org\">Interactivity</a>: </strong></dt>\n                <dd>\n                        Julie Rico Williamson, <i>U. Glasgow</i>, <i>United Kingdom</i>\n                        <br>\n                        Juhyun Eune, <i>Seoul National University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:showcase@chi2015.acm.org\">Video Showcase</a>: </strong></dt>\n                <dd>\n                        Jinwook Seo, <i>Seoul National University</i>, <i>South Korea</i>\n                        <br>\n                        Rodrigo de Oliveira, <i>YouTube</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:sigs@chi2015.acm.org\">SIGs</a>: </strong></dt>\n                <dd>\n                        Enrico Rukzio, <i>Ulm University</i>, <i>Germany</i>\n                        <br>\n                        Simone Barbosa, <i>PUC-Rio</i>, <i>Brazil</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:doctoral@chi2015.acm.org\">Doctoral Consortium</a>: </strong></dt>\n                <dd>\n                        Si-Jung &quot;Jun&quot; Kim, <i>U. Central Florida</i>, <i>USA</i>\n                        <br>\n                        Jaime Teevan, <i>Microsoft Research</i>, <i>USA</i> \n                        <br> \n                        Sue Fussell, <i>Cornell University</i>, <i>USA</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <dt><strong><a href=\"mailto:workshops@chi2015.acm.org\">Workshops</a>: </strong></dt>\n                <dd>\n                        Juergen Steimle, <i>MIT / TU Darmstadt</i>, <i>Germany</i>\n                        <br>\n                        Bongshin Lee, <i>Microsoft Research Redmond</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:wip@chi2015.acm.org\">Works in Progress</a>: </strong></dt>\n                <dd>\n                        Shamsi Iqbal, <i>Microsoft Research</i>, <i>USA</i>\n                        <br>\n                        Shaun Lawson, <i>University of Lincoln</i>, <i>UK</i>\n                        <br> \n                        Shendong Zhao, <i>National University of Singapore</i>, <i>Singapore</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <dt><strong><a href=\"mailto:src@chi2015.acm.org\">Student Design</a>: </strong></dt>\n                <dd>\n                        Youn-Kyung Lim, <i>Kaist</i>, <i>South Korea</i>\n                        <br>\n                        Anirudha Joshi, <i>ITT Bombay</i>, <i>India</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:sdc@chi2015.acm.org\">Student Research</a>: </strong></dt>\n                <dd>\n                        Seungyon &quot;Clair&quot; Lee, <i>Google</i>, <i>USA</i>\n                        <br>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:sgc@chi2015.acm.org\">Student Games</a>: </strong></dt>\n                <dd>\n                        Floyd Muller, <i>RMIT University</i>, <i>Australia</i>\n                        <br>\n                        Alessandro Canossa, <i>Northeastern University</i>, <i>USA</i>\n                        <br>\n                        Soojin Jun, <i>Yonsei University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <dt><strong><a href=\"mailto:alt.chi@chi2014.acm.org\">alt.chi</a>: </strong></dt>\n                <dd>\n                        Silvia Lindtner, <i>U. California, Irvine</i>, <i>USA</i>\n                        <br>\n                        Morgan Ames, <i>Intel</i>, <i>USA</i>\n                        <br>\n                        Henry Duh, <i>UTAS</i>, <i>Australia</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <dt><strong><a href=\"mailto:jeff@jeffreynichols.com\">TOCHI Papers</a>: </strong></dt>\n                <dd>\n                        Jeff Nichols, <i>IBM</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:kylekim@gmail.com\">Conference Theme Chair</a>: </strong></dt>\n                <dd>\n                        Kyle Hyunsuk Kim, <i>Hongik University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n\n<dl>\n        <dt><strong><a href=\"mailto:svchair@chi2015.acm.org\">Student Volunteer Chair</a>: </strong></dt>\n                <dd>\n                        Jon Haber, <i>University of Calgary</i>, <i>Canada</i>\n                        <br>\n                        Siroberto Scerbo, <i>Virginia Tech</i>, <i>USA</i>\n                        <br>\n                        Jieun Wee, <i>Seoul National University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong>Chair's Assistants: </strong></dt>\n                <dd>\n                        Yoojin Lee, <i>Yonsei University</i>, <i>South Korea</i>\n                        <br>\n                        Nikolas Martelaro, <i>Stanford University</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:datamanagementchair@chi2015.acm.org\">Data Management Chair</a>: </strong></dt>\n                <dd>\n                        Max Van Kleek, <i>University of Southampton</i>, <i>UK</i>\n                        <br>\n                        BoYu Gao, <i>Konkuk University</i>, <i>Seoul</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:designchair@chi2015.acm.org\">Design Chair</a>: </strong></dt>\n                <dd>\n                        Elizabeth Dykstra-Erickson, <i>Cisco Systems</i>\n                        <br>\n                        Jina Wu, <i>Cisco Systems</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong>Opening Animation Director</a>: </strong></dt>\n                <dd>\n                        Chris Inkyong Whang, <i>Hongik University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:techliaison@chi2015.acm.org\">Technical Liason</a>: </strong></dt>\n                <dd>\n                        Sara Drenner\n                        <br>\n                        Scooter Morris, <i>University of California, San Franscisco</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:proceedings@chi2015.acm.org\">Proceedings</a>: </strong></dt>\n                <dd>\n                        Deana Brown, <i>Georgia Tech</i>, <i>USA</i>\n                        <br>\n                        Jaejeung Kim, <i>KAIST</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:posters@chi2015.acm.org\">Posters</a>: </strong></dt>\n                <dd>\n                        Hyun Joo Song, <i>Seoul National University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:infrastructureaccessibility@chi2015.acm.org\">Infrastructure Accessibility Chair</a>: </strong></dt>\n                <dd>\n                        Jongbae Kim, <i>Yonsei University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:digitalaccessibility@chi2015.acm.org\">Digital Accessibility Chair</a>: </strong></dt>\n                <dd>\n                        Jeff Bigham, <i>University of Rochester</i>, <i>USA</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:localhospitality@chi2015.acm.org\">Local Hospitality Chair</a>: </strong></dt>\n                <dd>\n                        Junho Choi, <i>Yonsei University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:socialmedia@chi2015.acm.org\">Social Media Chair</a>: </strong></dt>\n                <dd>\n                        Max Wilson\n                        <br>\n                        Kwangsu Cho, <i>Sungkyunkwan University</i>, <i>South Korea</i>\n                </dd>\n</dl>\n\n<dl>\n        <dt><strong><a href=\"mailto:webmaster@chi2015.acm.org\">Webmaster</a>: </strong></dt>\n                <dd>\n                        Juho Kim, <i>MIT</i>, <i>USA</i>\n                </dd>\n</dl>\n",
 			"file": "/Users/juhokim/Downloads/chi2015Org (1).html",
+			"file_size": -1,
+			"file_write_time": -1,
 			"settings":
 			{
 				"buffer_size": 10114,
@@ -1434,15 +1437,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10463,
+						"buffer_size": 10645,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								460,
-								460
+								4574,
+								4574
 							]
 						],
 						"settings":
@@ -1600,7 +1603,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1794.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -2538,6 +2541,110 @@
 								"bh_angle_open",
 								"bh_angle_close"
 							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
