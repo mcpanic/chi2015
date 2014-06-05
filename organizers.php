@@ -66,6 +66,8 @@
         <dt><strong><a href="mailto:courses@chi2015.acm.org">Courses</a>: </strong></dt>
                 <dd>
                         Regina Bernhaupt, <i>Ruwido</i>, <i>Austria</i>
+                        <br>
+                        Matt Jones, <i>Swansea University</i>, <i>United Kingdom</i>
                 </dd>
 </dl>
 
@@ -130,7 +132,7 @@
 
 
 <dl>
-        <dt><strong><a href="mailto:src@chi2015.acm.org">Student Design</a>: </strong></dt>
+        <dt><strong><a href="mailto:sdc@chi2015.acm.org">Student Design</a>: </strong></dt>
                 <dd>
                         Youn-Kyung Lim, <i>KAIST</i>, <i>South Korea</i>
                         <br>
@@ -139,9 +141,9 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:sdc@chi2015.acm.org">Student Research</a>: </strong></dt>
+        <dt><strong><a href="mailto:src@chi2015.acm.org">Student Research</a>: </strong></dt>
                 <dd>
-                        Seungyon &quot;Clair&quot; Lee, <i>Google</i>, <i>USA</i>
+                        Seungyon &quot;Claire&quot; Lee, <i>Google</i>, <i>USA</i>
                         <br>
                         Derek Reilly, <i>Dalhousie University</i>, <i>Canada</i>
                         <br>
