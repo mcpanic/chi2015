@@ -113,9 +113,9 @@
 <dl>
         <dt><strong><a href="mailto:workshops@chi2015.acm.org">Workshops</a>: </strong></dt>
                 <dd>
-                        Juergen Steimle, <i>MIT / TU Darmstadt</i>, <i>Germany</i>
+                        Jürgen Steimle, <i>Max Planck Institute for Informatics</i>, <i>Germany</i>
                         <br>
-                        Bongshin Lee, <i>Microsoft Research Redmond</i>, <i>USA</i>
+                        Bongshin Lee, <i>Microsoft Research</i>, <i>USA</i>
                 </dd>
 </dl>
 
