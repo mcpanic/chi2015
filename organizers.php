@@ -164,7 +164,7 @@
 
 
 <dl>
-        <dt><strong><a href="mailto:alt.chi@chi2014.acm.org">alt.chi</a>: </strong></dt>
+        <dt><strong><a href="mailto:alt.chi@chi2015.acm.org">alt.chi</a>: </strong></dt>
                 <dd>
                         Silvia Lindtner, <i>University of California, Irvine</i>, <i>USA</i>
                         <br>
