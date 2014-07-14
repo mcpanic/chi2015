@@ -7,7 +7,12 @@ function is_touch_device() {
 function selectMenu(){
 	// TODO: debugging with edge cases and final URLs
 	var href = window.location.pathname;
-	var pageName = href.substr(href.lastIndexOf('/'));
+	// remove trailing slash if it exists
+	if (href.substr(href.length - 1) == '/')
+		href = href.slice(0,-1);
+	console.log("pre  href", href);
+	var pageName = href.substr(href.lastIndexOf('/') +1 );
+	console.log("post href", href);
 	if (pageName == "" || pageName == "chi2015.acm.org" || pageName == "index.php")
 		pageName = "home";
 	$(".nav li a").removeClass("selected");
