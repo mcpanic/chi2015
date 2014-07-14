@@ -26,15 +26,15 @@
         <meta name="twitter:description" content="official website for the CHI2015 conference in Seoul, Korea from April 18 to April 23, 2015" />
         <meta name="twitter:image" content="http://chi2015.acm.org/img/animate2.gif" />
 
-        <link rel="icon" type="image/png" href="chi_favicon.png">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="icon" type="image/png" href="/chi_favicon.png">
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="/css/main.css">
         <!--[if lte IE 8]>
             <link rel = "stylesheet" href="css/ie.css" />
         <![endif]-->
-        <!--[if !IE]><!--><link rel="stylesheet" href="css/responsive.css" /><!--<![endif]-->
-        <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <!--[if !IE]><!--><link rel="stylesheet" href="/css/responsive.css" /><!--<![endif]-->
+        <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -75,7 +75,7 @@
         <h2>Crossings</h2>
  -->
         <div class="jumbotron-left">
-            <img class="animation" src="img/animate2.gif" alt="CHI 2015 | Crossings | Seoul, Korea">
+            <img class="animation" src="/img/animate2.gif" alt="CHI 2015 | Crossings | Seoul, Korea">
         </div>
         <div class="jumbotron-right">
             <p class="date">April 18 - 23, 2015</p>
