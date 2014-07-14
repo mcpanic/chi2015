@@ -1,13 +1,13 @@
 
 function is_touch_device() {
-  return 'ontouchstart' in window // works on most browsers 
+  return 'ontouchstart' in window // works on most browsers
       || 'onmsgesturechange' in window; // works on ie10
 };
 
 function selectMenu(){
 	// TODO: debugging with edge cases and final URLs
 	var href = window.location.pathname;
-	var pageName = href.substr(href.lastIndexOf('/') + 1);
+	var pageName = href.substr(href.lastIndexOf('/'));
 	if (pageName == "" || pageName == "chi2015.acm.org" || pageName == "index.php")
 		pageName = "home";
 	$(".nav li a").removeClass("selected");
