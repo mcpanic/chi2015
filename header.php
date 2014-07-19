@@ -62,15 +62,16 @@ else {
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/" class="menu-home">CHI 2015</a></li>
-            <li><a href="/impact" class="menu-impact">CHI'S IMPACT</a></li>
-            <li><a href="/organizers" class="menu-organizers">ORGANIZERS</a></li>
-<!--             <li><a href="/attending" class="menu-attending">ATTENDING</a></li>
-            <li><a href="/authors" class="menu-authors">AUTHORS</a></li>
-            <li><a href="/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
-            <li><a href="/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
-            <li><a href="/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
-            <li><a href="/recruiting" class="menu-recruiting">RECRUITING</a></li>
+            <li><a href="<?php echo $prefix; ?>/" class="menu-home">CHI 2015</a></li>
+            <li><a href="<?php echo $prefix; ?>/impact" class="menu-impact">CHI'S IMPACT</a></li>
+            <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
+            <li><a href="<?php echo $prefix; ?>/organizers" class="menu-organizers">ORGANIZERS</a></li>
+<!--             <li><a href="<?php echo $prefix; ?>/attending" class="menu-attending">ATTENDING</a></li>
+            <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
+            <li><a href="<?php echo $prefix; ?>/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
+            <li><a href="<?php echo $prefix; ?>/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
+            <li><a href="<?php echo $prefix; ?>/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
+            <li><a href="<?php echo $prefix; ?>/recruiting" class="menu-recruiting">RECRUITING</a></li>
              -->
           </ul>
         </div><!--/.navbar-collapse -->
