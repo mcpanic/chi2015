@@ -23,11 +23,11 @@
         </footer>
     </div> <!-- /container -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="<?php echo $prefix; ?>/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
-    <script src="/js/vendor/bootstrap.min.js"></script>
+    <script src="<?php echo $prefix; ?>/js/vendor/bootstrap.min.js"></script>
 
-    <script src="/js/main.js"></script>
+    <script src="<?php echo $prefix; ?>/js/main.js"></script>
 
     <script type="text/javascript">
       var _gaq = _gaq || [];

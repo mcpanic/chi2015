@@ -7,7 +7,7 @@ body{
     /*padding-top: 50px;*/
     padding-bottom: 20px;
     line-height: 20px;
-    color: #58595B;    
+    color: #58595B;
 }
 
 a, a:hover {
@@ -30,7 +30,7 @@ h2 {
 	font-size: 28px;
 	color: #E4211C;
 	margin-top:0;
-	margin-bottom: 25px;	
+	margin-bottom: 25px;
 	line-height: 28px;
 }
 
@@ -53,7 +53,9 @@ h4 {
 	line-height: 18px;
 }
 
-
+blockquote p {
+	font-size: 13px;
+}
 
 
 
@@ -132,7 +134,7 @@ h4 {
 	margin: 0;
 	padding: 0;
 	margin-top: -80px;
-	margin-bottom: 30px;	
+	margin-bottom: 30px;
 	background-color: #E4211C;
 	color: #FFFFFF;
 }
@@ -226,7 +228,7 @@ h4 {
    Right sidebar
    ========================================================================== */
 /*.column-right{
-	float:left;	
+	float:left;
 	width: 250px;
 	margin-left: -250px;
 	padding: 10px;
@@ -344,7 +346,7 @@ footer {
 	font-family: Helvetica, Arial, sans-serif;
 	font-weight: bold;
 	font-size: 18px;
-	color: #6D6E70;	
+	color: #6D6E70;
 }
 
 .sidebar-item{
@@ -352,6 +354,6 @@ footer {
 	font-size: 13px;
 	margin-left: 12px;
 	line-height: 20px;
-	color: #1B75BB;	
+	color: #1B75BB;
 }
 

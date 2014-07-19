@@ -1,14 +1,15 @@
-RewriteEngine on 
-RewriteCond %{REQUEST_FILENAME} !-d 
-RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteCond %{REQUEST_URI} !(.*)/$
 # adding a trailing slash to all requests
 #RewriteRule ^(.*)$ http://localhost:8888/chi2015/$1/ [L,R=301]
-RewriteRule ^(.*)$ http://chi2015.acm.org/$1/ [L,R=301]
+RewriteRule ^(.*)$ http://juhokim.com/chi2015/$1/ [L,R=301]
+#RewriteRule ^(.*)$ http://chi2015.acm.org/$1/ [L,R=301]
 RewriteRule ^(.*)\/$ $1.php
 
 #RewriteRule ^(.+)/$ $1.php [R=301,L]
 # trailing slash returns an error with RewriteRule ^(.*)$ $1.php
 #RewriteRule ^(.*[^/])/?$ $1 [R=301,L]
-#RewriteRule ^(.*)\/(\?.*)?$ $1$2 [L,QSA] 
-#RewriteRule ^(.*)\/$ $1 [R,L] 
+#RewriteRule ^(.*)\/(\?.*)?$ $1$2 [L,QSA]
+#RewriteRule ^(.*)\/$ $1 [R,L]
