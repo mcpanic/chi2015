@@ -90,10 +90,10 @@
 
 	.column-main{
 		float:left;
-		margin: 0 0 0 250px;
+		margin: 0 0 0 250px; /* 0 250px 0 250px */
 		/*display: inline;*/
 		padding: 0 10px;
-		width: 690px; /*420px;*/
+		width: 670px; /*420px;*/
 	}
 
 	.column-right{
