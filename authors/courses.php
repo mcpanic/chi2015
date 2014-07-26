@@ -2,6 +2,12 @@
   include "../header.php";
 ?>
 
+<div>
+<h2>Courses: Call for Participation</h2>
+</div>
+<div></div>
+<div>
+
 <h3>Quick Facts</h3>
 <ul><li>Important Dates</li>
 <ul><li>Submission Deadline:&nbsp;6 October 2014 (5:00pm PDT)</li>

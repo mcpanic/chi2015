@@ -9,13 +9,13 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">25 April 2014</div>
 		<ul>
-			<li class="sidebar-item"><a href="/organizers">Organizers</a> page is updated.</li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/organizers">Organizers page is updated.</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
 		<div class="sidebar-date">10 March 2014</div>
 		<ul>
-			<li class="sidebar-item">The official CHI 2015 website is open.</li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/">The official CHI 2015 website is open.</a></li>
 		</ul>
 	</div>
 </div>

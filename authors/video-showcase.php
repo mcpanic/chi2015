@@ -2,6 +2,12 @@
   include "../header.php";
 ?>
 
+<div>
+<h2>
+Video Showcase : Call for Participation</h2>
+</div>
+<div></div>
+
 <h3>Quick Facts</h3>
 <ul><li>Important Dates:</li>
 <ul><li>Submission deadline: 5 January 2015 (5:00pm PST)</li>

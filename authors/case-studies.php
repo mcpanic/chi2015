@@ -5,7 +5,7 @@
 <div>
 <h2>Case Studies: Call for Participation</h2>
 </div>
-<div></div>
+
 <div>
 
 <div>

@@ -2,6 +2,12 @@
   include "../header.php";
 ?>
 
+<div>
+<h2>Panels: Call for Participation</h2>
+</div>
+<div></div>
+<div>
+
 <h3><span>Quick Facts</span></h3>
 <ul><li><span>Important Dates:</span></li>
 <ul><li><span>Submission deadline:&nbsp;5 January 2015 (5:00pm PST)</span></li>
