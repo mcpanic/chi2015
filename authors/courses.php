@@ -30,6 +30,9 @@
 <li>Archives: Course descriptions will be published in the Extended abstracts; USB and ACM Digital Library
 <ul></ul>
 </li></ul>
+</div>
+
+<div>
 <h3>Message from the CHI 2015 Courses Chairs</h3>
 <p>The CHI 2015 conference will offer a wide variety of courses designed to appeal to our diverse audience of researchers, practitioners, designers, developers, managers and students. Courses will take place during the CHI 2015 main conference. Course duration can be up to two 80-minute sessions.</p>
 <p>We encourage proposals for CHI 2015 conference courses that cover topics like:</p>
@@ -41,6 +44,9 @@
 <p>Regina Bernhaupt, ruwido, Austria<br>
 Matt Jones, Swansea University, Wales<br>
 <a href="mailto:courses@chi2015.acm.org">courses@chi2015.acm.org</a></p>
+</div>
+
+<div>
 <h3>What is a CHI Course?</h3>
 <p>Courses allow CHI attendees to extend their knowledge beyond their current area(s) of expertise. Participants will include industry managers and professionals, practitioners, students and researchers. Courses will be offered in up to two 80-minute sessions. Courses will run in parallel with the technical program. Course can be designed for novices, general interest audiences and/or experts.</p>
 <p>For example, a Course could:</p>
@@ -52,6 +58,9 @@ Matt Jones, Swansea University, Wales<br>
 <p>Instructors are encouraged to break a full-day course into two or more shorter courses. Instructors may explicitly link two or more interrelated course proposals that should be accepted or rejected together. The dependencies between these courses must be defined, including whether the courses must be held on the same day or in a particular order.</p>
 <p>If you are still in doubt see&nbsp;<a href="http://chi2015.acm.org/authors/a-course-or-a-workshop">Shall I offer a course or a workshop?</a><br>
 </p>
+</div>
+
+<div>
 <h3>Preparing and Submitting your CHI Course Proposal</h3>
 <p>A Course proposal must be submitted via the&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following three components which have to be uploaded as three distinct files:</p>
 <ol><li>Advance Program Description (max 300 words)</li>
@@ -88,6 +97,9 @@ Matt Jones, Swansea University, Wales<br>
 <li>Promotional strategy: a description of your advertising/promotional strategy for attracting attendees</li></ul>
 <h4>Part 3. Course Material Sample</h4>
 <p>Provide a sample of the Course material you will present in this Course.</p>
+</div>
+
+<div>
 <h3>Course Selection Process</h3>
 <p>CHI 2015 Courses will be curated by the CHI 2015 Course Chairs. Acceptance of proposals will be based on:</p>
 <ol><li>Fit within the overall CHI education curriculum, that balances topics over consecutive years as well as &nbsp;relationship to the theme of this year's conference, overall distribution of topics within this year's program, approaches, audience experience levels, and specialties of the intended audience.</li>
@@ -99,14 +111,12 @@ Matt Jones, Swansea University, Wales<br>
 <div><br>
 </div>
 <div><span><span><span>
-<p dir="ltr"><span><br>
-</span></p>
+
 <p dir="ltr"><span>Courses should&nbsp;not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span>Submissions should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,</span></span><span><span><span>&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span> </p>
 </span></span></span></div>
-<div><span><br>
-</span></div>
-<div><span><br>
-</span></div>
+</div>
+
+<div>
 <h3>Upon Acceptance of your CHI Course</h3>
 <p>Course instructors will be notified of acceptance or non-acceptance by 21 November, 2014. The instructors will receive more information about the expected format of the Course notes&nbsp; and about logistics (e.g., student volunteers, A/V equipment, recommendations and requirements for course evaluations, course payments) after acceptance of courses.</p>
 <p>As a general guideline, Course notes are intended to provide the attendees with carry-away materials that will enable them to concentrate their attention on the presentation and participation, rather than on hastily taking handwritten notes. The notes should include materials such as:</p>
@@ -120,10 +130,17 @@ Matt Jones, Swansea University, Wales<br>
 <p><span>All accepted courses will be required to upload a 2-page description of the course in extended abstract format (available here:</span><span>&nbsp;</span><a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a><span>). The 2-page description should include a description of the topic to be covered with pointers to relevant background material, an outline of the course itself and short presenter/tutor bios. Deadline for 2-page descriptions is 9 January 2015.</span></p>
 <p><span>All accepted courses are required to provide their course notes. For paper-printed notes:&nbsp;9 January 2015; for electronically distributed notes:&nbsp;6 March 2015.</span></p>
 <p><strong>Cancellation: Courses with fewer than 15 participants registered by the early registration deadline may be cancelled.</strong>&nbsp;We therefore strongly recommend that you promote your courses through social media channels, in your own social networks, to your personal contacts and in your teaching, research and professional/practice communities. The CHI 2015 conference organizers will not promote specific courses or course materials.</p>
+</div>
+
+<div>
 <h3>At the Conference</h3>
 <p>Your CHI Course will be allotted up to two 80-minute sessions for presentation. We will coordinate A/V requirements with accepted course instructors. Instructors should see&nbsp;<a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation">Presenting at CHI 2015</a>&nbsp;for information about standard computing and A/V equipment that will be made available to instructors and presenters at CHI 2015.</p>
+</div>
+
+<div>
 <h3>After the Conference</h3>
 <p>Accepted&nbsp;2-page Course Descriptions will be distributed in the&nbsp;CHI Extended Abstracts, available on USB and in the ACM Digital Library.&nbsp;Course notes and additional descriptive material will not be available in the Proceedings or the ACM Digital Library.</p>
+</div>
 
 <?php
   include "../footer.php";
