@@ -5,7 +5,7 @@
 <div>
 <h2>SIG Meetings : Call for Participation</h2>
 </div>
-<div></div>
+
 <div>
 <h3>Quick Facts</h3>
 <ul><li><span>Important Dates:</span></li>

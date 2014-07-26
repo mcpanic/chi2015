@@ -5,7 +5,7 @@
 <div>
 <h2>Courses: Call for Participation</h2>
 </div>
-<div></div>
+
 <div>
 
 <h3>Quick Facts</h3>

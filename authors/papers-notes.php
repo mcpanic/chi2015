@@ -5,7 +5,7 @@
 <div >
 <h2 >Papers &amp; Notes : Call for Participation</h2>
 </div>
-<div ></div>
+
 <div >
 <h3 >Quick Facts</h3>
 <p >CHI Papers and CHI Notes are archival publications of original research in the field of Human-Computer Interaction (HCI).</p>

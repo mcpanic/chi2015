@@ -41,11 +41,24 @@ function addCrossingsPopover(){
 	});
 }
 
+function resizeHandler() {
+	//console.log(event);
+	// only for 992px-1200px, stack the sponsors block below the news block
+	if (document.documentElement.clientWidth >= 992 && document.documentElement.clientWidth < 1200)
+		$(".column-right").css("margin-top", $(".column-left").height() + 50);
+	else
+		$(".column-right").css("margin-top", 0);
+
+}
+
 $( document ).ready(function() {
 	selectMenu();
 	adjustMenuWidth();
 	addCrossingsPopover();
 	$("#counter .days-left").text(computeDaysUntil());
+
+	resizeHandler();
+	window.onresize = resizeHandler;
 
 	$(document).on("click", "button.navbar-toggle", function(){
 		if ($(this).hasClass("collapsed")) {// toggle yes

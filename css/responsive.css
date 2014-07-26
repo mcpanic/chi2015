@@ -90,16 +90,17 @@
 
 	.column-main{
 		float:left;
-		margin: 0 250px 0 250px;
+		margin: 0 0 0 250px;
 		/*display: inline;*/
 		padding: 0 10px;
-		width: 420px;
+		width: 690px; /*420px;*/
 	}
 
 	.column-right{
 		float: left;
 		width: 250px;
-		margin-left: -250px;
+		margin-left: -100%; /*-250px;*/
+		margin-top: 500px;
 		padding: 10px;
 		background-color: rgb(242,242,242);
 	}

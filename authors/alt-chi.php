@@ -1,10 +1,11 @@
 <?php
   include "../header.php";
 ?>
+
 <div >
 <h2 >alt.chi: Call for Participation</h2>
 </div>
-<div ></div>
+
 <div >
 
 <div>

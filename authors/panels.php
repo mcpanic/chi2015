@@ -5,7 +5,7 @@
 <div>
 <h2>Panels: Call for Participation</h2>
 </div>
-<div></div>
+
 <div>
 
 <h3><span>Quick Facts</span></h3>

@@ -5,10 +5,8 @@
 <div >
 <h2 >Doctoral Consortium: Call for Participation</h2>
 </div>
-<div ></div>
+
 <div >
-
-
 <h3 ><a name="TOC-Quick-Facts"></a>Quick Facts</h3>
 <ul >
   <li>Important Dates:</li>
