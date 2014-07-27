@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Guide to Reviewing CHI Papers and Notes";
   include "../header.php";
 ?>
 

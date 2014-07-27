@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Selecting a Subcommittee";
   include "../header.php";
 ?>
 

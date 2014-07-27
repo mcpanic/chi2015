@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "CHI Anonymization Policy";
   include "../header.php";
 ?>
 

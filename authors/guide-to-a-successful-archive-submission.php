@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Guide to a Successful Archive Submission";
   include "../header.php";
 ?>
 <div >

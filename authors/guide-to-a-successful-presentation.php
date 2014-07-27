@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Guide to a Successful Presentation";
   include "../header.php";
 ?>
 

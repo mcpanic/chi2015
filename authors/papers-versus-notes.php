@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Papers versus Notes: What is the difference?";
   include "../header.php";
 ?>
 

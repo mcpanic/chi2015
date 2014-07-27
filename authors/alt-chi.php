@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "alt.chi: Call for Participation";
   include "../header.php";
 ?>
 

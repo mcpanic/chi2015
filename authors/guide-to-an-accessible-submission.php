@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Guide to an Accessible Submission";
   include "../header.php";
 ?>
 

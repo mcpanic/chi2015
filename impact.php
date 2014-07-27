@@ -1,15 +1,16 @@
 <?php
+  $pageTitle = "HCI's Impact on Industry";
   include "header.php";
 ?>
     <h1>HCI's Impact on Industry</h1>
 
 <p>
-    HCI’s impact on the technology industry has been enormous.  Since the 1970’s, leading companies have increased their success through the growing use of HCI methods to (1) avoid wasting precious investment money from failed deployments of inferior technologies and to (2) generate new revenue by identifying under-served needs and then to envision, design and test innovative products and services that fulfill the under-served needs effectively. 
+    HCI’s impact on the technology industry has been enormous.  Since the 1970’s, leading companies have increased their success through the growing use of HCI methods to (1) avoid wasting precious investment money from failed deployments of inferior technologies and to (2) generate new revenue by identifying under-served needs and then to envision, design and test innovative products and services that fulfill the under-served needs effectively.
     HCI specialists employ a variety of techniques to determine whether products are learnable, usable, and valuable.  Through rigorous beginning-to-end methods that combine concept design, design critique, cognitive analysis, performance experiments and more, HCI researchers assess whether technologies frustrate, thwart, and confound people rather than serve, engage and extend people’s capabilities.
 </p>
 
 <p>
-    In addition to tremendous cost savings, the field of HCI has spawned billions of dollars of innovative product and service categories.  Early examples of the business value of HCI methods include Xerox’s employment of cognitive psychologists, social scientists and engineers to develop copier interfaces, Graphical User Interfaces (GUI) and the development of the world’s first commercial mouse and personal computer.  HCI researchers at Xerox PARC, Olivetti and other corporations also envisioned and captured fundamental patents, designs and prototypes in the field of Ubiquitous Computing that completely anticipated the current age of network services, interactive displays, tablets and smart phones.   Since those early HCI-generated product categories, dozens of others have been presaged at CHI prior to market deployment including multi-touch and 3D interaction, tangible interfaces, social networking, instant text messaging, personal health and elder care, fitness tracking, smart homes, internet of things, human-robot interaction and wearable devices.  The CHI conference is often the first public demonstration of such advanced technologies.  
+    In addition to tremendous cost savings, the field of HCI has spawned billions of dollars of innovative product and service categories.  Early examples of the business value of HCI methods include Xerox’s employment of cognitive psychologists, social scientists and engineers to develop copier interfaces, Graphical User Interfaces (GUI) and the development of the world’s first commercial mouse and personal computer.  HCI researchers at Xerox PARC, Olivetti and other corporations also envisioned and captured fundamental patents, designs and prototypes in the field of Ubiquitous Computing that completely anticipated the current age of network services, interactive displays, tablets and smart phones.   Since those early HCI-generated product categories, dozens of others have been presaged at CHI prior to market deployment including multi-touch and 3D interaction, tangible interfaces, social networking, instant text messaging, personal health and elder care, fitness tracking, smart homes, internet of things, human-robot interaction and wearable devices.  The CHI conference is often the first public demonstration of such advanced technologies.
 </p>
 
 <p>
@@ -22,7 +23,7 @@
 
 
 <small class="footnote">
-    1. Jordan Crook, “Apple and Samsung Bring Their Marketing Strategies to Court”, TechCrunch, 20 Aug 2012 
+    1. Jordan Crook, “Apple and Samsung Bring Their Marketing Strategies to Court”, TechCrunch, 20 Aug 2012
 </small>
 
 <?php

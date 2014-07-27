@@ -1,4 +1,6 @@
 <?php
+  $isIndex = True;
+  $pageTitle = "CHI 2015 | Crossings";
   include "header.php";
 ?>
             <h1>Welcome</h1>
@@ -27,7 +29,7 @@
                     </div>
                 </li>
             </ul>
-            <div class="empty">&nbsp;</div>            
+            <div class="empty">&nbsp;</div>
             <h2>Technical Program Chairs</h2>
             <ul class="chair-list">
                 <li class="chair">

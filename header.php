@@ -15,7 +15,11 @@ else {
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>CHI 2015 | Crossings</title>
+        <?php if (isset($isIndex)) : ?>
+            <title><?php echo $pageTitle; ?></title>
+        <?php else : ?>
+            <title><?php echo $pageTitle . " | CHI2015"; ?></title>
+        <?php endif ?>
         <meta name="description" content="The ACM CHI conference is the world's premiere conference on Human Factors in Computing Systems. The CHI2015 conference will be held in Seoul, Korea from April 18 to April 23, 2015.">
         <meta name="keywords" content="HCI, conference, seoul, korea">
         <meta name="author" content="Juho Kim">

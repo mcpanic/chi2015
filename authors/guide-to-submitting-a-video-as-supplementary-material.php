@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Guide to Submitting a Video as Supplementary Material";
   include "../header.php";
 ?>
 

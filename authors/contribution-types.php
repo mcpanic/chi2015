@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Contributions to HCI";
   include "../header.php";
 ?>
 

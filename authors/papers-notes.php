@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Papers & Notes : Call for Participation";
   include "../header.php";
 ?>
 

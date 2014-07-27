@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Shall I offer a Course or a Workshop?";
   include "../header.php";
 ?>
 <div >

@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Case Studies: Call for Participation";
   include "../header.php";
 ?>
 

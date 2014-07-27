@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Panels: Call for Participation";
   include "../header.php";
 ?>
 

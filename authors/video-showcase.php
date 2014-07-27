@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Video Showcase : Call for Participation";
   include "../header.php";
 ?>
 

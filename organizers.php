@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Organizers";
   include "header.php";
 ?>
     <h1>Organizers</h1>

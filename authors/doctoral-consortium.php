@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Doctoral Consortium: Call for Participation";
   include "../header.php";
 ?>
 

@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "Student Research Competition : Call for Participation";
   include "../header.php";
 ?>
 

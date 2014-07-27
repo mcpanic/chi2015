@@ -1,4 +1,5 @@
 <?php
+  $pageTitle = "SIG Meetings : Call for Participation";
   include "../header.php";
 ?>
 
