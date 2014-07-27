@@ -77,7 +77,7 @@ We welcome completely fresh submissions tailored to the specific goals and value
 </span></div>
 </li>
 <li>
-<div ><span >Optional Video Figure. <span >Your submission may be accompanied by a short digital video figure or interactive illustration that is up to five minutes in length and no more than 100 MB final data size. Since not everyone who reads the paper may view the video figure, your submission must stand on its own without the figure, and will be reviewed as such. Some guidelines for creating video submissions can be found at: <a href="http://chi2015.acm.org/authors/guides/guide-to-a-successful-video-submission/"><span >Guide to a Successful Video Submission.</span></a></span>
+<div ><span >Optional Video Figure. <span >Your submission may be accompanied by a short digital video figure or interactive illustration that is up to five minutes in length and no more than 100 MB final data size. Since not everyone who reads the paper may view the video figure, your submission must stand on its own without the figure, and will be reviewed as such. Some guidelines for creating video submissions can be found at: <a href="http://chi2015.acm.org/authors/guide-to-a-submitting-a-video"><span >Guide to a Successful Video Submission.</span></a></span>
 
 The <a href="http://altchi.org"><span >alt.chi submission system</span></a> is now open. Between the system’s opening and December 31st, authors may request assistance from a volunteer English Review Service.</span><span ><br>
 </span></div>

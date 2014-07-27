@@ -18,7 +18,7 @@
 <div><span >Kori Inkpen, Microsoft, USA</span></div>
 <div><span >Woontack Woo, KAIST, Korea</span></div>
 
-<div><a href="mailto:technicalprogram@chi2015.acm.org" >Technical Program chairs</a></div>
+<div><a href="mailto:technicalprogram@chi2015.acm.org" >technicalprogram@chi2015.acm.org</a></div>
 
 <div>
 <h3 >Call for participation</h3>

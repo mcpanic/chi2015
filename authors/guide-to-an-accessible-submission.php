@@ -29,7 +29,7 @@
 <h3 >LaTeX</h3>
 <p>Unfortunately tools do not yet exist to complete steps 1-3 in LaTeX. Authors using LaTeX will need to first create an untagged PDF. Then, within Acrobat, authors can&nbsp;<a href="http://chi2015.acm.org/authors/generate-a-tagged-pdf#Acrobat" >add tags to the PDF</a>. Finally, within Acrobat, authors can add carry out&nbsp;<a href="http://chi2015.acm.org/authors/add-alternative-text-to-all-figures#Acrobat" >step 1</a>&nbsp;and&nbsp;<a href="http://chi2015.acm.org/authors/mark-table-headers#acrobat" >step 2</a>.</p>
 <h3 >Contact</h3>
-<p>If you have any questions or concerns, please contact the Digital Accessibility Chair, Jonathan Lazar.</p>
+<p>If you have any questions or concerns, please contact the Digital Accessibility Chair, Jeff Bigham.</p>
 <p><a href="mailto:digitalaccessibility@chi2015.acm.org" >digitalaccessibility@chi2015.acm.org</a></p>
 <h3 >Additional Resources</h3>
 <p>The WebAIM guidelines on PDF accessibility:<br>

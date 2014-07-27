@@ -37,8 +37,7 @@
 <div>
 <h3 ><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the Doctoral Consortium Chairs</h3>
 <p dir="ltr" ><span >The CHI 2015 Doctoral Consortium provides an opportunity for doctoral students to explore and develop their research interests in an interdisciplinary workshop, under the guidance of a panel of distinguished researchers. We invite students who feel they would benefit from this kind of feedback on their dissertation work to apply for this unique opportunity to share their work with students in a similar situation as well as senior researchers in the field. The strongest candidates will be those who have a clear topic and research approach, and have made some progress, but who are not so far along that they can no longer make changes. In addition to stating how you will benefit from participation, both you and your advisor should be clear on what you can contribute to the Doctoral Consortium.</span></p>
-<p dir="ltr" ><br>
-</p>
+
 <p dir="ltr" ><span >Si Jung Kim, University of Central Florida, USA</span></p>
 <p dir="ltr" ><span >Jaime Teevan, Microsoft Research, USA</span></p>
 <p dir="ltr" ><span >Susan Fussell, Cornell University, USA</span></p>
@@ -115,8 +114,6 @@
 <p dir="ltr" ><span >All participants are expected to attend all of both days of the Consortium, including a group dinner on the first evening (Saturday 18 April 2015) and a wrap-up reception on the second evening&nbsp;(Sunday 19 April 2015). Each student will present his or her work to the group with substantial time allowed for discussion and questions by participating researchers and other students. Although many fine pieces of work have to be rejected due to lack of space, being accepted into the Consortium is an honor, and involves a commitment to giving and receiving thoughtful commentary with an eye towards shaping the field and upcoming participants in the field.</span></p>
 
 <p dir="ltr" ><span><span >Students will also present a poster of their work at the main conference. Please see the Information for Poster Presenters. In addition to the conference poster, each student should bring a small version of the poster (e.g., using letter or A4 paper) for sharing with faculty mentors and other students during the Consortium sessions.</span></span></p>
-<p dir="ltr" ><span ><br>
-</span></p>
 
 </div>
 

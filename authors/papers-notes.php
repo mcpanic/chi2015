@@ -49,7 +49,7 @@ See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Sele
 <ul><li><a href="http://chi2015.acm.org/authors/format" >CHI Archive Format</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archive-submission" >Guide to a Successful Archive Submission</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission" >Guide to an Accessible Submission</a></li>
-<li><a href="http://chi2015.acm.org/authors/contribution-types" >Contributions to HCI</a></li>
+<li><a href="http://chi2015.acm.org/authors/contributions-to-hci" >Contributions to HCI</a></li>
 <li><a href="http://chi2015.acm.org/authors/chi-anonymization-policy" >CHI Anonymization Policy</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-reviewing-chi-papers-and-notes" >Guide to Reviewing CHI Papers and Notes</a></li></ul>
 </li>

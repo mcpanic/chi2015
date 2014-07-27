@@ -22,8 +22,7 @@
 <li>Submission Details:
 </li>
 <ul>
-<ul>
-</ul>
+
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
 <li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
 <li><span>Submission Format: a 6-page poster abstract prepared in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>&nbsp;and a 1-page poster design</span></li>
@@ -51,18 +50,15 @@
 <div>
 <h3><span><span>What is a Work-in-Progress</span></span></h3>
 <p dir="ltr"><span>A Work-in-Progress is a concise report of recent findings or other types of innovative or thought-provoking work relevant to the CHI community. The difference between Works-in-Progress and other contribution types (e.g. main track papers and notes) is that Work-in-Progress submissions represent work that has not reach a level of completion that would warrant the full Refereed selection process. That said, appropriate submissions should make a contribution to the body of HCI knowledge, whether realized or promised. A significant benefit of a Work-in-Progress derives from the discussion between the author and conference attendees that will be fostered by the face-to-face presentation of the work.</span></p>
-<br>
+
 <p dir="ltr"><span>The Work-in-Progress category aims to attract participation from a broad range of disciplines covering a spectrum of topics and methodologies. We encourage submissions from all of CHI's communities. Please note that summaries of completed work or reduced versions of main track CHI submissions are inappropriate as a Work-in-Progress submission and will be rejected.</span></p>
-<br>
+
 <p dir="ltr"><span>Work-in-Progress abstracts appear in the CHI Extended Abstracts proceedings. Copyright is retained by the authors, and the material from them can be used as the basis for future publications as long as there are "significant" revisions from the original. For more information on the republishability of material appearing at CHI, along with links to relevant ACM policies, please see the section on Republishability (add link) on the main CHI CFP.</span></p>
 <br>
 </div>
 
-<div>
-</div>
 <h3><span><span>Preparing and Submitting your Work-in-Progress</span></span></h3>
-<div>
-</div>
+
 <p dir="ltr"><span>Work-in-Progress submissions consist of two related documents. Failure to submit a valid version of either document will result in an automatic rejection. Due to the very rapid selection process we cannot offer any extensions to the deadline. Both documents will be considered by the reviewers when assessing your submission. The two documents required are:</span></p>
 <div>
 

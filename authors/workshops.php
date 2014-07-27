@@ -35,10 +35,7 @@
 <li>Chairs: Jürgen Steimle and Bongshin Lee (<a href="mailto:workshops@chi2015.acm.org">workshops@chi2015.acm.org</a>)</li>
 <li>At the conference: Accepted workshops with the minimum number of registered participants will be held 18-19 April.</li>
 <li>Archives: Workshop summaries will be published in the Extended abstracts; USB and ACM Digital Library</li>
-<ul>
-<ul>
-
-</ul></ul></ul>
+</ul>
 
 <div>
 <h3><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the Workshops Chairs</h3>
@@ -53,9 +50,9 @@
 <div>
 <h3><span><span>What is a CHI Workshop</span></span></h3>
 <p dir="ltr"><span>Workshops are held the weekend before the start of the conference, on Saturday and Sunday, 18-19 April, 2015. A workshop may be one or two days in length. They are scheduled for six working hours per day, with a mid-morning break, a lunch break, and a mid-afternoon break. A typical workshop will have 15 to 25 participants.</span></p>
-<br>
+
 <p dir="ltr"><span>Workshops are intended to foster discussion and exchange. Because focused interaction among participants is important, participants should have informed positions based on prior experience, as expressed in their position papers. Workshops should not be miniature paper presentation sessions, but focus on community building and communal knowledge creation. Please note that CHI workshops are not classes in which instructors teach content (see CHI Courses and Shall I offer a course or a workshop? for further guidance).</span></p>
-<br>
+
 <p dir="ltr"><span>There are two groups of people involved in a workshop: the organizers and the participants. Organizers are responsible for the workshop's topic, logistics, and final outcome. Participants are responsible for the content and discussion. The following is an outline of the submission and organization process.</span></p>
 
 <ul>

@@ -60,9 +60,8 @@
 <div>
 <h3><span><span>What is a Case Study?</span></span></h3>
 <p dir="ltr"><span>Case Studies are examples of HCI practice based on real-world experiences that will be instructive and of interest to other members of the community. Case studies provide </span><span>a substantial contribution to the field</span><span> and move it forward.</span></p>
-<br>
 <p dir="ltr"><span>Case Studies can illustrate, explore, report, analyze, summarize, debunk, challenge, or simply describe. They might focus, for instance, on the following topics:</span></p>
-<br>
+
 <ul><li dir="ltr">
 <p dir="ltr"><span>Application, critique,</span><span> or </span><span>evolution</span><span> of a </span><span>method, process, theory,</span><span> or </span><span>tool</span></p>
 </li>

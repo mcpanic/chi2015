@@ -81,7 +81,7 @@
 </span></span></span></div>
 </li>
 </ol>
-<p dir="ltr"><span>&nbsp;</span></p>
+
 <p dir="ltr">Your&nbsp;submission to the Student Research Competition should describe recently completed or ongoing student research in any of the topic areas covered by CHI. Even if the research was completed under the supervision of a supervisor, the submission must be authored by the graduate student alone (no co-authors - even other graduate students - are allowed). For undergraduate students, a group of undergraduate students who worked together on a project can submit the research with all their names on it, but all students must be undergraduates and the faculty advisor cannot be listed as an author. Submissions should be original work that is neither in submission elsewhere nor already published in CHI or another conference or journal.</p>
 </span>
 <p dir="ltr"><span>Papers should describe:</span></p>
@@ -128,8 +128,8 @@
 <span><span>
 <p dir="ltr"><span>Student Research Competition authors will&nbsp;be notified of acceptance or rejection by&nbsp;26 January, 2015.<br>
  </span></p>
-<p dir="ltr"><span>Authors of all accepted submissions will receive instructions on how to submit the publication-ready copy of their Extended Abstract.&nbsp;&nbsp;Publication-ready submissions are due on&nbsp;2 January 2015. <br>
-<br>
+<p dir="ltr"><span>Authors of all accepted submissions will receive instructions on how to submit the publication-ready copy of their Extended Abstract.&nbsp;&nbsp;Publication-ready submissions are due on&nbsp;2 January 2015.
+
 </span></p>
 <p dir="ltr">A travel grant covering expenses for travel to CHI, including conference registration, transportation, lodging, and meals, up to a limit of US $500 will be provided to each student whose submission was accepted to the Student Research Competition. Students must be members of ACM to qualify for these awards.</p>
 </span></span>
