@@ -66,7 +66,7 @@
 <p ><span >12 January 2015 (Monday) - Course Notes (for printed course notes); 2 March 2015 for electronic Course Notes.</span></p>
 </li>
 <li >
-<p ><span ><span >15 January 2015 (Thursday) - </span>Papers &amp; Notes</span></p>
+<p ><span ><span >12 January 2015 (Thursday) - </span>Papers &amp; Notes</span></p>
 </li>
 <li >
 <p ><span > 2 Feb 2015 (Monday) - </span><span >alt.chi, Interactivity, Panels, Student Design Competition, Student Game Competition, Student Research Competition, Video Showcase, Works-in-Progress should be in camera-ready format upon submission.</span></p>
