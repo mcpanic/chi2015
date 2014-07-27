@@ -70,7 +70,7 @@ Therefore, we invite the submission of bold, compelling, critical, and innovativ
 <p dir="ltr" ><span >An alt.chi submission must be submitted via the <a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by January 5, 2015 (5:00PM PST). The alt.chi submission must include an extended abstract and may also include a 5-minute video figure.</span></p>
 
 <ol><li>
-<div ><span >Extended Abstract. Submissions must include a maximum 10-page paper, which an abstract of less than 100 workd, submitted in <a href="http://chi2014.acm.org/authors/format#extendedformat"><span >Extended Abstract Format</span></a> should. alt.chi submissions should not be accepted or under review anywhere else while in submission.
+<div ><span >Extended Abstract. Submissions must include a maximum 10-page paper, which an abstract of less than 100 words, submitted in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span >Extended Abstract Format</span></a>. alt.chi submissions should not be accepted or under review anywhere else while in submission.
 
 We welcome completely fresh submissions tailored to the specific goals and values of alt.chi. However, authors may also submit controversial or compelling work not accepted in other tracks. In particular, authors of highly discussed papers that are submitted but not accepted into the CHI Papers and Notes track may be invited to submit their work to alt.chi. In these cases, authors will be asked to submit the reviews that their CHI submission has previously received, along with a brief explanation of why they believe their paper will be a good fit for alt.chi.<br>
 

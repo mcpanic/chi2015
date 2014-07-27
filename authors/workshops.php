@@ -6,7 +6,7 @@
 <div>
 <h2>Workshops: Call for Participation</h2>
 </div>
-<div></div>
+
 <div>
 
 

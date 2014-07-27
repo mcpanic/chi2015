@@ -140,10 +140,11 @@ following criteria: </span></p>
 </span><span>
 <h3 ><a name="TOC-Preparing-and-Submitting-your-Student-Research-Competition-Submission"></a><span>Preparing and Submitting your Student Design Competition Submission</span></h3>
 <span>
-<p dir="ltr" ><span>Student Design Competition submissions must be submitted via the&nbsp;&nbsp;<a href="http://www.google.com/url?q=http%3A%2F%2Fwww.precisionconference.com%2F~sigchi&amp;sa=D&amp;sntz=1&amp;usg=AFrqEzd9zq0E98SC1wi3x-hSwoL6NAvtGw"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;5 January 2015, 5:00pm PST. The submission must have&nbsp;the following four components:&nbsp;&nbsp;</span></p>
+<p dir="ltr" ><span>Student Design Competition submissions must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;5 January 2015, 5:00pm PST. The submission must have&nbsp;the following four components:&nbsp;&nbsp;</span></p>
 
 <ol><li>
-<div ><span><span>Extended Abstract.&nbsp; <span>Teams will submit a non-anonymized paper (6 pages maximum)&nbsp; written in&nbsp;the <a href="http://www.google.com/url?q=http%3A%2F%2Fchi2014.acm.org%2Fauthors%2Fformat%23extendedformat&amp;sa=D&amp;sntz=1&amp;usg=AFrqEzeRZVL40Bb-t_ciunYU1X5NlixOdA"><span>Extended Abstract Format</span></a>&nbsp;summarizing their design solution and its evolution. </span><span>Submissions not meeting the page limit or formatting requirements will be automatically disqualified. <span>This document should be submitted as a single PDF and the file must be no larger than 4 Mb in size. </span></span><span><br>
+
+<div ><span><span>Extended Abstract.&nbsp; <span>Teams will submit a non-anonymized paper (6 pages maximum)&nbsp; written in&nbsp;the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstract Format</span></a>&nbsp;summarizing their design solution and its evolution. </span><span>Submissions not meeting the page limit or formatting requirements will be automatically disqualified. <span>This document should be submitted as a single PDF and the file must be no larger than 4 Mb in size. </span></span><span><br>
 <br>
 </span></span></span></div>
 </li>

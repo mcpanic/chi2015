@@ -166,7 +166,7 @@ Specifically, the review criteria will be the extent to which the case study rep
 
 <div>
 <h3><span><span>At the Conference</span></span></h3>
-<p dir="ltr"><span>Participants will be given 15 minutes (including questions) to present their case study during a scheduled session. Please see <a href="http://chi2014.acm.org/authors/guide-to-a-successful-presentation">Presenting at CHI 2015</a>&nbsp;for information about standard computing and A/V equipment that will be made available to&nbsp;presenters at CHI 2015. The Best Case Study award and any Honorable Mention recipient(s) will be announced at the conference.
+<p dir="ltr"><span>Participants will be given 15 minutes (including questions) to present their case study during a scheduled session. Please see <a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation">Presenting at CHI 2015</a>&nbsp;for information about standard computing and A/V equipment that will be made available to&nbsp;presenters at CHI 2015. The Best Case Study award and any Honorable Mention recipient(s) will be announced at the conference.
 </span></p>
 </div>
 

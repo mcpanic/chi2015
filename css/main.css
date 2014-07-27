@@ -229,6 +229,13 @@ blockquote p {
 	margin-bottom: 10px;
 }
 
+.column-main .date {
+	font-weight: bold;
+}
+
+.column-main .emph {
+	font-weight: bold;
+}
 /* ==========================================================================
    Right sidebar
    ========================================================================== */
