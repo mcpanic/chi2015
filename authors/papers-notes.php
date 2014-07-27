@@ -14,7 +14,7 @@
 <li>Author rebuttals: 19-26 November 2014 (5:00pm PT)</li>
 <li>Notification: 15 December 2014</li>
 <li>PCS submission for consideration for final acceptance: 7 January 2015 (5:00pm PT)</li>
-<li>Camera-ready final deadline: 15 January 2015 (5:00pm PT)<br>
+<li>Camera-ready final deadline: 12 January 2015 (5:00pm PT)<br>
 <br>
 </li></ul>
 <li>Online submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a></li>
