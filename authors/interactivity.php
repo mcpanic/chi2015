@@ -33,7 +33,7 @@
 <li>Submission Format:&nbsp;4-page Extended Abstract,&nbsp;video preview, still image, and a&nbsp;supplemental PDF describing what attendees will experience as well as technical and space requirements.</li>
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li>
 </ul>
-<li>Selection Process: <a href="http://chi2015.acm.org/authors/call-for-participation#curated">Curated</a></li>
+<li>Selection Process: <a href="http://chi2015.acm.org/authors/selection-processes#curated">Curated</a></li>
 <li>Chairs: Julie R. Williamson &amp; Juhyun Eune (<a href="mailto:interactivity@chi2015.acm.org">interactivity@chi2015.acm.org</a>) <br>
 </li>
 <li><span>At the Conference: Accepted Interactivity will be presented during the conference in the exhibits area.</span></li>

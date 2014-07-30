@@ -21,7 +21,7 @@
 <li><span>Submission Format: 6-page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a><span>, poster, and proof of student status</span></li>
 <li><span><span><strong>Submissions are not anonymous and should include author name, affiliation, and contact information.</strong></span></span></li>
 <li><span><strong>Submissions can only have one author (the student).</strong></span></li></ul>
-<li><span>Selection process: <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a></span></li>
+<li><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li><span>Chairs: <span>Seungyon “Claire” Lee, <span>Derek Reilly, <span>Geehyuk Lee (<span><a href="mailto:src@chi2015.acm.org"><span>src@chi2015.acm.org</span></a>) </span></span></span></span></span></li>
 <li><span>At the Conference: All accepted students will participate in juried poster session.&nbsp;A group of students will then be selected to advance to the next round which will involve giving a short talk. Please see the </span><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"><span>Information for Poster Presenters</span></a><span> for poster requirements.</span></li>
 <li><span>Archives: Extended abstracts; USB and ACM Digital Library</span></li></ul>
@@ -104,7 +104,7 @@
 
 <div>
 <h3><span><span>Student Research Competition Selection Process</span></span></h3>
-<p dir="ltr"><span>The Student Research Competition is a </span><a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>juried</span></a><span> track for CHI 2015. Juried content is reviewed by a jury of experts that will evaluate the work based on its overall quality, originality, and relevance to the CHI community. While not considered archival, Student Research Competition extended abstracts will be archived in the ACM Digital Library. Publishing in the Student Research Competition will not constrain future submissions as your abstract and poster are not considered to be a prior publication of the work for the purposes of a future CHI Paper or CHI Note or for a journal publication.</span></p>
+<p dir="ltr"><span>The Student Research Competition is a </span><a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>juried</span></a><span> track for CHI 2015. Juried content is reviewed by a jury of experts that will evaluate the work based on its overall quality, originality, and relevance to the CHI community. While not considered archival, Student Research Competition extended abstracts will be archived in the ACM Digital Library. Publishing in the Student Research Competition will not constrain future submissions as your abstract and poster are not considered to be a prior publication of the work for the purposes of a future CHI Paper or CHI Note or for a journal publication.</span></p>
 <p dir="ltr"><span>Submissions will be evaluated based on:</span></p>
 <ul><li dir="ltr">
 <p dir="ltr"><span>Quality of work</span></p>

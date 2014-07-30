@@ -8,12 +8,13 @@
 </div>
 
 <div >
-<p>CHI uses two different formats for most submissions:&nbsp;<a href="http://chi2015.acm.org/authors/format#archiveformat" >HCI Archive</a>&nbsp;and&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat" >Extended Abstract</a>.</p>
+<p>CHI uses two different formats for most submissions:&nbsp;<a href="http://chi2015.acm.org/authors/format#archiveformat" >CHI Proceedings</a>&nbsp;and&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat" >Extended Abstract</a>.</p>
+
 <h3 >Digital Accessibility</h3>
 <p>The CHI 2015 conference committee is asking all authors to work on improving the accessibility of their submissions. Please see the&nbsp;<a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission" >Guide to an Accessible Submission</a>&nbsp;for more details.</p>
 
 
-<h3 id="archiveformat">HCI Archive Format</h3>
+<h3 id="archiveformat">CHI Proceedings Format</h3>
 <p><img align="left" alt="" hspace="15" src="http://chi2015.acm.org/img/portrait.gif"></p>
 <p>These templates should be used for submitting CHI Papers and CHI Notes. Please see the&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat" >Extended Abstract Format</a>&nbsp;(below) for other submission types.</p>
 <br>
@@ -28,7 +29,7 @@
 
 <h3 id="extendedformat">Extended Abstract Format</h3>
 <p><img align="left" alt="" hspace="15" src="http://chi2015.acm.org/img/landscape.gif"></p>
-<p>These template should be used for submitting workshops, courses, case studies, doctoral consortium, panels, interactivity, SIGs, works-in-progress, alt.chi, and the student competitions. Please see the&nbsp;<a href="http://chi2015.acm.org/authors/format#archiveformat" >HCI Archive Format</a>&nbsp;(above) for submitting CHI Papers and CHI Notes.</p>
+<p>These template should be used for submitting workshops, courses, case studies, doctoral consortium, panels, interactivity, SIGs, works-in-progress, alt.chi, and the student competitions. Please see the&nbsp;<a href="http://chi2015.acm.org/authors/format#archiveformat" >CHI Proceedings Format</a>&nbsp;(above) for submitting CHI Papers and CHI Notes.</p>
 <ul><li><a href="http://www.sigchi.org/publications/chipubform/sigchi-extended-abstracts-word-template-short/view"  target="_blank">Microsoft Word Template for Extended Abstracts</a></li>
 <li><a href="http://www.sigchi.org/publications/chipubform/sigchi-extended-abstracts-latex-template/view"  target="_blank">LaTeX Template for Extended Abstracts</a></li>
 <li><a href="http://chi2015.acm.org/templates/SIGCHIextendedabstracts.pdf" >PDF Example for Extended Abstracts</a><br>

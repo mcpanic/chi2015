@@ -22,7 +22,7 @@ Video Showcase : Call for Participation</h2>
 <li>Submission Format: one page description in <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a></li>
 <li>Video Submission Format: H.264 encoded MP4, at least&nbsp;1280px x 720px, at most 5 minutes (2-3 minutes is a more common length)</li>
 <li><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></li></ul>
-<li>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/call-for-participation#juried">Juried</a></li>
+<li>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/selection-processes#juried">Juried</a></li>
 <li>Chairs: Jinwook Seo and Rodrigo de Oliveira (<a href="mailto:showcase@chi2015.acm.org">showcase@chi2015.acm.org</a>)</li>
 <li>At the Conference: All accepted videos will be shown during a special session, and we will announce the nominees and winner(s) of the Golden Mouse award.</li>
 <li>Archives: Extended Abstracts; USB and ACM Digital Library</li></ul>

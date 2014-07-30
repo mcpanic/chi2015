@@ -29,7 +29,7 @@
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li>
 
 </ul>
-<li>Selection Process: <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a></li>
+<li>Selection Process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></li>
 <li>Chairs: Shamsi Iqbal, Shaun Lawson, and Shengdong Zhao (<a href="mailto:wip@chi2015.acm.org">wip@chi2015.acm.org</a>) </li>
 <li>At the Conference: Accepted submissions will be presented as a poster during the conference. We will provide more information once the acceptance notifications are sent out.</li>
 <li>After the Conference: Extended Abstracts;&nbsp;USB and ACM Digital Library</li></ul>

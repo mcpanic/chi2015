@@ -31,7 +31,7 @@
 <li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
 <li><span>Submission Format:&nbsp;6-8 page abstract describing your research</span><span>.&nbsp;</span><span>Supplementary materials that authors deem appropriate may also be submitted</span></li>
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li></ul>
-<li><span>Selection process: </span><a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a></li>
+<li><span>Selection process: </span><a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></li>
 <li>Chairs: Joonhwan Lee &amp; Danielle Cooley (<a href="mailto:casestudies@chi2015.acm.org">casestudies@chi2015.acm.org</a>) </li>
 <ul>
 </ul>
@@ -42,7 +42,7 @@
 
 <div>
 <h3><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the Case Study Chairs</h3>
-<p dir="ltr"><span>Case studies are part of CHI "Contemporary Trends" - they are </span><a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a><span> content that </span><span>provoke</span><span>, </span><span>intrigue</span><span>, and </span><span>inspire</span><span> the CHI audience. These submissions record the history of </span><span>HCI practice and innovation</span><span> outside of the scope of traditional archival research papers.</span></p>
+<p dir="ltr"><span>Case studies are part of CHI "Contemporary Trends" - they are </span><a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a><span> content that </span><span>provoke</span><span>, </span><span>intrigue</span><span>, and </span><span>inspire</span><span> the CHI audience. These submissions record the history of </span><span>HCI practice and innovation</span><span> outside of the scope of traditional archival research papers.</span></p>
 
 <p dir="ltr"><span>Case Studies provide an excellent means of presenting results that address particular phenomena, especially in real-world contexts. A Case Study could involve, for example, an in-depth study of a specific event or a particular problem encountered and solved. We expect the author(s) to have gained a better understanding – perhaps even a radical redefinition or reframing – the phenomenon, and to convey their insights and new understandings in a way that advances the field. We envision that the insights will enable practitioners to improve their practice, that they can seed further research into practice, and overall will enhance our understanding of HCI. &nbsp;</span></p>
 

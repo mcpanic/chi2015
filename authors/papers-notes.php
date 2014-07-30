@@ -20,7 +20,7 @@
 </li></ul>
 <li>Online submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a></li>
 <li>Submission format: anonymized 10-page Paper or 4-page Note in&nbsp;<a href="http://chi2015.acm.org/authors/format" >CHI Archive Format</a>&nbsp;with 150 word abstract. Authors also must specify the review subcommittee and keywords.</li>
-<li>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/call-for-participation#refereed" >Refereed</a></li>
+<li>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/selection-processes#refereed" >Refereed</a></li>
 <li>At the conference: presenters of Papers have a 20-minute slot (including questions, stop after 17 minutes); presenters of Notes have a 10-minute slot (including questions, stop after 8 minutes).</li>
 <li>Archives: Papers and Notes are archived in main conference proceedings, available on DVD and in the ACM Digital Library.</li></ul>
 <h3 >Message from the CHI Papers &amp; Notes Chairs</h3>
@@ -47,7 +47,7 @@ See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Sele
 <li><strong>Papers and Notes are handled by the same program committee.</strong>&nbsp;Finally, you will indicate whether your submission is a Paper or a Note. All submissions will be handled by the same program committee, but the committee will have different expectations for Papers and Notes. See&nbsp;<a href="http://chi2015.acm.org/authors/papers-versus-notes" >Papers versus Notes: What is the difference?</a></li>
 <li><strong>Write and Format Your Anonymized Paper or Note.</strong>&nbsp;Your submission must be original. It cannot be published or under concurrent review elsewhere. A Paper is no more than 10 pages long, while a Note is no more than 4 pages long. This includes figures, references, appendices and an abstract of less than 150 words long. Over length submissions will be rejected. See
 <ul><li><a href="http://chi2015.acm.org/authors/format" >CHI Archive Format</a></li>
-<li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archive-submission" >Guide to a Successful Archive Submission</a></li>
+<li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archival-submission" >Guide to a Successful Archival Submission</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission" >Guide to an Accessible Submission</a></li>
 <li><a href="http://chi2015.acm.org/authors/contributions-to-hci" >Contributions to HCI</a></li>
 <li><a href="http://chi2015.acm.org/authors/chi-anonymization-policy" >CHI Anonymization Policy</a></li>

@@ -22,7 +22,7 @@
 <li ><span><span><span>Submission Format: 4 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>,<span>&nbsp;Game Demonstration, Video Trailer, and proof of all team members' student status.</span></span></span></li>
 <li ><span><span><span><span><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information</strong></span></span></span></span></span><span><br>
 </span></li></ul>
-<li ><span>Selection process: <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a></span></li>
+<li ><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li ><span>Chairs: Alessandro Canossa, Soojin Jun, and <span>Florian 'Floyd' Mueller </span>(<span><a href="mailto:sgc@chi2015.acm.org"><span>sgc@chi2015.acm.org</span></a>)</span></span></li>
 <li ><span>At the Conference:&nbsp; </span><span>Finalists (top three in each category) will present their games at the&nbsp;<strong>Student Game Competition Event</strong>. Each finalist will also prepare and host a playable version of the game at the conference for a scheduled demo/play session.</span></li>
 <li ><span>Archives: Extended     abstracts; USB and ACM Digital Library<br>
@@ -69,7 +69,7 @@ Soojin Jun, Assistant Professor, Yonsei University, Korea<br>
 <p ><span>There is no strict limit on team size, but team size will be taken into consideration when judging and larger teams will be expected to produce more ambitious submissions. There is no limit to the number of teams that may compete from any given University. Submissions are invited from all students at all stages of their university careers, from undergraduate to postgraduate. While not a mandatory requirement, it is strongly encouraged that the teams leverage multi-disciplinarity and diversities of all kinds.</span></p>
 
 <h3 >Student Game Competition Selection Process</h3>
-<p >The Student Game Competition is a <a href="http://chi2015.acm.org/authors/call-for-participation#juried" ><span>juried</span></a><span> </span>track for CHI 2015. Each game will be reviewed by both academic and professional experts in game design and development, with emphasis on expertise in the entry categories.</p>
+<p >The Student Game Competition is a <a href="http://chi2015.acm.org/authors/selection-processes#juried" ><span>juried</span></a><span> </span>track for CHI 2015. Each game will be reviewed by both academic and professional experts in game design and development, with emphasis on expertise in the entry categories.</p>
 <p >Finalists and award winners will be selected based on the following criteria:</p>
 <ul ><li>Quality and originality of game play itself (determined through game play).</li>
 <li>Positioning and articulation of the game's contribution to the submission category domain (determined through Extended Abstract).</li></ul>

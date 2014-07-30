@@ -1,9 +1,9 @@
 <?php
-  $pageTitle = "Guide to a Successful Archive Submission";
+  $pageTitle = "Guide to a Successful Archival Submission";
   include "../header.php";
 ?>
 <div >
-<h2 >Guide to a Successful Archive Submission</h2>
+<h2 >Guide to a Successful Archival Submission</h2>
 </div>
 
 <div >
@@ -21,7 +21,11 @@
 <li>Any aspects of the submission’s written presentation that need improvement.</li>
 <li>A rating of the submission’s acceptability, from 5 (high) down to 1 (low). Submissions whose contribution is judged significant are rated from 4 to 5, depending on whether or not they contain any non-serious flaws.</li></ul>
 <p>Reviewers can also add further comments that they want you or the Technical Programs Committee to see. But for you, the main concerns to keep in mind are those numbered 2, 3, and 4: you should offer the reviewers a strong, well-presented contribution to HCI that meets the criteria in the Call. If you do this, your submission should get a high rating.</p>
+
+<!--
 <p>For further details, we recommend you look at the&nbsp;<a href="http://chi2013.acm.org/cfp-reviewers-guide.shtml"  target="_blank">Guide to Reviewing CHI Papers and Notes</a>.</p>
+-->
+
 <h3 >Making a Significant Contribution</h3>
 <p>Your submission’s reviewers will be asked to focus on the significance of the submission’s contribution, the benefit others can gain from its results, the validity of the work, and its originality. Of these, the&nbsp;<strong>contribution and its significance are the most important</strong>. CHI Papers and Notes are expected to offer contributions that clearly and significantly advance the field of HCI. Your contribution should offer CHI attendees, and readers of the proceedings, something that adds to what they could have learned from existing publications.</p>
 <p>HCI is a very broad field, and it opens up a correspondingly&nbsp;<strong>broad range of possible <a href="http://chi2015.acm.org/authors/contributions-to-hci" >contributions to HCI</a></strong>. This list is not exhaustive, but it encompasses the majority of past CHI research contributions. This contribution should be made clear in the abstract as well as the submission itself, outlining its direct significance to the field of HCI.</p>

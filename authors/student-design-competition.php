@@ -25,7 +25,7 @@ Student Design Competition : Call for Participation</h2>
 <li ><span><span><span>Submission Format: 6 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>, <span>a 5-minute video clip in MP4 format,</span><span>&nbsp;and proof of all     team members' student status.</span></span></span></li>
 <li ><span><span><span><span><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information</strong></span></span></span></span></span><span><br>
 </span></li></ul>
- <li ><span>Selection process: <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span>Juried</span></a></span></li>
+ <li ><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li ><span>Chairs: Youn-kyung Lim and Anirudha N. Joshi (<span><a href="mailto:sdc@chi2015.acm.org"><span>sdc@chi2015.acm.org</span></a>)</span></span></li>
 <li ><span>At the Conference: Accepted submissions will participate in a juried poster session.&nbsp;4 teams will then be&nbsp;chosen to advance to the next round which will involve giving a short&nbsp;presentation. Please
      see the&nbsp;</span><u><span>Information for Poster Presenters</span></u><span> for poster requirements.</span></li>

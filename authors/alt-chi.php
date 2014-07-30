@@ -45,12 +45,11 @@
 <div>
 <h3 ><a name="TOC-Quick-Facts"></a>alt.chi Commentaries</h3>
 <p dir="ltr" ><span ><span >Commentaries started in 2014 with the goal to facilitate conversation across the open reviewing process and presentations at the conference. alt.chi subject matter often cuts across CHI sub-communities. The discussion alt.chi papers generate as as important as the paper itself. This year, we will invite a selection of alt.chi open reviewers to revise their work as a short commentary to be published with the alt.chi paper. These commentaries will amplify and enrich alt.chi presentations of provocative work.</span></span></p>
-<br>
 </div>
 
 <div>
 <h3 ><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the alt.chi Chairs</h3>
-<p dir="ltr" ><span >alt.chi 2015 proudly continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span >Juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
+<p dir="ltr" ><span >alt.chi 2015 proudly continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >Juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
 
 Therefore, we invite the submission of bold, compelling, critical, and innovative works that challenge or re-imagine human computer interaction research and design. alt.chi 2015 is methodologically inclusive and accepts reports, analyses, designs, and systematic inquiries – whether quantitative, qualitative, or both. Especially encouraged are works that speak to the conference theme of “changing perspectives” through explorations of areas currently outside the center of the field. alt.chi 2015 is an opportunity to re-shape the conversation by introducing a vibrant intellectual community to a new way of doing work. We invite you to change the game.
 
@@ -64,9 +63,6 @@ Therefore, we invite the submission of bold, compelling, critical, and innovativ
 
 <div>
 <h3 ><span >Preparing and Submitting your alt.chi Submission</span></h3>
-<strong>
-
-</strong>
 <p dir="ltr" ><span >An alt.chi submission must be submitted via the <a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by January 5, 2015 (5:00PM PST). The alt.chi submission must include an extended abstract and may also include a 5-minute video figure.</span></p>
 
 <ol><li>
@@ -86,10 +82,6 @@ The <a href="http://altchi.org"><span >alt.chi submission system</span></a> is n
 
 </div>
 
-
-
-<div>
-</div>
 <h3 ><span ><span >alt.chi English Review Process</span></span></h3>
 <div>
 
@@ -111,13 +103,11 @@ later, during the discussion period).</span></li>
 <span >We hope you find this service helpful. This is a pilot program, tried only once at CHI before. Your feedback will help us decide whether and how to handle this service going
 forward. </span></li></ul>
 </span>
-<div><span >
-</span></div>
 
 <div>
 <h3 ><span ><span >alt.chi Selection Process</span></span></h3>
 
-<p dir="ltr" ><span >alt.chi is <a href="http://chi2012.acm.org/submissions.shtml#juried"><span >Juried</span></a> for CHI 2015. During the period between submissions and notifications, members of the CHI community will be invited to discuss the submission in a public, non-anonymous, forum*. Anyone who is interested will be able to view and discuss your work. Authors will be encouraged to invite appropriate members of the CHI community to comment on their work, and the alt.chi committee will also invite discussions. We want to encourage discussion and debate on what makes a good alt.chi (or regular CHI) submission, and, ultimately, what pushes the field forward. After the discussion period, a jury of experts will evaluate the work based on:</span></p>
+<p dir="ltr" ><span >alt.chi is <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >Juried</span></a> for CHI 2015. During the period between submissions and notifications, members of the CHI community will be invited to discuss the submission in a public, non-anonymous, forum*. Anyone who is interested will be able to view and discuss your work. Authors will be encouraged to invite appropriate members of the CHI community to comment on their work, and the alt.chi committee will also invite discussions. We want to encourage discussion and debate on what makes a good alt.chi (or regular CHI) submission, and, ultimately, what pushes the field forward. After the discussion period, a jury of experts will evaluate the work based on:</span></p>
 
 <span >
 <ul >
@@ -131,7 +121,7 @@ forward. </span></li></ul>
 <p dir="ltr" ><span ><span ><span >Submissions should not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span >Submissions </span>should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,<span ><span ><span >&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span></span></span><br>
 </span></p>
 
-<p dir="ltr" >*all reviewers will be required to consent to a review agreement prior to participating in the selection process.<br>
+<p dir="ltr" >* all reviewers will be required to consent to a review agreement prior to participating in the selection process.<br>
 </p>
 </span>
 </span></div>
@@ -139,7 +129,6 @@ forward. </span></li></ul>
 <div>
 <h3 ><span ><span >Upon Acceptance of your alt.chi Submission</span></span></h3>
 <p dir="ltr" ><span><span >Authors will be notified of acceptance or rejection by&nbsp;2 Feb 2015. Final versions of accepted Extended Abstracts must be uploaded to PCS by 9 Feb 2015.</span></span></p>
-<br>
 </div>
 
 <div>

@@ -19,7 +19,7 @@
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
 <li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
 <li>Submission Format:&nbsp;<span>4-page extended abstract and </span><span>supplementary material describing the SIG</span></li></ul>
-<li><span>Selection process: Juried</span></li>
+<li><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#curated">Curated</a></span></li>
 <li>Chairs: Simone Barbosa &amp; Enrico Rukzio (<a href="mailto:sigs@chi2015.acm.org">sigs@chi2015.acm.org</a>)</li>
 <li>At the Conference:&nbsp;<span>Accepted SIGs will have a scheduled session at the conference</span></li>
 <li>Archives:&nbsp;<span>&nbsp;SIG Extended abstracts will be published in the Extended Abstracts; USB&nbsp;and ACM Digital Library</span></li></ul>
