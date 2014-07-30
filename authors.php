@@ -1,6 +1,6 @@
 <?php
   $pageTitle = "Call for Participation";
-  include "../header.php";
+  include "./header.php";
 ?>
 
 <div>
@@ -81,5 +81,5 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
 
 
 <?php
-  include "../footer.php";
+  include "./footer.php";
 ?>
