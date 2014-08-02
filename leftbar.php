@@ -9,7 +9,7 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">2 August 2014</div>
 		<ul>
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/authors">Call for Papers is announced.</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/authors">CFP is announced.</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
