@@ -24,8 +24,8 @@
 <ul>
 
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
-<li><span>Submission Format: a 6-page poster abstract prepared in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>&nbsp;and a 1-page poster design</span></li>
+<li><span>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
+<li><span>Submission Format: a 6-page poster abstract prepared in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts Format</span></a> and a 1-page poster design</span></li>
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li>
 
 </ul>
@@ -53,7 +53,7 @@
 
 <p dir="ltr"><span>The Work-in-Progress category aims to attract participation from a broad range of disciplines covering a spectrum of topics and methodologies. We encourage submissions from all of CHI's communities. Please note that summaries of completed work or reduced versions of main track CHI submissions are inappropriate as a Work-in-Progress submission and will be rejected.</span></p>
 
-<p dir="ltr"><span>Work-in-Progress abstracts appear in the CHI Extended Abstracts proceedings. Copyright is retained by the authors, and the material from them can be used as the basis for future publications as long as there are "significant" revisions from the original. For more information on the republishability of material appearing at CHI, along with links to relevant ACM policies, please see the section on Republishability (add link) on the main CHI CFP.</span></p>
+<p dir="ltr"><span>Work-in-Progress abstracts appear in the CHI Extended Abstracts proceedings. Copyright is retained by the authors, and the material from them can be used as the basis for future publications as long as there are "significant" revisions from the original. For more information on the republishability of material appearing at CHI, along with links to relevant ACM policies, please see the section on <a href="http://chi2015.acm.org/authors/selection-processes#republishability">Republishability</a> on the main CHI CFP.</span></p>
 <br>
 </div>
 
@@ -64,7 +64,7 @@
 
 </div>
 <ol>
-  <li>A six-page poster abstract prepared in the Extended Abstract Format and submitted as a PDF file. Your poster abstract should be close to camera-ready and thoroughly copy-edited. Work-in-Progress submissions are not anonymous and should therefore include all author names, affiliations and contact information. Please note: Any submission longer than 6 pages and/or not adhering to the Extended Abstract Format will be automatically rejected.
+  <li>A six-page poster abstract prepared in the <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a> and submitted as a PDF file. Your poster abstract should be close to camera-ready and thoroughly copy-edited. Work-in-Progress submissions are not anonymous and should therefore include all author names, affiliations and contact information. Please note: Any submission longer than 6 pages and/or not adhering to the Extended Abstracts Format will be automatically rejected.
   </li>
 
   <li>An electronic version of the poster that you will present at the conference. For the review process, your poster should be reduced to one standard page in size and submitted as a PDF file. Please note that the physical posters presented at the conference may not be larger than A0 size. </li>

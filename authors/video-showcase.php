@@ -11,15 +11,15 @@ Video Showcase : Call for Participation</h2>
 
 <h3>Quick Facts</h3>
 <ul><li>Important Dates:</li>
-<ul><li>Submission deadline: 5 January 2015 (5:00pm PST)</li>
+<ul><li>Submission deadline: 5 January 2015 (5:00pm PDT)</li>
 <li>Notification deadline: 2 February 2015</li>
 <li>Publication-ready deadline: 9 February 2015<br>
 <br>
 </li></ul>
 <li>Submission Details:</li>
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format">http://chi2015.acm.org/authors/format</a>)</li>
-<li>Submission Format: one page description in <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a></li>
+<li>Template: <a href="http://chi2015.acm.org/authors/format">Extended Abstracts Format</a></li>
+<li>Submission Format: one page description in <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a></li>
 <li>Video Submission Format: H.264 encoded MP4, at least&nbsp;1280px x 720px, at most 5 minutes (2-3 minutes is a more common length)</li>
 <li><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></li></ul>
 <li>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/selection-processes#juried">Juried</a></li>
@@ -41,7 +41,7 @@ Rodrigo de Oliveira, Google (YouTube)</p>
 <div><br>
 </div>
 <ol><li>
-<div>Extended Abstract. A one-page&nbsp;description of your video submission submitted in&nbsp;the Conference <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a>. <br>
+<div>Extended Abstract. A one-page&nbsp;description of your video submission submitted in&nbsp;the Conference <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a>. <br>
 <br>
 </div>
 </li>

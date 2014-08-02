@@ -28,7 +28,7 @@
 <li>Submission Details:</li>
 <ul>
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
+<li><span>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
 <li><span>Submission Format:&nbsp;6-8 page abstract describing your research</span><span>.&nbsp;</span><span>Supplementary materials that authors deem appropriate may also be submitted</span></li>
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li></ul>
 <li><span>Selection process: </span><a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></li>
@@ -126,7 +126,7 @@
 <p dir="ltr"><span><span><span>A Case Study must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The Case Study submission must have an extended abstract, but can also have supplementary material. </span></span></span></p>
 
 <ol><li>
-<div><span><span>Extended Abstract. </span></span><span>The primary submission material consists of an extended abstract in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstract Format</span></a> (6-8 pages). The extended abstract should describe the experience, focusing on the lessons you want readers to take away from the presentation. Your extended abstract must stand alone. Readers must be able to understand the Case Study with only this material.<br>
+<div><span><span>Extended Abstract. </span></span><span>The primary submission material consists of an extended abstract in the <a href="http://chi2015.acm.org/authors/format#extendedformat" target="_blank">Extended Abstracts Format</a> (6-8 pages). The extended abstract should describe the experience, focusing on the lessons you want readers to take away from the presentation. Your extended abstract must stand alone. Readers must be able to understand the Case Study with only this material.<br>
 <br>
 </span></div>
 </li>

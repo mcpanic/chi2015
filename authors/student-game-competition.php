@@ -18,14 +18,14 @@
 </li>
 <li ><span>Submission Details:</span></li>
 <ul><li><span>Online Submission:</span><span>&nbsp;</span><a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;</li>
-<li ><span><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format"  target="_blank">http://chi2015.acm.org/authors/format</a>)</span></span></li>
+<li ><span><span>Template: <a href="http://chi2015.acm.org/authors/format"  target="_blank">Extended Abstracts Format</a></span></span></li>
 <li ><span><span><span>Submission Format: 4 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>,<span>&nbsp;Game Demonstration, Video Trailer, and proof of all team members' student status.</span></span></span></li>
 <li ><span><span><span><span><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information</strong></span></span></span></span></span><span><br>
 </span></li></ul>
 <li ><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li ><span>Chairs: Alessandro Canossa, Soojin Jun, and <span>Florian 'Floyd' Mueller </span>(<span><a href="mailto:sgc@chi2015.acm.org"><span>sgc@chi2015.acm.org</span></a>)</span></span></li>
 <li ><span>At the Conference:&nbsp; </span><span>Finalists (top three in each category) will present their games at the&nbsp;<strong>Student Game Competition Event</strong>. Each finalist will also prepare and host a playable version of the game at the conference for a scheduled demo/play session.</span></li>
-<li ><span>Archives: Extended     abstracts; USB and ACM Digital Library<br>
+<li ><span>Archives: Extended abstracts; USB and ACM Digital Library<br>
 </span><br>
 </li></ul>
 <h3 >Message from the Student Game Competition Chairs</h3>
@@ -56,7 +56,7 @@ Soojin Jun, Assistant Professor, Yonsei University, Korea<br>
 <ul><li><span>If the game is playable on Windows/Mac/Linux PC or laptop, Windows/iOS/Android phone or tablet, XBox 360 (with Kinect), Playstation 3 (with Move), Wii, Wii U, DS, 3DS, PSP, PS Vita, or any individual piece of hardware combined with a PC (ie, a tablet and a PC, or a Kinect and a PC) you must submit a game executable with at least one fully polished level. You must also submit clear and complete instructions for how to install and run the game.</span></li>
 <li><span>If the game is not playable on the above hardware, you must submit a maximum 4 minute gameplay video clearly showing both the screen (if present) and the player interacting with the game.</span></li></ul>
 <li><span><b>A link to a brief video 'trailer'</b> that gives an overview of the game (2 minutes long maximum).&nbsp;</span></li>
-<li><span><b>Extended abstract</b>: Student should submit a non-anonymized paper (4 pages) written in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstract Format</span></a>. Paper should include:</span></li>
+<li><span><b>Extended abstract</b>: Student should submit a non-anonymized paper (4 pages) written in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts Format</span></a>. Paper should include:</span></li>
 <ul><li><span>An overview of the game itself, and the design and development process, with screenshots/images of play.</span></li>
 <li><span>Positioning of the game in terms of related work, including references and outlining the game's unique contribution (see game categories above for more detail about each category's guidelines).</span></li>
 <li><span>Acknowledgement of any assistance drawn from outside (advisors, faculty, domain experts, existing solutions, users, etc.)</span></li></ul>

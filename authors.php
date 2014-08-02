@@ -30,7 +30,7 @@ Please feel free to contact the <a href="mailto:technicalprogram@chi2015.acm.org
 </div>
 
 <div>
-CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-processes">selection processes</a>, each with a different levels of review, feedback, and opportunities for republication.  Please review the selection process for your submission category to ensure it matches your expectations.
+CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-processes">selection processes</a>, each with a different levels of review, feedback, and opportunities for republication. Please review the selection process for your submission category to ensure it matches your expectations.
 </div>
 
 <ul>
@@ -38,8 +38,11 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
 <li><span class="emph">Juried:</span>&nbsp;Works-in-Progress, Case Studies, alt.chi, Student Game, Design and Research Competitions</li>
 <li><span class="emph">Curated:</span>&nbsp;Workshops, Panels, SIG meetings, Interactivity, Videos, Courses, Doctoral Consortium</li>
 </ul>
-<br>
-<div><span >The submission process is detailed in the&nbsp;</span><a href="http://chi2015.acm.org/authors/call-for-participation"  title="Call for Participation">Call for Participation</a><span >.&nbsp;</span><a href="http://chi2015.acm.org/authors/format"  title="Format">Templates</a><span >&nbsp;are available for the different submission formats. All submissions are made through the&nbsp;</span><a href="http://precisionconference.com/~sigchi"  target="_blank" title="PCS online submission site">PCS online system</a><span >.</span></div>
+<div>
+<!--
+<span >The submission process is detailed in the&nbsp;</span><a href="http://chi2015.acm.org/authors/call-for-participation"  title="Call for Participation">Call for Participation</a><span >.&nbsp;</span>
+-->
+<a href="http://chi2015.acm.org/authors/format"  title="Format">Templates</a><span >&nbsp;are available for the different submission formats. All submissions are made through the&nbsp;</span><a href="http://precisionconference.com/~sigchi"  target="_blank" title="PCS online submission site">PCS online system</a><span >.</span></div>
 <br>
 <div><span >The deadlines for submitting to CHI 2015 are as follows:</span></div>
 
@@ -50,11 +53,11 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
 <span class="date">22 September 2014 (Monday)</span> - <a href="http://chi2015.acm.org/authors/papers-notes" >Papers &amp; Notes</a></li>
 
 <li >
-<span class="date">6 October 2015 (Monday)</span> - <a href="http://chi2015.acm.org/authors/case-studies">Case Studies</a>, <a href="http://chi2015.acm.org/authors/workshops" >Workshops</a>, <a href="http://chi2015.acm.org/authors/courses">Courses</a>, <a href="http://chi2015.acm.org/authors/doctoral-consortium" >Doctoral Consortium</a>, <a href="http://chi2015.acm.org/authors/interactivity" >Interactivity</a>, <a href="http://chi2015.acm.org/authors/sig-meetings" >SIG Meetings</a>
+<span class="date">6 October 2015 (Monday)</span> - <a href="http://chi2015.acm.org/authors/case-studies">Case Studies</a>, <a href="http://chi2015.acm.org/authors/workshops" >Workshops</a>, <a href="http://chi2015.acm.org/authors/courses">Courses</a>, <a href="http://chi2015.acm.org/authors/doctoral-consortium" >Doctoral Consortium</a>, <a href="http://chi2015.acm.org/authors/interactivity">Interactivity</a>
 </li>
 
 <li >
-<span class="date">5 January 2015 (Monday)</span> - <a href="http://chi2015.acm.org/authors/alt-chi">alt.chi</a>, <a href="http://chi2015.acm.org/authors/panels">Panels</a>, <a href="http://chi2015.acm.org/authors/student-design-competition" >Student Design Competition</a>, <a href="http://chi2015.acm.org/authors/student-game-competition" >Student Game Competition</a>, <a href="http://chi2015.acm.org/authors/student-research-competition">Student Research Competition</a>, <a href="http://chi2015.acm.org/authors/video-showcase" >Video Showcase</a>, <a href="http://chi2015.acm.org/authors/works-in-progress" >Works-in-Progress</a>
+<span class="date">5 January 2015 (Monday)</span> - <a href="http://chi2015.acm.org/authors/works-in-progress" >Works-in-Progress</a>, <a href="http://chi2015.acm.org/authors/panels">Panels</a>, <a href="http://chi2015.acm.org/authors/student-design-competition" >Student Design Competition</a>, <a href="http://chi2015.acm.org/authors/student-game-competition" >Student Game Competition</a>, <a href="http://chi2015.acm.org/authors/student-research-competition">Student Research Competition</a>, <a href="http://chi2015.acm.org/authors/video-showcase" >Video Showcase</a>, <a href="http://chi2015.acm.org/authors/sig-meetings" >SIG Meetings</a>, <a href="http://chi2015.acm.org/authors/alt-chi">alt.chi</a>
 </li>
 </ul>
 
@@ -71,7 +74,10 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
 <li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission"  title="Guide to an Accessible Submission">Guide to an Accessible Submission</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation"  title="Guide to a Successful Presentation">Guide to a Successful Presentation</a></li>
-<li><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"  title="Information for Poster Presenters">Information for Poster Presenters</a></li></ul>
+<!--
+<li><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"  title="Information for Poster Presenters">Information for Poster Presenters</a></li>
+-->
+</ul>
 
 <h4>Reviewer Guides</h4>
 <ul ><li><a href="http://chi2015.acm.org/authors/guide-to-reviewing-chi-papers-and-notes"  title="Guide to Reviewing CHI Papers and Notes">Guide to Reviewing CHI Papers and Notes</a></li></ul>

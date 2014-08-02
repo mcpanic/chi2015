@@ -26,9 +26,9 @@
 <li>Submission Details:</li>
 <ul >
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a></li>
-<li><span >Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format"  target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
-<li><span >Camera-ready, 10 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span >Extended Abstract Format</span></a><span >. including an abstract of no more than 100 words and a brief submission history of the paper. Optional 5 minute video figure. </span></li></ul>
-<li><span >Selection Process: <a href="http://chi2015.acm.org/authors/call-for-participation#juried"><span >Juried</span></a>. <span >Submitted papers will be openly discussed by members of the CHI community on PCS. Selected contributions to the online discussion will be invited as commentary to be archived as part of the alt.chi Extended Abstracts. Authors are welcome and encouraged to invite members of the community to discuss their paper.</span></span></li>
+<li><span >Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
+<li><span >Camera-ready, 10 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span >Extended Abstracts Format</span></a><span >. including an abstract of no more than 100 words and a brief submission history of the paper. Optional 5 minute video figure. </span></li></ul>
+<li><span >Selection Process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >Juried</span></a>. <span >Submitted papers will be openly discussed by members of the CHI community on PCS. Selected contributions to the online discussion will be invited as commentary to be archived as part of the alt.chi Extended Abstracts. Authors are welcome and encouraged to invite members of the community to discuss their paper.</span></span></li>
 <li><span >Chairs: Silvia Lindtner, Morgan Ames &amp; Henry Duh (<a href="mailto:alt.chi@chi2015.org">alt.chi@chi2015.org</a>) </span></li>
 <li><span >At the conference: Accepted alt.chi submissions will be presented at the conference.</span></li>
 
@@ -49,7 +49,7 @@
 
 <div>
 <h3 ><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the alt.chi Chairs</h3>
-<p dir="ltr" ><span >alt.chi 2015 proudly continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >Juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
+<p dir="ltr" ><span >alt.chi 2015 proudly continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
 
 Therefore, we invite the submission of bold, compelling, critical, and innovative works that challenge or re-imagine human computer interaction research and design. alt.chi 2015 is methodologically inclusive and accepts reports, analyses, designs, and systematic inquiries – whether quantitative, qualitative, or both. Especially encouraged are works that speak to the conference theme of “changing perspectives” through explorations of areas currently outside the center of the field. alt.chi 2015 is an opportunity to re-shape the conversation by introducing a vibrant intellectual community to a new way of doing work. We invite you to change the game.
 
@@ -66,17 +66,21 @@ Therefore, we invite the submission of bold, compelling, critical, and innovativ
 <p dir="ltr" ><span >An alt.chi submission must be submitted via the <a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by January 5, 2015 (5:00PM PST). The alt.chi submission must include an extended abstract and may also include a 5-minute video figure.</span></p>
 
 <ol><li>
-<div ><span >Extended Abstract. Submissions must include a maximum 10-page paper, which an abstract of less than 100 words, submitted in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span >Extended Abstract Format</span></a>. alt.chi submissions should not be accepted or under review anywhere else while in submission.
+<div ><span >Extended Abstract. Submissions must include a maximum 10-page paper, which an abstract of less than 100 words, submitted in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span >Extended Abstracts Format</span></a>. alt.chi submissions should not be accepted or under review anywhere else while in submission.
 
 We welcome completely fresh submissions tailored to the specific goals and values of alt.chi. However, authors may also submit controversial or compelling work not accepted in other tracks. In particular, authors of highly discussed papers that are submitted but not accepted into the CHI Papers and Notes track may be invited to submit their work to alt.chi. In these cases, authors will be asked to submit the reviews that their CHI submission has previously received, along with a brief explanation of why they believe their paper will be a good fit for alt.chi.<br>
 
 </span></div>
 </li>
-<li>
-<div ><span >Optional Video Figure. <span >Your submission may be accompanied by a short digital video figure or interactive illustration that is up to five minutes in length and no more than 100 MB final data size. Since not everyone who reads the paper may view the video figure, your submission must stand on its own without the figure, and will be reviewed as such. Some guidelines for creating video submissions can be found at: <a href="http://chi2015.acm.org/authors/guide-to-a-submitting-a-video"><span >Guide to a Successful Video Submission.</span></a></span>
 
-The <a href="http://altchi.org"><span >alt.chi submission system</span></a> is now open. Between the system’s opening and December 31st, authors may request assistance from a volunteer English Review Service.</span><span ><br>
-</span></div>
+<li>
+<div ><span >Optional Video Figure. <span >Your submission may be accompanied by a short digital video figure or interactive illustration that is up to five minutes in length and no more than 100 MB final data size. Since not everyone who reads the paper may view the video figure, your submission must stand on its own without the figure, and will be reviewed as such. Some guidelines for creating video submissions can be found at: <a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></span>
+
+<!--
+The <a href="http://altchi.org"><span >alt.chi submission system</span></a> is now open. Between the system’s opening and December 31st, authors may request assistance from a volunteer English Review Service.
+-->
+</span>
+</div>
 </li>
 </ol>
 

@@ -11,11 +11,11 @@
 <h3 >Quick Facts</h3>
 <p >CHI Papers and CHI Notes are archival publications of original research in the field of Human-Computer Interaction (HCI).</p>
 <ul ><li>Important Dates:</li>
-<ul><li>Submission deadline: 22 September 2014 (5:00pm PT)</li>
-<li>Author rebuttals: 19-26 November 2014 (5:00pm PT)</li>
+<ul><li>Submission deadline: 22 September 2014 (5:00pm PDT)</li>
+<li>Author rebuttals: 19-26 November 2014 (5:00pm PDT)</li>
 <li>Notification: 15 December 2014</li>
-<li>PCS submission for consideration for final acceptance: 7 January 2015 (5:00pm PT)</li>
-<li>Camera-ready final deadline: 12 January 2015 (5:00pm PT)<br>
+<li>PCS submission for consideration for final acceptance: 7 January 2015 (5:00pm PDT)</li>
+<li>Camera-ready final deadline: 15 January 2015 (5:00pm PDT)<br>
 <br>
 </li></ul>
 <li>Online submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a></li>
@@ -59,7 +59,7 @@ See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Sele
 <h3 >CHI Paper and Notes Review Process</h3>
 <p >Papers and Notes undergo a rigorous review process, managed by the Papers &amp; Notes chairs and several subcommittees, each comprising a coordinator and associate chairs. Authors will be provided with preliminary reviews and can respond with a rebuttal. Confidentiality of submissions is maintained during the review process. See&nbsp;<a href="http://chi2015.acm.org/authors/chi-papers-and-notes-review-process" >CHI Papers and Notes Review Process</a></p>
 <h3 >Interactivity for Papers and Notes</h3>
-<p >We strongly encourage authors of Papers and Notes submissions to also participate in <a href="http://chi2015.acm.org/authors/interactivity" >Interactivity</a>. This is most applicable to Papers or Notes that describe novel interactive technologies or interactive experiences. Interactivity for Papers and Notes allows authors to present a hands-on demonstration of their research in a high-visibility, high-impact forum. Authors of Papers and Notes who wish to participate in Interactivity are required to prepare a separate submission for the Interactivity track. The content of the submission can be adapted from the existing Paper or Note submission. In the event that your Paper or Note is not accepted, you will have the opportunity to also withdraw your Interactivity submission.</p>
+<p >We strongly encourage authors of Papers and Notes submissions to also participate in <a href="http://chi2015.acm.org/authors/interactivity" >Interactivity</a>. This is most applicable to Papers or Notes that describe novel interactive technologies or interactive experiences. Interactivity for Papers and Notes allows authors to present a hands-on demonstration of their research in a high-visibility, high-impact forum. Authors of Papers and Notes who wish to participate in Interactivity are required to prepare a separate submission for the Interactivity track. The content of the submission can be adapted from the existing Paper or Note submission. In the event that your Paper or Note is not accepted, you will have the opportunity to also withdraw your Interactivity submission if desired.</p>
 <h3 >Upon Acceptance of Your Paper or Note</h3>
 <p >Authors will be notified of conditional acceptance or rejection on or before December 15, 2014. Contact authors of conditionally accepted Papers and Notes will receive instructions on how to prepare and submit the final version of the paper. A member of the program subcommittee will check that the resubmission meets the committee requirements for publication and, if so, will finalize the acceptance. Authors are encouraged to submit their revision earlier than the deadline in case it is judged that the paper does not meet the committee requirements. If the authors are unable to meet these requirements by the provided deadline then the Papers Chairs will notified and may be required to drop the paper from the program. Authors of accepted papers will be required to submit a thirty word statement of contribution and benefit. They will also be asked to submit a thirty second video preview summarising the paper. Please note that submissions will not be published without a signed form assigning copyright or license to the ACM, or by paying an upfront fee to ACM for Open Access. Obtaining permissions to use video, audio, or pictures of identifiable people or proprietary content rests with the author, not the ACM or the CHI conference.</p>
 <h3 >Your Paper or Note at the Conference</h3>

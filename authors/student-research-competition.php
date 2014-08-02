@@ -17,13 +17,20 @@
 </li></ul>
 <li>Submission Details:</li>
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
+<li><span>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
 <li><span>Submission Format: 6-page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a><span>, poster, and proof of student status</span></li>
 <li><span><span><strong>Submissions are not anonymous and should include author name, affiliation, and contact information.</strong></span></span></li>
 <li><span><strong>Submissions can only have one author (the student).</strong></span></li></ul>
 <li><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li><span>Chairs: <span>Seungyon “Claire” Lee, <span>Derek Reilly, <span>Geehyuk Lee (<span><a href="mailto:src@chi2015.acm.org"><span>src@chi2015.acm.org</span></a>) </span></span></span></span></span></li>
-<li><span>At the Conference: All accepted students will participate in juried poster session.&nbsp;A group of students will then be selected to advance to the next round which will involve giving a short talk. Please see the </span><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"><span>Information for Poster Presenters</span></a><span> for poster requirements.</span></li>
+
+<li><span>
+At the Conference: All accepted students will participate in juried poster session. A group of students will then be selected to advance to the next round which will involve giving a short talk.
+<!--
+At the Conference: All accepted students will participate in juried poster session.&nbsp;A group of students will then be selected to advance to the next round which will involve giving a short talk. Please see the </span><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"><span>Information for Poster Presenters</span></a><span> for poster requirements.
+-->
+</span></li>
+
 <li><span>Archives: Extended abstracts; USB and ACM Digital Library</span></li></ul>
 <h3><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the Student Research Competition Chairs</h3>
 <p dir="ltr"><span>The Student Research Competition (SRC) is a forum for undergraduate and graduate students to showcase their research, exchange ideas, and improve their communication skills while competing for prizes at CHI 2015. The CHI SRC competition is a branch of the </span><a href="http://www.acm.org/src"><span>ACM Student Research Competition</span></a><span> which hosts similar competitions at other ACM conferences.</span></p>
@@ -60,7 +67,7 @@
 <span>
 <p dir="ltr"><span>Student Research Competition submissions must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by&nbsp;5 January 2015, 5:00pm PST. The submission must have&nbsp;the following three components:&nbsp;&nbsp;</span></p>
 <ol><li>
-<div><span><span>Extended Abstract.&nbsp; <span>Students should submit a&nbsp;non-anonymized paper (6 pages maximum) written in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstract Format</span></a></span><span>. Submissions not meeting the page limit or formatting requirements will be automatically disqualified. </span><span>The student competing in the research competition must be the primary contributor of the work. Supervisors or other students may not be co-authors of the paper.<br>
+<div><span><span>Extended Abstract.&nbsp; <span>Students should submit a&nbsp;non-anonymized paper (6 pages maximum) written in the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts Format</span></a></span><span>. Submissions not meeting the page limit or formatting requirements will be automatically disqualified. </span><span>The student competing in the research competition must be the primary contributor of the work. Supervisors or other students may not be co-authors of the paper.<br>
 <br>
 </span></span></span></div>
 </li>

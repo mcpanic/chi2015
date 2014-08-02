@@ -13,13 +13,12 @@
 <ul><li><span>Important Dates:</span></li>
 <ul><li><span>Submission deadline:&nbsp;5 January 2015 (5:00pm PST)</span></li>
 <li><span>Notification deadline: 26 January 2015 </span></li>
-<li><span>Publication-ready deadline: 2 February 2015<br>
-<br>
+<li><span>Publication-ready deadline: 2 February 2015<br><br>
 </span></li></ul>
 <li><span>Submission Details:</span></li>
 <ul><li><span>Online submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></span></li>
-<li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
-<li><span>Submission Format: 6- page proposal in&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a></span></li>
+<li><span>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
+<li><span>Submission Format: 6-page proposal in&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a></span></li>
 <li><span><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></span></li></ul>
 <li><span>Selection process:&nbsp;<a href="http://chi2015.acm.org/authors/selection-processes#curated">Curated</a></span></li>
 <li><span>Chairs Elaine Huang and Khai Truong (<a href="mailto:panels@chi2015.acm.org">panels@chi2015.acm.org</a>)</span></li>
@@ -51,7 +50,7 @@ CHI 2015 Panels Co-chairs</span></p>
 <p dir="ltr">A Panel proposal must be submitted via the <a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by January 5, 2015 (5:00PM PST). The Panel proposal must submit an extended abstract submitted as a single PDF file.<br>
 </p>
 <ol><li>
-<div>Extended Abstract. A maximum 6 page proposal,&nbsp;in the&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a>: The extended abstract should include the title of the panel; the names and affiliations of the organizer(s), confirmed invited participants, and participants who have been invited but not confirmed. Although they can be invited only at the time of the submission, we encourage organizers to get confirmation from as many participants as possible prior to submission. All participants must be confirmed at the time of camera ready, no exceptions. Within the 6-page constraint you should summarize the main topic(s) to be presented, debated, discussed, enacted, and any lessons or experiences you hope to convey in the session, as well as contrasting or controversial perspectives on the topic(s). You need to persuade the chairs that your panel will be exciting, enjoyable, well-attended, and relevant to the CHI community. You must list who will participate, how they have been recruited, why these people were selected, what qualifications they bring, and so on.</div>
+<div>Extended Abstract. A maximum 6 page proposal,&nbsp;in the&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a>: The extended abstract should include the title of the panel; the names and affiliations of the organizer(s), confirmed invited participants, and participants who have been invited but not confirmed. Although they can be invited only at the time of the submission, we encourage organizers to get confirmation from as many participants as possible prior to submission. All participants must be confirmed at the time of camera ready, no exceptions. Within the 6-page constraint you should summarize the main topic(s) to be presented, debated, discussed, enacted, and any lessons or experiences you hope to convey in the session, as well as contrasting or controversial perspectives on the topic(s). You need to persuade the chairs that your panel will be exciting, enjoyable, well-attended, and relevant to the CHI community. You must list who will participate, how they have been recruited, why these people were selected, what qualifications they bring, and so on.</div>
 </li>
 </ol>
 </span>
@@ -63,7 +62,7 @@ CHI 2015 Panels Co-chairs</span></p>
 <p><span><span>Experience suggests that it is better to have fewer panelists. Again, we will not allow more than five panelists except in extreme circumstances</span></span></p>
 
 <span>
-<p><span><span><span>Submissions should not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span>Submissions </span>should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,<span><span><span>&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span></span></span></span><span><br>
+<p><span><span><span>Submissions should not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span>Submissions </span>should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,<span><span><span>&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span></span></span></span><span>
 </span></p>
 </span>
 

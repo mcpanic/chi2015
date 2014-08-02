@@ -21,14 +21,17 @@ Student Design Competition : Call for Participation</h2>
 </span></li></ul>
  <li ><span>Submission Details:</span></li>
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li ><span><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format"  target="_blank">http://chi2015.acm.org/authors/format</a>)</span></span></li>
-<li ><span><span><span>Submission Format: 6 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>, <span>a 5-minute video clip in MP4 format,</span><span>&nbsp;and proof of all     team members' student status.</span></span></span></li>
-<li ><span><span><span><span><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information</strong></span></span></span></span></span><span><br>
-</span></li></ul>
+<li ><span><span>Template: <a href="http://chi2015.acm.org/authors/format"  target="_blank">Extended Abstracts Format</a></span></span></li>
+<li ><span><span><span>Submission Format: 6 page paper in </span><a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts format</span></a>, a 5-minute video clip in MP4 format, and proof of all team members' student status.</span></span></li>
+<li ><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information</strong><br>
+</li></ul>
  <li ><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span>Juried</span></a></span></li>
 <li ><span>Chairs: Youn-kyung Lim and Anirudha N. Joshi (<span><a href="mailto:sdc@chi2015.acm.org"><span>sdc@chi2015.acm.org</span></a>)</span></span></li>
-<li ><span>At the Conference: Accepted submissions will participate in a juried poster session.&nbsp;4 teams will then be&nbsp;chosen to advance to the next round which will involve giving a short&nbsp;presentation. Please
+<li ><span>
+At the Conference: Accepted submissions will participate in a juried poster session. 4 teams will then be chosen to advance to the next round which will involve giving a short presentation.
+<!--Accepted submissions will participate in a juried poster session.&nbsp;4 teams will then be&nbsp;chosen to advance to the next round which will involve giving a short&nbsp;presentation. Please
      see the&nbsp;</span><u><span>Information for Poster Presenters</span></u><span> for poster requirements.</span></li>
+-->
  <li ><span>Archives: Extended
      abstracts; posters; videos; USB and ACM Digital Library</span></li></ul>
 
@@ -144,7 +147,7 @@ following criteria: </span></p>
 
 <ol><li>
 
-<div ><span><span>Extended Abstract.&nbsp; <span>Teams will submit a non-anonymized paper (6 pages maximum)&nbsp; written in&nbsp;the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstract Format</span></a>&nbsp;summarizing their design solution and its evolution. </span><span>Submissions not meeting the page limit or formatting requirements will be automatically disqualified. <span>This document should be submitted as a single PDF and the file must be no larger than 4 Mb in size. </span></span><span><br>
+<div ><span><span>Extended Abstract.&nbsp; <span>Teams will submit a non-anonymized paper (6 pages maximum)&nbsp; written in&nbsp;the <a href="http://chi2015.acm.org/authors/format#extendedformat"><span>Extended Abstracts Format</span></a>&nbsp;summarizing their design solution and its evolution. </span><span>Submissions not meeting the page limit or formatting requirements will be automatically disqualified. <span>This document should be submitted as a single PDF and the file must be no larger than 4 Mb in size. </span></span><span><br>
 <br>
 </span></span></span></div>
 </li>
@@ -154,7 +157,7 @@ following criteria: </span></p>
 </span></span></span></div>
 </li>
 <li>
-<div ><span><span><span>Video. Teams <span>must</span><span> provide a supplementary video (MP$ file, max 5-minutes),&nbsp;with a file-size no larger than 100Mb, illustrating how your solution fits the lives of the&nbsp;users with the help of scenarios. It may also illustrate some details of&nbsp;the interface and the information presented. Please refer to the <a>Video Showcase</a><span>&nbsp;section for g</span>uidelines on the video submission<span>.</span></span><br>
+<div ><span><span><span>Video. Teams <span>must</span><span> provide a supplementary video (MP$ file, max 5-minutes),&nbsp;with a file-size no larger than 100Mb, illustrating how your solution fits the lives of the&nbsp;users with the help of scenarios. It may also illustrate some details of&nbsp;the interface and the information presented. Please refer to the <a href="http://chi2015.acm.org/authors/video-showcase">Video Showcase</a> section for guidelines on the video submission.</span><br>
 <br>
 </span></span></span></div>
 </li>
@@ -188,7 +191,7 @@ Supplementary Material</em></span></h4>
 <strong><em>
 
 </em></strong>
-<p align="left" ><span><span>Teams will submit a short     paper in Extended Abstract Format (six pages maximum) summarizing their     design solution and its evolution. Teams </span><span>must</span><span> provide supplementary material in form of at most 5-minute     video. The video may illustrate how your solution fits the lives of the     users with the help of scenarios. It may also illustrate some details of     the interface and the information presented. Expert reviewers will     evaluate submissions and a maximum of 12 teams will be selected to attend     the CHI conference</span></span></p>
+<p align="left" ><span><span>Teams will submit a short paper in <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a> (six pages maximum) summarizing their design solution and its evolution. Teams </span><span>must</span><span> provide supplementary material in form of at most 5-minute video. The video may illustrate how your solution fits the lives of the users with the help of scenarios. It may also illustrate some details of     the interface and the information presented. Expert reviewers will evaluate submissions and a maximum of 12 teams will be selected to attend the CHI conference</span></span></p>
 <p align="left" ><span>The Extended
 Abstract should include:</span></p>
 <ul>
@@ -268,9 +271,10 @@ include:</span></p>
  <li ><span>Compelling, effective
      visual design</span></li>
 </ul>
+<!--
 <p align="left" ><span>Please see
 the&nbsp;</span><u><span>Information for Poster Presenters</span></u><span>.</span></p>
-
+-->
 <h4 ><span><em>Round Three: Presentation</em></span></h4>
 <strong><em>
 

@@ -17,14 +17,13 @@
 <ul><li><span>2-Page Course Description: 9 January 2015</span></li>
 <li><span>Paper Course Notes: 9 January 2015</span></li>
 <li><span>Electronic Course Notes: 6 March 2015<br>
-<br>
 </span></li></ul></ul>
 <li>Submission Details</li>
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</li>
+<li>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></li>
 <li>Submission Format: 300 word advanced program description, detailed course description, and sample course material<br>
 </li></ul>
-<li>Selection Process: <a href="http://chi2015.acm.org/authors/call-for-participation#curated">Curated</a></li>
+<li>Selection Process: <a href="http://chi2015.acm.org/authors/selection-processes#curated">Curated</a></li>
 <li>Chairs: Regina Bernhaupt and Matt Jones (<a href="mailto:courses@chi2015.acm.org">courses@chi2015.acm.org</a>) <br>
 </li>
 <li><span>At the Conference: Accepted Courses with the minimum number of registered participants will be taught in up to two 80-minute sessions during the conference</span></li>
@@ -128,7 +127,7 @@ Matt Jones, Swansea University, Wales<br>
 <li>Course exercises, as appropriate</li>
 <li>Instructors will be required to sign a release form giving CHI one-time-only permission to utilize the notes for course participants and to sell notes at the conference</li>
 <li><strong>PLEASE NOTE: if course notes are not received by the stated deadline, the course will be canceled</strong></li></ul>
-<p><span>All accepted courses will be required to upload a 2-page description of the course in extended abstract format (available here:</span><span>&nbsp;</span><a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a><span>). The 2-page description should include a description of the topic to be covered with pointers to relevant background material, an outline of the course itself and short presenter/tutor bios. Deadline for 2-page descriptions is 9 January 2015.</span></p>
+<p><span>All accepted courses will be required to upload a 2-page description of the course in <a href="http://chi2015.acm.org/authors/format#extendedformat" target="_blank">Extended Abstracts Format</a>. The 2-page description should include a description of the topic to be covered with pointers to relevant background material, an outline of the course itself and short presenter/tutor bios. Deadline for 2-page descriptions is 9 January 2015.</span></p>
 <p><span>All accepted courses are required to provide their course notes. For paper-printed notes:&nbsp;9 January 2015; for electronically distributed notes:&nbsp;6 March 2015.</span></p>
 <p><strong>Cancellation: Courses with fewer than 15 participants registered by the early registration deadline may be cancelled.</strong>&nbsp;We therefore strongly recommend that you promote your courses through social media channels, in your own social networks, to your personal contacts and in your teaching, research and professional/practice communities. The CHI 2015 conference organizers will not promote specific courses or course materials.</p>
 </div>

@@ -29,7 +29,7 @@
 <li>Submission Details:</li>
 <ul>
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</li>
+<li>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></li>
 <li>Submission Format:&nbsp;4-page Extended Abstract,&nbsp;video preview, still image, and a&nbsp;supplemental PDF describing what attendees will experience as well as technical and space requirements.</li>
 <li><span><strong>Submissions are not anonymous and should include all author names, affiliations, and contact information.</strong></span></li>
 </ul>
@@ -38,9 +38,6 @@
 </li>
 <li><span>At the Conference: Accepted Interactivity will be presented during the conference in the exhibits area.</span></li>
 <li>Archives: Interactivity descriptions will be published in the Extended abstracts; USB and ACM Digital Library </li>
-<ul>
-</ul>
-<br>
 </ul>
 
 
@@ -55,8 +52,6 @@ The Interactivity track showcases this year's most exciting interactive technolo
 <p dir="ltr"><span>Julie R. Williamson, University of Glasgow, UK</span></p>
 <p dir="ltr"><span>Juhyun Eune, Seoul National University, Korea</span></p>
 <p dir="ltr"><span><a href="mailto:interactivity@chi2015.acm.org?Subject=">interactivity@chi2015.acm.org</a></span></p>
-<br>
-
 </div>
 
 
@@ -69,9 +64,9 @@ The Interactivity track showcases this year's most exciting interactive technolo
 
 <p dir="ltr"><span><span>An Interactivity proposal must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following four components<span>:</span></span></span></p>
 
-<p dir="ltr"><span><span>1. Extended Abstract</span><br>
-</span></p>
-<p dir="ltr"><span>The extended abstract is a 4-page short paper in the Extended Abstract Format. It should be self-contained and clearly describe the novelty and distinguishing ideas of your project, even for readers who are not able to view the related demonstration at the conference or associated videos. Your abstract should include:
+<strong>1. Extended Abstract</strong>
+
+<p dir="ltr"><span>The extended abstract is a 4-page short paper in the <a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a>. It should be self-contained and clearly describe the novelty and distinguishing ideas of your project, even for readers who are not able to view the related demonstration at the conference or associated videos. Your abstract should include:
 </span></p>
 <ul>
 <li>A description of the system, installation, exhibit or performance and the problem it addresses. Where relevant, discuss the broader context and questions that your work promotes reflection upon.</li>
@@ -80,26 +75,24 @@ The Interactivity track showcases this year's most exciting interactive technolo
 </ul>
 
 
-<p dir="ltr"><span><span>2. Video</span>
+<strong>2. Video</strong>
 
-</span></p>
 <p dir="ltr"><span>A video is a good way to communicate interactive projects to the reviewers and provides an archive of the work. You must submit a video in addition to your written documentation. The video must be no longer than 5 minutes and all uploaded content (PDF(s) + image + video) must be less than 100 MB. Please make sure that your video is playable on standard PC and Macintosh computers. We recommend that you encode your video as an MP4 using the H.264 codec. Most video editing software provides an exporting option to MP4/H.264, for example iMovie, Adobe Premiere, and Final Cut Pro. If you prefer to use free software, <a href="http://www.videohelp.com/tools/x264_Encoder">x264</a> can encode any video into H.264.&nbsp;Alternatively you can try&nbsp;uploading the video to YouTube and downloading the encoded result.
 
 Submitted videos will be used for review purposes. The videos may also be displayed at the Interactivity site and possibly on web sites previewing CHI content (as an example see <a href="http://www.youtube.com/user/CHIMadness2010">CHI 2010 Madness videos on youtube</a>).
 
 </span></p>
 
-<p dir="ltr"><span><span>3. Still Image</span>
+<strong>3. Still Image</strong>
 
-</span></p>
 <p dir="ltr"><span>You will also need to upload a still image of at least 1500 x 1200 px that represents your work. The image is required for publications and conference publicity.
 
 </span></p>
 
-<p dir="ltr"><span><span>4. Supplement</span>
-</span></p>
+<strong>4. Supplement</strong>
+
 <p dir="ltr"><span>
-This supplement is mandatory for all Interactivity submissions and must include technical set-up and space requirements. This supplement is useful for describing anything that does not fit or is not appropriate for the extended abstract and is used to determine how to organise Interactivity exhibits.  Please use the template provided (link to template - which should be converted to pdf).  Abstracts that do not provide a complete supplement using the template will not be accepted.
+This supplement is mandatory for all Interactivity submissions and must include technical set-up and space requirements. This supplement is useful for describing anything that does not fit or is not appropriate for the extended abstract and is used to determine how to organise Interactivity exhibits.  Please use the <a href="http://chi2015.acm.org/templates/InteractivitySupplement.pdf" target="_blank">template</a> provided.  Abstracts that do not provide a complete supplement using the template will not be accepted.
 
 Supplement materials are for the purpose of review and planning only and will not be published. This information is used to determine spatial, technical, lighting, power (etc.) requirements for the demonstration, exhibit, or installation. The supplement should be no longer than 4 pages. Like all other materials, the supplement must be submitted through the PCS submission system and the total of PDF(s), still, video, and supplement cannot exceed 100 MB.
 

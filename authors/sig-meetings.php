@@ -17,7 +17,7 @@
 </span></span></span></li></ul>
 <li>Submission Details:</li>
 <ul><li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li><span>Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format" target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
+<li><span>Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
 <li>Submission Format:&nbsp;<span>4-page extended abstract and </span><span>supplementary material describing the SIG</span></li></ul>
 <li><span>Selection process: <a href="http://chi2015.acm.org/authors/selection-processes#curated">Curated</a></span></li>
 <li>Chairs: Simone Barbosa &amp; Enrico Rukzio (<a href="mailto:sigs@chi2015.acm.org">sigs@chi2015.acm.org</a>)</li>
@@ -36,7 +36,7 @@
 <h3>Preparing and Submitting your Special Interest Groups Proposal</h3>
 <p><span><span>SIG submissions <span>must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a>&nbsp;by&nbsp;5 January 2015, 5:00pm PST. The proposal must have the following two components (submitted as a single PDF file)<span>:</span></span></span></span><span><br>
 </span></p>
-<ol><li>Extended Abstract. A&nbsp;4-page description of the SIG, suitable for publication in the&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstract Format</a>&nbsp;</li>
+<ol><li>Extended Abstract. A&nbsp;4-page description of the SIG, suitable for publication in the&nbsp;<a href="http://chi2015.acm.org/authors/format#extendedformat">Extended Abstracts Format</a>&nbsp;</li>
 <li>Supplementary Material.&nbsp;&nbsp;</li>
 <ul><li>A&nbsp;brief description of the community (or communities) to which this SIG would be of interest and why it is of interest</li>
 <li>assumed attendee background</li>

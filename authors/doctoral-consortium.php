@@ -22,12 +22,12 @@
 <li>Submission Details:</li>
 <ul >
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
-<li><span >Template: Extended Abstracts Format (<a href="http://chi2015.acm.org/authors/format"  target="_blank">http://chi2015.acm.org/authors/format</a>)</span></li>
+<li><span >Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
 <li>Submission Format: 4 pages describing your research and up to 4 pages of auxiliary content, described below </li>
 
 
 </ul>
-<li>Selection Process: <a href="http://chi2015.acm.org/authors/call-for-participation#curated" >Curated</a></li>
+<li>Selection Process: <a href="http://chi2015.acm.org/authors/selection-processes#curated" >Curated</a></li>
 <li>Chairs: Si Jung Kim, Jaime Teevan, Susan Fussell&nbsp;(<a href="mailto:doctoral@chi2015.acm.org">doctoral@chi2015.acm.org</a>)</li>
 
 <li><span >At the conference: Accepted submissions will be presented at the Doctoral Consortium &nbsp;and as a poster at the conference. </span></li>
@@ -80,8 +80,8 @@
       <li>Current and expected contributions</li>
     </ul>
   <li>Appendix 1. A one-paragraph statement of expected benefits of participation for both yourself and the other consortium participants (i.e., what will you contribute as well as gain) (max 1 page).</li>
-  <li>Appendix 2. A letter of nomination from your primary dissertation advisor, that addresses the questions posed in the CHI Doctoral Consortium sample submission [<a href="http://chi2015.acm.org/templates/CHI-doctoral-consortium.pdf" >PDF</a>] (max 1 page).</li>
-  <li>Appendix 3. A concise&nbsp; version of your current Curriculum Vita (1-2 pages).</li>
+  <li>Appendix 2. A letter of nomination from your primary dissertation advisor, that addresses the questions posed in the CHI Doctoral Consortium sample submission (max 1 page).</li>
+  <li>Appendix 3. A concise version of your current Curriculum Vita (1-2 pages).</li>
 </ol>
 <p dir="ltr" ><span >It is essential for you to ensure that your submission is complete and in accordance with the format and content guidelines for the CHI Doctoral Consortium. B</span><span >ecause the Doctoral Consortium Committee expects to receive a large number of applications, submissions that do not meet these requirements will be returned without review.</span><span ><br>
 </span></p>
