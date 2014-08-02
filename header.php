@@ -1,5 +1,5 @@
 <?php
-$isProduction = True;
+$isProduction = False;
 if ($isProduction) {
     $prefix = "";
 }

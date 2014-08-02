@@ -94,7 +94,7 @@ CHI 2015 Panels Co-chairs</span></p>
 <h3><span>After the Conference</span></h3>
 <p><span>Panels can often be a jumping-off point for future work. Previous panels have become the starting point for special issues of journals or books, or follow-up panels, papers, workshops, SIG meetings or Communities. We encourage panel organizers to think about the potential of their panels to inform future work. Accepted Panel abstracts will be distributed in the CHI Conference Extended Abstracts, available at the conference on DVD and in the ACM Digital Library, where they will remain accessible to thousands of researchers and practitioners worldwide. Some of these Panels may also be recorded at the conference and distributed by the ACM.</span></p>
 </div>
-</div>
+<!--</div>-->
 
 <?php
   include "../footer.php";
