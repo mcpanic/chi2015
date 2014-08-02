@@ -5,7 +5,6 @@
   include "leftbar.php";
 ?>
         </div> <!-- column-left -->
-        <!-- <div class="col-lg-2 col-md-2"> -->
         <div class="column-right">
 <?php
   include "rightbar.php";

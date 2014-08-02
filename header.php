@@ -71,7 +71,6 @@ else {
             <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
             <li><a href="<?php echo $prefix; ?>/organizers" class="menu-organizers">ORGANIZERS</a></li>
 <!--             <li><a href="<?php echo $prefix; ?>/attending" class="menu-attending">ATTENDING</a></li>
-            <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
             <li><a href="<?php echo $prefix; ?>/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
             <li><a href="<?php echo $prefix; ?>/sponsorship" class="menu-sponsorship">SPONSORSHIP</a></li>
             <li><a href="<?php echo $prefix; ?>/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>

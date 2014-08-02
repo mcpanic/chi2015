@@ -49,6 +49,5 @@
 				<a href="http://chi2015.acm.org/authors/works-in-progress" >Works-in-Progress</a>, <a href="http://chi2015.acm.org/authors/panels">Panels</a>, <a href="http://chi2015.acm.org/authors/student-design-competition" >Student Design Competition</a>, <a href="http://chi2015.acm.org/authors/student-game-competition" >Student Game Competition</a>, <a href="http://chi2015.acm.org/authors/student-research-competition">Student Research Competition</a>, <a href="http://chi2015.acm.org/authors/video-showcase" >Video Showcase</a>, <a href="http://chi2015.acm.org/authors/sig-meetings" >SIG Meetings</a>, <a href="http://chi2015.acm.org/authors/alt-chi">alt.chi</a>
 			</li>
 		</ul>
-		</div>
 	</div>
 </div>
