@@ -51,7 +51,7 @@ Jettie Hoonhout</p>
 <p>Hilary Hutchinson<br>
 Julie Kientz<br>
 Jon Froehlich<br>
-Alex De Luca<br>
+Alexander De Luca<br>
 Leah Findlater<br>
 Hironobu Takagi<br>
 </p>
@@ -244,7 +244,7 @@ Karon Maclean</p>
 <span>Seungmoon Choi</span><br>
 <span>Enrico Rukzio</span><br>
 <span>Takeo Igarashi</span><br>
-<span>Stephanie Mueller</span><br>
+<span>Stefanie Mueller</span><br>
 <span>Michael Haller</span><br>
 <span>Mira Dontcheva</span><br>
 <span>Nicolai Marquardt</span><br>
