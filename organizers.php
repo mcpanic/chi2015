@@ -184,7 +184,7 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:kylekim@gmail.com">Conference Theme Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:kylekim@gmail.com">Conference Theme</a>: </strong></dt>
                 <dd>
                         Kyle Hyunsuk Kim, <i>Hongik University</i>, <i>South Korea</i>
                 </dd>
@@ -193,7 +193,7 @@
 <h2>Operations</h2>
 
 <dl>
-        <dt><strong><a href="mailto:svchair@chi2015.acm.org">Student Volunteer Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:svchair@chi2015.acm.org">Student Volunteer</a>: </strong></dt>
                 <dd>
                         Jon Haber, <i>University of Calgary</i>, <i>Canada</i>
                         <br>
@@ -213,7 +213,7 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:datamanagementchair@chi2015.acm.org">Data Management Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:datamanagementchair@chi2015.acm.org">Data Management</a>: </strong></dt>
                 <dd>
                         Max Van Kleek, <i>University of Southampton</i>, <i>UK</i>
                         <br>
@@ -222,7 +222,7 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:designchair@chi2015.acm.org">Design Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:designchair@chi2015.acm.org">Design</a>: </strong></dt>
                 <dd>
                         Elizabeth Dykstra-Erickson, <i>Cisco Systems</i>
                         <br>
@@ -263,28 +263,37 @@
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:infrastructureaccessibility@chi2015.acm.org">Infrastructure Accessibility Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:infrastructureaccessibility@chi2015.acm.org">Infrastructure Accessibility</a>: </strong></dt>
                 <dd>
                         Jongbae Kim, <i>Yonsei University</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:digitalaccessibility@chi2015.acm.org">Digital Accessibility Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:digitalaccessibility@chi2015.acm.org">Digital Accessibility</a>: </strong></dt>
                 <dd>
                         Jeff Bigham, <i>Carnegie Mellon University</i>, <i>USA</i>
                 </dd>
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:localhospitality@chi2015.acm.org">Local Hospitality Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:localhospitality@chi2015.acm.org">Local Hospitality</a>: </strong></dt>
                 <dd>
                         Junho Choi, <i>Yonsei University</i>, <i>South Korea</i>
                 </dd>
 </dl>
 
 <dl>
-        <dt><strong><a href="mailto:socialmedia@chi2015.acm.org">Social Media Chair</a>: </strong></dt>
+        <dt><strong><a href="mailto:videopreviews@chi2015.acm.org">Video Previews</a>: </strong></dt>
+                <dd>
+                        Stéphane Huot, <i>Inria</i>, <i>France</i>
+                        <br>
+                        Fanny Chevalier, <i>Inria</i>, <i>France</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:socialmedia@chi2015.acm.org">Social Media</a>: </strong></dt>
                 <dd>
                         Max Wilson, <i>University of Nottingham</i>, <i>UK</i>
                         <br>
