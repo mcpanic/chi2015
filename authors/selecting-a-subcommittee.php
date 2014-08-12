@@ -18,11 +18,11 @@
 <p>Each subcommittee description also links one or two recent CHI papers that the subcommittee chairs feel are good examples of papers that fit the intent and aim of that subcommittee. Please look at these examples as a way to decide on the best subcommittee for your paper - but remember that these are just a few examples, and do not specify the full range of topics that would fit with any subcommittee. (Note: the example papers will be linked as they are selected by the chairs).</p>
 <h3 >List of the subcommittees</h3>
 <p>Subcommittees are listed and described below. Each has a title, short description, and an indication of who will Chair and serve on the subcommittee. Subcommittees have been constructed with an eye to maintaining logically coherent clusters of topics.&nbsp;</p>
-<ul><li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#user-experience-and-usability" >User experience and usability</a></li>
-<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#specific-application-areas" >Specific Application Area</a></li>
+<ul><li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#user-experience-and-usability" >User Experience and Usability</a></li>
+<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#specific-application-areas" >Specific Application Areas</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-beyond-the-individual" >Interaction Beyond the Individual</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#design" >Design</a></li>
-<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-using-specific-capabilities-or-modalities" >Interaction using Specific Capabilities or Modalities</a></li>
+<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-using-specific-capabilities-or-modalities" >Interaction Using Specific Capabilities or Modalities</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#understanding-people-theory-concepts-methods" >Understanding People: Theory, Concepts, Methods</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-techniques-and-devices" >Interaction Techniques and Devices</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#technology-systems-and-engineering" >Technology, Systems and Engineering</a></li></ul>

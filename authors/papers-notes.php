@@ -39,7 +39,7 @@
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#specific-application-areas" >Specific Application Areas</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-beyond-the-individual" >Interaction Beyond the Individual</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#design" >Design</a></li>
-<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-using-specific-capabilities-or-modalities" >Interaction using Specific Capabilities or Modalities</a></li>
+<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-using-specific-capabilities-or-modalities" >Interaction Using Specific Capabilities or Modalities</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#understanding-people-theory-concepts-methods" >Understanding People: Theory, Concepts, Methods</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-techniques-and-devices" >Interaction Techniques and Devices</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#technology-systems-and-engineering" >Technology, Systems and Engineering</a></li></ul>
