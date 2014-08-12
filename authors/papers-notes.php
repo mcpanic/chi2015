@@ -35,8 +35,8 @@
 <div>
 <h3 >Preparing and Submitting Your Paper or Note</h3>
 <ol ><li><strong>The CHI program committee consists of subcommittees that each focus on a subset of topics in human-computer interaction. The author decides which subcommittee reviews his or her paper.</strong>&nbsp;The CHI program committee is divided into topical subcommittees to help handle the over 1,900 Papers and Notes submissions and provide high-quality reviews by experts. When you submit a paper, you will state which subcommittee you want to handle your submission. You will see a list of subcommittees and descriptions of the topics they cover, the names of the Subcommittee Chairs, and the names of the Associate Chairs serving on each subcommittee. Using all of this information, it is your responsibility to select the subcommittee that offers the best expertise to assess your research, and that you believe will most fully appreciate your (main) contribution to the field of HCI. If you are unsure, you can email the subcommittee chairs for advice. As an author, this empowers you to choose the appropriate audience to review your research.
-<ul><li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#user-experience-and-usability" >User experience and usability</a></li>
-<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#specific-application-areas" >Specific Application Area</a></li>
+<ul><li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#user-experience-and-usability" >User Experience and Usability</a></li>
+<li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#specific-application-areas" >Specific Application Areas</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-beyond-the-individual" >Interaction Beyond the Individual</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#design" >Design</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-using-specific-capabilities-or-modalities" >Interaction using Specific Capabilities or Modalities</a></li>

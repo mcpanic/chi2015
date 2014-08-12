@@ -173,9 +173,10 @@ Mark Blythe</p>
 <p>This subcommittee will focus on advances in interaction that use capabilities, modalities, or technologies that have not yet been fully exploited in standard approaches to interaction. These contributions will be judged in part by their novelty and their ability to extend user capabilities in powerful new ways or to new contexts. Example areas include, but are not limited to: multimodal user interfaces, tangible interfaces, speech I/O, auditory I/O, physiological computing, brain-computer interfaces, perception and vision-based systems, augmented reality, and visualisation.</p>
 <p><strong>Chairs:</strong></p>
 <p>Sriram Subramanian<br>
-Shendong Zhao</p>
+Shengdong Zhao</p>
 <p><strong>Subcommittee:</strong></p>
-<p><span>Pierre Dragicevic</span><br>
+<p>
+<span>Pierre Dragicevic</span><br>
 <span>Abhijit Karnik</span><br>
 <span>Andreas Butz</span><br>
 <span>Jürgen Steimle</span><br>
@@ -193,7 +194,9 @@ Shendong Zhao</p>
 <span>Cosmin Munteanu</span><br>
 <span>Anastasia Bezerianos</span><br>
 <span>Lonce Wyse</span><br>
-<span>Andy Wilson</span></p>
+<span>Andy Wilson</span><br>
+<span>Dominik Schmidt
+</p>
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1124772.1124800"  target="_blank">A role for haptics in mobile interaction: initial design using a handheld tactile display prototype</a></li>
 <li><a href="http://doi.acm.org/10.1145/1518701.1518897"  target="_blank">Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations</a></li>
