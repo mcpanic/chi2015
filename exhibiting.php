@@ -27,16 +27,16 @@
   <p>Exhibitors presenting products and services will find thousands of eager users from corporate, education, entertainment, health care, government and research institutions. Past conferences have attracted almost 3,500 participants from all over the world.</p>
 
   <h3 id="recruiting-opportunities">Recruiting Opportunities</h3>
-  <p>CHI 2015 provides special support for recruiting by offering organizations the opportunity to rent exhibit booth space for this purpose. <a href="<?php echo $prefix; ?>/recruiting/">Learn more</a>.
+  <p>CHI 2015 provides special support for recruiting by offering organizations the opportunity to rent exhibit booth space for this purpose. <a href="<?php echo $prefix; ?>/recruiting">Learn more</a>.
 
   </p><h3 id="sponsoring-opportunities">Sponsoring Opportunities</h3>
-  <p>Exhibiting and recruiting efforts are further enhanced by becoming a conference sponsor. For more detailed information about this and the many other advantages of sponsoring, <a href="<?php echo $prefix; ?>/sponsoring/">click here</a> or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2015.acm.org">exhibits@chi2015.acm.org</a>.
+  <p>Exhibiting and recruiting efforts are further enhanced by becoming a conference sponsor. For more detailed information about this and the many other advantages of sponsoring, <a href="<?php echo $prefix; ?>/sponsoring">click here</a> or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2015.acm.org">exhibits@chi2015.acm.org</a>.
 
   </p><h3>Related Links</h3>
   <ul>
     <li><a href="http://chi2014.acm.org/exhibiting/list-of-exhibitors" target="_blank">See last year's exhibitors</a></li>
-    <li><a href="<?php echo $prefix; ?>/sponsoring/">Sponsoring Opportunities </a></li>
-    <li><a href="<?php echo $prefix; ?>/recruiting/">Recruiting Opportunities </a></li>
+    <li><a href="<?php echo $prefix; ?>/sponsoring">Sponsoring Opportunities </a></li>
+    <li><a href="<?php echo $prefix; ?>/recruiting">Recruiting Opportunities </a></li>
   </ul>
 </div>
 

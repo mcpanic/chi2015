@@ -19,13 +19,13 @@
   <p>If a recruiting booth is more than you need, renting a "recruiting board" where you can post open positions may be a good option. You may also supplement a recruiting booth rental with a recruiting board to enhance your efforts. More information on recruiting board rentals may be found in the CHI 2015 Invitation to Exhibit, or by contacting Carol Klyver at <a href="mailto:recruiters@chi2015.acm.org">recruiters@chi2015.acm.org</a>.</p>
 
   <h3 id="sponsoring-opportunities">Sponsoring Opportunities</h3>
-  <p>Recruiting efforts are further enhanced by becoming a conference sponsor. For more detailed information about this and the many other advantages of sponsoring, please <a href="<?php echo $prefix; ?>/sponsoring/">click here</a> or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:recruiters@chi2015.acm.org">recruiters@chi2015.acm.org</a>.</p>
+  <p>Recruiting efforts are further enhanced by becoming a conference sponsor. For more detailed information about this and the many other advantages of sponsoring, please <a href="<?php echo $prefix; ?>/sponsoring">click here</a> or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:recruiters@chi2015.acm.org">recruiters@chi2015.acm.org</a>.</p>
 
   <h3>Related Links</h3>
   <ul>
     <li><a href="http://chi2014.acm.org/recruiting/list-of-recruiters">See last year’s Recruiters</a></li>
-    <li><a href="<?php echo $prefix; ?>/exhibiting/">Exhibiting Opportunities</a></li>
-    <li><a href="<?php echo $prefix; ?>/sponsoring/">Sponsoring Opportunities</a></li>
+    <li><a href="<?php echo $prefix; ?>/exhibiting">Exhibiting Opportunities</a></li>
+    <li><a href="<?php echo $prefix; ?>/sponsoring">Sponsoring Opportunities</a></li>
   </ul>
 </div>
 
