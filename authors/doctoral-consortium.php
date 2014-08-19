@@ -23,7 +23,7 @@
 <ul >
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
 <li><span >Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
-<li>Submission Format: 4 pages describing your research and up to 4 pages of auxiliary content, described below </li>
+<li>Submission Content: <a href="http://chi2015.acm.org/authors/doctoral-consortium-expected-proposal-content">4 pages about your research and up to 4 pages of auxiliary content</a></li>
 
 
 </ul>
@@ -63,7 +63,7 @@
 
 <div>
 <h3 ><span ><span >Preparing and Submitting your Doctoral Consortium Proposal</span></span></h3>
-<p dir="ltr" ><span >A Doctoral Consortium proposal must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following four components (submitted as a single PDF file)<span >:</span></span></p>
+<p dir="ltr" ><span >A Doctoral Consortium proposal must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following four components, submitted as a single PDF file. Additional details about the expected content can be found <a href="http://chi2015.acm.org/authors/doctoral-consortium-expected-proposal-content">here</a>.</span></p>
 
 <ol >
   <li>Extended Abstract. A 4-page research description covering central aspects of your PhD work<span >. Key points include:</span></li>
@@ -80,7 +80,7 @@
       <li>Current and expected contributions</li>
     </ul>
   <li>Appendix 1. A one-paragraph statement of expected benefits of participation for both yourself and the other consortium participants (i.e., what will you contribute as well as gain) (max 1 page).</li>
-  <li>Appendix 2. A letter of nomination from your primary dissertation advisor, that addresses the questions posed in the CHI Doctoral Consortium sample submission (max 1 page).</li>
+  <li>Appendix 2. A letter of nomination from your primary dissertation advisor, that addresses the questions posed in the CHI Doctoral Consortium submission details (max 1 page).</li>
   <li>Appendix 3. A concise version of your current Curriculum Vita (1-2 pages).</li>
 </ol>
 <p dir="ltr" ><span >It is essential for you to ensure that your submission is complete and in accordance with the format and content guidelines for the CHI Doctoral Consortium. B</span><span >ecause the Doctoral Consortium Committee expects to receive a large number of applications, submissions that do not meet these requirements will be returned without review.</span><span ><br>
