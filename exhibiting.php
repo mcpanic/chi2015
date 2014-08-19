@@ -7,7 +7,7 @@
 <div>
   <p>The CHI 2015 exhibits program is an opportunity for your organization to showcase its offerings to the broadest professional community of human-computer interaction (HCI) practitioners and researchers. By exhibiting at CHI 2015, you gain access to professionals in the HCI field with interests spanning the design, development, and evaluation of current human-computer interaction and future technologies.</p>
   <p>See <a href="http://chi2014.acm.org/exhibiting/list-of-exhibitors" target="_blank">last year’s exhibitors</a>.</p>
-  <p>For complete details about exhibiting, see the <a href="">CHI 2015 Invitation to Exhibit</a> (coming in September) or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2014.acm.org">exhibits@chi2015.acm.org</a>. You may also preview the <a href="">floor plan &amp; schedule</a> (also coming in September), and <a href="" target="_blank">register online</a> at that time. Highlights for the exhibit program are listed below.</p>
+  <p>For complete details about exhibiting, see the <a href="">CHI 2015 Invitation to Exhibit</a> (coming in September) or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2015.acm.org">exhibits@chi2015.acm.org</a>. You may also preview the <a href="">floor plan &amp; schedule</a> (also coming in September), and <a href="" target="_blank">register online</a> at that time. Highlights for the exhibit program are listed below.</p>
   <ul>
     <li><a href="#grand-opening-of-exhibits-and-reception">Grand Opening of Exhibits and Reception</a></li>
     <li><a href="#location-of-exhibits">Location of Exhibits</a></li>
