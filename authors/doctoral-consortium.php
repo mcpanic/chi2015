@@ -23,7 +23,7 @@
 <ul >
 <li>Online Submission:&nbsp;<a href="http://www.precisionconference.com/~sigchi" target="_blank">PCS Submission System</a></li>
 <li><span >Template: <a href="http://chi2015.acm.org/authors/format" target="_blank">Extended Abstracts Format</a></span></li>
-<li>Submission Content: <a href="http://chi2015.acm.org/authors/doctoral-consortium-expected-proposal-content">4 pages about your research and up to 4 pages of auxiliary content</a></li>
+<li>Submission Content: <a href="http://chi2015.acm.org/authors/doctoral-consortium-proposal-content">4 pages about your research and up to 4 pages of auxiliary content</a></li>
 
 
 </ul>
@@ -38,7 +38,7 @@
 <h3 ><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the Doctoral Consortium Chairs</h3>
 <p dir="ltr" ><span >The CHI 2015 Doctoral Consortium provides an opportunity for doctoral students to explore and develop their research interests in an interdisciplinary workshop, under the guidance of a panel of distinguished researchers. We invite students who feel they would benefit from this kind of feedback on their dissertation work to apply for this unique opportunity to share their work with students in a similar situation as well as senior researchers in the field. The strongest candidates will be those who have a clear topic and research approach, and have made some progress, but who are not so far along that they can no longer make changes. In addition to stating how you will benefit from participation, both you and your advisor should be clear on what you can contribute to the Doctoral Consortium.</span></p>
 
-<p dir="ltr" ><span >Si Jung Kim, University of Central Florida, USA</span></p>
+<p dir="ltr" ><span >Si Jung Kim, University of Nevada Las Vegas (UNLV), USA</span></p>
 <p dir="ltr" ><span >Jaime Teevan, Microsoft Research, USA</span></p>
 <p dir="ltr" ><span >Susan Fussell, Cornell University, USA</span></p>
 <p dir="ltr" ><span ><a href="mailto:doctoral@chi2015.acm.org">doctoral@chi2015.acm.org</a></span></p>
@@ -55,7 +55,7 @@
   <li>Promote the development of a supportive community of scholars and a spirit of collaborative research, and</li>
   <li>Contribute to the conference goals through interaction with other researchers and conference events.</li>
 </ul>
-<p dir="ltr" ><span >The Consortium will be held on Saturday and Sunday, 18-19 April 2015. The consortium will be a single track two-day event with about 12-15 students attending. Applicants who are selected will receive complimentary conference registration and some travel support.</span></p>
+<p dir="ltr" ><span >The Consortium will be held on Saturday and Sunday, 18-19 April 2015. The Consortium will be a single track two-day event with about 12-15 students attending. Applicants who are selected will receive complimentary conference registration and some travel support.</span></p>
 </div>
 
 
@@ -63,7 +63,7 @@
 
 <div>
 <h3 ><span ><span >Preparing and Submitting your Doctoral Consortium Proposal</span></span></h3>
-<p dir="ltr" ><span >A Doctoral Consortium proposal must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following four components, submitted as a single PDF file. Additional details about the expected content can be found <a href="http://chi2015.acm.org/authors/doctoral-consortium-expected-proposal-content">here</a>.</span></p>
+<p dir="ltr" ><span >A Doctoral Consortium proposal must be submitted via the&nbsp;&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS Submission System</a>&nbsp;by&nbsp;6 October 2014, 5:00pm PDT. The proposal must have the following four components, submitted as a single PDF file. Additional details about the expected content can be found <a href="http://chi2015.acm.org/authors/doctoral-consortium-proposal-content">here</a>.</span></p>
 
 <ol >
   <li>Extended Abstract. A 4-page research description covering central aspects of your PhD work<span >. Key points include:</span></li>
@@ -105,7 +105,7 @@
 
 <p dir="ltr" ><span><span >Authors of accepted submissions will receive instructions on how to submit their publication-ready copy (which will consist of your extended abstract only), and will receive information about attending the Doctoral Consortium, preparing your presentation and poster, and&nbsp;registering for the conference. Publication-ready submissions are due&nbsp;on 9 January 2015.&nbsp;</span></span></p>
 
-<p dir="ltr" ><span><span >Limited support for participant attendance at the consortium is provided by CHI 2015. All such benefits are contingent on attending the two-day Doctoral Consortium. Please note that submissions will not be published without a signed form releasing publishing copyright to the ACM. Attaining permissions to use video, audio, or pictures of identifiable people or proprietary content rests with the author, not the ACM or the CHI conference.</span></span></p>
+<p dir="ltr" ><span><span >Limited support for participant attendance at the Consortium is provided by CHI 2015. All such benefits are contingent on attending the two-day Doctoral Consortium. Please note that submissions will not be published without a signed form releasing publishing copyright to the ACM. Attaining permissions to use video, audio, or pictures of identifiable people or proprietary content rests with the author, not the ACM or the CHI conference.</span></span></p>
 
 </div>
 

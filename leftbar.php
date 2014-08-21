@@ -35,7 +35,7 @@
 		</ul>
 	</div>
 	<div class="sidebar-block">
-		<div class="sidebar-date">6 October 2015</div>
+		<div class="sidebar-date">6 October 2014</div>
 		<ul>
 			<li class="sidebar-item">
 			<a href="http://chi2015.acm.org/authors/case-studies">Case Studies</a>, <a href="http://chi2015.acm.org/authors/workshops" >Workshops</a>, <a href="http://chi2015.acm.org/authors/courses">Courses</a>, <a href="http://chi2015.acm.org/authors/doctoral-consortium" >Doctoral Consortium</a>, <a href="http://chi2015.acm.org/authors/interactivity">Interactivity</a>

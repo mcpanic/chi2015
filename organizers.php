@@ -102,7 +102,7 @@
 <dl>
         <dt><strong><a href="mailto:doctoral@chi2015.acm.org">Doctoral Consortium</a>: </strong></dt>
                 <dd>
-                        Si-Jung &quot;Jun&quot; Kim, <i>University of Central Florida</i>, <i>USA</i>
+                        Si-Jung &quot;Jun&quot; Kim, <i>University of Nevada Las Vegas (UNLV)</i>, <i>USA</i>
                         <br>
                         Jaime Teevan, <i>Microsoft Research</i>, <i>USA</i>
                         <br>

@@ -1,13 +1,13 @@
 <?php
-  $pageTitle = "Doctoral Consortium: Expected Proposal Content";
+  $pageTitle = "Doctoral Consortium: Proposal Content";
   include "../header.php";
 ?>
 
-<h2>Doctoral Consortium: Expected Proposal Content</h2>
+<h2>Doctoral Consortium: Proposal Content</h2>
 
 <p>This page describes the expected content for proposals submitted to the CHI 2015 Doctoral Consortium. Additional submission information can be found at the <a href="http://chi2015.acm.org/authors/doctoral-consortium">Doctoral Consortium’s CFP</a>.</p>
 
-<h3>DOCTORAL CONSORTIUM ABSTRACT</h3>
+<h3>Doctoral Consortium Abstract</h3>
 
 <h4>Research Situation</h4>
 <p>Applicants to the Doctoral Consortium should have begun their research, but should not have completed it in its entirety. You should briefly state where you currently are in your university’s PhD program. We understand that different universities may organize their programs quite differently, so feel free to give some background if this will help you to be clear. Remember that we are seeking candidates who have an approved dissertation research topic and are carrying out their work, but who have enough work ahead of them that they can benefit from the exchanges and discussions that will take place at the Consortium.</p>
@@ -88,7 +88,10 @@ Finally, connect your research approach back to the problem statement. This shou
 
 <p><em>Note: Ensure the formatting of the Abstract conforms to the Extended Abstracts format posted on the conference web site.</em></p>
 
-<hr>
+
+
+<h3>Doctoral Consortium Appendices</h3>
+
 <h4>APPENDIX 1: Statement of Expected Benefits</h4>
 <p>Attach as a 1 page appendix that includes a short (one-paragraph) statement of expected benefits of participation for both yourself and the other consortium participants. Be clear about what will you contribute as well as gain.</p>
 
