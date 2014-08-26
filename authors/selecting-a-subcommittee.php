@@ -255,7 +255,10 @@ Karon Maclean</p>
 <span>Hrvoje Benko</span><br>
 <span>Tony Tang</span><br>
 <span>Derek Reilly</span><br>
-<span>Mark Billinghurst</span></p>
+<span>Mark Billinghurst</span><br>
+<span>Xiaojun Bi</span><br>
+<span>Cristina Conati</span>
+</p>
 <h4 id="technology-systems-and-engineering">Technology, Systems and Engineering</h4>
 <p>This subcommittee will focus on technology, systems and engineering contributions that enable, improve, or advance interaction. This will include software and hardware technologies and systems that enable and demonstrate novel interactive capabilities, as well as languages, methods and tools for construction and engineering of interactive systems. Engineering contributions should clearly demonstrate how they address interactive systems concerns such as, for example, scalability, reliability, interoperability, testing, and performance. Systems and technology contributions will be judged by their technical innovation and/or ability to connect, simplify or enrich interactions, for example in intelligent interfaces and mobile/ubiquitous computing.</p>
 <p><strong>Chairs:</strong></p>
