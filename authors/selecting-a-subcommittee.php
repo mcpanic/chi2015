@@ -224,7 +224,23 @@ Mark Perry</p>
 <span>Steven Villier</span><br>
 <span>Ed Cuttrell</span><br>
 <span>Antti Salovarra</span><br>
-<span>Parmit Chilana</span></p>
+<span>Parmit Chilana</span><br>
+<span>David Coyle</span><br>
+<span>Wendy Mackay</span><br>
+<span>Ravin Balakrishnan</span><br>
+<span>David Ayman Shamma</span><br>
+<span>Cliff Lampe</span><br>
+<span>Bongwon Suh</span><br>
+<span>Xiangshi Ren</span><br>
+<span>Andrew Howes</span><br>
+<span>Duncan Brumby</span><br>
+<span>Kasper Hornbaek</span><br>
+<span>Max Wilson</span><br>
+<span>Mary Czerwinski</span><br>
+<span>Yang Wang</span><br>
+<span>Malte Jung</span><br>
+<span>Katharina Reinecke</span>
+</p>
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753485"  target="_blank">Blogging in a region of conflict: supporting transition to recovery</a></li>
 <li><a href="http://doi.acm.org/10.1145/1753326.1753447"  target="_blank">The effects of diversity on group productivity and member withdrawal in online volunteer groups</a></li>
