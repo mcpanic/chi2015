@@ -1,8 +1,8 @@
 <?php
-  $pageTitle = "HCI's Impact on Industry";
+  $pageTitle = "Attending";
   include "header.php";
 ?>
-    <h1>Attending</h1>
+<h1>Attending</h1>
 
 <p>
 CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class center of emerging trends in culture, technology, and design.  The following information should help you register for the conference and make the most of your travels.

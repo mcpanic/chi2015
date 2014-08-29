@@ -44,7 +44,13 @@
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#interaction-techniques-and-devices" >Interaction Techniques and Devices</a></li>
 <li><a href="http://chi2015.acm.org/authors/selecting-a-subcommittee#technology-systems-and-engineering" >Technology, Systems and Engineering</a></li></ul>
 See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Selecting a Subcommittee</a></li>
+
 <li><strong>Papers and Notes are handled by the same program committee.</strong>&nbsp;Finally, you will indicate whether your submission is a Paper or a Note. All submissions will be handled by the same program committee, but the committee will have different expectations for Papers and Notes. See&nbsp;<a href="http://chi2015.acm.org/authors/papers-versus-notes" >Papers versus Notes: What is the difference?</a></li>
+
+<li>
+<strong>Familiarize Yourself with <a href="http://chi2015.acm.org/authors/sigchi-submitter-agreement">the SIGCHI Submitter Agreement</a>.</strong> New this year, when you submit your work, you will be asked to agree to the terms and conditions of the SIGCHI Submitter Agreement.
+</li>
+
 <li><strong>Write and Format Your Anonymized Paper or Note.</strong>&nbsp;Your submission must be original. It cannot be published or under concurrent review elsewhere. A Paper is no more than 10 pages long, while a Note is no more than 4 pages long. This includes figures, references, appendices and an abstract of less than 150 words long. Over length submissions will be rejected. See
 <ul><li><a href="http://chi2015.acm.org/authors/format" >CHI Archive Format</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archival-submission" >Guide to a Successful Archival Submission</a></li>
@@ -53,7 +59,9 @@ See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Sele
 <li><a href="http://chi2015.acm.org/authors/chi-anonymization-policy" >CHI Anonymization Policy</a></li>
 <li><a href="http://chi2015.acm.org/authors/guide-to-reviewing-chi-papers-and-notes" >Guide to Reviewing CHI Papers and Notes</a></li></ul>
 </li>
+
 <li><strong>Prepare Video Figure&nbsp;<i>(Optional)</i>.</strong>&nbsp;Your submission may be accompanied by a short digital video figure or interactive illustration. Supplementary video figures do not have a specified limit for duration, although we recommend staying within 5 minutes. However, your total submission size (paper + video) must be no more than 100 MB. Since not everyone who reads the Paper or Notes may view the video figure, your submission must stand on its own without the figure, and will be reviewed as such. See&nbsp;<a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></li>
+
 <li><strong>Make Your Submission.</strong>&nbsp;Authors may submit and resubmit their materials to the online&nbsp;<a href="http://www.precisionconference.com/~sigchi"  target="_blank">PCS submission system</a>&nbsp;as often as they please before the submission deadline of 22 September 2014. This includes descriptive information (meta-data) you provide during the upload process (e.g., keywords and the subcommittee that will handle your submission) as well as the abstract, your submission, and (optional) video figure. No extensions will be granted after the deadline. The submission system will open for submissions approximately two weeks before the submission deadline.</li>
 </ol>
 <h3 >CHI Paper and Notes Review Process</h3>
