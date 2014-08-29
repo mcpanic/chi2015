@@ -48,7 +48,7 @@ See&nbsp;<a href="http://chi2015.acm.org/authors/selecting-a-subcommittee" >Sele
 <li><strong>Papers and Notes are handled by the same program committee.</strong>&nbsp;Finally, you will indicate whether your submission is a Paper or a Note. All submissions will be handled by the same program committee, but the committee will have different expectations for Papers and Notes. See&nbsp;<a href="http://chi2015.acm.org/authors/papers-versus-notes" >Papers versus Notes: What is the difference?</a></li>
 
 <li>
-<strong>Familiarize Yourself with <a href="http://chi2015.acm.org/authors/sigchi-submitter-agreement">the SIGCHI Submitter Agreement</a>.</strong> New this year, when you submit your work, you will be asked to agree to the terms and conditions of the SIGCHI Submitter Agreement.
+<strong>Familiarize Yourself with <a href="http://chi2015.acm.org/authors/sigchi-submitter-agreement">the SIGCHI Submitter Agreement</a>.</strong> New this year, when you submit your work, you will be asked to agree to the terms and conditions of <a href="http://chi2015.acm.org/authors/sigchi-submitter-agreement">the SIGCHI Submitter Agreement</a>.
 </li>
 
 <li><strong>Write and Format Your Anonymized Paper or Note.</strong>&nbsp;Your submission must be original. It cannot be published or under concurrent review elsewhere. A Paper is no more than 10 pages long, while a Note is no more than 4 pages long. This includes figures, references, appendices and an abstract of less than 150 words long. Over length submissions will be rejected. See
