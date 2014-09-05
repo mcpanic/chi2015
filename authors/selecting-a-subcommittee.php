@@ -98,9 +98,11 @@ Hironobu Takagi<br>
 <span>Erin Cherry</span><br>
 <span>Daniela Rosner</span><br>
 <span>Martin Flintham</span><br>
-<span>Maria Wolters</span><span>
+<span>Maria Wolters</span><br>
+<span>Andrea Bunt</span><br>
+<span>Melissa Densmore</span>
 
-</span></p>
+</p>
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://portal.acm.org/citation.cfm?id=1753494"  target="_blank">PointAssist for Older Adults: Analyzing Sub-Movement Characteristics to Aid in Pointing Task</a></li>
 <li><a href="http://portal.acm.org/citation.cfm?id=1753610"  target="_blank">Mobile-izing Health Workers in Rural India</a></li>
@@ -213,7 +215,7 @@ Mark Perry</p>
 <p><span>Barry Brown</span><br>
 <span>Kenton O'Hara </span><br>
 <span>David Coyle </span><br>
-<span>Mariana Obrist</span><br>
+<span>Marianna Obrist</span><br>
 <span>Sian Lindley</span><br>
 <span>Steve Payne </span><br>
 <span>Paul Andre</span><br>
