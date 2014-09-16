@@ -240,7 +240,7 @@
 <dl>
         <dt><strong><a href="mailto:techliaison@chi2015.acm.org">Technical Liason</a>: </strong></dt>
                 <dd>
-                        Sara Drenner
+                        Sara Drenner, <i>BI Worldwide</i>, <i>USA</i>
                         <br>
                         Scooter Morris, <i>University of California, San Franscisco</i>, <i>USA</i>
                 </dd>

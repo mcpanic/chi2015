@@ -241,7 +241,9 @@ Mark Perry</p>
 <span>Mary Czerwinski</span><br>
 <span>Yang Wang</span><br>
 <span>Malte Jung</span><br>
-<span>Katharina Reinecke</span>
+<span>Katharina Reinecke</span><br>
+<span>David R. Millen</span><br>
+<span>Lichan Hong</span>
 </p>
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753485"  target="_blank">Blogging in a region of conflict: supporting transition to recovery</a></li>
