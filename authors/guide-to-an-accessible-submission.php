@@ -39,7 +39,7 @@
 <p>The PDF Techniques for WCAG 2.0:<br>
 <a href="http://www.w3.org/WAI/GL/WCAG20-TECHS/pdf.html"  target="_blank">http://www.w3.org/WAI/GL/WCAG20-TECHS/pdf.html</a></p>
 <p>The SIGACCESS guidelines on making an accessible ACM Conference paper:<br>
-<a href="http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/  target="_blank">http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/</a></p>
+<a href="http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/" target="_blank">http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/</a></p>
 <p>Adobe's resource center for PDF accessibility:<br>
 <a href="http://www.adobe.com/accessibility/resources.html"  target="_blank">http://www.adobe.com/accessibility/resources.html</a></p>
 <hr>
