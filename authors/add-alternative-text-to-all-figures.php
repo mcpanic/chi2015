@@ -45,7 +45,7 @@
   <p>Unfortunately tools do not yet exist to create a tagged PDF. Authors using LaTeX will need to first create an untagged PDF. Then, within Acrobat, authors can <a href="/authors/generate-a-tagged-pdf#Acrobat">add tags to the PDF</a>. Finally, within Acrobat, authors can add alternative text, using the <a href="#Acrobat">instructions below</a>.</p>
 
   <h3 id="Acrobat">Acrobat</h3>
-  <p>If an image or graphic does not have alternative text, you must add this by editing the properties of the associated tag, after the pdf has been created, and <a href="http://chi2014.acm.org/authors/generate-a-tagged-pdf#Acrobat" target="_blank">tags have been manually added to the PDF using Acrobat</a>.</p>
+  <p>If an image or graphic does not have alternative text, you must add this by editing the properties of the associated tag, after the pdf has been created, and <a href="/authors/generate-a-tagged-pdf#Acrobat" target="_blank">tags have been manually added to the PDF using Acrobat</a>.</p>
   <ol>
     <li>Select the TouchUp Reading Order Tool. It may appear in the Advanced Editing menu or in the Accessibility Panel.
       <p><img src="/img/accessibility/alt-7.png" width="55%"><img src="/img/accessibility/alt-8.png" width="45%"></p></li>
@@ -55,7 +55,7 @@
       <p><img src="/img/accessibility/alt-9.png" width="80%"></p></li>
   </ol>
 
-  <p><a href="guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
+  <p><a href="/authors/guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
 
   <hr>
 

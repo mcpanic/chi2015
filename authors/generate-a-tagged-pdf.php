@@ -71,7 +71,7 @@
   <a href="http://www.adobe.com/content/dam/Adobe/en/accessibility/products/acrobat/pdfs/acrobat-x-pdf-accessibility-best-practices.pdf" target="_blank">Adobe® Acrobat® X Pro Accessibility Guide: Best Practices for PDF Accessibility</a><br>
   <a href="http://www.adobe.com/content/dam/Adobe/en/accessibility/products/acrobat/pdfs/acrobat-xi-pro-accessibility-best-practice-guide.pdf" target="_blank">Adobe® Acrobat® XI Pro Accessibility Guide: Best Practices for PDF Accessibility</a></p>
 
-  <p><a href="guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
+  <p><a href="/authors/guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
 
   <hr>
 

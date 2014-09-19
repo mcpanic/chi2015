@@ -19,7 +19,7 @@
     <li>In the "Reading Options" field, select the default language from the "Language" combo box</li>
   </ol>
   <p></p><center><img src="/img/accessibility/verify-lang.png" width="60%"></center><p></p>
-  <p><a href="guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
+  <p><a href="/authors/guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
 
   <hr>
 

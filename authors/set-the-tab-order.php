@@ -22,7 +22,7 @@
       <p><img src="/img/accessibility/tab-order-5.png" width="90%"></p></li>
   </ol>
 
-  <p><a href="guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
+  <p><a href="/authors/guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
 
   <hr>
 

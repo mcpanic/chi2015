@@ -34,7 +34,7 @@
   <p>Unfortunately tools do not yet exist to create a tagged PDF. Authors using LaTeX will need to first create an untagged PDF. Then, within Acrobat, authors can <a href="/authors/generate-a-tagged-pdf#Acrobat">add tags to the PDF</a>. Finally, within Acrobat, authors can mark table headers, using the <a href="#acrobat">instructions below</a>.</p>
 
   <h3 id="acrobat">Acrobat</h3>
-  <p>If you cannot mark the table headers before creating the PDF, then they can be marked using Acrobat, after the PDF has been created, and <a href="http://chi2014.acm.org/authors/generate-a-tagged-pdf#Acrobat" target="_blank">tags have been manually added to the PDF using Acrobat</a>.</p>
+  <p>If you cannot mark the table headers before creating the PDF, then they can be marked using Acrobat, after the PDF has been created, and <a href="/authors/generate-a-tagged-pdf#Acrobat" target="_blank">tags have been manually added to the PDF using Acrobat</a>.</p>
   <ol>
     <li>In the View menu, select Navigation Panel, then select Tags.
       <p><img src="/img/accessibility/mark-acrobat-1.png" width="90%"></p>
@@ -45,7 +45,7 @@
     <li>Repeat for all the table header cells in the first table row.</li>
   </ol>
 
-  <p><a href="guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
+  <p><a href="/authors/guide-to-an-accessible-submission">← Guide to an Accessible Submission</a></p>
 
   <hr>
 
