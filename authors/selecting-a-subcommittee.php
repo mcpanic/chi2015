@@ -115,7 +115,7 @@ Hironobu Takagi<br>
 <span>N. Sadat Shami</span></p>
 <p><strong>Subcommittee:</strong></p>
 <p><span>Haochuan Wang</span><br>
-<span>Jacki O'Neill</span><br>
+<span>Dave Randall</span><br>
 <span>Katie Pine</span><br>
 <span>Michael Muller</span><br>
 <span>Naomi Yamashita</span><br>
@@ -128,7 +128,7 @@ Hironobu Takagi<br>
 <span>Darren Gergle</span><br>
 <span>Marcos Borges</span><br>
 <span>Chen Zhao</span><br>
-<span>Brent Hetch</span><br>
+<span>Brent Hecht</span><br>
 <span>Alexander Boden</span><br>
 <span>Jilin Chen</span><br>
 <span>Marisa Cohn</span><br>
