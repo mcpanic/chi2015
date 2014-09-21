@@ -40,7 +40,15 @@ Jettie Hoonhout</p>
 <span>Jesper Kjeldskov</span><br>
 <span>David Geerts</span><br>
 <span>Rongrong Wang</span><br>
-<span>Alex Tuch</span></p>
+<span>Alex Tuch</span><br>
+<span>Tom Bartindale</span><br>
+<span>Sameer Patil</span><br>
+<span>Patrick Rau</span><br>
+<span>Matt Jones</span><br>
+<span>Vanessa Evers</span><br>
+<span>Javier Bargas-Avila</span><br>
+<span>Harald Reiterer</span></p>
+
 <p><strong>Example Papers and Notes:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753687"  target="_blank">[Note] Measuring the user experience on a large scale: user-centered metrics for web applications</a></li>
 <li><a href="http://doi.acm.org/10.1145/1753326.1753679"  target="_blank">[Paper] Average task times in usability tests: what to report?</a></li>
