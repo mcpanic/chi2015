@@ -1,6 +1,8 @@
 <h3>Sponsors</h3>
 	<div id="sponsor-list">
- 		<div>coming soon</div>
+ 		<h4>Champion Sponsors</h4>
+        <img alt="Google" title="Sponsored by Google" src="<?php echo $prefix; ?>/img/sponsors/google.png">
+        <img alt="Microsoft" title="Sponsored by Microsoft" src="<?php echo $prefix; ?>/img/sponsors/microsoft-140.png">
 <!--
 		<div>company 2</div>
 		<div>company 3</div>

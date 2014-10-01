@@ -256,6 +256,11 @@ blockquote p {
 	margin-top: 20px;
 }
 
+#sponsor-list img{
+	width: 140px;
+	padding-top: 15px;
+}
+
 #sponsor-list div{
 	padding-top: 15px;
 }
@@ -374,3 +379,11 @@ footer {
 	color: #1B75BB;
 }
 
+
+/* ==========================================================================
+   Sponsor entry: sponsors-of-chi2015.php file only
+   ========================================================================== */
+
+.sponsor{
+	padding: 10px;
+}
