@@ -92,7 +92,7 @@ Submitted videos will be used for review purposes. The videos may also be displa
 <strong>4. Supplement</strong>
 
 <p dir="ltr"><span>
-This supplement is mandatory for all Interactivity submissions and must include technical set-up and space requirements. This supplement is useful for describing anything that does not fit or is not appropriate for the extended abstract and is used to determine how to organise Interactivity exhibits.  Please use the <a href="http://chi2015.acm.org/templates/InteractivitySupplement.pdf" target="_blank">template</a> provided.  Abstracts that do not provide a complete supplement using the template will not be accepted.
+This supplement is mandatory for all Interactivity submissions and must include technical set-up and space requirements. This supplement is useful for describing anything that does not fit or is not appropriate for the extended abstract and is used to determine how to organise Interactivity exhibits.  Please use the <a href="http://chi2015.acm.org/templates/InteractivitySupplement2015.docx" target="_blank">template</a> provided.  Abstracts that do not provide a complete supplement using the template will not be accepted.
 
 Supplement materials are for the purpose of review and planning only and will not be published. This information is used to determine spatial, technical, lighting, power (etc.) requirements for the demonstration, exhibit, or installation. The supplement should be no longer than 4 pages. Like all other materials, the supplement must be submitted through the PCS submission system and the total of PDF(s), still, video, and supplement cannot exceed 100 MB.
 
