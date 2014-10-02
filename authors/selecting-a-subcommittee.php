@@ -32,22 +32,26 @@
 <p>Manfred Tscheligi<br>
 Jettie Hoonhout</p>
 <p><strong>Subcommittee:</strong></p>
-<p><span>Effie Law</span><br>
-<span>Marco de Sa</span><br>
-<span>Mark Dunlop </span><br>
-<span>John Vines</span><br>
-<span>Matthew Lee</span><br>
-<span>Jesper Kjeldskov</span><br>
-<span>David Geerts</span><br>
-<span>Rongrong Wang</span><br>
-<span>Alex Tuch</span><br>
-<span>Tom Bartindale</span><br>
-<span>Sameer Patil</span><br>
-<span>Patrick Rau</span><br>
-<span>Matt Jones</span><br>
-<span>Vanessa Evers</span><br>
-<span>Javier Bargas-Avila</span><br>
-<span>Harald Reiterer</span></p>
+
+<p>
+<span>NG, Jamie       </span><br>
+<span>Reiterer, Harald        </span><br>
+<span>Bargas-Avila, Javier    </span><br>
+<span>Evers, Vanessa  </span><br>
+<span>Jones, Matt     </span><br>
+<span>Rau, Patrick    </span><br>
+<span>Patil, Sameer   </span><br>
+<span>Bartindale, Tom </span><br>
+<span>Tuch, Alexandre </span><br>
+<span>Wang, Rongrong  </span><br>
+<span>Geerts, David   </span><br>
+<span>Kjeldskov, Jesper       </span><br>
+<span>Lee, Matthew    </span><br>
+<span>Vines, John     </span><br>
+<span>Dunlop, Mark    </span><br>
+<span>de Sá, Marco    </span><br>
+<span>Law, Effie</span><br>
+</p>
 
 <p><strong>Example Papers and Notes:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753687"  target="_blank">[Note] Measuring the user experience on a large scale: user-centered metrics for web applications</a></li>
@@ -64,53 +68,52 @@ Leah Findlater<br>
 Hironobu Takagi<br>
 </p>
 <p><strong>Subcommittee:</strong></p>
-<p><span>Mike Hazas</span><br>
-<span>Jeff Heer</span><br>
-<span>Chris Quintana</span><br>
-<span>Svetlana Yarosh</span><br>
-<span>Amy Ogan</span><br>
-<span>Shuli Gilutz</span><br>
-<span>Tae-Jung (TJ) Yun</span><br>
-<span>Mikael Skov</span><br>
-<span>Mirjana Spasojevic</span><br>
-<span>Jina Huh</span><br>
-<span>Hao-Hua Chu</span><br>
-<span>Sean Munson</span><br>
-<span>Eun Kyoung Choe</span><br>
-<span>Jakob E. Bardram</span><br>
-<span>Anind Dey</span><br>
-<span>Inseok Hwang</span><br>
-<span>Lena Mamykina</span><br>
-<span>Paul Dunphy</span><br>
-<span>Serge Egelman</span><br>
-<span>Andrea Bianchi</span><br>
-<span>Matthew Smith</span><br>
-<span>Robert Comber</span><br>
-<span>Joel Brandt</span><br>
-<span>Bill Thies</span><br>
-<span>Tawanna Dillahunt</span><br>
-<span>Eli Blevis</span><br>
-<span>Florian 'Floyd' Mueller</span><br>
-<span>Tapan Parikh</span><br>
-<span>Elisa Rubegni</span><br>
-<span>Tiago Guerreiro</span><br>
-<span>Shaun Kane</span><br>
-<span>Roberto Manduchi</span><br>
-<span>Anne Marie Piper</span><br>
-<span>Eelke Folmer</span><br>
-<span>Patrick Olivier</span><br>
-<span>Shiri Azenkot</span><br>
-<span>David Flatla</span><br>
-<span>Bongshin Lee</span><br>
-<span>Niklas Elmqvist</span><br>
-<span>Erin Cherry</span><br>
-<span>Daniela Rosner</span><br>
-<span>Martin Flintham</span><br>
-<span>Maria Wolters</span><br>
-<span>Andrea Bunt</span><br>
-<span>Melissa Densmore</span>
-
+<p>
+<span>Mamykina, Lena  </span><br>
+<span>Hwang, Inseok   </span><br>
+<span>Dey, Anind      </span><br>
+<span>Bardram, Jakob  </span><br>
+<span>Choe, Eun Kyoung        </span><br>
+<span>Munson, Sean    </span><br>
+<span>Chu, Hao-Hua    </span><br>
+<span>Huh, Jina       </span><br>
+<span>Skov, Mikael B. </span><br>
+<span>Yun, Tae-Jung   </span><br>
+<span>Gilutz, Shuli   </span><br>
+<span>Ogan, Amy       </span><br>
+<span>Yarosh, Svetlana        </span><br>
+<span>Quintana, Chris</span><br>
+<span>Reeder, Robert  </span><br>
+<span>Bunt, Andrea    </span><br>
+<span>Rubegni, Elisa  </span><br>
+<span>Parikh, Tapan   </span><br>
+<span>Mueller, Florian        </span><br>
+<span>Blevis, Eli     </span><br>
+<span>Dillahunt, Tawanna      </span><br>
+<span>Thies, William  </span><br>
+<span>Brandt, Joel    </span><br>
+<span>Comber, Rob     </span><br>
+<span>Smith, Matthew  </span><br>
+<span>Bianchi, Andrea </span><br>
+<span>Egelman, Serge  </span><br>
+<span>Dunphy, Paul    </span><br>
+<span>Hazas, Mike     </span><br>
+<span>Gerling, Kathrin        </span><br>
+<span>Wolters, Maria  </span><br>
+<span>Flintham, Martin        </span><br>
+<span>Rosner, Daniela </span><br>
+<span>Cherry, Erin    </span><br>
+<span>Elmqvist, Niklas        </span><br>
+<span>Lee, Bongshin   </span><br>
+<span>Flatla, David   </span><br>
+<span>Azenkot, Shiri  </span><br>
+<span>Piper, Anne Marie       </span><br>
+<span>Manduchi, Roberto       </span><br>
+<span>Kane, Shaun     </span><br>
+<span>Guerreiro, Tiago        </span><br>
+<span>Heer, Jeffrey</span><br>
 </p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://portal.acm.org/citation.cfm?id=1753494"  target="_blank">PointAssist for Older Adults: Analyzing Sub-Movement Characteristics to Aid in Pointing Task</a></li>
 <li><a href="http://portal.acm.org/citation.cfm?id=1753610"  target="_blank">Mobile-izing Health Workers in Rural India</a></li>
@@ -121,26 +124,31 @@ Hironobu Takagi<br>
 <p><strong>Chairs:</strong></p>
 <p><span>Pernille Bjørn</span><br>
 <span>N. Sadat Shami</span></p>
+
 <p><strong>Subcommittee:</strong></p>
-<p><span>Haochuan Wang</span><br>
-<span>Dave Randall</span><br>
-<span>Katie Pine</span><br>
-<span>Michael Muller</span><br>
-<span>Naomi Yamashita</span><br>
-<span>Susan Fussell</span><br>
-<span>Volker Wulf</span><br>
-<span>Irina Shklovski </span><br>
-<span>Uichin Lee</span><br>
-<span>Munmun De Choudhury</span><br>
-<span>Antonella De Angeli</span><br>
-<span>Darren Gergle</span><br>
-<span>Marcos Borges</span><br>
-<span>Chen Zhao</span><br>
-<span>Brent Hecht</span><br>
-<span>Alexander Boden</span><br>
-<span>Jilin Chen</span><br>
-<span>Marisa Cohn</span><br>
-<span>Andrew Fiore</span></p>
+
+<p>
+<span>Jacovi, Michal  </span><br>
+<span>Zhao, Chen      </span><br>
+<span>Randall, Dave   </span><br>
+<span>Fiore, Andrew   </span><br>
+<span>Cohn, Marisa    </span><br>
+<span>Chen, Jilin     </span><br>
+<span>Boden, Alexander        </span><br>
+<span>Hecht, Brent    </span><br>
+<span>Borges, Marcos  </span><br>
+<span>Gergle, Darren  </span><br>
+<span>De Angeli, Antonella    </span><br>
+<span>De Choudhury, Munmun    </span><br>
+<span>Lee, Uichin     </span><br>
+<span>Shklovski, Irina        </span><br>
+<span>Wulf, Volker    </span><br>
+<span>Yamashita, Naomi        </span><br>
+<span>Muller, Michael </span><br>
+<span>Pine, Kathleen  </span><br>
+<span>Wang, Hao-Chuan</span><br>
+</p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://portal.acm.org/citation.cfm?id=1753326.1753470&amp;coll=ACM&amp;dl=ACM&amp;CFID=95562720&amp;CFTOKEN=16300608"  target="_blank">Enhancing Directed Content Sharing on the Web.</a></li>
 <li><a href="http://portal.acm.org/citation.cfm?id=1753326.1753613&amp;coll=ACM&amp;dl=ACM&amp;CFID=95562720&amp;CFTOKEN=16300608"  target="_blank">Social Network Activity and Social Well-Being</a></li>
@@ -154,26 +162,35 @@ Hironobu Takagi<br>
 Giulio Jacucci<br>
 Tek-Jin Nam<br>
 Mark Blythe</p>
+
 <p><strong>Subcommittee:</strong></p>
-<p><span>Daniel Saakes</span><br>
-<span>Joonhwan Lee </span><br>
-<span>Will Odom </span><br>
-<span>Ian Oakley </span><br>
-<span>Ron Wakkary</span><br>
-<span>Ellen Yi-Luen Do</span><br>
-<span>Lennart Nacke</span><br>
-<span>Lin-lin Chen</span><br>
-<span>Daisuke Sakamoto</span><br>
-<span>Haakon Faste</span><br>
-<span>Kim Halskov</span><br>
-<span>Scott Davidoff</span><br>
-<span>Uta Hinrichs</span><br>
-<span>Jon Rogers</span><br>
-<span>Lennart Nacke</span><br>
-<span>Peter Wright</span><br>
-<span>Kimiko Ryokai</span><br>
-<span>Daniela Petrelli</span><br>
-<span>Melanie Feinberg</span></p>
+<p>
+<span>Lawson, Shaun   </span><br>
+<span>Schiphorst, Thecla      </span><br>
+<span>Satchell, Christine     </span><br>
+<span>Jung, Heekyoung </span><br>
+<span>Fjeld, Morten   </span><br>
+<span>Gamberini, Luciano      </span><br>
+<span>Feinberg, Melanie       </span><br>
+<span>Faste, Haakon   </span><br>
+<span>Sakamoto, Daisuke       </span><br>
+<span>Chen, Lin-Lin   </span><br>
+<span>Do, Ellen Yi-Luen       </span><br>
+<span>Wakkary, Ron</span><br>
+<span>Bowen, Simon    </span><br>
+<span>Briggs, Pam     </span><br>
+<span>Petrelli, Daniela       </span><br>
+<span>Ryokai, Kimiko  </span><br>
+<span>Hinrichs, Uta   </span><br>
+<span>Davidoff, Scott </span><br>
+<span>Halskov, Kim    </span><br>
+<span>Nacke, Lennart  </span><br>
+<span>Oakley, Ian     </span><br>
+<span>Odom, William   </span><br>
+<span>Lee, Joonhwan   </span><br>
+<span>Saakes, Daniel</span><br>
+</p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://portal.acm.org/citation.cfm?doid=1518701.1518719"  target="_blank">Interactivity attributes: a new way of thinking and describing interactivity</a></li>
 <li><a href="http://doi.acm.org/10.1145/1357054.1357156"  target="_blank">Empathy and experience in HCI</a></li>
@@ -185,28 +202,29 @@ Mark Blythe</p>
 <p>Sriram Subramanian<br>
 Shengdong Zhao</p>
 <p><strong>Subcommittee:</strong></p>
+
 <p>
-<span>Pierre Dragicevic</span><br>
-<span>Abhijit Karnik</span><br>
-<span>Andreas Butz</span><br>
-<span>Jürgen Steimle</span><br>
-<span>Richard Davis</span><br>
-<span>Regan Mandryk</span><br>
-<span>Diego Martinez Placensia</span><br>
-<span>Patrick Baudisch</span><br>
-<span>Miguel Nacenta</span><br>
-<span>Xiang Cao</span><br>
-<span>Wolfgang Struerzlinger</span><br>
-<span>Gilles Bailly</span><br>
-<span>Martin Hachet</span><br>
-<span>Chris Harrison</span><br>
-<span>James Landay</span><br>
-<span>Cosmin Munteanu</span><br>
-<span>Anastasia Bezerianos</span><br>
-<span>Lonce Wyse</span><br>
-<span>Andy Wilson</span><br>
-<span>Dominik Schmidt
+<span>Schmidt, Dominik        </span><br>
+<span>Wilson, Andrew  </span><br>
+<span>wyse, lonce     </span><br>
+<span>Bezerianos, Anastasia   </span><br>
+<span>Munteanu, Cosmin        </span><br>
+<span>Landay, James   </span><br>
+<span>Harrison, Chris </span><br>
+<span>Hachet, Martin  </span><br>
+<span>Bailly, Gilles  </span><br>
+<span>Stuerzlinger, Wolfgang  </span><br>
+<span>Cao, Xiang      </span><br>
+<span>Nacenta, Miguel </span><br>
+<span>Baudisch, Patrick       </span><br>
+<span>Martinez Plasencia, Diego       </span><br>
+<span>Mandryk, Regan  </span><br>
+<span>Davis, Richard  </span><br>
+<span>Steimle, Jürgen </span><br>
+<span>Butz, Andreas   </span><br>
+<span>Karnik, Abhijit</span><br>
 </p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1124772.1124800"  target="_blank">A role for haptics in mobile interaction: initial design using a handheld tactile display prototype</a></li>
 <li><a href="http://doi.acm.org/10.1145/1518701.1518897"  target="_blank">Sizing the horizon: the effects of chart size and layering on the graphical perception of time series visualizations</a></li>
@@ -220,39 +238,46 @@ Ed Chi<br>
 mc schraefel<br>
 Mark Perry</p>
 <p><strong>Subcommittee:</strong></p>
-<p><span>Barry Brown</span><br>
-<span>Kenton O'Hara </span><br>
-<span>David Coyle </span><br>
-<span>Marianna Obrist</span><br>
-<span>Sian Lindley</span><br>
-<span>Steve Payne </span><br>
-<span>Paul Andre</span><br>
-<span>Bonnie Nardi</span><br>
-<span>Steve Drucker</span><br>
-<span>Keith Cheverst</span><br>
-<span>Theophanis (Fanis) Tsandilas</span><br>
-<span>Steven Villier</span><br>
-<span>Ed Cuttrell</span><br>
-<span>Antti Salovarra</span><br>
-<span>Parmit Chilana</span><br>
-<span>David Coyle</span><br>
-<span>Wendy Mackay</span><br>
-<span>Ravin Balakrishnan</span><br>
-<span>David Ayman Shamma</span><br>
-<span>Cliff Lampe</span><br>
-<span>Bongwon Suh</span><br>
-<span>Xiangshi Ren</span><br>
-<span>Andrew Howes</span><br>
-<span>Duncan Brumby</span><br>
-<span>Kasper Hornbaek</span><br>
-<span>Max Wilson</span><br>
-<span>Mary Czerwinski</span><br>
-<span>Yang Wang</span><br>
-<span>Malte Jung</span><br>
-<span>Katharina Reinecke</span><br>
-<span>David R. Millen</span><br>
-<span>Lichan Hong</span>
+
+<p>
+<span>Reinecke, Katharina     </span><br>
+<span>McGookin, David </span><br>
+<span>Fisher, Danyel  </span><br>
+<span>Millen, David   </span><br>
+<span>Hong, Lichan    </span><br>
+<span>Jung, Malte     </span><br>
+<span>Wang, Yang      </span><br>
+<span>Czerwinski, Mary        </span><br>
+<span>Wilson, Max     </span><br>
+<span>Hornbæk, Kasper </span><br>
+<span>Brumby, Duncan  </span><br>
+<span>Howes, Andrew   </span><br>
+<span>Ren, Xiangshi   </span><br>
+<span>Suh, Bongwon    </span><br>
+<span>Lampe, Cliff    </span><br>
+<span>Shamma, David   </span><br>
+<span>Balakrishnan, Ravin     </span><br>
+<span>Mackay, Wendy</span><br>
+<span>Cox, Anna       </span><br>
+<span>Henze, Niels    </span><br>
+<span>Reeves, Stuart  </span><br>
+<span>André, Paul     </span><br>
+<span>Coyle, David    </span><br>
+<span>Chilana, Parmit </span><br>
+<span>Salovaara, Antti        </span><br>
+<span>Cutrell, Edward </span><br>
+<span>Viller, Stephen </span><br>
+<span>Tsandilas, Theophanis   </span><br>
+<span>Cheverst, Keith </span><br>
+<span>Drucker, Steven </span><br>
+<span>Nardi, Bonnie   </span><br>
+<span>Payne, Stephen  </span><br>
+<span>Lindley, Siân   </span><br>
+<span>Obrist, Marianna        </span><br>
+<span>O´Hara, Kenton  </span><br>
+<span>Brown, Barry</span><br>
 </p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753485"  target="_blank">Blogging in a region of conflict: supporting transition to recovery</a></li>
 <li><a href="http://doi.acm.org/10.1145/1753326.1753447"  target="_blank">The effects of diversity on group productivity and member withdrawal in online volunteer groups</a></li>
@@ -265,43 +290,49 @@ Mark Perry</p>
 <p>Shahram Izadi<br>
 Karon Maclean</p>
 <p><strong>Subcommittee:</strong></p>
-<p><span>Alex Olwal</span><br>
-<span>Otmar Hilliges</span><br>
-<span>David Kim</span><br>
-<span>Eve Hoggan</span><br>
-<span>Fanny Chevalier</span><br>
-<span>Jonathan Hook</span><br>
-<span>Sebastian Boring</span><br>
-<span>Seungmoon Choi</span><br>
-<span>Enrico Rukzio</span><br>
-<span>Takeo Igarashi</span><br>
-<span>Stefanie Mueller</span><br>
-<span>Michael Haller</span><br>
-<span>Mira Dontcheva</span><br>
-<span>Nicolai Marquardt</span><br>
-<span>Per Ola Kristensson</span><br>
-<span>Hrvoje Benko</span><br>
-<span>Tony Tang</span><br>
-<span>Derek Reilly</span><br>
-<span>Mark Billinghurst</span><br>
-<span>Xiaojun Bi</span><br>
-<span>Cristina Conati</span>
+<p>
+<span>Kim, David      </span><br>
+<span>Conati, Cristina        </span><br>
+<span>Bi, Xiaojun     </span><br>
+<span>Billinghurst, Mark      </span><br>
+<span>Reilly, Derek   </span><br>
+<span>Tang, Anthony   </span><br>
+<span>Benko, Hrvoje   </span><br>
+<span>Kristensson, Per Ola    </span><br>
+<span>Marquardt, Nicolai      </span><br>
+<span>Dontcheva, Mira </span><br>
+<span>Haller, Michael </span><br>
+<span>Mueller, Stefanie       </span><br>
+<span>Igarashi, Takeo </span><br>
+<span>Rukzio, Enrico  </span><br>
+<span>Choi, Seungmoon </span><br>
+<span>Boring, Sebastian       </span><br>
+<span>Hook, Jonathan  </span><br>
+<span>Chevalier, Fanny        </span><br>
+<span>Hoggan, Eve     </span><br>
+<span>Hilliges, Otmar </span><br>
+<span>Olwal, Alex</span><br>
 </p>
+
 <h4 id="technology-systems-and-engineering">Technology, Systems and Engineering</h4>
 <p>This subcommittee will focus on technology, systems and engineering contributions that enable, improve, or advance interaction. This will include software and hardware technologies and systems that enable and demonstrate novel interactive capabilities, as well as languages, methods and tools for construction and engineering of interactive systems. Engineering contributions should clearly demonstrate how they address interactive systems concerns such as, for example, scalability, reliability, interoperability, testing, and performance. Systems and technology contributions will be judged by their technical innovation and/or ability to connect, simplify or enrich interactions, for example in intelligent interfaces and mobile/ubiquitous computing.</p>
 <p><strong>Chairs:</strong></p>
 <p>Caroline Appert<br>
 Carl Gutwin</p>
+
 <p><strong>Subcommittee:</strong></p>
-<p><span>Emmanuel Pietriga</span><br>
-<span>Yang Li</span><br>
-<span>Jeff Nichols</span><br>
-<span>Scott Bateman</span><br>
-<span>Joerg Mueller</span><br>
-<span>James Fogarty</span><br>
-<span>Stéphane Conversy</span><br>
-<span>Michelle Zhou</span><br>
-<span>Michael Rohs</span></p>
+<p>
+<span>Nebeling, Michael       </span><br>
+<span>Rohs, Michael   </span><br>
+<span>Conversy, Stéphane      </span><br>
+<span>Fogarty, James  </span><br>
+<span>Müller, Jörg    </span><br>
+<span>Bateman, Scott  </span><br>
+<span>Nichols, Jeffrey        </span><br>
+<span>Li, Yang        </span><br>
+<span>Pietriga, Emmanuel</span><br>
+</p>
+
 <p><strong>Example Papers:</strong></p>
 <ul><li><a href="http://doi.acm.org/10.1145/1753326.1753554"  target="_blank">Prefab: implementing advanced behaviors using pixel-based reverse engineering of interface structure</a></li>
 <li><a href="http://doi.acm.org/10.1145/1753326.1753700"  target="_blank">The Design and Evaluation of an End-User-Deployable, Whole House, Contactless Power Consumption Sensor</a></li></ul>
