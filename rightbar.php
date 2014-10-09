@@ -3,7 +3,7 @@
  		<!-- <h4>Champion Sponsors</h4> -->
         <p>
             <a class="sLink" href="http://www.google.com" target="_blank">
-            <img alt="Google" title="Sponsored by Google" width="140px" src="<?php echo $prefix; ?>/img/sponsors/google.png">
+            <img alt="Google" title="Sponsored by Google" width="140px" src="<?php echo $prefix; ?>/img/sponsors/google-140.png">
             </a>
         </p>
         <p>

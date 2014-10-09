@@ -9,7 +9,7 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">8 October 2014</div>
 		<ul>
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/authors">SV lottery is now open for enrollment.</a></li>
+			<li class="sidebar-item"><a href="http://chisv.org/chi2015/main/">SV lottery is now open for enrollment.</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
