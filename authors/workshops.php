@@ -92,6 +92,64 @@
   <li>If multiple submissions are received on the same or similar topics, the organizers may be encouraged to merge them.</li></ul>
 <p><span><span><span>Submissions should not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span>Submissions </span>should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,<span><span><span>&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span></span></span></span><span><span><br>
 </span></span></p>
+
+
+<div>
+<h3>Workshops Jury</h3>
+
+<ul>
+<li>Baumer, Eric. "Cornell University"</li>
+<li>Busse, Daniela. "Samsung Research America (SRA)"</li>
+<li>Chen, Yunan. "University of California</li>
+<li>Chetty, Marshini. "University of Maryland"</li>
+<li>Choe, Eun Kyoung. "The Pennsylvania State University"</li>
+<li>Costanza, Enrico. "University of Southampton"</li>
+<li>Dragicevic, Pierre. "INRIA"</li>
+<li>Drucker, Steven. "Microsoft Research"</li>
+<li>Edge, Darren. "Microsoft Research Asia"</li>
+<li>Fitzpatrick, Geraldine. "Vienna University of Technology"</li>
+<li>Follmer, Sean. "MIT"</li>
+<li>Gonçalves, Daniel. "Instituto Superior Tecnico"</li>
+<li>Guerreiro, Tiago. "Technical University of Lisboa"</li>
+<li>Haller, Michael. "University of Applied Sciences Upper Austria"</li>
+<li>Henry Riche, Nathalie. "Microsoft Research"</li>
+<li>Hornbæk, Kasper. "University of Copenhagen"</li>
+<li>Huber, Jochen. "Singapore University of Technology and Design"</li>
+<li>Irani, Pourang. "University of Manitoba"</li>
+<li>Kazi, Rubaiat Habib. "National University of Singapore"</li>
+<li>Khalilbeigi, Mohammadreza. "Darmstadt University of Technology"</li>
+<li>Kristensson, Per Ola. "University of Cambridge"</li>
+<li>Malacria, Sylvain. "University College London"</li>
+<li>Malaka, Rainer. "University of Bremen"</li>
+<li>Matthews, Tara. "Google"</li>
+<li>Metoyer, Ronald. "Oregon State University"</li>
+<li>Meyer, Jochen. "OFFIS - Institute for Information Technology"</li>
+<li>Morrison, Ann. "Aalborg University"</li>
+<li>Palanque, Philippe. "ICS-IRIT</li>
+<li>Ramos, Gonzalo. "Amazon"</li>
+<li>Reinecke, Katharina. "University of Michigan"</li>
+<li>Rohs, Michael. "University of Hannover"</li>
+<li>Romero, Mario. "KTH"</li>
+<li>Rukzio, Enrico. "Ulm University"</li>
+<li>Santoro, Carmen. "ISTI-CNR"</li>
+<li>Scott, Stacey. "University of Waterloo"</li>
+<li>Sellen, Kate. "OCAD University"</li>
+<li>Slegers, Karin. "University of Leuven"</li>
+<li>Solovey, Erin. "Drexel University"</li>
+<li>Stasko, John. "Georgia Institute of Technology"</li>
+<li>Suh, Bongwon. "Seoul National University"</li>
+<li>Tang, Anthony. "University of Calgary"</li>
+<li>Thieme, Anja. "Newcastle University"</li>
+<li>Tscheligi, Manfred. "University of Salzburg"</li>
+<li>Wagner, Julie. "INRIA"</li>
+<li>Weibel, Nadir. "University of California San Diego"</li>
+<li>Yi, Ji Soo. "Purdue University"</li>
+<li>Zoran, Amit. "MIT"</li>
+</ul>
+
+</div>
+
+
 <div>
 <h3>Upon Acceptance of your CHI Workshop</h3>
 
