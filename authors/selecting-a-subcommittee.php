@@ -66,6 +66,7 @@ Jon Froehlich<br>
 Alexander De Luca<br>
 Leah Findlater<br>
 Hironobu Takagi<br>
+Mike Hazas<br>
 </p>
 <p><strong>Subcommittee:</strong></p>
 <p>
@@ -97,7 +98,6 @@ Hironobu Takagi<br>
 <span>Bianchi, Andrea </span><br>
 <span>Egelman, Serge  </span><br>
 <span>Dunphy, Paul    </span><br>
-<span>Hazas, Mike     </span><br>
 <span>Gerling, Kathrin        </span><br>
 <span>Wolters, Maria  </span><br>
 <span>Flintham, Martin        </span><br>
