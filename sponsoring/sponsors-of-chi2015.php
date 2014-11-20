@@ -12,6 +12,7 @@
 
     <div class="sponsor"><a href="http://www.microsoft.com/" target="_blank"><img alt="Microsoft" title="Sponsored by Microsoft" width="320" src="<?php echo $prefix; ?>/img/sponsors/microsoft.png" border="0"></a></div>
 
+    <div class="sponsor"><a href="http://www.naver.com/" target="_blank"><img alt="Naver" title="Sponsored by Naver" width="210" src="<?php echo $prefix; ?>/img/sponsors/naver.png" border="0"></a></div>
 <hr>
   <h4 id="contributors">Contributors</h4>
     <div class="sponsor"><a href="http://www.autodesk.com/" target="_blank"><img width="160" alt="Autodesk" title="Sponsored by Autodesk" src="<?php echo $prefix; ?>/img/sponsors/autodesk.png" border="0"></a></div>
