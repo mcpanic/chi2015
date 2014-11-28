@@ -2,17 +2,22 @@
 	<div id="sponsor-list">
  		<!-- <h4>Champion Sponsors</h4> -->
         <p>
-            <a class="sLink" href="http://www.google.com" target="_blank">
+            <a class="sLink" href="http://golfsimulator.golfzon.com/" target="_blank">
+            <img alt="GolfZon" title="Sponsored by GolfZon" width="160px" src="<?php echo $prefix; ?>/img/sponsors/golfzon-140.png">
+            </a>
+        </p>
+        <p>
+            <a class="sLink" href="http://www.google.com/" target="_blank">
             <img alt="Google" title="Sponsored by Google" width="140px" src="<?php echo $prefix; ?>/img/sponsors/google-140.png">
             </a>
         </p>
         <p>
-            <a class="sLink" href="http://www.microsoft.com" target="_blank">
+            <a class="sLink" href="http://www.microsoft.com/" target="_blank">
             <img alt="Microsoft" title="Sponsored by Microsoft" width="160px" src="<?php echo $prefix; ?>/img/sponsors/microsoft-140.png">
             </a>
         </p>
         <p>
-            <a class="sLink" href="http://www.naver.com" target="_blank">
+            <a class="sLink" href="http://www.naver.com/" target="_blank">
             <img alt="Microsoft" title="Sponsored by Naver" width="140px" src="<?php echo $prefix; ?>/img/sponsors/naver-140.png">
             </a>
         </p>
