@@ -223,7 +223,7 @@
                          <span class=workshop-organizer>Adrian K. Clear</span><span class="workshop-affiliation">       Lancaster University, United Kingdom </span><br/>
                          <span class=workshop-organizer>Chris  Preist</span><span class="workshop-affiliation">  University of Bristol, United Kingdom </span><br/>
                          <span class=workshop-organizer>Somya  Joshi</span><span class="workshop-affiliation">   Stockholm University, Sweden </span><br/>
-                         <span class=workshop-organizer>Lisa P</span><span class="workshop-affiliation"> Nathan  University of British Columbia, Canada </span><br/>
+                         <span class=workshop-organizer>Lisa P. Nathan</span><span class="workshop-affiliation">   University of British Columbia, Canada </span><br/>
                          <span class=workshop-organizer>Samuel  Mann</span><span class="workshop-affiliation">   Otago Polytechnic, New Zealand </span><br/>
                          <span class=workshop-organizer>Bonnie  Nardi</span><span class="workshop-affiliation">  UC Irvine, United States </span><br/>
 </div>
@@ -449,7 +449,7 @@
 <p>Sunday April 19th  </p>
 <p>Link: <a href="http://eastwest.xrenlab.com/">http://eastwest.xrenlab.com/    </a></p>
 <strong>Organizers</strong><br/>
-                         <span class=workshop-organizer>Effie L.-C. Law </span><span class="workshop-affiliation">    Computer Science, University of Leicester, United Kingdom </span><br/>
+                         <span class=workshop-organizer>Effie L.-C. Law </span><span class="workshop-affiliation">    University of Leicester, United Kingdom </span><br/>
                          <span class=workshop-organizer>Chaklam  Silpasuwanchai</span><span class="workshop-affiliation">  Kochi University of Technology, Japan </span><br/>
                          <span class=workshop-organizer>Xiangshi  Ren</span><span class="workshop-affiliation">  Kochi University of Technology, Japan </span><br/>
                          <span class=workshop-organizer>Jeffrey  Bardzell</span><span class="workshop-affiliation">   Indiana University Bloomington, United States </span><br/>

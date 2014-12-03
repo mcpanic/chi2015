@@ -7,6 +7,12 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">3 December 2014</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/authors/workshops">Accepted workshops are announced.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">8 October 2014</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chisv.org/chi2015/main/">SV lottery is now open for enrollment.</a></li>
