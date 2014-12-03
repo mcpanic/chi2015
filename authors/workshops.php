@@ -12,7 +12,7 @@
 
   <p>You can find the list of workshops <a href="http://chi2015.acm.org/program/workshops">here</a>.</p>
 
-  <p>You can find the original workshops call for participation <a href="workshops-cfp">here</a>.</p>
+  <p>You can find the original workshops call for participation <a href="http://chi2015.acm.org/authors/workshops-cfp">here</a>.</p>
 
   <h3>Quick Facts</h3>
 
