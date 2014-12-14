@@ -1,5 +1,5 @@
 <?php
-  $pageTitle = "Workshops";
+  $pageTitle = "Program | Workshops";
   include "../header.php";
 ?>
 
