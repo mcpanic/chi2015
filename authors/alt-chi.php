@@ -49,9 +49,22 @@
 
 <div>
 <h3 ><a name="TOC-Message-from-the-Student-Game-Competition-Chairs"></a>Message from the alt.chi Chairs</h3>
-<p dir="ltr" ><span >alt.chi 2015 proudly continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
+<p dir="ltr" ><span >alt.chi 2015 proudly marks the tenth anniversary of the alt.chi track and continues the tradition of bringing substantive, thought-provoking, original work to CHI through an alternative approach. alt.chi is appropriate for submissions that prove difficult to assess through mainstream procedures, whether for reasons of methodology or content. Forum discussion allows dialogue about the potential significance of a submission, and <a href="http://chi2015.acm.org/authors/selection-processes#juried"><span >juried</span></a> selection insures that high standards for excellence are maintained. alt.chi hosts some of the most audacious and insightful presentations at the conference. This is the avant-garde of CHI.
 
-Therefore, we invite the submission of bold, compelling, critical, and innovative works that challenge or re-imagine human computer interaction research and design. alt.chi 2015 is methodologically inclusive and accepts reports, analyses, designs, and systematic inquiries – whether quantitative, qualitative, or both. Especially encouraged are works that speak to the conference theme of “changing perspectives” through explorations of areas currently outside the center of the field. alt.chi 2015 is an opportunity to re-shape the conversation by introducing a vibrant intellectual community to a new way of doing work. We invite you to change the game.
+<!-- Therefore, we invite the submission of bold, compelling, critical, and innovative works that challenge or re-imagine human computer interaction research and design. alt.chi 2015 is methodologically inclusive and accepts reports, analyses, designs, and systematic inquiries – whether quantitative, qualitative, or both. Especially encouraged are works that speak to the conference theme of “changing perspectives” through explorations of areas currently outside the center of the field. alt.chi 2015 is an opportunity to re-shape the conversation by introducing a vibrant intellectual community to a new way of doing work. We invite you to change the game. -->
+
+We invite the submission of bold, compelling, critical, and innovative works that challenge or re-imagine human computer interaction research and design. alt.chi 2015 is methodologically inclusive and accepts reports, analyses, designs, and systematic inquiries – whether quantitative, qualitative, or both. Especially encouraged are:
+
+<ul>
+<li>
+Works that speak to the conference theme of “changing perspectives” through explorations of areas currently outside the center of the field
+</li>
+<li>
+Reflections on the legacy of the alt.chi track on its tenth anniversary
+</li>
+</ul>
+
+alt.chi 2015 is an opportunity to re-shape the conversation by introducing a vibrant intellectual community to a new way of doing work. We invite you to change the game.
 
 </span>
 </p>
@@ -122,8 +135,7 @@ forward. </span></li></ul>
 <span >
 <p dir="ltr" >The jury will be selected and named by the beginning of January 2015. </p>
 
-<p dir="ltr" ><span ><span ><span >Submissions should not contain&nbsp;sensitive, private, or proprietary information that cannot be disclosed at publication time.&nbsp; <span >Submissions </span>should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference,<span ><span ><span >&nbsp;with the exception of title and author information which will be published on the website prior to the conference.&nbsp;</span></span></span></span></span><br>
-</span></p>
+<p dir="ltr" >Submissions should not contain sensitive, private, or proprietary information that cannot be disclosed at publication time.  Submissions should NOT be anonymous. However, confidentiality of submissions will be maintained during the review process. All rejected submissions will be kept confidential in perpetuity. All submitted materials for accepted submissions will be kept confidential until the start of the conference, with the exception of title and author information which will be published on the website prior to the conference.</p>
 
 <p dir="ltr" >* all reviewers will be required to consent to a review agreement prior to participating in the selection process.<br>
 </p>
