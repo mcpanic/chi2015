@@ -67,8 +67,8 @@ else {
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="<?php echo $prefix; ?>/" class="menu-home">CHI 2015</a></li>
-            <li><a href="<?php echo $prefix; ?>/impact" class="menu-impact">CHI'S IMPACT</a></li>
-            <!-- <li><a href="<?php echo $prefix; ?>/program" class="menu-program">PROGRAM</a></li> -->
+            <!-- <li><a href="<?php echo $prefix; ?>/impact" class="menu-impact">CHI'S IMPACT</a></li> -->
+            <li><a href="<?php echo $prefix; ?>/program" class="menu-program">PROGRAM</a></li>
             <li><a href="<?php echo $prefix; ?>/attending" class="menu-attending">ATTENDING</a></li>
             <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
             <li><a href="<?php echo $prefix; ?>/organizers" class="menu-organizers">ORGANIZERS</a></li>

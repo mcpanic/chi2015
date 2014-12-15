@@ -67,6 +67,7 @@ Alexander De Luca<br>
 Leah Findlater<br>
 Hironobu Takagi<br>
 Mike Hazas<br>
+Jeff Heer<br>
 </p>
 <p><strong>Subcommittee:</strong></p>
 <p>
@@ -111,7 +112,6 @@ Mike Hazas<br>
 <span>Manduchi, Roberto       </span><br>
 <span>Kane, Shaun     </span><br>
 <span>Guerreiro, Tiago        </span><br>
-<span>Heer, Jeffrey</span><br>
 </p>
 
 <p><strong>Example Papers:</strong></p>

@@ -13,6 +13,7 @@
 
   <h3>Related Links</h3>
   <ul>
+    <li><a href="<?php echo $prefix; ?>/impact">CHI's Impact</a></li>
     <li><a href="<?php echo $prefix; ?>/exhibiting">Exhibiting Opportunities</a></li>
     <li><a href="<?php echo $prefix; ?>/recruiting">Recruiting Opportunities</a></li>
   </ul>

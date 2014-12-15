@@ -26,7 +26,7 @@ S01 Chinese CHI Symposium: Chinese HCI Society
 <h3>
 S02 ASEAN CHI Symposium
 </h3>
-<p>Saturday April 18th - Sunday April 19th</br>
+<p>Sunday April 19th</br>
 <a href="http://hci4d.uxindo.com/">http://hci4d.uxindo.com/</a></p>
 <h4>Organizers</h4>
 <strong>Eunice Sari</strong>     University of Western Australia, Australia<br/>
