@@ -24,7 +24,7 @@ S01 Chinese CHI Symposium: Chinese HCI Society
 <strong>Yihsiu Chen</strong> HTC Creative Labs, USA<br/>
 
 <h3>
-S02 ASEAN CHI Symposium
+S02 Crossing HCI for Development in Asia Pacific
 </h3>
 <p>Sunday April 19th</br>
 <a href="http://hci4d.uxindo.com/">http://hci4d.uxindo.com/</a></p>

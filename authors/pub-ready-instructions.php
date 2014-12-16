@@ -197,7 +197,7 @@
   </tbody></table>
 
   <h4>Video Preview</h4>
-  <p>All submissions must have an accompanying a 30 second video preview. The deadline for the video previews is <strong>February 26, 2015</strong>. Note this is after your paper or abstracts' publication ready deadline. Do not delay your publication ready submission.</p><table class="pub-ready">
+  <p>All submissions may have an accompanying 30-second video preview. The deadline for the video previews is <strong>February 16, 2015</strong>. Note this is after your papers' or abstracts' publication ready deadline. Do not delay your publication ready submission.</p><table class="pub-ready">
 
     <tbody><tr class="odd">
       <td><strong>Video requirements</strong> - My Video Preview conforms to the <a href="http://chi2015.acm.org/authors/video-previews" target="_blank">requirements for video previews</a></td>
