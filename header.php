@@ -94,7 +94,7 @@ else {
         </div>
         <div class="jumbotron-right">
             <p class="date">April 18 - 23, 2015</p>
-            <!-- <div class="register-button"><a href="">REGISTER NOW</a></div> -->
+            <div class="register-button"><a href="https://www.regonline.com/CHI2015AttendeeRegistration">REGISTER NOW</a></div>
             <p class="about-crossings">About Crossings &#187;</p>
         </div>
       </div>
