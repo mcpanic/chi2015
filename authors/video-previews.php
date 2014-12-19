@@ -81,7 +81,7 @@ Your Video Preview material must conform to the format as described in the submi
     <tr class="even">
       <td><input id="tr2" onclick="setCB(this)" type="checkbox"> </td>
       <td>video file must use the <strong>MPEG-4 format (.mp4)</strong> with the <strong>H.264</strong> codec </td>
-      <td> <a href="video-previews-details#codec"> <img src="/img/information.png" alt="How to encode a mp4 video?" title="How to encode a mp4 video?"></a>
+      <td> <a href="http://chi2015.acm.org/authors/video-previews-details#codec"> <img src="/img/information.png" alt="How to encode a mp4 video?" title="How to encode a mp4 video?"></a>
     </td></tr>
     <tr class="odd">
       <td> <input id="tr3" onclick="setCB(this)" type="checkbox"> </td>
@@ -99,17 +99,17 @@ Your Video Preview material must conform to the format as described in the submi
     <tbody><tr class="odd">
       <td> <input id="cr1" onclick="setCB(this)" type="checkbox"> </td>
       <td> video must include an <strong> opening title</strong> </td>
-      <td> <a href="video-previews-details#opening"> <img src="/img/information.png" alt="Detailed instructions for the video opening title" title="Detailed instructions for the video opening title"></a> </td>
+      <td> <a href="http://chi2015.acm.org/authors/video-previews-details#opening"> <img src="/img/information.png" alt="Detailed instructions for the video opening title" title="Detailed instructions for the video opening title"></a> </td>
     </tr>
     <tr class="even">
       <td> <input id="cr2" onclick="setCB(this)" type="checkbox"> </td>
       <td> video must be <strong> captioned</strong> (recommended)</td>
-      <td> <a href="video-previews-details#subtitles"> <img src="/img/information.png" alt="Detailed instructions for subtitles and captions" title="Detailed instructions for subtitles and captions"></a> </td>
+      <td> <a href="http://chi2015.acm.org/authors/video-previews-details#subtitles"> <img src="/img/information.png" alt="Detailed instructions for subtitles and captions" title="Detailed instructions for subtitles and captions"></a> </td>
     </tr>
     <tr class="odd">
       <td> <input id="cr3" onclick="setCB(this)" type="checkbox"> </td>
       <td> permission obtained for all <strong>copyright and 3rd party material*</strong> </td>
-      <td> <a href="video-previews-details#copyright"> <img src="/img/information.png" alt="Review ACM's Copyright Policies" title="Review ACM's Copyright Policies"></a></td>
+      <td> <a href="http://chi2015.acm.org/authors/video-previews-details#copyright"> <img src="/img/information.png" alt="Review ACM's Copyright Policies" title="Review ACM's Copyright Policies"></a></td>
     </tr>
   </tbody></table>
   <p><i> <strong>* Please note:</strong> Video Previews are subject to ACM's copyright policies. Please review <a href="http://www.acm.org/publications/policies/copyright_policy">ACM's Copyright and Permission Policy</a> and <a href="http://www.acm.org/publications/third-party-material">ACM's Requirements about 3rd party material.</a></i></p>
