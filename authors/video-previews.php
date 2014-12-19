@@ -7,12 +7,15 @@
 <h2>Video Previews</h2>
 </div>
 
+Content will be updated soon.
+<!--
 <div id="content-canvas">
   <p>CHI 2013 introduced <strong>Video Previews</strong>, a new way to share research results with attendees and with members of the community who are not able to attend the conference. The goal was to help people plan their conference time, to help them discover interesting and important work, and to increase the visibility of presentations beyond the conference.</p>
   <p>CHI 2015 will continue the use of video previews. All authors of accepted Papers and Notes, as well as some extended abstract venues, will be required to submit a 30 seconds video which describes their work. The video previews will be made available through different mediums (e.g., Youtube channel) before and during the conference to help attendees plan their daily schedules. They will also be archived and embedded on the abstract page of the ACM Digital Library.</p>
 
+
   <h3>Deadline</h3>
-  <p>The deadline for submitting your video preview is <strong>February 26th 2015</strong>.</p>
+  <p>The deadline for submitting your video preview is <strong>February 16th 2015</strong>.</p>
   <p>Video previews are required for the following venues.</p>
   <ul>
     <li>Papers and Notes</li>
@@ -37,7 +40,7 @@
   <p>The following checklists have been designed to help you make sure that your material conforms to the Video Previews requirements. Please make sure that you go through <strong> every </strong> item of these lists. Detailed guidelines and advices are available by following the (i) icons.</p>
 
   <h4 id="technical-req">Technical requirements</h4>
-  <table cellpadding="0" cellspacing="0">
+  <table cellpadding="5px" cellspacing="0">
     <tbody><tr class="odd">
       <td> <input id="tr1" onclick="setCB(this)" type="checkbox"> </td>
       <td> video file size must not exceed <strong>10 MB</strong> </td>
@@ -60,7 +63,7 @@
   </tbody></table>
 
   <h4 id="content-req">Content requirements</h4>
-  <table cellpadding="0" cellspacing="0">
+  <table cellpadding="5px" cellspacing="0">
     <tbody><tr class="odd">
       <td> <input id="cr1" onclick="setCB(this)" type="checkbox"> </td>
       <td> video must include an <strong> opening title</strong> </td>
@@ -77,8 +80,10 @@
       <td> <a href="video-previews-details#copyright"> <img src="/img/information.png" alt="Review ACM's Copyright Policies" title="Review ACM's Copyright Policies"></a></td>
     </tr>
   </tbody></table>
-  <p><i> <strong>* Please note:</strong> Video Previews are subject to ACM's copyright policies. Please review ACM's Copyright and Permission Policy and ACM's Requirements about 3rd party material.</i></p>
+  <p><i> <strong>* Please note:</strong> Video Previews are subject to ACM's copyright policies. Please review <a href="http://www.acm.org/publications/policies/copyright_policy">ACM's Copyright and Permission Policy</a> and <a href="http://www.acm.org/publications/third-party-material">ACM's Requirements about 3rd party material.</a></i></p>
 </div>
+
+!-->
 
 <?php
   include "../footer.php";
