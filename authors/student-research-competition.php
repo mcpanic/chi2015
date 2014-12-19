@@ -107,6 +107,8 @@ At the Conference: All accepted students will participate in juried poster sessi
 <li dir="ltr">
 <p dir="ltr"><span>Results and contributions to the field of HCI</span></p>
 </li></ul>
+
+Students who have submitted to the Doctoral Consortium may also submit to the Student Research Competition, but will not be accepted to both venues for the same work. Students are advised to submit different work to each venue. A student accepted to both the Doctoral Consortium and the Student Research Competition will receive the financial support offered by the DC or the SRC, whichever is greater.
 </div>
 
 <div>

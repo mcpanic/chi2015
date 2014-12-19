@@ -41,11 +41,11 @@
   <h4>Copyright notices for your manuscript</h4>
   <table class="pub-ready">
     <tbody><tr class="odd">
-      <td><strong>LaTeX users</strong> - See <a href="http://www.sheridanprinting.com/sigchi/chi.htm#L" target="_blank">Sheridan's copyright instructions for LaTeX</a></td>
+      <td><strong>LaTeX users</strong> - See <a href="http://www.sheridanprinting.com/sigchi/chi.htm#L" target="_blank">Sheridan's copyright instructions for LaTeX</a> (link will be available soon)</td>
       <td class="pub-ready-check"><input id="pn5" onclick="setCB(this)" type="checkbox"></td>
     </tr>
     <tr class="even">
-      <td><strong>Word users</strong> - See <a href="http://www.sheridanprinting.com/sigchi/chi.htm#W" target="_blank">Sheridan's copyright instructions for Word</a></td>
+      <td><strong>Word users</strong> - See <a href="http://www.sheridanprinting.com/sigchi/chi.htm#W" target="_blank">Sheridan's copyright instructions for Word</a> (link will be available soon)</td>
       <td class="pub-ready-check"><input id="pn6" onclick="setCB(this)" type="checkbox"></td>
     </tr>
   </tbody></table>
