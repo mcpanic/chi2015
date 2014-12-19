@@ -12,7 +12,7 @@
   <p>This page contains instructions for submitting the final version of your paper or note to print publications and the ACM DL. For all other venues, please see the please read the Camera Ready Instructions for Extended Abstracts (link coming soon). All content and metadata will be submitted via <a href="http://precisionconference.com/~sigchi" target="_blank">Precision Conference System (PCS)</a>.</p>
   <p>You must submit the final version of your paper to the PCS system by <strong>January 7th, 2015</strong> (5pm Pacific Time). This will be checked by the Associate Chair and also by the publisher and there may be some additional corrections to do. The Camera-Ready final deadline is <strong>January 15th, 2015</strong> (5pm Pacific Time).</p>
   <p><strong>Please read the whole page.</strong> Submissions that do not conform to the ACM SIGCHI standards, specifications, guidelines, and formats will be returned to the author for corrections and/or alterations. Please follow the instructions as carefully as possible to save everyone time.</p>
-  <p><strong>Video previews</strong> - All authors must provide a 30" video preview presenting their contribution to the conference. Further details are available on the <a href="http://chi2015.acm.org/authors/video-previews" target="_blank">Video Previews</a> page.</p>
+  <p><strong>Video previews</strong> - All authors may provide a 30-second video preview presenting their contribution to the conference. Further details are available on the <a href="http://chi2015.acm.org/authors/video-previews" target="_blank">Video Previews</a> page.</p>
 
   <h4>Official ACM Template Files</h4>
   <table class="pub-ready">
