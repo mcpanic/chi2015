@@ -9,7 +9,7 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">25 December 2014</div>
 		<ul>
-			<li class="sidebar-item"><a href="https://chi2015.acm.org/program/keynotes">Keynote speakers are announced.</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/keynotes">Keynote speakers are announced.</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
