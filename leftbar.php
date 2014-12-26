@@ -7,6 +7,12 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">25 December 2014</div>
+		<ul>
+			<li class="sidebar-item"><a href="https://chi2015.acm.org/program/keynotes">Keynote speakers are announced.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date">16 December 2014</div>
 		<ul>
 			<li class="sidebar-item"><a href="https://www.regonline.com/CHI2015AttendeeRegistration">The registration link is open.</a></li>

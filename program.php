@@ -9,6 +9,7 @@
 
   <h3>Program List</h3>
   <ul>
+    <li><a href="<?php echo $prefix; ?>/program/keynotes">Keynotes</a></li>
     <li><a href="<?php echo $prefix; ?>/program/workshops">Workshops</a></li>
     <li><a href="<?php echo $prefix; ?>/program/asianchisymposia">Asian CHI Symposia (ACHIS)</a></li>
   </ul>
