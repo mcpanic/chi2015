@@ -10,7 +10,7 @@
 
 <h3>Opening Plenary</h3>
 <h4>Lou Yongqi</h4>
-<img src="../img/keynotes/lou-yongqi.png" width="200px" class="speaker-image">
+<img src="<?php echo $prefix; ?>/img/keynotes/lou-yongqi.png" width="200px" class="speaker-image">
 <p>
 Prof. Dr. Lou Yongqi is Dean of the College of Design and Innovation at Tongji University in Shanghai. He is a full professor at Tongji, Visiting Professor at the School of Art, Design, and Architecture at Aalto University in Finland, and Visiting Professor at the School of Design of Politecnico di Milano in Italy. Lou has been the pioneer in China for design-driven innovation education that connects design, business, and technology. He advances these issues through his leadership of two institutions at Tongji University: the College of Design and Innovation, and the Sino-Finnish Centre. He also furthers this agenda through international collaboration.
 </p>
@@ -23,7 +23,7 @@ Lou is Vice President of CUMULUS, the International Association of Universities 
 
 <h3>Tuesday Keynote</h3>
 <h4>Donghoon Chang</h4>
-<img src="../img/keynotes/donghoon-chang.png" width="200px" class="speaker-image">
+<img src="<?php echo $prefix; ?>/img/keynotes/donghoon-chang.png" width="200px" class="speaker-image">
 
 <p>
 Donghoon Chang is Executive VP, Head of Design Strategy Team and UX Center in Corporate Design Center, Samsung Electronics.  Since joining Samsung in 2006, he has played a critical role in establishing the company’s design vision for the future which has gradually shifted from a focus on style and convenience to a holistic user experience design and has developed mid to long-term design strategies, including ‘Design 3.0’ which envisions design that delivers new meaning and delight to people and contributes to society by creating sustainable and innovative value.
@@ -34,7 +34,7 @@ Chang received two MFA degrees from the School of the Art Institute of Chicago (
 
 <h3>Wednesday Keynote</h3>
 <h4>David Min</h4>
-<img src="../img/keynotes/david-min.png" width="200px" class="speaker-image">
+<img src="<?php echo $prefix; ?>/img/keynotes/david-min.png" width="200px" class="speaker-image">
 
 <p>
 David Min is a Senior Research Fellow at LG Electronics and is head of the Software Research Center.  He is known for spearheading one of the most successful SmartTV platforms in the industry, providing a superior user experience and an open API for 3rd party developers.
@@ -45,7 +45,7 @@ David studied computer science and statistics at Seoul National University for B
 
 <h3>Closing Plenary</h3>
 <h4>PSY</h4>
-<img src="../img/keynotes/psy.png" width="200px" class="speaker-image">
+<img src="<?php echo $prefix; ?>/img/keynotes/psy.png" width="200px" class="speaker-image">
 
 <p>
 Jai Sang Park, better known as PSY, is a singer-songwriter, record producer, rapper and entrepreneur.  He is best known for producing the first video on YouTube to have exceeded 1 billion views.  , Gangnam Style is still the most viewed video at over 2.14 billion views, breaking the software counter on the online service.  His provocative and irreverent lyrics and style have led to dozens of music awards across the globe.
