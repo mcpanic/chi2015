@@ -7,6 +7,12 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">4 January 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/exhibiting">Exhibitor registration is open. Register to exhibit now!</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date">25 December 2014</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/keynotes">Keynote speakers are announced.</a></li>
@@ -30,6 +36,7 @@
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/authors/workshops">Accepted workshops are announced.</a></li>
 		</ul>
 	</div>
+<!--
 	<div class="sidebar-block">
 		<div class="sidebar-date">8 October 2014</div>
 		<ul>
@@ -48,12 +55,13 @@
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/organizers">Organizers page is updated.</a></li>
 		</ul>
 	</div>
-<!-- 	<div class="sidebar-block">
+	<div class="sidebar-block">
 		<div class="sidebar-date">10 March 2014</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/">The official CHI 2015 website is open.</a></li>
 		</ul>
 	</div> -->
+	<a href="<?php echo $prefix; ?>/news">See all news updates.</a>
 </div>
 
 <div class="sidebar-wrapper">
