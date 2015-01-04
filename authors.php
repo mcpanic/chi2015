@@ -4,7 +4,7 @@
 ?>
 
 <div>
-<h2>Authors</h2>
+<h1>Authors</h1>
 </div>
 
 <div>

@@ -3,6 +3,8 @@
   include "../header.php";
 ?>
 
+<h1>Sponsors of CHI 2015</h1>
+
 <div id="content-canvas">
   <p>Be a sponsor for CHI 2015! See instructions on <a href="/sponsoring/">sponsorship</a>.</p>
 
