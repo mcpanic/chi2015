@@ -73,17 +73,15 @@
 <div class="sidebar-wrapper">
 	<h3>Upcoming Deadlines</h3>
 	<div class="sidebar-block first-block">
-		<div class="sidebar-date">22 September 2014</div>
+		<div class="sidebar-date first-block">17 March 2015</div>
 		<ul>
-			<li class="sidebar-item"><a href="<?php echo $prefix; ?>/authors/papers-notes">Papers and Notes</a></li>
+			<li class="sidebar-item"><a href="<?php echo $prefix; ?>/attending/housing">Hotel Reservations</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
-		<div class="sidebar-date">6 October 2014</div>
+		<div class="sidebar-date">16 February 2015</div>
 		<ul>
-			<li class="sidebar-item">
-			<a href="http://chi2015.acm.org/authors/case-studies">Case Studies</a>, <a href="http://chi2015.acm.org/authors/workshops">Workshops (authors)</a>, <a href="http://chi2015.acm.org/authors/courses">Courses</a>, <a href="http://chi2015.acm.org/authors/doctoral-consortium" >Doctoral Consortium</a>, <a href="http://chi2015.acm.org/authors/interactivity">Interactivity</a>
-			</li>
+			<li class="sidebar-item"><a href="<?php echo $prefix; ?>/authors/video-previews/">Video Previews</a></li>
 		</ul>
 	</div>
 	<div class="sidebar-block">
@@ -94,4 +92,20 @@
 			</li>
 		</ul>
 	</div>
+	<div class="sidebar-block">
+		<div class="sidebar-date">6 October 2014</div>
+		<ul>
+			<li class="sidebar-item">
+			<a href="http://chi2015.acm.org/authors/case-studies">Case Studies</a>, <a href="http://chi2015.acm.org/authors/workshops">Workshops (authors)</a>, <a href="http://chi2015.acm.org/authors/courses">Courses</a>, <a href="http://chi2015.acm.org/authors/doctoral-consortium" >Doctoral Consortium</a>, <a href="http://chi2015.acm.org/authors/interactivity">Interactivity</a>
+			</li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">22 September 2014</div>
+		<ul>
+			<li class="sidebar-item"><a href="<?php echo $prefix; ?>/authors/papers-notes">Papers and Notes</a></li>
+		</ul>
+	</div>
+
+
 </div>

@@ -6,8 +6,13 @@
 
 <div>
   <p>CHI 2015 news updates are archived here.</p>
-
-  <div class="sidebar-block first-block">
+  <div class="sidebar-block">
+    <div class="sidebar-date">4 January 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/housing">Hotel reservations are open.</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
     <div class="sidebar-date">4 January 2015</div>
     <ul>
       <li class="sidebar-item"><a href="http://chi2015.acm.org/exhibiting">Exhibitor registration is open. Register to exhibit now!</a></li>
