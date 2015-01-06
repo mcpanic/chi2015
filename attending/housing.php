@@ -66,6 +66,241 @@ Plus, all official CHI 2015 hotels offer complimentary internet in your guest ro
 See a map of the <a href="<?php echo $prefix; ?>/files/CHI2015_Hotel_Information.pdf">hotel locations</a>.
 </p>
 
+<div class="link-button-wrapper">
+  <a class="link-button" href="http://chi2015.koconex.co.kr">
+    Reserve Hotel for CHI 2015
+  </a>
+</div>
+
+<div class="hotel-item">
+  <h4>1. InterContinental Seoul COEX ★★★★★</h4>
+  <p>
+    Co-headquarters Hotel<br/>
+    <i>Offering early bird discounted rate through January 31, 2015</i>
+  </p>
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/1.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">524, Bongeunsa-ro, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">TV, Satellite Broadcasting, Internet, Refrigerator,
+  Telephone, Desk lamp, Hair Dryer, Shampoo, Conditioner, Slippers, Mini bar</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">Gym, health care room, indoor swimming pool, sauna, aerobic studio, indoor golf drive range, outdoor spa, outdoor terrace, business lounge(only for the members), fitness club lounge and other facilities(hair salon for ladies and gentlemen, sleeping room, powder room and lockers.</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">2 min. on foot (Connected to Coex)</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>2. Grand Intercontinental Seoul ★★★★★</h4>
+  <p>
+    Co-headquarters Hotel<br/>
+    <i>Offering early bird discounted rate through January 31, 2015</i>
+  </p>
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/2.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">521, Teheran-ro, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          TV, Satellite Broadcasting, Internet, Refrigerator,
+Telephone, Desk lamp, Hair Dryer, Shampoo, Conditioner, Slippers, Mini bar
+
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          Gym, health care room, indoor swimming pool, sauna, aerobic studio, indoor golf drive range, outdoor spa, outdoor terrace, business lounge(only for the members), fitness club lounge and other facilities(hair salon for ladies and gentlemen, sleeping room, powder room and lockers.
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">2 min. on foot (Connected to Coex)</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>3. Novotel Ambassador Gangnam ★★★★★</h4>
+
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/3.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">130, Bongeunsa-ro, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          Coffee &amp; Tea presentations, Pay-per-view movies &amp; lots of Channel selection by premium cable, High speed of wireless &amp; wired internet access, Hair Dryer, eco-friendly bath amenity set in bath room, Novotel Sleepers, Cotton bathrobe set, Bidet, personal safety box, duvet
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          24 hour running reception desk &amp; exchange service,
+Fitness Club, Swimming pool, Sauna, 24 hours in-room dining with seasonal menu, Valet parking,  Laundry Service, Overnight Shoeshine service, 24 hour personal wake-up call service &amp; operator service, three restaurants, a bar, a cafe.
+
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">15 min. by car</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>4. Ramada Seoul ★★★★</h4>
+
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/4.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">112-5, Samsung-dong, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          TV, Satellite Broadcasting, Refrigerator, Telephone, Iron, Desk Lamp, Hair Dryer, Soap, Shampoo, Razor, Toothbrush, Conditioner, Bath towel, Towel, Slippers, Safety box, Mini bar
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          Cafe, Windows-Coffee Shop, Delicatessen-Bakery, Le bar, Spa &amp; Sauna,  Business Center
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">5~10 min. by car</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>5. Ibis Ambassador Seoul ★★★</h4>
+
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/5.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">893-1  Deachi-dong, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">TV, Pay TV, Internet, Refrigerator, Telephone, Desk Lamp, Hair Dryer, Soap, Shampoo, Bath towel, Towel, pajamas</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">Meeting Room, Sauna, Fitness Center, Business Center</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>6. Aloft Seoul Gangnam ★★★</h4>
+
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/6.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">736 Youngdong-daero, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          Free High Speed Internet Access, Free 2 Bottle of water, Shampoo &amp; Body Soap @ Bliss spa, Free use of
+Re:Charge(Fitness Center)
+
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          Nook(All day dining restaurant on the 2nd floor),
+Re:Fuel(24-hour snack bar on the 1st floor),
+Re:Charge(Fitness Center on the 3rd floor), Coin Laundry on the B1st floor
+
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          8 min. by car<br/>
+*Free one-way hotel shuttle bus<br/>
+Running at 8 AM and 9 AM (Tentative schedule)
+
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<div class="hotel-item">
+  <h4>7. Seoul Residence (Serviced Residence)</h4>
+
+  <div class="row">
+    <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/7.png">
+    <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 hotel-info-table">
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Address</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">708-16, Yeoksam-dong, Gangnam-gu, Seoul, Korea</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Room Amenities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
+          TV, Internet, Refrigerator, Telephone, Iron, Mini kitchen,
+Hairdryer, Microwave, Toaster, Coffee pot, Shower booth only
+        </div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel Facilities</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">Restaurant, Convenient Store, Hair Salon</div>
+      </div>
+      <div class="row hotel-info-row">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
 <?php
   include "../footer.php";
 ?>

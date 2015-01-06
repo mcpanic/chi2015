@@ -459,3 +459,23 @@ td.pub-ready-check {
 .link-button:hover{
 	color: #FFFFFF;
 }
+
+/* ==========================================================================
+   Housing Info Table (attending/housing.php)
+   ========================================================================== */
+
+.hotel-item{
+	margin: 30px 0 50px 0;
+}
+
+.hotel-info-row{
+	border-bottom: 1px solid #eee;
+}
+
+.hotel-info-row:nth-child(even){
+	background-color: #eee;
+}
+
+.hotel-info-heading{
+	font-weight: bold;
+}

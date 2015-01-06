@@ -302,6 +302,37 @@
 </dl>
 
 <dl>
+        <dt><strong><a href="mailto:scheduling@chi2015.acm.org">Scheduling</a>: </strong></dt>
+                <dd>
+                        Christophe Hurter, <i>ENAC</i>, <i>France</i>
+                        <br>
+                        Juho Kim, <i>MIT</i>, <i>USA</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:mobileapps@chi2015.acm.org">Mobile Applications</a>: </strong></dt>
+                <dd>
+                        Stephen Oney, <i>Carnegie Mellon University</i>, <i>USA</i>
+                        <br>
+                        Jason Wiese, <i>Carnegie Mellon University</i>, <i>USA</i>
+                        <br>
+                        Eiji Hayashi, <i>Carnegie Mellon University</i>, <i>USA</i>
+                        <br>
+                        Célia Martinie, <i>Université Toulouse 3</i>, <i>France</i>
+                </dd>
+</dl>
+
+<dl>
+        <dt><strong><a href="mailto:translations@chi2015.acm.org">Translations</a>: </strong></dt>
+                <dd>
+                        Sue Fussell, <i>Cornell University</i>, <i>USA</i>
+                        <br>
+                        Naomi Yamashita, <i>NTT</i>, <i>Japan</i>
+                </dd>
+</dl>
+
+<dl>
         <dt><strong><a href="mailto:webmaster@chi2015.acm.org">Webmaster</a>: </strong></dt>
                 <dd>
                         Juho Kim, <i>MIT</i>, <i>USA</i>

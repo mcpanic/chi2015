@@ -431,7 +431,7 @@
 <div class="workshop-entry">
 <h4 id="W26">W26  Knowledge Production in Interaction Design   </h4>
 <p>Sunday April 19th  </p>
-<p>Link: <a href="http://www.mobilelifecentre.org/IxD_knowledge ">http://www.mobilelifecentre.org/IxD_knowledge       </a></p>
+<p>Link: <a href="http://mobilelifecentre.org/content/w26-knowledge-production-interaction-design">http://mobilelifecentre.org/content/w26-knowledge-production-interaction-design</a></p>
 <strong>Organizers</strong><br/>
                          <span class=workshop-organizer>Kristina  Höök</span><span class="workshop-affiliation">      KTH - Royal Institute of Technology, Sweden </span><br/>
                          <span class=workshop-organizer>Peter  Dalsgaard</span><span class="workshop-affiliation">    Aarhus University, Aarhus, Denmark </span><br/>
