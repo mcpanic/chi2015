@@ -69,22 +69,28 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
 <div>
 <p >A number of guides are available to help you submit your work, present it at the conference, and review submissions if you are on one of the reviewing committees.</p>
 
-<h4>Contributor Guides</h4>
-<ul ><li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archival-submission"  title="Guide to a Successful Archival Submission">Guide to a Successful HCI Archival Submission</a></li>
-<li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission"  title="Guide to an Accessible Submission">Guide to an Accessible Submission</a></li>
-<li><a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></li>
-<li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation"  title="Guide to a Successful Presentation">Guide to a Successful Presentation</a></li>
-<!--
-<li><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"  title="Information for Poster Presenters">Information for Poster Presenters</a></li>
--->
-</ul>
+    <h4>Publication Guides</h4>
+    <ul >
+        <li><a href="http://chi2015.acm.org/authors/pub-ready-instructions">Publication Ready Instructions</a></li>
+        <li><a href="http://chi2015.acm.org/authors/format">Submission Format</a></li>
+        <li><a href="http://chi2015.acm.org/authors/video-previews">Video Previews</a></li>
+    </ul>
 
-<h4>Reviewer Guides</h4>
-<ul ><li><a href="http://chi2015.acm.org/authors/guide-to-reviewing-chi-papers-and-notes"  title="Guide to Reviewing CHI Papers and Notes">Guide to Reviewing CHI Papers and Notes</a></li></ul>
-</div>
-<div><br>
-</div>
+    <h4>Contributor Guides</h4>
+    <ul ><li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-archival-submission"  title="Guide to a Successful Archival Submission">Guide to a Successful HCI Archival Submission</a></li>
+    <li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission"  title="Guide to an Accessible Submission">Guide to an Accessible Submission</a></li>
+    <li><a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></li>
+    <li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation"  title="Guide to a Successful Presentation">Guide to a Successful Presentation</a></li>
+    <!--
+    <li><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"  title="Information for Poster Presenters">Information for Poster Presenters</a></li>
+    -->
+    </ul>
 
+    <h4>Reviewer Guides</h4>
+    <ul ><li><a href="http://chi2015.acm.org/authors/guide-to-reviewing-chi-papers-and-notes"  title="Guide to Reviewing CHI Papers and Notes">Guide to Reviewing CHI Papers and Notes</a></li></ul>
+    </div>
+    <div><br>
+    </div>
 
 <?php
   include "./footer.php";
