@@ -326,7 +326,7 @@
 <dl>
         <dt><strong><a href="mailto:translations@chi2015.acm.org">Translations</a>: </strong></dt>
                 <dd>
-                        Sue Fussell, <i>Cornell University</i>, <i>USA</i>
+                        Susan Fussell, <i>Cornell University</i>, <i>USA</i>
                         <br>
                         Naomi Yamashita, <i>NTT</i>, <i>Japan</i>
                 </dd>
