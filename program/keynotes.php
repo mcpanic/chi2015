@@ -25,6 +25,23 @@ Lou is Vice President of CUMULUS, the International Association of Universities 
 <h4>Donghoon Chang</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/donghoon-chang.png" width="200px" class="speaker-image">
 
+<h4>UX Design in the IoT Era</h4>
+<p>
+The current advancement of IoT technology has accelerated the era of
+hyper-connectivity in our lives.
+This has vastly driven convergence among different fields along with
+the expansion of our thoughts and behaviors.
+However, to provide meaningful experiences, these relational
+expansions and unprecedented possibilities opened up
+by IoT need to be founded on core human values. Furthermore,
+harmonious integration between technology and design is also
+essential.
+Today, I would like to talk about what must be done in order to foster
+the IoT as a human-centered innovation and
+how UX design can realize the well balanced and harmonious IoT environment.
+</p>
+
+<h4>Biography</h4>
 <p>
 Donghoon Chang is Executive VP, Head of Design Strategy Team and UX Center in Corporate Design Center, Samsung Electronics.  Since joining Samsung in 2006, he has played a critical role in establishing the company’s design vision for the future which has gradually shifted from a focus on style and convenience to a holistic user experience design and has developed mid to long-term design strategies, including ‘Design 3.0’ which envisions design that delivers new meaning and delight to people and contributes to society by creating sustainable and innovative value.
 </p>

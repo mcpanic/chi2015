@@ -165,7 +165,7 @@ Fitness Club, Swimming pool, Sauna, 24 hours in-room dining with seasonal menu, 
       </div>
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">15 min. by car</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">15 min. by car<br/>3 subway stops</div>
       </div>
 
     </div>
@@ -196,7 +196,7 @@ Fitness Club, Swimming pool, Sauna, 24 hours in-room dining with seasonal menu, 
       </div>
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">5~10 min. by car</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">5-10 min. by car<br/>2 subway stops</div>
       </div>
 
     </div>
@@ -223,7 +223,7 @@ Fitness Club, Swimming pool, Sauna, 24 hours in-room dining with seasonal menu, 
       </div>
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car<br/>10 min. on foot</div>
       </div>
 
     </div>
@@ -260,9 +260,7 @@ Re:Charge(Fitness Center on the 3rd floor), Coin Laundry on the B1st floor
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
         <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">
-          8 min. by car<br/>
-*Free one-way hotel shuttle bus<br/>
-Running at 8 AM and 9 AM (Tentative schedule)
+          8 min. by car<br/>4 subway stops
 
         </div>
       </div>
@@ -294,7 +292,7 @@ Hairdryer, Microwave, Toaster, Coffee pot, Shower booth only
       </div>
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car<br/>1 subway stop</div>
       </div>
 
     </div>
