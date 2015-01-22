@@ -7,6 +7,12 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">22 January 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/courses">Course program is announced.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date">4 January 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/housing">Hotel reservations are open.</a></li>
