@@ -31,9 +31,10 @@ Please note that several hotels offer an early bird discount for rates made by <
 
 <p>
 <strong>CHI 2015 Seoul Housing Bureau (Korea Convention Services Ltd.)</strong><br/>
-Suite 325, G-five Central Plaza 27<br/>
-Seochojungang-ro 24-gil, Seocho-gu<br/>
-Seoul 137-070, Korea<br/><br/>
+2F Oxford Bldg.<br/>
+2335 Nambusoonhwan-ro, Seocho-gu<br/>
+Seoul 137-850, Korea<br/><br/>
+
 <strong>Email</strong>: hotel_chi2015@koconex.com<br/>
 <strong>Tel</strong>: +82-2-3476-7700<br/>
 <strong>FAX</strong>: +82-2-3476-8800<br/>
@@ -223,7 +224,7 @@ Fitness Club, Swimming pool, Sauna, 24 hours in-room dining with seasonal menu, 
       </div>
       <div class="row hotel-info-row">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 hotel-info-heading">Hotel ↔ Venue</div>
-        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. by car<br/>10 min. on foot</div>
+        <div class="col-lg-8 col-md-8 col-sm-8 col-xs-8">10 min. on foot</div>
       </div>
 
     </div>
