@@ -431,9 +431,12 @@ footer {
 	padding: 0 20px;
 }
 
-.course-entry .go-back-up {
-	
+.course-entry .go-back-up {	
 	margin-top: 10px;
+}
+
+.course-entry .schedule {
+	margin-bottom: 10px;
 }
 
 table.course_schedule {
@@ -479,6 +482,58 @@ table.course_schedule td.course_entry {
 }
 
 table.course_schedule td {
+	border: 1px solid #b4b4b4;	
+	background-color: rgb(255, 255, 255);
+}
+
+table.m_course_schedule {
+	margin: 0;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+	width: 100%;
+	border: 0px solid #cef;
+	text-align: left;
+	font-size: 1em;
+}
+
+table.m_course_schedule td.m_course_time {
+	text-align: left;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	width: 118px;
+	background-color: #F2F2F2;
+}
+
+table.m_course_schedule table.m_course_room_table {
+	margin: 0;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+	width: 100%;
+	border: 0px solid #cef;
+	text-align: left;
+	font-size: 1em;
+}
+
+table.m_course_schedule table.m_course_room_table td.m_course_room_name {
+	text-align: center;
+	font-weight: bold;
+	background-color: #F2F2F2;
+	width: 80px;
+}
+
+table.m_course_schedule table.m_course_room_table td.m_course_entry {
+	text-align: center;
+	vertical-align: middle;
+	padding: 10px 5px;
+}
+
+table.m_course_schedule table.m_course_room_table td.m_empty_slot {
+	background-image: url("../img/bg.png");
+}
+
+table.m_course_schedule table.m_course_room_table td {
 	border: 1px solid #b4b4b4;	
 	background-color: rgb(255, 255, 255);
 }

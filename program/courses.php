@@ -54,25 +54,93 @@
 
             <table class="m_course_schedule">
                 <tbody>
-                    <tr>
-                        <td class="m_course_time">9:30</td>
-                        <td ng-repeat="room in day.rooms" class="m_course_room">
-
+                    <tr ng-if="day.day!='Monday'">
+                        <td class="m_course_time">9:30 - 10:50</td>
+                    </tr>
+                    <tr ng-if="day.day!='Monday'">
+                        <td>
                             <table class="m_course_room_table">
                                 <tbody>
-                                    <tr>
+                                    <tr ng-repeat="room in day.rooms" class="m_course_room">
                                         <td class="m_course_room_name" ng-bind="room.name"></td>
+                                        <td class="m_course_entry" ng-if="room.time.t_930.class=='course_entry'">
+                                            <a href="#{{room.time.t_930.data.id}}">
+                                                <span ng-bind="room.time.t_930.data.short_title"></span>
+                                            </a> - (<span ng-bind="room.time.t_930.data.id"></span>)
+                                        </td>
+                                        <td class="m_empty_slot" ng-if="room.time.t_930.class=='empty_slot'">
+                                        </td>
                                     </tr>
-                                    <tr>
-
-                                    </tr>
-
-
                                 </tbody>
                             </table>
+                        </td>
+                    </tr>   
 
+                    <tr>
+                        <td class="m_course_time">11:30 - 12:50</td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <table class="m_course_room_table">
+                                <tbody>
+                                    <tr ng-repeat="room in day.rooms" class="m_course_room">
+                                        <td class="m_course_room_name" ng-bind="room.name"></td>
+                                        <td class="m_course_entry" ng-if="room.time.t_1130.class=='course_entry'">
+                                            <a href="#{{room.time.t_1130.data.id}}">
+                                                <span ng-bind="room.time.t_1130.data.short_title"></span>
+                                            </a> - (<span ng-bind="room.time.t_1130.data.id"></span>)
+                                        </td>
+                                        <td class="m_empty_slot" ng-if="room.time.t_1130.class=='empty_slot'">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </td>
                     </tr>
+
+                    <tr ng-if="day.day!='Thursday'">
+                        <td class="m_course_time">14:30 - 15:30</td>
+                    </tr>
+                    <tr ng-if="day.day!='Thursday'">
+                        <td>
+                            <table class="m_course_room_table">
+                                <tbody>
+                                    <tr ng-repeat="room in day.rooms" class="m_course_room">
+                                        <td class="m_course_room_name" ng-bind="room.name"></td>
+                                        <td class="m_course_entry" ng-if="room.time.t_1430.class=='course_entry'">
+                                            <a href="#{{room.time.t_1430.data.id}}">
+                                                <span ng-bind="room.time.t_1430.data.short_title"></span>
+                                            </a> - (<span ng-bind="room.time.t_1430.data.id"></span>)
+                                        </td>
+                                        <td class="m_empty_slot" ng-if="room.time.t_1430.class=='empty_slot'">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr> 
+
+                    <tr ng-if="day.day!='Thursday'">
+                        <td class="m_course_time">16:40 - 17:50</td>
+                    </tr>
+                    <tr ng-if="day.day!='Thursday'">
+                        <td>
+                            <table class="m_course_room_table">
+                                <tbody>
+                                    <tr ng-repeat="room in day.rooms" class="m_course_room">
+                                        <td class="m_course_room_name" ng-bind="room.name"></td>
+                                        <td class="m_course_entry" ng-if="room.time.t_1640.class=='course_entry'">
+                                            <a href="#{{room.time.t_1640.data.id}}">
+                                                <span ng-bind="room.time.t_1640.data.short_title"></span>
+                                            </a> - (<span ng-bind="room.time.t_1640.data.id"></span>)
+                                        </td>
+                                        <td class="m_empty_slot" ng-if="room.time.t_1640.class=='empty_slot'">
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </td>
+                    </tr>                 
                 </tbody>
             </table>
 
@@ -89,7 +157,8 @@
 <div class="course-entry" ng-repeat="course in data" id="{{course.id}}">
     <div class="id" ng-bind="course.id"></div>
     <h4 class="title" ng-bind="course.paper_title"></h4>    
-    <div class="instructors" ng-bind-html="course.instructor"></div>    
+    <div class="instructors" ng-bind-html="course.instructor"></div> 
+    <div class="schedule"><span ng-bind="getDay(course.id)"></span> : <span ng-bind="getRoom(course.id)"></span> : <span ng-bind="getTime(course.id)"></span></div>   
     <div class="candb" ng-bind-html="course.candb"></div>
     <div class="description" ng-bind-html="course.description"></div>
     <div class="go-back-up"><a href="#schedule">Go back up</a></div>

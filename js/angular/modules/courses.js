@@ -25,6 +25,57 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 
    		angular.element($window).on('resize', angular.bind($scope, $scope.$apply));
 
+   		$scope.getRoom = function(id) {
+   			for (var i in $scope.schedule) {
+   				for (var j in $scope.schedule[i].rooms) {
+   					for (var k in $scope.schedule[i].rooms[j].time) {
+   						if ($scope.schedule[i].rooms[j].time[k].data) {
+   							if ($scope.schedule[i].rooms[j].time[k].data.id == id) {
+   								return $scope.schedule[i].rooms[j].name
+   							}
+   						}
+   					}
+   				}
+   			}
+   		}
+
+   		$scope.getDay = function(id) {
+   			for (var i in $scope.schedule) {
+   				for (var j in $scope.schedule[i].rooms) {
+   					for (var k in $scope.schedule[i].rooms[j].time) {
+   						if ($scope.schedule[i].rooms[j].time[k].data) {
+   							if ($scope.schedule[i].rooms[j].time[k].data.id == id) {
+   								return $scope.schedule[i].day
+   							}
+   						}
+   					}
+   				}
+   			}
+   		}
+
+   		$scope.getTime = function(id) {
+   			var time = []
+   			for (var i in $scope.schedule) {
+   				for (var j in $scope.schedule[i].rooms) {
+   					for (var k in $scope.schedule[i].rooms[j].time) {
+   						if ($scope.schedule[i].rooms[j].time[k].data) {
+   							if ($scope.schedule[i].rooms[j].time[k].data.id == id) {
+   								time.push($scope.schedule[i].rooms[j].time[k].time)
+   							}
+   						}
+   					}
+   				}
+   			}
+   			var string = ""
+   			for (var l in time){
+   				if (time[l]==930) string += "9:30 - 10:50 "
+   				else if (time[l]==1130) string += "11:30 - 12:50 "
+   				else if (time[l]==1430) string += "14:30 - 15:30 "
+   				else if (time[l]==1640) string += "16:40 - 17:50 "
+   			}
+   			return string
+   		}
+
 		$scope.data = {
 			c01: {
 				id: "C01",
