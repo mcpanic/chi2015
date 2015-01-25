@@ -16,7 +16,7 @@ angular.module('chi2015_app', ['chi2015_controllers'])
 
 angular.module('chi2015_controllers', ["ngSanitize"])
 
-.controller("course_controller", ["$scope", $window,
+.controller("course_controller", ["$scope", "$window",
 	function($scope, $window) {
 
 		$scope.isWide = function() {
