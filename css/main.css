@@ -431,6 +431,58 @@ footer {
 	padding: 0 20px;
 }
 
+.course-entry .go-back-up {
+	
+	margin-top: 10px;
+}
+
+table.course_schedule {
+	margin: 0;
+	border-collapse: collapse;
+	margin-bottom: 15px;
+	width: 100%;
+	border: 0px solid #cef;
+	text-align: left;
+	font-size: 1em;
+}
+
+table.course_schedule td.course_room_header {
+	border: 0px;
+	font-style: italic;
+	background-color: rgba(0,0,0,0);
+	padding: 10px 8px;
+	width: 50px;
+}
+
+table.course_schedule td.course_time {
+	text-align: center;
+	font-weight: bold;
+	width: 118px;
+	background-color: #F2F2F2;
+}
+
+table.course_schedule td.course_room {
+	text-align: center;
+	font-weight: bold;
+	background-color: #F2F2F2;
+	
+}
+
+table.course_schedule td.empty_slot {
+	background-image: url("../img/bg.png");
+}
+
+table.course_schedule td.course_entry {
+	text-align: center;
+	vertical-align: middle;
+	padding: 10px 5px;	
+}
+
+table.course_schedule td {
+	border: 1px solid #b4b4b4;	
+	background-color: rgb(255, 255, 255);
+}
+
 /* ==========================================================================
    Pub-ready instructions
    ========================================================================== */
