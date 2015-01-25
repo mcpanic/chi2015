@@ -16,8 +16,14 @@ angular.module('chi2015_app', ['chi2015_controllers'])
 
 angular.module('chi2015_controllers', ["ngSanitize"])
 
-.controller("course_controller", ["$scope", 
-	function($scope) {
+.controller("course_controller", ["$scope", $window,
+	function($scope, $window) {
+
+		$scope.isWide = function() {
+        	return $window.innerWidth > 768; //your breakpoint here.
+   		}
+
+   		angular.element($window).on('resize', angular.bind($scope, $scope.$apply));
 
 		$scope.data = {
 			c01: {
@@ -647,6 +653,6 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 		]
 
 
-		console.log($scope.schedule)
+		//console.log($scope.schedule)
 
 	}])
