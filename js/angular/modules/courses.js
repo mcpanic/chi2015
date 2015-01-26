@@ -25,6 +25,9 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 
    		angular.element($window).on('resize', angular.bind($scope, $scope.$apply));
 
+   		//http://www.google.com/calendar/event?action=TEMPLATE&text=Australia%20Day%20lunch&dates=20080126T033000Z/20080126T044500Z&details=A%20traditional%20barbeque%20for%20our%20big%20day&location=On%20your%20local%20beach&sprop=website:
+
+
    		$scope.getRoom = function(id) {
    			for (var i in $scope.schedule) {
    				for (var j in $scope.schedule[i].rooms) {
@@ -32,6 +35,20 @@ angular.module('chi2015_controllers', ["ngSanitize"])
    						if ($scope.schedule[i].rooms[j].time[k].data) {
    							if ($scope.schedule[i].rooms[j].time[k].data.id == id) {
    								return $scope.schedule[i].rooms[j].name
+   							}
+   						}
+   					}
+   				}
+   			}
+   		}
+
+   		$scope.getLayout = function(id) {
+   			for (var i in $scope.schedule) {
+   				for (var j in $scope.schedule[i].rooms) {
+   					for (var k in $scope.schedule[i].rooms[j].time) {
+   						if ($scope.schedule[i].rooms[j].time[k].data) {
+   							if ($scope.schedule[i].rooms[j].time[k].data.id == id) {
+   								return $scope.schedule[i].rooms[j].layout
    							}
    						}
    					}
@@ -331,12 +348,17 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 			}
 		}
 
+		$scope.rooms = ["317A", "317BC", "E7", "318BC", "308ABC"];
+		$scope.layout = ["Classroom", "Rounds", "Theatre"];
+
 		$scope.schedule = [
 			{
 				day: "Monday",
+				date: new Date(2015, 3, 20),
 				rooms: [
 					{
-						name: "TBA 1",
+						name: $scope.rooms[0],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 								class: "empty_slot",
@@ -360,7 +382,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 						}						
 					},
 					{
-						name: "TBA 2",
+						name: $scope.rooms[1],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 							class: "empty_slot",
@@ -384,7 +407,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 						}											
 					},
 					{
-						name: "TBA 3",
+						name: $scope.rooms[2],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "empty_slot",
@@ -408,7 +432,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 						}											
 					},
 					{
-						name: "TBA 4",
+						name: $scope.rooms[3],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 								class: "empty_slot",
@@ -436,9 +461,11 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 			},
 			{
 				day: "Tuesday",
+				date: new Date(2015, 3, 21),
 				rooms: [
 					{
-						name: "TBA 1",
+						name: $scope.rooms[0],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 								class: "course_entry",
@@ -464,7 +491,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 
 					},
 					{
-						name: "TBA 2",
+						name: $scope.rooms[1],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 							class: "course_entry",
@@ -490,7 +518,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 												
 					},
 					{
-						name: "TBA 3",
+						name: $scope.rooms[2],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 								class: "course_entry",
@@ -516,7 +545,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 												
 					},
 					{
-						name: "TBA 4",
+						name: $scope.rooms[3],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "course_entry",
@@ -545,33 +575,37 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 			},
 			{
 				day: "Wednesday",
+				date: new Date(2015, 3, 22),
 				rooms: [
 					{
-						name: "TBA 1",
+						name: $scope.rooms[0],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 							class: "course_entry",
 							time: 930,
 							data: $scope.data.c17
-						},
-						t_1130: {
-							class: "course_entry", time: 1130,
-							data: $scope.data.c17
-						},
-						t_1430: {
-							class: "course_entry", time: 1430,
-							data: $scope.data.c20
-						},
-						t_1640: {
-							class: "course_entry", time: 1640,
-							data: $scope.data.c20
-						}	
+							},
+							t_1130: {
+								class: "course_entry", time: 1130,
+								data: $scope.data.c17
+							},
+							
+							t_1430: {
+								class: "course_entry", time: 1430,
+								data: $scope.data.c21
+							},
+							t_1640: {
+								class: "course_entry", time: 1640,
+								data: $scope.data.c21
+							}	
 						}
 						
 
 					},
 					{
-						name: "TBA 2",
+						name: $scope.rooms[2],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "course_entry", time: 930,
@@ -583,17 +617,18 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 						},
 						t_1430: {
 							class: "course_entry", time: 1430,
-							data: $scope.data.c21
+							data: $scope.data.c22
 						},
 						t_1640: {
 							class: "course_entry", time: 1640,
-							data: $scope.data.c21
-						}	
+							data: $scope.data.c22
+						}
 						}
 												
 					},
 					{
-						name: "TBA 3",
+						name: $scope.rooms[3],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "course_entry", time: 930,
@@ -605,17 +640,18 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 						},
 						t_1430: {
 							class: "course_entry", time: 1430,
-							data: $scope.data.c22
+							data: $scope.data.c23
 						},
 						t_1640: {
 							class: "course_entry", time: 1640,
-							data: $scope.data.c22
+							data: $scope.data.c23
 						}	
 						}
 												
 					},
 					{
-						name: "TBA 4",
+						name: $scope.rooms[4],
+						layout: $scope.layout[2],
 						time: {
 							t_930: {
 							class: "empty_slot", time: 930
@@ -624,13 +660,13 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 							class: "empty_slot", time: 1130
 						},
 						t_1430: {
-							class: "course_entry", time: 1430,
-							data: $scope.data.c23
-						},
-						t_1640: {
-							class: "course_entry", time: 1640,
-							data: $scope.data.c23
-						}	
+								class: "course_entry", time: 1430,
+								data: $scope.data.c20
+							},
+							t_1640: {
+								class: "course_entry", time: 1640,
+								data: $scope.data.c20
+							}	
 						}
 												
 					}
@@ -638,9 +674,11 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 			},
 			{
 				day: "Thursday",
+				date: new Date(2015, 3, 23),
 				rooms: [
 					{
-						name: "TBA 1",
+						name: $scope.rooms[1],
+						layout: $scope.layout[0],
 						time: {
 							t_930: {
 							class: "course_entry", time: 930,
@@ -661,7 +699,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 
 					},
 					{
-						name: "TBA 2",
+						name: $scope.rooms[2],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "course_entry", time: 930,
@@ -681,7 +720,8 @@ angular.module('chi2015_controllers', ["ngSanitize"])
 												
 					},
 					{
-						name: "TBA 3",
+						name: $scope.rooms[3],
+						layout: $scope.layout[1],
 						time: {
 							t_930: {
 							class: "course_entry", time: 930,

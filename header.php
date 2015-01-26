@@ -51,7 +51,7 @@ else {
 
         <?php if (isset($ng_app)) :?>
             <script src="<?php echo $prefix; ?>/js/angular/angular.min.js"></script>
-            <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>
+            <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>            
             <script src="<?php echo $prefix; ?>/js/angular/modules/<?php echo $ng_app; ?>.js"></script>
         <?php endif ?>
     </head>
