@@ -7,7 +7,15 @@
     <h2>Program | Keynotes</h2>
 </div>
 
+<ul>
+    <li><a href="#mon-opening">Opening Plenary: Lou Yongqi</a></li>
+    <li><a href="#tue-morning">Tuesday Morning: Donghoon Chang</a></li>
+    <li><a href="#wed-morning">Wednesday Morning: David Min</a></li>
+    <li><a href="#thu-morning">Thursday Morning: Susan Dumais</a></li>
+    <li><a href="#thu-closing">Closing Plenary: PSY</a></li>
+</ul>
 
+<a name="mon-opening"></a>
 <h3>Opening Plenary</h3>
 <h4>Lou Yongqi</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/lou-yongqi.png" width="200px" class="speaker-image">
@@ -21,6 +29,8 @@ Lou is a leading figure in sustainable interdisciplinary design education, resea
 Lou is Vice President of CUMULUS, the International Association of Universities and Colleges of Art, Design, and Media. He is Founding Executive Editor of She Ji — the Journal of Design, Innovation, and Economics published by Tongji University and in cooperation with Elsevier. In 2014, the President of Finland honoured Lou with the Order of the Lion of Finland as a Knight, First Class.
 </p>
 
+
+<a name="tue-morning"></a>
 <h3>Tuesday Morning Keynote</h3>
 <h4>Donghoon Chang</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/donghoon-chang.png" width="200px" class="speaker-image">
@@ -48,6 +58,8 @@ how UX design can realize the well balanced and harmonious IoT environment.
 Chang received two MFA degrees from the School of the Art Institute of Chicago (Chicago, USA) and Seoul National University (Seoul, Korea). He worked for IBM Korea and Time &amps; Space Tech inc. as a communications specialist and art director respectively. Before joining Samsung, he was a professor at EWHA Womans University (Seoul, Korea) where he taught visual design, information design as well as user experience design.  He was selected as 'the 2nd most creative people in the world' by Fast Company in 2013.
 </p>
 
+
+<a name="wed-morning"></a>
 <h3>Wednesday Morning Keynote</h3>
 <h4>David Min</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/david-min.png" width="200px" class="speaker-image">
@@ -59,6 +71,8 @@ Chang received two MFA degrees from the School of the Art Institute of Chicago (
 David studied computer science and statistics at Seoul National University for BS degree and computer science at Korea Advanced Institute of Science & Technology for MS degree. After four years work at Samsung Co. as an IT system analyst, he went to the USA to enroll in the computer science PhD program at the University of Illinois at Urbana-Champaign.  After finishing his advanced studies at UIUC, he worked for many years at various companies in computer, software, and consumer electronics industries, including Digital Equipment Corp. (now HP), Microsoft, Samsung Electronics.  David joined LG Electronics in 2006.
 </p>
 
+
+<a name="thu-morning"></a>
 <h3>Thursday Morning Keynote</h3>
 <h4>Susan Dumais</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/sue-dumais.jpg" width="200px" class="speaker-image">
@@ -71,6 +85,8 @@ Over the last decade, the rise of web services has made it possible to gather tr
 <strong>Biography</strong>: Susan Dumais a Distinguished Scientist at Microsoft and Deputy Managing Director of the Microsoft Research Lab in Redmond.   Prior to joining Microsoft Research, she was at Bell Labs and Bellcore, where she worked on Latent Semantic Analysis, techniques for combining search and navigation, and organizational impacts of new technology.  Her current research focuses on user modeling and personalization, context and search and temporal dynamics of information. She has worked closely with several Microsoft groups (Bing, Windows Desktop Search, SharePoint, and Office Online Help) on search-related innovations.  Susan has published widely in the fields of information science, human-computer interaction and cognitive science, and holds several patents on novel retrieval algorithms and interfaces.  Susan is also an adjunct professor in the Information School at the University of Washington.  She is Past-Chair of ACM's Special Interest Group in Information Retrieval (SIGIR), and serves on several editorial boards, technical program committees, and government panels.  She was elected to the CHI Academy in 2005, an ACM Fellow in 2006, received the SIGIR Gerard Salton Award for Lifetime Achievement 2009, was elected to the National Academy of Engineering (NAE) in 2011, and received the ACM Athena Lecturer Award, and Tony Kent Strix Award in 2014.
 </p>
 
+
+<a name="thu-closing"></a>
 <h3>Closing Plenary</h3>
 <h4>PSY</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/psy.png" width="200px" class="speaker-image">

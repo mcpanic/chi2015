@@ -22,6 +22,7 @@
 
   <h3>Parallel sessions</h3>
   <ul>
+    <li><a href="<?php echo $prefix; ?>/program/papers-notes">Papers and Notes</a></li>
     <li><a href="<?php echo $prefix; ?>/program/courses">Courses</a></li>
   </ul>
 
