@@ -14,13 +14,13 @@ A list of all the accepted CHI 2015 papers and notes is now available through Co
 </p>
 
 <div class="link-button-wrapper">
-  <a class="link-button" href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/schedule">
+  <a class="link-button" href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/papers">
     Open CHI 2015 Advance Program
   </a>
 </div>
 
 <p>
-You can access the program across devices. You <a href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/schedule">create an account to save your favorite papers and personal schedule</a>. Or, you can <a href="http://confer.csail.mit.edu/chi2015/schedule">browse the program as a guest</a>.
+You can access the program across devices. You <a href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/papers">create an account to save your favorite papers and personal schedule</a>. Or, you can <a href="http://confer.csail.mit.edu/chi2015/papers">browse the program as a guest</a>.
 </p>
 
 <p>
