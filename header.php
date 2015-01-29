@@ -49,9 +49,12 @@ else {
         <!--[if !IE]><!--><link rel="stylesheet" href="<?php echo $prefix; ?>/css/responsive.css" /><!--<![endif]-->
         <script src="<?php echo $prefix; ?>/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 
+        <script src="<?php echo $prefix; ?>/js/angular/angular.min.js"></script>
+        <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>
+        <script src="<?php echo $prefix; ?>/js/angular/modules/main_app.js"></script>
+
         <?php if (isset($ng_app)) :?>
-            <script src="<?php echo $prefix; ?>/js/angular/angular.min.js"></script>
-            <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>            
+                        
             <script src="<?php echo $prefix; ?>/js/angular/modules/<?php echo $ng_app; ?>.js"></script>
         <?php endif ?>
     </head>

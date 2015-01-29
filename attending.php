@@ -25,6 +25,8 @@ CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class
     Junho Choi, Yonsei University, Korea
 </p>
 
+
+
 <?php
   include "footer.php";
 ?>

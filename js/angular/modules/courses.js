@@ -1,5 +1,4 @@
-angular.module('chi2015_app', ['chi2015_controllers'])
-.filter("schedule_desktop", function(){
+main_app.filter("schedule_desktop", function(){
 	return function(objs) {
 		var filtered = [];
 		angular.forEach(objs, function(obj){
@@ -14,9 +13,7 @@ angular.module('chi2015_app', ['chi2015_controllers'])
 	}
 })
 
-angular.module('chi2015_controllers', ["ngSanitize"])
-
-.controller("course_controller", ["$scope", "$window",
+chi2015_controllers.controller("course_controller", ["$scope", "$window",
 	function($scope, $window) {
 
 		$scope.isWide = function() {
