@@ -4,8 +4,8 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.php -f
 RewriteCond %{REQUEST_URI} !(.*)/$
 # adding a trailing slash to all requests
-
-RewriteRule ^(.*)$ /chi2015/$1/ [L,R=301]
+RewriteRule ^(.*)$ http://chi2015.acm.org/$1/ [L,R=301]
+#RewriteRule ^(.*)$ /chi2015/$1/ [L,R=301]
 RewriteRule ^(.*)\/$ $1.php
 
 #RewriteRule ^(.+)/$ $1.php [R=301,L]
