@@ -1,11 +1,5 @@
 <?php
-$isProduction = True;
-if ($isProduction) {
-    $prefix = "";
-}
-else {
-    $prefix = "/chi2015";
-}
+include "production.php";
 ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" ng-app="chi2015_app"> <![endif]-->
