@@ -97,7 +97,7 @@ else {
                 <a ng-if="link.sub_links_count!=0" href="#" data-toggle="dropdown" role="button" aria-expanded="false" ng-class="is_selected_dropdown(link.title.toLowerCase())" ><span ng-bind="link.title.toUpperCase()"></span> <span class="caret"></span></a>
                 <ul class="dropdown-menu" role="menu" ng-if="link.sub_links_count!=0">
                     <li class="sub_link"><a ng-href="<?php echo $prefix; ?>{{link.link}}" ng-bind="link.title"></a></li>
-                    <li class="sub_link" ng-repeat="sub_links in link.sub_links"><a ng-href="<?php echo $prefix; ?>{{sub_links.link}}" ng-bind="sub_links.title"></a></li>
+                    <li class="sub_link" ng-repeat="sub_links in link.sub_links"><a ng-href="<?php echo $prefix; ?>{{sub_links.link}}" ng-bind="sub_links.title"> </a></li>
                 </ul>
              </li>
             
