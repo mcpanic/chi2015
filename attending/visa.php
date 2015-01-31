@@ -3,7 +3,9 @@
   include "../header.php";
 ?>
 
-<h1>Attending | Visa</h1>
+<div>
+    <h2>Attending | Visa</h2>
+</div>
 
 <p>The ACM does not issue invitations for those requiring visas to attend CHI, but we can provide a letter to help support a visa application. Please note, attendees must register for the CHI conference and provide a copy of their registration confirmation along with the application in order to receive a visa letter.</p>
 
