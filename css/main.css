@@ -127,6 +127,71 @@ blockquote p {
 	border-bottom: 5px solid #FFFFFF;
 }
 
+.nav li a .caret {
+	border-top-color: #FFFFFF;
+	border-bottom-color: #FFFFFF;
+}
+
+.nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
+	font-weight: bold;
+	border-bottom: 5px solid #FFFFFF;
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.nav a:hover .caret {
+  border-top-color: #FFFFFF;
+  border-bottom-color: #FFFFFF;
+}
+
+.nav li a.dropdown-toggle {
+  background-color: transparent;	
+}
+
+.nav li ul {
+	background-color: rgba(228,33,28,0.8);
+	background-image:none;
+	box-shadow: none;
+	border-radius: 0;
+	border: 1px;
+	border-color: #FFFFFF;
+}
+
+.navbar-nav>li>.dropdown-menu {
+	margin-top: 3px;
+}
+
+.nav li ul li {
+	height: 38px;
+	padding: 8px 16px 0 32px;
+	font-size: 15px;
+	border-bottom: 1px solid #FFFFFF;
+}
+
+.nav li ul li:first-child{
+    padding-left: 16px;
+}
+
+.nav li ul li:last-child{
+    padding-right: 16px;
+}
+
+.nav li ul a:hover {
+	background-color: transparent;
+	font-weight: bold;
+	border-bottom: 5px solid #FFFFFF;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  background-color: transparent;
+  background-image: none;
+  font-weight: bold;
+  border-bottom: 5px solid #FFFFFF;
+}
+
+
+
 /* ==========================================================================
    Jumbotron
    ========================================================================== */

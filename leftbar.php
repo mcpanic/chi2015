@@ -3,9 +3,7 @@
 	<span>days until CHI 2015</span>
 </div>
 
-<div class="sidebar-wrapper">
 
-</div>
 
 <div class="sidebar-wrapper">
 	<h3>News</h3>

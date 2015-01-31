@@ -3,7 +3,9 @@
   include "../header.php";
 ?>
 
-<h1>Attending | Housing</h1>
+<div>
+    <h2>Attending | Housing</h2>
+</div>
 
 <p>CHI 2015 hotel reservations are open!</p>
 

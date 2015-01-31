@@ -63,7 +63,11 @@ Chang received two MFA degrees from the School of the Art Institute of Chicago (
 <h3>Wednesday Morning Keynote</h3>
 <h4>David Min</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/david-min.png" width="200px" class="speaker-image">
-
+<h5>Journey to a Better Life</h5>
+<p>
+New technologies and devices are coming out every day along with the rapid growth of the internet and enhancement of hardware performance.  These trends are connected and tangled with each other. This era of "Smart" brings us great benefits and convenience, but there are still many technical hurdles and interface obstacles to be crossed. Now we are able to access massive amount of data, but at the expense of privacy and security.  How can we untie this knot?
+We all strive for the same goal: “to make people’s lives better,” no matter how we define our role in life. In this talk, we will present what we do in LG Electronics to address this goal within the aspects of software engineering and UX design, and also discuss what we should care about when delivering innovative products to the world.
+</p>
 <p>
 <strong>Biography</strong>: David Min is a Senior Research Fellow at LG Electronics and is head of the Software Research Center.  He is known for spearheading one of the most successful SmartTV platforms in the industry, providing a superior user experience and an open API for 3rd party developers.
 </p>
