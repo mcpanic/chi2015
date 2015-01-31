@@ -11,6 +11,7 @@ chi2015_controllers.controller('link_controller', ['$scope', '$location', 'link_
 		$scope.data = []
 		$scope.is_selected = function(link){
 			var array = clean_pathname(window.location.pathname.split("/"));
+
 			if (array.length > 0) {
 				var link_num = 0
 				if (array[0].trim()=="chi2015") link_num = 1
@@ -48,10 +49,11 @@ chi2015_services.factory('link_factory', ['$resource',
 	function($resource) {				
 		var array = clean_pathname(window.location.pathname.split("/"));
 		var pathcount = array.length
-		if (array[0].trim() == "chi2015") {
+		if (array.length > 0){
+			if (array[0].trim() == "chi2015") {
 			pathcount--
-		}
-		
+			}	
+		}		
 		var str = ""
 		for (var i = 0; i<pathcount; i++){
 			str+="../"
