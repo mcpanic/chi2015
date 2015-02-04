@@ -21,7 +21,29 @@
 <img src="<?php echo $prefix; ?>/img/keynotes/lou-yongqi.png" width="200px" class="speaker-image">
 <h5>Crossing: HCI, Design and Sustainability</h5>
 <p>
-Two great inventions that opened the era of human-computer interaction design—desktop computer and mouse—are now disappearing. Computers are becoming smaller and smaller, smarter and smarter. Everyone is now surrounded by many visible and invisible computers, which are all highly connected through the Internet ubiquitously. A new world of artificial intelligence is emerging. When the intelligence of human-being is expanded to his or her surroundings, condensed into a new kind of Intelligent life, the relationship between human-being and the rest of the world has been redefined. How to cross the boundaries and to enable the sustainable interaction between nature (the 1st system), human-beings (the 2nd system), artificial world (the 3rd system), and the cyber world (the 4th system), becomes an interesting proposition and merits new design. But before that, it’s necessary to rethink the anthropocentric view and even design itself. The most attractive feature of design is optimistic. What makes a human being human, lies in that one is not leading a kind of life which merely has needs to be fulfilled, but can also use his/her subjective initiative to control and conduct his/her behavior for a certain common value. Today sustainability is not a value of ethics, but a value of surviving. How to use and encourage a new kind of HCI design, to generate sustainable behaviors and social changes, further, to redesign the commensalism of the four systems mentioned above will be the main focus of my talk. 	
+Two great inventions that opened the era of human-computer interaction
+design—desktop and mouse—are now disappearing. Computers are becoming
+smaller and smaller, smarter and smarter. Everyone is now surrounded
+by many visible and invisible computers, which are all highly
+connected through the Internet ubiquitously. A new world of artificial
+intelligence is emerging. When the intelligence of human-being is
+expanded to his/her surroundings, condensed into a new kind of
+Intelligent life, the relationship between human-being and the rest of
+the world has been redefined. How to cross the boundaries and to
+enable the sustainable interaction between nature (the 1st system),
+human-beings (the 2nd system), artificial world (the 3rd system), and
+the cyber world (the 4th system), becomes an interesting proposition
+and merits new design. But before that, it’s necessary to rethink the
+anthropocentric view and even design itself. The most attractive
+feature of design is optimistic. What makes a human being human, lies
+in that one is not leading a kind of life which merely has needs to be
+fulfilled, but can also use his/her subjective initiative to control
+and conduct his/her behavior for a certain common value. Today
+sustainability is not only a value of ethics, but a value of
+surviving. How to use and encourage a new kind of HCI design, to
+generate sustainable behaviors and social changes, further, to
+redesign the commensalism of the four systems mentioned above will be
+the main focus of my talk. 	
 </p>
 <p>
 <strong>Biography</strong>: Prof. Dr. Lou Yongqi is Dean of the College of Design and Innovation at Tongji University in Shanghai. He is a full professor at Tongji, Visiting Professor at the School of Art, Design, and Architecture at Aalto University in Finland, and Visiting Professor at the School of Design of Politecnico di Milano in Italy. Lou has been the pioneer in China for design-driven innovation education that connects design, business, and technology. He advances these issues through his leadership of two institutions at Tongji University: the College of Design and Innovation, and the Sino-Finnish Centre. He also furthers this agenda through international collaboration.
