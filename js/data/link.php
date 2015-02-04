@@ -5,13 +5,13 @@ echo '
 		{
 			"rank": 1,
 			"title": "CHI 2015",
-			"link": "/",			
+			"link": "/",
 			"sub_links" : []
 		},
 		{
 			"rank": 2,
 			"title": "Program",
-			"link": "/program",		
+			"link": "/program",
 			"sub_links" : [
 				{
 					"rank": 1,
@@ -43,7 +43,7 @@ echo '
 		{
 			"rank": 3,
 			"title": "Attending",
-			"link": "/attending",			
+			"link": "/attending",
 			"sub_links" : [
 				{
 					"rank": 1,
@@ -65,7 +65,7 @@ echo '
 		{
 			"rank": 4,
 			"title": "Authors",
-			"link": "/authors",			
+			"link": "/authors",
 			"sub_links" : [
 			]
 		},
@@ -91,7 +91,13 @@ echo '
 			"rank": 7,
 			"title": "Exhibiting",
 			"link": "/exhibiting",
-			"sub_links" : []
+			"sub_links" : [
+				{
+					"rank": 1,
+					"title": "List of Exhibitors",
+					"link": "/exhibiting/list-of-exhibitors"
+				}
+			]
 		},
 		{
 			"rank": 8,

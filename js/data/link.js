@@ -85,7 +85,7 @@ var link = {
 				{
 					"rank": 1,
 					"title": "Sponsors of CHI 2015",
-					"link": "/program/sponsors-of-chi2015"
+					"link": "/sponsoring/sponsors-of-chi2015"
 				}
 			]
 		},
@@ -94,7 +94,13 @@ var link = {
 			"title": "EXHIBITING",
 			"link": "/exhibiting",
 			"class": "exhibiting",
-			"sub_links" : []
+			"sub_links" : [
+				{
+					"rank": 1,
+					"title": "List of Exhibitors",
+					"link": "/exhibiting/list-of-exhibitors"
+				}
+			]
 		},
 		{
 			"rank": 8,

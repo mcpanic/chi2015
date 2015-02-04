@@ -51,7 +51,7 @@ include "production.php";
         <script src="<?php echo $prefix; ?>/js/angular/modules/main_app.js"></script>
 
         <?php if (isset($ng_app)) :?>
-                        
+
             <script src="<?php echo $prefix; ?>/js/angular/modules/<?php echo $ng_app; ?>.js"></script>
         <?php endif ?>
     </head>
@@ -70,11 +70,11 @@ include "production.php";
           </button>
           <a class="navbar-brand" href="/">CHI 2015</a>
         </div>
-                   
+
         <div class="navbar-collapse collapse" ng-controller="link_controller">
           <ul class="nav navbar-nav">
             <!--<li><a href="<?php echo $prefix; ?>/" class="menu-home">CHI 2015</a></li>
-            <!--<li><a href="<?php echo $prefix; ?>/impact" class="menu-impact">CHI'S IMPACT</a></li>
+            <li><a href="<?php echo $prefix; ?>/impact" class="menu-impact">CHI'S IMPACT</a></li>
             <li><a href="<?php echo $prefix; ?>/program" class="menu-program">PROGRAM</a></li>
             <li><a href="<?php echo $prefix; ?>/attending" class="menu-attending">ATTENDING</a></li>
             <li><a href="<?php echo $prefix; ?>/authors" class="menu-authors">AUTHORS</a></li>
@@ -82,9 +82,8 @@ include "production.php";
             <li><a href="<?php echo $prefix; ?>/sponsoring" class="menu-sponsoring">SPONSORING</a></li>
             <li><a href="<?php echo $prefix; ?>/exhibiting" class="menu-exhibiting">EXHIBITING</a></li>
             <li><a href="<?php echo $prefix; ?>/recruiting" class="menu-recruiting">RECRUITING</a></li>
-<!--
             <li><a href="<?php echo $prefix; ?>/spotlights" class="menu-spotlights">SPOTLIGHTS</a></li>
-             -->
+            -->
 
              <li ng-repeat="link in data" ng-class="is_dropdown(link.sub_links_count)">
                 <a ng-if="link.sub_links_count==0" ng-href="<?php echo $prefix; ?>{{link.link}}" ng-class="is_selected(link.title.toLowerCase())" ng-bind="link.title.toUpperCase()"></a>
@@ -94,11 +93,11 @@ include "production.php";
                     <li class="sub_link" ng-repeat="sub_links in link.sub_links"><a ng-href="<?php echo $prefix; ?>{{sub_links.link}}" ng-bind="sub_links.title"> </a></li>
                 </ul>
              </li>
-            
+
           </ul>
         </div><!--/.navbar-collapse -->
-        
-        
+
+
       </div>
     </div>
 
@@ -109,7 +108,7 @@ include "production.php";
         <h2>Crossings</h2>
  -->
         <div class="jumbotron-left">
-            
+
             <img class="animation" src="<?php echo $prefix; ?>/img/animate2.gif" alt="CHI 2015 | Crossings | Seoul, Korea">
         </div>
         <div class="jumbotron-right">
