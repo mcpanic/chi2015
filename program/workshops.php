@@ -32,7 +32,7 @@
     <li><a href="#W13"><strong>W13</strong> Smart for Life: Designing Smart Home Technologies that Evolve with Users</a></li>
     <li><a href="#W14"><strong>W14</strong> Text Entry on the Edge</a></li>
     <li><a href="#W15"><strong>W15</strong> What to study in HCI?</a></li>
-    <li><a href="#W16"><strong>W16</strong> When Apps Go Bad: Exploring the Unintended Socio-Political Impact of Locative Media</a></li>
+    <li><b><i>Cancelled: </i></b><a href="#W16"> <strong>W16</strong>  When Apps Go Bad: Exploring the Unintended Socio-Political Impact of Locative Media</a></li>
 
     <br/>
     <h4>Sunday April 19th</h4>
@@ -275,7 +275,7 @@
 
 <div class="workshop-entry">
 <h4 id="W16">W16  When Apps Go Bad: Exploring the Unintended Socio-Political Impact of Locative Media  </h4>
-<p>Saturday April 18th  </p>
+<p><b><i>Cancelled</i></b> <strike>Saturday April 18th</strike>  </p>
 <p>Link: <a href="http://www.whenappsgobad.org ">http://www.whenappsgobad.org    </a></p>
 <strong>Organizers</strong><br/>
                          <span class=workshop-organizer>Tom  Feltwell</span><span class="workshop-affiliation">  University of Lincoln, United Kingdom </span><br/>
