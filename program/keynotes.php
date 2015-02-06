@@ -95,10 +95,13 @@ New technologies and devices are coming out every day along with the rapid growt
 We all strive for the same goal: “to make people’s lives better,” no matter how we define our role in life. In this talk, we will present what we do in LG Electronics to address this goal within the aspects of software engineering and UX design, and also discuss what we should care about when delivering innovative products to the world.
 </p>
 <p>
-<strong>Biography</strong>: David Min is a Senior Research Fellow at LG Electronics and is head of the Software Research Center.  He is known for spearheading one of the most successful SmartTV platforms in the industry, providing a superior user experience and an open API for 3rd party developers.
+<strong>Biography</strong>: David Min is a Senior Research Fellow at LG Electronics and is head of the Software Center. 
+He is known for spearheading one of the most successful SmartTV platforms in the industry, providing a superior user experience and an open API for 3rd party developers.
 </p>
 <p>
-David studied computer science and statistics at Seoul National University for BS degree and computer science at Korea Advanced Institute of Science & Technology for MS degree. After four years work at Samsung Co. as an IT system analyst, he went to the USA to enroll in the computer science PhD program at the University of Illinois at Urbana-Champaign.  After finishing his advanced studies at UIUC, he worked for many years at various companies in computer, software, and consumer electronics industries, including Digital Equipment Corp. (now HP), Microsoft, Samsung Electronics.  David joined LG Electronics in 2006.
+David studied computer science and statistics at Seoul National University for BS degree and computer science at Korea Advanced Institute of Science & Technology for MS degree. 
+After four years work at Samsung Co. as an IT system analyst, he went to the USA to enroll in the computer science PhD program at the University of Illinois at Urbana-Champaign.  After finishing his advanced studies at UIUC, he worked for many years at various companies in computer, software, and consumer electronics industries, including Digital Equipment Corp. (now HP), Microsoft, Samsung Electronics.  
+David joined LG Electronics in 2006.
 </p>
 
 
