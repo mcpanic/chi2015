@@ -79,7 +79,7 @@ See a map of the <a href="<?php echo $prefix; ?>/files/CHI2015_Hotel_Information
   <h4>1. InterContinental Seoul COEX ★★★★★</h4>
   <p>
     Co-headquarters Hotel<br/>
-    <i>Offering early bird discounted rate through January 31, 2015</i>
+    <i>Offering early bird discounted rate through February 6, 2015</i>
   </p>
   <div class="row">
     <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/1.png">
@@ -110,7 +110,7 @@ See a map of the <a href="<?php echo $prefix; ?>/files/CHI2015_Hotel_Information
   <h4>2. Grand Intercontinental Seoul ★★★★★</h4>
   <p>
     Co-headquarters Hotel<br/>
-    <i>Offering early bird discounted rate through January 31, 2015</i>
+    <i>Offering early bird discounted rate through February 6, 2015</i>
   </p>
   <div class="row">
     <img class="col-lg-4 col-md-4 col-sm-4 col-xs-4" src="<?php echo $prefix; ?>/img/hotels/2.png">
