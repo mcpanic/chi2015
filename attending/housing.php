@@ -25,7 +25,7 @@ Requests received after March 17 will be accepted based on availability. Rates a
 </p>
 
 <p>
-Please note that several hotels offer an early bird discount for rates made by <strong>January 31, 2015</strong>. Visit the housing website to access this discounted rate.
+Please note that several hotels offer an early bird discount for rates made by <strong>February 6, 2015</strong>. Visit the housing website to access this discounted rate.
 </p>
 
 <h3>Housing Bureau Contact Information</h3>
