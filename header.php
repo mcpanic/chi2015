@@ -47,7 +47,7 @@ include "production.php";
         <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>
         <script src="<?php echo $prefix; ?>/js/angular/angular-resource.min.js"></script>
 
-        <script src="<?php echo $prefix; ?>/js/data/link.js"></script>
+
         <script src="<?php echo $prefix; ?>/js/angular/modules/main_app.js"></script>
 
         <?php if (isset($ng_app)) :?>

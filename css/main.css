@@ -684,3 +684,11 @@ td.pub-ready-check {
 .hotel-info-heading{
 	font-weight: bold;
 }
+
+/* ==========================================================================
+   List of Exhibitors Info Table (exhibiting/list-of-exhibitors.php)
+   ========================================================================== */
+
+#list-of-exhibitors .data_row {
+    margin-bottom: 20px;
+}

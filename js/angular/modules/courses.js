@@ -1,4 +1,4 @@
-main_app.filter("schedule_desktop", function(){
+angular.module('chi2015_app').filter("schedule_desktop", function(){
 	return function(objs) {
 		var filtered = [];
 		angular.forEach(objs, function(obj){
@@ -13,7 +13,7 @@ main_app.filter("schedule_desktop", function(){
 	}
 })
 
-chi2015_controllers.controller("course_controller", ["$scope", "$window",
+angular.module('chi2015_controllers').controller("course_controller", ["$scope", "$window",
 	function($scope, $window) {
 
 		$scope.isWide = function() {
@@ -23,7 +23,6 @@ chi2015_controllers.controller("course_controller", ["$scope", "$window",
    		angular.element($window).on('resize', angular.bind($scope, $scope.$apply));
 
    		//http://www.google.com/calendar/event?action=TEMPLATE&text=Australia%20Day%20lunch&dates=20080126T033000Z/20080126T044500Z&details=A%20traditional%20barbeque%20for%20our%20big%20day&location=On%20your%20local%20beach&sprop=website:
-
 
    		$scope.getRoom = function(id) {
    			for (var i in $scope.schedule) {
