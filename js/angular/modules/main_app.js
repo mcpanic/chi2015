@@ -2,6 +2,13 @@ angular.module('chi2015_app', ['chi2015_controllers']);
 angular.module('chi2015_controllers', ["ngSanitize", "chi2015_services"]);
 angular.module('chi2015_services', ['ngResource']);
 
+angular.module('chi2015_app').config(['$locationProvider', function($locationProvider){
+  $locationProvider.html5Mode({
+    enabled: true,
+    requireBase: false
+  });
+}])
+
 angular.module('chi2015_controllers').controller('link_controller',
   ['$scope', '$location', 'link_factory',
 	function($scope, $location, link_factory){
