@@ -1,4 +1,4 @@
-angular.module('chi2015_app', ['chi2015_controllers']);
+angular.module('chi2015_app', ['chi2015_controllers', 'ngRoute']);
 angular.module('chi2015_controllers', ["ngSanitize", "chi2015_services"]);
 angular.module('chi2015_services', ['ngResource']);
 
@@ -8,6 +8,16 @@ angular.module('chi2015_services', ['ngResource']);
 //    requireBase: false
 //  });
 //}])
+
+//angular.module('chi2015_app').run([
+//  '$rootScope', '$location', '$anchorScroll', '$routeParams',
+//  function($rootScope, $location, $anchorScroll, $routeParams) {
+//    //when the route is changed scroll to the proper element.
+//    $rootScope.$on('$routeChangeSuccess', function (newRoute, oldRoute) {
+//      $location.hash($routeParams.scrollTo);
+//      $anchorScroll();
+//    });
+//  }]);
 
 angular.module('chi2015_controllers').controller('link_controller',
   ['$scope', '$location', 'link_factory',
