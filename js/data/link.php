@@ -12,91 +12,91 @@ echo '
 		{
 			"rank": 2,
 			"title": "Program",
-			"link": "/program",
+			"link": "/program/",
 			"sub_links" : [
 				{
 					"rank": 1,
 					"title": "Keynotes",
-					"link": "/program/keynotes"
+					"link": "/program/keynotes/"
 				},
 				{
 					"rank": 2,
 					"title": "Asian CHI Symposia (ACHIS)",
-					"link": "/program/asianchisymposia"
+					"link": "/program/asianchisymposia/"
 				},
 				{
 					"rank": 3,
 					"title": "Workshops",
-					"link": "/program/workshops"
+					"link": "/program/workshops/"
 				},
 				{
 					"rank": 4,
 					"title": "Papers and Notes",
-					"link": "/program/papers-notes"
+					"link": "/program/papers-notes/"
 				},
 				{
 					"rank": 5,
 					"title": "Courses",
-					"link": "/program/courses"
+					"link": "/program/courses/"
 				}
 			]
 		},
 		{
 			"rank": 3,
 			"title": "Attending",
-			"link": "/attending",
+			"link": "/attending/",
 			"sub_links" : [
 				{
 					"rank": 1,
 					"title": "Visa",
-					"link": "/attending/visa"
+					"link": "/attending/visa/"
 				},
 				{
 					"rank": 2,
 					"title": "Housing",
-					"link": "/attending/housing"
+					"link": "/attending/housing/"
 				},
 				{
 					"rank": 3,
 					"title": "Women\'s Breakfast",
-					"link": "/attending/womens-breakfast"
+					"link": "/attending/womens-breakfast/"
 				}
 			]
 		},
 		{
 			"rank": 4,
 			"title": "Authors",
-			"link": "/authors",
+			"link": "/authors/",
 			"sub_links" : [
 			]
 		},
 		{
 			"rank": 5,
 			"title": "Organizers",
-			"link": "/organizers",
+			"link": "/organizers/",
 			"sub_links" : []
 		},
 		{
 			"rank": 6,
 			"title": "Sponsoring",
-			"link": "/sponsoring",
+			"link": "/sponsoring/",
 			"sub_links" : [
 				{
 					"rank": 1,
 					"title": "Sponsors of CHI 2015",
-					"link": "/sponsoring/sponsors-of-chi2015"
+					"link": "/sponsoring/sponsors-of-chi2015/"
 				}
 			]
 		},
 		{
 			"rank": 7,
 			"title": "Exhibiting",
-			"link": "/exhibiting",
+			"link": "/exhibiting/",
 			"sub_links" : [
 				{
 					"rank": 1,
 					"title": "List of Exhibitors",
-					"link": "/exhibiting/list-of-exhibitors"
+					"link": "/exhibiting/list-of-exhibitors/"
 				}
 			]
 		},
