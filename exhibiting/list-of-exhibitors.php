@@ -19,7 +19,7 @@
       <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7 exhibitor-header-row">Description</div>
     </div>
     <div class="row" ng-repeat="exhibit in exhibit_group.data">
-      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><a ng-href="exhibit.link" ng-bind="exhibit.name"></a></div>
+      <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3"><a ng-href="{{exhibit.link}}" ng-bind="exhibit.name"></a></div>
       <div class="col-lg-2 col-md-2 col-sm-2 col-xs-2" ng-bind="exhibit.Booth"></div>
       <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7" ng-bind-html="exhibit.Description"></div>
     </div>
