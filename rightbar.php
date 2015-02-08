@@ -1,5 +1,14 @@
+<h4>Hero Sponsors</h4>
+    <div class="sponsor-list">
+        <p>
+            <a class="sLink" href="http://samsung.com/" target="_blank">
+            <img alt="Samnsung" title="Sponsored by Samnsung" width="230px" src="<?php echo $prefix; ?>/img/sponsors/samsung2.png">
+            </a>
+        </p>
+    </div>
+
 <h4>Champion Sponsors</h4>
-	<div id="sponsor-list">
+	<div class="sponsor-list">
  		<!-- <h4>Champion Sponsors</h4> -->
         <p>
             <a class="sLink" href="http://golfsimulator.golfzon.com/" target="_blank">
@@ -18,7 +27,7 @@
         </p>
         <p>
             <a class="sLink" href="http://www.naver.com/" target="_blank">
-            <img alt="Microsoft" title="Sponsored by Naver" width="140px" src="<?php echo $prefix; ?>/img/sponsors/naver-140.png">
+            <img alt="Naver" title="Sponsored by Naver" width="140px" src="<?php echo $prefix; ?>/img/sponsors/naver-140.png">
             </a>
         </p>
 <!--

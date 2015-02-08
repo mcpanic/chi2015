@@ -8,7 +8,7 @@ echo '
 	    "data": [
 	      {
 	        "name": "Golfzon",
-	        "link": "",
+	        "link": "http://golfsimulator.golfzon.com/",
 	        "Booth": "17 & 18",
 	        "Description": ""
 	      },
@@ -20,7 +20,7 @@ echo '
         },
         {
           "name": "Microsoft",
-          "link": "http://www.microsoft.com/en-ph/default.aspx",
+          "link": "http://www.microsoft.com",
           "Booth": "1, 2 & 3",
           "Description": "At Microsoft, we have a passion for HCI. Our Design and Research professions impact the interactions of millions of users around the globe. At Microsoft, you would collaborate with brilliant people on projects with the potential to change the world. Come by our booth to play, pick up free swag, enter to win Microsoft prizes, and chat about the great opportunities for shaping HCI at Microsoft."
         }
