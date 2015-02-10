@@ -318,21 +318,27 @@ blockquote p {
 }*/
 
 .sponsor-list{
-	margin-top: 20px;
+	margin-top: 10px;
+	padding-top: 10px;
 	margin-bottom: 15px;
+	background-color: #FFF;
+	padding-left: 10px;
+	padding-bottom: 5px;
 }
 
 .sponsor-list img{
 	/*width: 140px;*/
-	padding-bottom: 15px;
+	margin-bottom: 15px;
 }
 
 .sponsor-list div{
-	padding-top: 15px;
+	margin-top: 15px;
 }
 
 #acm-sigchi-logos {
-	margin-top: 30px;
+	/*padding-top: 30px;*/
+	padding-left: 10px;
+	background-color: #FFF;
 }
 
 
@@ -692,4 +698,8 @@ td.pub-ready-check {
 
 #list-of-exhibitors .data_row {
     margin-bottom: 20px;
+}
+
+.exhibitor-header-row {
+	font-weight: bold;
 }

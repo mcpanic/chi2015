@@ -8,6 +8,8 @@
 <div id="content-canvas">
   <p>Be a sponsor for CHI 2015! See instructions on <a href="/sponsoring/">sponsorship</a>.</p>
 
+  <h4 id="hero">Hero</h4>
+    <div class="sponsor"><a href="http://samsung.com/" target="_blank"><img width="350" alt="Samsung" title="Sponsored by Samsung" src="<?php echo $prefix; ?>/img/sponsors/samsung3.png" border="0"></a></div>
   <h4 id="champions">Champions</h4>
 
     <div class="sponsor"><a href="http://golfsimulator.golfzon.com/" target="_blank"><img width="240" alt="GolfZon" title="Sponsored by GolfZon" src="<?php echo $prefix; ?>/img/sponsors/golfzon.png" border="0"></a></div>
