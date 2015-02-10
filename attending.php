@@ -13,6 +13,7 @@ CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class
   <li><a href="<?php echo $prefix; ?>/attending/visa">Obtaining a Korean Visa</a></li>
   <li><a href="http://chi2015seoul.wordpress.com/">Visitor information prepared specially for CHI attendees</a></li>
   <li>Conference venue: <a href="http://www.coex.co.kr/eng/index.asp">COEX</a></li>
+  <li><a href="<?php echo $prefix; ?>/attending/physical-accessibility">Physical Accessibility</a></li>
 </ul>
 
 <p>

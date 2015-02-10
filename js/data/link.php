@@ -60,7 +60,12 @@ echo '
 					"rank": 3,
 					"title": "Women\'s Breakfast",
 					"link": "/attending/womens-breakfast/"
-				}
+				},
+				{
+          "rank": 4,
+          "title": "Physical Accessibility",
+          "link": "/attending/physical-accessibility/"
+        }
 			]
 		},
 		{
