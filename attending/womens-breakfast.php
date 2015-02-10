@@ -21,7 +21,7 @@
 		<li>Discuss in small table groups such topics as mentoring networks, work-life balance, diverse success paths, and personal-branding.</li>
 		<li>“Speaker-sparks” will be shared by CHI leaders. Each will share a quick story and then ask a question for table groups to discuss.</li>
 		<li>Participants can range from students just starting in the field, professionals just beginning their journey in academia or industry, and seasoned leaders willing to share their expertise.</li>
-	</ul>	
+	</ul>
 </p>
 
 <h3>Important Details</h3>
@@ -29,9 +29,9 @@
 	<ul>
 		<li>Buffet Breakfast Served</li>
 		<li>$15 for students / $30 for SIGCHI Members</li>
-		<li>Only 300 seats are available for this special breakfast program so register soon!</li>
+		<li>Only 150 seats are available for this special breakfast program so register soon!</li>
 		<li>(NOTE: if you have already registered you can go back and add this to your registration)</li>
-	</ul>	
+	</ul>
 </p>
 
 <?php
