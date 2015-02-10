@@ -2,7 +2,7 @@
     <div class="sponsor-list">
         <p>
             <a class="sLink" href="http://samsung.com/" target="_blank">
-            <img alt="Samnsung" title="Sponsored by Samnsung" width="230px" src="<?php echo $prefix; ?>/img/sponsors/samsung2.png">
+            <img alt="Samnsung" title="Sponsored by Samnsung" width="230px" src="<?php echo $prefix; ?>/img/sponsors/samsung3.png">
             </a>
         </p>
     </div>
