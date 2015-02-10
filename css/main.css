@@ -317,21 +317,28 @@ blockquote p {
 	background-color: rgb(242,242,242);
 }*/
 
-#sponsor-list{
-	margin-top: 20px;
+.sponsor-list{
+	margin-top: 10px;
+	padding-top: 10px;
+	margin-bottom: 15px;
+	background-color: #FFF;
+	padding-left: 10px;
+	padding-bottom: 5px;
 }
 
-#sponsor-list img{
+.sponsor-list img{
 	/*width: 140px;*/
-	padding-top: 15px;
+	margin-bottom: 15px;
 }
 
-#sponsor-list div{
-	padding-top: 15px;
+.sponsor-list div{
+	margin-top: 15px;
 }
 
 #acm-sigchi-logos {
-	margin-top: 50px;
+	/*padding-top: 30px;*/
+	padding-left: 10px;
+	background-color: #FFF;
 }
 
 
@@ -693,10 +700,16 @@ td.pub-ready-check {
     margin-bottom: 20px;
 }
 
+
 /* ==========================================================================
    How to go from Incheon Airport to Coex (attending/how-to-go-from-incheon-airport-to-coex.php)
    ========================================================================== */
 
 .incheon_image {
     padding-bottom: 10px
+}
+
+.exhibitor-header-row {
+	font-weight: bold;
+
 }
