@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Generating a Tagged PDF";
+  $pageTitle = "Authors | Generating a Tagged PDF";
   include "../header.php";
 ?>
 
 <div id="content" class="column" role="main">
-<div id="barTitle" class="barColour"><h2>Generating a Tagged PDF</h2></div>
+<div id="barTitle" class="barColour"><h2>Authors | Generating a Tagged PDF</h2></div>
 <div id="tst_fw_spacer" class="barColour"></div>
 
 <div id="content-canvas">

@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Guide to Submitting a Video as Supplementary Material";
+  $pageTitle = "Authors | Guide to Submitting a Video as Supplementary Material";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Guide to Submitting a Video as Supplementary Material</h2>
+<h2 >Authors | Guide to Submitting a Video as Supplementary Material</h2>
 </div>
 
 <div >

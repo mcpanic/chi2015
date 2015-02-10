@@ -81,6 +81,7 @@ CHI 2015 uses the following <a href="http://chi2015.acm.org/authors/selection-pr
     <li><a href="http://chi2015.acm.org/authors/guide-to-an-accessible-submission"  title="Guide to an Accessible Submission">Guide to an Accessible Submission</a></li>
     <li><a href="http://chi2015.acm.org/authors/guide-to-submitting-a-video-as-supplementary-material"  title="Guide to Submitting a Video as Supplementary Material">Guide to Submitting a Video as Supplementary Material</a></li>
     <li><a href="http://chi2015.acm.org/authors/guide-to-a-successful-presentation"  title="Guide to a Successful Presentation">Guide to a Successful Presentation</a></li>
+    <li><a href="http://chi2015.acm.org/authors/guide-to-preparing-posters"  title="Guide to Preparing Posters">Guide to Preparing Posters</a></li>
     <!--
     <li><a href="http://chi2015.acm.org/authors/information-for-poster-presenters"  title="Information for Poster Presenters">Information for Poster Presenters</a></li>
     -->

@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Pub Ready Instructions";
+  $pageTitle = "Authors | Pub Ready Instructions";
   include "../header.php";
 ?>
 
 <div id="content" class="column" role="main">
-<div id="barTitle" class="barColour"><h2>Pub Ready Instructions</h2></div>
+<div id="barTitle" class="barColour"><h2>Authors | Pub Ready Instructions</h2></div>
 <div id="tst_fw_spacer" class="barColour"></div>
 
 <div id="content-canvas">

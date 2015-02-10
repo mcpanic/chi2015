@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Setting the Tab Order of all Pages to \"Use Document Structure\"";
+  $pageTitle = "Authors | Setting the Tab Order of all Pages to \"Use Document Structure\"";
   include "../header.php";
 ?>
 
 <div id="content" class="column" role="main">
-<div id="barTitle" class="barColour"><h2>Setting the Tab Order of all Pages to "Use Document Structure"</h2></div>
+<div id="barTitle" class="barColour"><h2>Authors | Setting the Tab Order of all Pages to "Use Document Structure"</h2></div>
 <div id="tst_fw_spacer" class="barColour"></div>
 
 <div id="content-canvas">

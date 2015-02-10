@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "CHI Papers and Notes Review Process";
+  $pageTitle = "Authors | CHI Papers and Notes Review Process";
   include "../header.php";
 ?>
 
 <div >
-<h2 >CHI Papers and Notes Review Process</h2>
+<h2 >Authors | CHI Papers and Notes Review Process</h2>
 </div>
 
 <div >

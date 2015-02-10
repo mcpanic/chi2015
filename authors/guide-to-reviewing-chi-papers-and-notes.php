@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Guide to Reviewing CHI Papers and Notes";
+  $pageTitle = "Authors | Guide to Reviewing CHI Papers and Notes";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Guide to Reviewing CHI Papers and Notes</h2>
+<h2 >Authors | Guide to Reviewing CHI Papers and Notes</h2>
 </div>
 
 <div >

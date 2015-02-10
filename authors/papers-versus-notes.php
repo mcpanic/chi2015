@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Papers versus Notes: What is the difference?";
+  $pageTitle = "Authors | Papers versus Notes: What is the difference?";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Papers versus Notes: What is the difference?</h2>
+<h2 >Authors | Papers versus Notes: What is the difference?</h2>
 </div>
 
 <div >

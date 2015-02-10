@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Format";
+  $pageTitle = "Authors | Format";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Format</h2>
+<h2 >Authors | Format</h2>
 </div>
 
 <div >

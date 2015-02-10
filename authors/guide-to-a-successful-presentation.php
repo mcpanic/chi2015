@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Guide to a Successful Presentation";
+  $pageTitle = "Authors | Guide to a Successful Presentation";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Guide to a Successful Presentation</h2>
+<h2 >Authors | Guide to a Successful Presentation</h2>
 </div>
 <div ></div>
 <div >

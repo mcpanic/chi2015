@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Guide to an Accessible Submission";
+  $pageTitle = "Authors | Guide to an Accessible Submission";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Guide to an Accessible Submission</h2>
+<h2 >Authors | Guide to an Accessible Submission</h2>
 </div>
 <div ></div>
 <div >

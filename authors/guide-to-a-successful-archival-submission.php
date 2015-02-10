@@ -1,9 +1,9 @@
 <?php
-  $pageTitle = "Guide to a Successful Archival Submission";
+  $pageTitle = "Authors | Guide to a Successful Archival Submission";
   include "../header.php";
 ?>
 <div >
-<h2 >Guide to a Successful Archival Submission</h2>
+<h2 >Authors | Guide to a Successful Archival Submission</h2>
 </div>
 
 <div >

@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Papers & Notes : Call for Participation";
+  $pageTitle = "Authors | Papers & Notes : Call for Participation";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Papers &amp; Notes : Call for Participation</h2>
+<h2 >Authors | Papers &amp; Notes : Call for Participation</h2>
 </div>
 
 <div >

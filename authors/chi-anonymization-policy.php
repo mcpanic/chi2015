@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "CHI Anonymization Policy";
+  $pageTitle = "Authors | CHI Anonymization Policy";
   include "../header.php";
 ?>
 
 <div>
-<h2>CHI Anonymization Policy</h2>
+<h2>Authors | CHI Anonymization Policy</h2>
 </div>
 
 <div>

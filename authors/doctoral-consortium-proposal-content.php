@@ -1,9 +1,9 @@
 <?php
-  $pageTitle = "Doctoral Consortium: Proposal Content";
+  $pageTitle = "Authors | Doctoral Consortium: Proposal Content";
   include "../header.php";
 ?>
 
-<h2>Doctoral Consortium: Proposal Content</h2>
+<h2>Authors | Doctoral Consortium: Proposal Content</h2>
 
 <p>This page describes the expected content for proposals submitted to the CHI 2015 Doctoral Consortium. Additional submission information can be found at the <a href="http://chi2015.acm.org/authors/doctoral-consortium">Doctoral Consortium’s CFP</a>.</p>
 

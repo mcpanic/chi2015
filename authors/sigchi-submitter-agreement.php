@@ -1,9 +1,9 @@
 <?php
-  $pageTitle = "SIGCHI Submitter Agreement";
+  $pageTitle = "Authors | SIGCHI Submitter Agreement";
   include "../header.php";
 ?>
 
-<h2>SIGCHI Submitter Agreement</h2>
+<h2>Authors | SIGCHI Submitter Agreement</h2>
 
 <p>Before beginning the process of preparing and submitting a Paper or Note to the CHI Conference, you must understand the Terms and Conditions of the SIGCHI Submitter Agreement. You will be asked to agree to the Terms and Conditions as the first step of submitting your work.  The Terms and Conditions of the SIGCHI Submitter Agreement appear below:</p>
 

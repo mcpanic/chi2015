@@ -1,9 +1,9 @@
 <?php
-  $pageTitle = "Shall I offer a Course or a Workshop?";
+  $pageTitle = "Authors | Shall I offer a Course or a Workshop?";
   include "../header.php";
 ?>
 <div >
-<h2 >Shall I offer a Course or a Workshop?</h2>
+<h2 >Authors | Shall I offer a Course or a Workshop?</h2>
 </div>
 
 <div >

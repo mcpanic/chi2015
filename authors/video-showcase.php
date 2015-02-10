@@ -1,11 +1,11 @@
 <?php
-  $pageTitle = "Video Showcase : Call for Participation";
+  $pageTitle = "Authors | Video Showcase : Call for Participation";
   include "../header.php";
 ?>
 
 <div>
 <h2>
-Video Showcase : Call for Participation</h2>
+Authors | Video Showcase : Call for Participation</h2>
 </div>
 <div></div>
 

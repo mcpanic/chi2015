@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Video Previews";
+  $pageTitle = "Authors | Video Previews";
   include "../header.php";
 ?>
 
 <div>
-<h2>Video Previews Details</h2>
+<h2>Authors | Video Previews Details</h2>
 </div>
 
 <div id="content-canvas">

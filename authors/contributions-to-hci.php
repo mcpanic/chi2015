@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Contributions to HCI";
+  $pageTitle = "Authors | Contributions to HCI";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Contributions to HCI</h2>
+<h2 >Authors | Contributions to HCI</h2>
 </div>
 
 <div >

@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Verifying the Document Language";
+  $pageTitle = "Authors | Verifying the Document Language";
   include "../header.php";
 ?>
 
 <div id="content" class="column" role="main">
-<div id="barTitle" class="barColour"><h2>Verifying the Document Language</h2></div>
+<div id="barTitle" class="barColour"><h2>Authors | Verifying the Document Language</h2></div>
 <div id="tst_fw_spacer" class="barColour"></div>
 
 <div id="content-canvas">

@@ -1,11 +1,11 @@
 <?php
-  $pageTitle = "Marking Table Headers";
+  $pageTitle = "Authors | Marking Table Headers";
   include "../header.php";
 ?>
 
 
 <div id="content" class="column" role="main">
-<div id="barTitle" class="barColour"><h2>Marking Table Headers</h2></div>
+<div id="barTitle" class="barColour"><h2>Authors | Marking Table Headers</h2></div>
 <div id="tst_fw_spacer" class="barColour"></div>
 
 <div id="content-canvas">

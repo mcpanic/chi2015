@@ -1,10 +1,10 @@
 <?php
-  $pageTitle = "Selecting a Subcommittee";
+  $pageTitle = "Authors | Selecting a Subcommittee";
   include "../header.php";
 ?>
 
 <div >
-<h2 >Selecting a Subcommittee</h2>
+<h2 >Authors | Selecting a Subcommittee</h2>
 </div>
 <div ></div>
 <div >
