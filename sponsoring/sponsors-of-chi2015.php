@@ -8,6 +8,8 @@
 <div id="content-canvas">
   <p>Be a sponsor for CHI 2015! See instructions on <a href="/sponsoring/">sponsorship</a>.</p>
 
+  <h4 id="hero">Hero</h4>
+    <div class="sponsor"><a href="http://samsung.com/" target="_blank"><img width="350" alt="Samsung" title="Sponsored by Samsung" src="<?php echo $prefix; ?>/img/sponsors/samsung3.png" border="0"></a></div>
   <h4 id="champions">Champions</h4>
 
     <div class="sponsor"><a href="http://golfsimulator.golfzon.com/" target="_blank"><img width="240" alt="GolfZon" title="Sponsored by GolfZon" src="<?php echo $prefix; ?>/img/sponsors/golfzon.png" border="0"></a></div>
@@ -24,6 +26,8 @@
     <div class="sponsor"><a href="http://www.disneyresearch.com/" target="_blank"><img width="160" alt="Disney Research" title="Sponsored by Disney Research" src="<?php echo $prefix; ?>/img/sponsors/disney.png" border="0"></a></div>
 
     <div class="sponsor"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
+
+    <div class="sponsor"><a href="http://facebook.com/" target="_blank"><img width="160" alt="Facebook" title="Sponsored by Facebook" src="<?php echo $prefix; ?>/img/sponsors/facebook2.png" border="0"></a></div>
 <hr>
   <h4 id="friends">Friends of CHI</h4>
 
