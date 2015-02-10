@@ -68,7 +68,7 @@ Your Video Preview material must conform to the format as described in the submi
   <h3>Submission guide</h3>
     <p>The following checklists have been designed to help you make sure that your material conforms to the Video Previews requirements. Please make sure that you go through <strong>every</strong> item of these lists. Detailed guidelines and advices are available by following the (i) icons.</p>
 
-    <p>Before submitting, we also invite you to check the compliance of your file using the CHI Video Previews Checker (link coming soon).</p>
+    <p>Before submitting, we also invite you to check the compliance of your file using the <a href="http://videochecker.afihm.org">CHI Video Previews Checker</a></p>
 
 
   <h4 id="technical-req">Technical requirements</h4>
