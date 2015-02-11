@@ -29,7 +29,7 @@
   </p>
 </div>
 
-<h3>To Coex from Airports for Wheelchair Users</h3>
+<h3 id="to-coex-from-airports">To Coex from Airports for Wheelchair Users</h3>
 
 <div>
   <h4>From Incheon International Airport</h4>
@@ -52,7 +52,7 @@
     If you click each conference hotel below, you can see the detail information of the accessibility of each hotel, including how to get it.
     You can read them in detail before you decide which hotel you will make reservation.
     <ul>
-      <li><a href="<?php echo $prefix; ?>/attending/grand-international-hotel">Grand International Hotel</a></li>
+      <li><a href="<?php echo $prefix; ?>/attending/grand-intercontinental-seoul-parnas">Grand Intercontinental Seoul Parnas</a></li>
       <li><a href="<?php echo $prefix; ?>/attending/intercontinental-seoul-coex">Intercontinental Seoul COEX</a></li>
       <li><a href="<?php echo $prefix; ?>/attending/ibis-ambassador-seoul-gangnam-hotel">Ibis Ambassador Seoul Gangnam Hotel</a></li>
       <li><a href="<?php echo $prefix; ?>/attending/ramada-seoul-hotel">Ramada Seoul Hotel</a></li>
