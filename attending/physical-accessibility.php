@@ -23,7 +23,7 @@
     If you have already registered for CHI 2015 but are concerned that
     we may not be aware of your physical accessibility-related needs,
     please email the CHI conference office (<a href="mailto:chi@gomeeting.com">chi@gomeeting.com</a>)
-    at your earliest convenience. The CHI conference office, located in room ### at the
+    at your earliest convenience. The CHI conference office, located in room 304AB at the
     Coex Convention and Exhibition Center, will be happy to assist in locating any resources
     that CHI attendees may require during their time in Seoul.
   </p>
@@ -79,7 +79,7 @@
   </p>
 
   <p>
-    Persons with onsite physical accessibility-related needs are invited to stop by the CHI conference office (located in room #### at the Coex) with concerns and/or should any onsite issues arise requiring disability-related accommodations. Please also feel free to contact the CHI conference office (<a href="mailto:chi@gomeeting.com">chi@gomeeting.com</a>) with any questions and/or if you find yourself in difficulty onsite.
+    Persons with onsite physical accessibility-related needs are invited to stop by the CHI conference office (located in room 304AB at the Coex) with concerns and/or should any onsite issues arise requiring disability-related accommodations. Please also feel free to contact the CHI conference office (<a href="mailto:chi@gomeeting.com">chi@gomeeting.com</a>) with any questions and/or if you find yourself in difficulty onsite.
   </p>
 </div>
 
