@@ -13,11 +13,11 @@ angular.module('chi2015_controllers').controller("interactivity_controller",
             if (data[i][0]!=null) {
               var obj = {
               id: data[i][0],
-              title: data[i][2],
-              authors: data[i][6],
-              abstract: data[i][8],
-              title_2: data[i][9],
-              description: data[i][10],
+              title: data[i][1],
+              authors: data[i][2],
+              abstract: data[i][3],
+              title_2: data[i][4],
+              description: data[i][5],
               toggle: false
             }
             $scope.data.push(obj)
