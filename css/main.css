@@ -713,3 +713,24 @@ td.pub-ready-check {
 	font-weight: bold;
 
 }
+
+/* ==========================================================================
+   Interactivity (program/interactivity.php)
+   ========================================================================== */
+
+.interactivity_box .authors{
+	margin-left: 15px;
+	margin-right: 15px;
+	padding: 10px;
+	background-color: rgb(242,242,242);
+}
+
+.interactivity_box .abstract{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.interactivity_box .description{
+	margin-left: 15px;
+	margin-right: 15px;
+}

@@ -38,6 +38,11 @@ echo '
 					"rank": 5,
 					"title": "Courses",
 					"link": "/program/courses/"
+				},
+				{
+					"rank": 6,
+					"title": "Interactivity",
+					"link": "/program/interactivity/"
 				}
 			]
 		},

@@ -24,6 +24,7 @@
   <ul>
     <li><a href="<?php echo $prefix; ?>/program/papers-notes">Papers and Notes</a></li>
     <li><a href="<?php echo $prefix; ?>/program/courses">Courses</a></li>
+    <li><a href="<?php echo $prefix; ?>/program/interactivity">Interactivity</a></li>
   </ul>
 
 

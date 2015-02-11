@@ -11,6 +11,7 @@
 
 <div role="main" id="list-of-exhibitors" ng-controller="list_of_exhibitors_controller">
 
+  
   <div ng-repeat="exhibit_group in data">
     <h3 ng-bind="exhibit_group.group"></h3>
     <div class="row">
