@@ -88,6 +88,12 @@ angular.module('chi2015_services').factory('interactivity_factory', ['$resource'
   }
 ])
 
+angular.module('chi2015_services').factory('schedule_glance_factory', ['$resource',
+  function($resource) {
+    return data_link("schedule_glance", $resource)
+  }
+])
+
 function data_link(data, $resource){
   var array = clean_pathname(window.location.pathname.split("/"));
   var pathcount = array.length

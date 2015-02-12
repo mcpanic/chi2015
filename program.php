@@ -15,6 +15,10 @@
     throughout the conference.
   </p>
 
+  <p>
+    You can also check the <a href="<?php echo $prefix; ?>/program/schedule_glance">CHI 2015 Scheduling at a Glance</a> for a quick detail of what will happen this CHI 2015.
+  </p>
+
   <h3>Special events</h3>
   <ul>
     <li><a href="<?php echo $prefix; ?>/program/keynotes">Keynotes</a></li>

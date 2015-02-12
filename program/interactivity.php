@@ -6,7 +6,7 @@
 ?>
 
 <div>
-    <h2>Exhibiting | Interactivity</h2>
+    <h2>Program | Interactivity</h2>
 </div>
 
 <div role="main" id="interactivity" ng-controller="interactivity_controller">

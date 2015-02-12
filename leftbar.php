@@ -10,6 +10,14 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">12 February 2015</div>
 		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/schedule_glance">CHI 2015 Scheduling at a Glance is now available</a></li>
+		</ul>
+	</div>
+
+
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">12 February 2015</div>
+		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/">Plans to simultaneously translate English to Chinese, Japanese and Korean languages in the main auditorium are on the way</a></li>
 		</ul>
 	</div>
