@@ -69,7 +69,8 @@
 <div>
 	<h4>Subway</h4>
 	<p>
-		It is the same way as <a href="<?php echo $prefix; ?>/attending/to-coex-from-airports-for-wheelchair-users">How for wheelchair users to get to the Coex from Airports</a> at the <a href="<?php echo $prefix; ?>/attending/physical-accessibility">Physical Accessibility</a> main page.
+		It is the same way as <a href="<?php echo $prefix; ?>/attending/physical-accessibility/#to-coex-from-airports">How for wheelchair users to get to the Coex from Airports</a> 
+		at the <a href="<?php echo $prefix; ?>/attending/physical-accessibility#to-coex-from-airports">Physical Accessibility</a> main page.
 	</p>
 
 	<p>

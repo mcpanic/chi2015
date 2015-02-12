@@ -11,8 +11,8 @@
 <div>
 
   <ul>
-    <li><a href="##arex">Via Airport Railroad and Subway</a></li>
-    <li><a href="##subway">Via Subway Only</a></li>
+    <li><a href="#arex">Via Airport Railroad and Subway</a></li>
+    <li><a href="#subway">Via Subway Only</a></li>
   </ul>
 
 </div>
