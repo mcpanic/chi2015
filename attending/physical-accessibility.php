@@ -81,6 +81,10 @@
   <p>
     Persons with onsite physical accessibility-related needs are invited to stop by the CHI conference office (located in room 304AB at the Coex) with concerns and/or should any onsite issues arise requiring disability-related accommodations. Please also feel free to contact the CHI conference office (<a href="mailto:chi@gomeeting.com">chi@gomeeting.com</a>) with any questions and/or if you find yourself in difficulty onsite.
   </p>
+
+  <p>
+    If you are presetting at CHI and you require a wheelchair access ramp to the stage in your room, please notify the conference office (<a href="chi@gomeeting.com">chi@gomeeting.com</a>) by April 10, 2015. 
+  </p>
 </div>
 
 <h3>In Seoul</h3>
