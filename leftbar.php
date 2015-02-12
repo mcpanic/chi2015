@@ -8,6 +8,26 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">12 February 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/">Plans to simultaneously translate English to Chinese, Japanese and Korean languages in the main auditorium are on the way</a></li>
+		</ul>
+	</div>
+
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">12 February 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/interactivity">List of Accepted Interactivity Submissions are now available</a></li>
+		</ul>
+	</div>
+
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">12 February 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/physical-accessibility">Physical Accessibility to CHI 2015 is now available</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">31 January 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/womens-breakfast">Details for CHI Women's Breakfast are now available</a></li>

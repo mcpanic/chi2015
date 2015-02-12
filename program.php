@@ -7,6 +7,13 @@
 <div>
   <p>The CHI 2015 program will be updated as more venues finalize their schedule.</p>
 
+  <p>
+    This year, CHI is planning to provide simultaneous translation from English to Chinese, 
+    Japanese and Korean in the main auditorium throughout the first and last day of conference, 
+    covering the Opening and Closing sessions along with other sessions.  Additional translation 
+    support such as machine translation and closed captioning will be available for other sessions 
+    throughout the conference.
+  </p>
 
   <h3>Special events</h3>
   <ul>
