@@ -1,12 +1,12 @@
 <?php
-  $pageTitle = "Scheduling at a Glance";
+  $pageTitle = "Schedule at a Glance";
   $ng_app = "schedule_glance";
   include "../header.php";
 
 ?>
 
 <div>
-    <h2>Program | Scheduling at a Glance</h2>
+    <h2>Program | Schedule at a Glance</h2>
 </div>
 
 <div id="schedule_glance" ng-controller="schedule_glance_controller">
