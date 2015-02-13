@@ -6,10 +6,6 @@ angular.module('chi2015_controllers').controller("schedule_glance_controller",
 
     }
 
-    var m_names = new Array("January", "February", "March", 
-                            "April", "May", "June", "July", "August", "September", 
-                            "October", "November", "December");
-
     start();
     function start(){
       schedule_glance_factory.get({}, 
@@ -43,8 +39,8 @@ angular.module('chi2015_controllers').controller("schedule_glance_controller",
             }
 
             if (data[i][2].trim()!="") {
-              var orig_date = new Date(data[i][2]);
-              date = m_names[orig_date.getMonth()] + " " + orig_date.getDate() +", " + orig_date.getFullYear();           
+              date = data[i][2]
+              //date = m_names[orig_date.getMonth()] + " " + orig_date.getDate() +", " + orig_date.getFullYear();           
             }
             if (!$scope.schedule[day].date) $scope.schedule[day].date = date
 
