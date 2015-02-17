@@ -205,7 +205,7 @@ Anbang Xu , IBM Research - Almaden, USA<br/>
 Qianli Xu , Institute for Infocomm Research, A*STAR, Singapore<br/>
 Chun Yu , Tsinghua University, China<br/>
 Xiaojun Yuan , University at Albany, SUNY, USA<br/>
-Haimo Zhang , University of Singapore, Singapore<br/>
+Haimo Zhang , National University of Singapore, Singapore<br/>
 Kening Zhu , University of Hong Kong, Hong Kong
 </div>
 
