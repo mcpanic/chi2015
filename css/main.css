@@ -851,3 +851,41 @@ div.session_title {
 	padding-bottom: 5px;
 	font-weight: bold;
 }
+
+/* ==========================================================================
+   Schedule at a Glance (program/full3.php)
+   ========================================================================== */
+
+.full3_day_tab {
+	border-bottom: 1px solid black;
+	margin-right: 10px;
+}
+
+.full3_day_tab_inside {
+	padding: 10px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.full3_time_row {
+	padding: 0;
+	margin-right: 5px;
+	width: 18%;
+	float: left;
+	background-color: #E6E6E6;
+	margin-top: 10px;
+	padding-bottom: 10px;
+}
+
+.full3_time_header {
+	padding-top: 10px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.full3_session_cells {
+	margin-top: 5px;
+	padding: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}

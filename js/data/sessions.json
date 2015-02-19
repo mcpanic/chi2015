@@ -763,7 +763,7 @@
         "chair": "Thecla Schiphorst"
     },
     "s105": {
-        "s_title": "<p>AR / VR 1</p>",
+        "s_title": "AR / VR 1",
         "room": "401",
         "time": "9:30-10:50",
         "submissions": [
@@ -1127,7 +1127,7 @@
         "chair": "Brent Hecht"
     },
     "s123": {
-        "s_title": "<p>Gestures</p>",
+        "s_title": "Gestures",
         "room": "402",
         "time": "9:30-10:50",
         "submissions": [
@@ -1148,7 +1148,7 @@
         "chair": "Niels Henze"
     },
     "s124": {
-        "s_title": "<p>Global Issues</p>",
+        "s_title": "Global Issues",
         "room": "E4",
         "time": "11:30-12:50",
         "submissions": [
@@ -1636,7 +1636,7 @@
         "chair": "Feng Tian"
     },
     "s148": {
-        "s_title": "<p>Mobile Interaction 2</p>",
+        "s_title": "Mobile Interaction 2",
         "room": "402",
         "time": "9:30-10:50",
         "submissions": [
@@ -1966,7 +1966,7 @@
         "chair": "David R Flatla"
     },
     "s164": {
-        "s_title": "<p>*Crowdsourcing 2&nbsp;</p>",
+        "s_title": "*Crowdsourcing 2&nbsp;",
         "room": "E1/E2",
         "time": "14:30-15:50",
         "submissions": [
@@ -2253,7 +2253,7 @@
         "chair": "Xiaojuan Ma"
     },
     "s-float-2": {
-        "s_title": "<p>Accessibility 3</p>",
+        "s_title": "Accessibility 3",
         "room": "E6",
         "time": "11:30-12:50",
         "submissions": [
@@ -2294,7 +2294,7 @@
         "chair": "David Geerts"
     },
     "s-float-4": {
-        "s_title": "<p>Work1</p>",
+        "s_title": "Work1",
         "room": "403",
         "time": "14:30-15:50",
         "submissions": [
@@ -2315,7 +2315,7 @@
         "chair": "Pernille Bjorn"
     },
     "s-float-5": {
-        "s_title": "<p>Work2</p>",
+        "s_title": "Work2",
         "room": "403",
         "time": "9:30-10:50",
         "submissions": [
@@ -2335,7 +2335,7 @@
         "chair": "Steven M Drucker"
     },
     "s-float-6": {
-        "s_title": "<p>Novel Tech<br></p>",
+        "s_title": "Novel Tech",
         "room": "401",
         "time": "11:30-12:50",
         "submissions": [
@@ -2642,7 +2642,7 @@
         "chair": "Hao-Hua Chu"
     },
     "s-float-21": {
-        "s_title": "<p>Health&nbsp;- Assistive Technology</p>",
+        "s_title": "Health&nbsp;- Assistive Technology",
         "room": "E6",
         "time": "14:30-15:50",
         "submissions": [
@@ -2907,7 +2907,7 @@
         "chair": "Andrea Bianchi"
     },
     "s-float-34": {
-        "s_title": "<p>Walls &amp; Tables 1</p>",
+        "s_title": "Walls &amp; Tables 1",
         "room": "E4",
         "time": "14:30-15:50",
         "submissions": [
@@ -3053,7 +3053,7 @@
         "chair": "Luciano Gamberini"
     },
     "s-float-41": {
-        "s_title": "<p>UX Methods 2</p>",
+        "s_title": "UX Methods 2",
         "room": "307ABC",
         "time": "14:30-15:50",
         "submissions": [

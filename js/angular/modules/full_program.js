@@ -5,12 +5,21 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 	$scope.schedule = []
 	$scope.sessions = {}
 	$scope.papers = {}
+	$scope.schedule_index = 0;
+
+	$scope.pick_day = function(index) {
+		$scope.schedule_index = index;
+	}
 
 	start();
 
 	function start(){
 		schedules_factory.get({}, function(data){
         $scope.schedule = data.data;
+
+        for (var j in $scope.schedule) {
+        	$scope.schedule[j].index = j;
+        }
 
         console.log($scope.schedule)
 
