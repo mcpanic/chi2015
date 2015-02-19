@@ -1,4 +1,6 @@
-schedule=[
+{
+    "data":
+[
     {
         "date": "April 20, 2015",
         "day": "Monday",
@@ -875,4 +877,4 @@ schedule=[
             }
         ]
     }
-]
+]}

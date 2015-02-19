@@ -760,3 +760,94 @@ td.pub-ready-check {
 #schedule_glance .day_schedule .time_row .time_time {
 	text-align: right;
 }
+
+/* ==========================================================================
+   Schedule at a Glance (program/full.php)
+   ========================================================================== */
+
+div.full_schedule {
+	font-size: 90%;
+}
+
+div.slot_row {
+	background-color: #E6E6E6;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+div.slot_time {
+	font-weight: bold;
+	text-align: center;
+	vertical-align: center;
+	padding-top: 15px;
+	
+}
+
+div.session_cell {
+	text-align: center;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+div.session_cell_full {
+	padding-right: 0;
+	padding-left: 0;
+
+}
+
+div.inside_session_cell{
+	height: 160px;
+	margin-left: 5px;
+	margin-top: 5px;
+	padding: 10px;
+}
+
+div.inside_session_cell_full {
+	padding: 20px;
+	margin-left: 5px;
+	margin-top: 5px;
+}
+
+div.session_paper {
+	background-color: #FF8112;
+	color: #FFFFFF;
+}
+
+div.session_course {
+	background-color: #8ACD2C;
+	color: #FFFFFF;
+}
+
+div.session_SIG {
+	background-color: #00D6E7;
+}
+
+div.session_panel {
+	background-color: #228CE2;
+	color: #FFFFFF;
+}
+
+div.session_casestudy {
+	background-color: #AC31AC;
+	color: #FFFFFF;
+}
+
+div.session_altchi {
+	background-color: #EE4123;
+	color: #FFFFFF;
+}
+
+div.session_special {
+	background-color: #FFCC01;
+	color: #000;
+}
+
+div.session_type {
+	padding-bottom: 5px;
+	font-style: italic;
+}
+
+div.session_title {
+	padding-bottom: 5px;
+	font-weight: bold;
+}

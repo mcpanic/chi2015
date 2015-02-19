@@ -12,7 +12,7 @@ angular.module('chi2015_app').config(['$routeProvider','$locationProvider', func
    rewriteLinks: false
  });
 
- $locationProvider.hashPrefix('!');
+ // $locationProvider.hashPrefix('!');
 }])
 
 // angular.module('chi2015_app').run([
@@ -93,6 +93,21 @@ angular.module('chi2015_services').factory('schedule_glance_factory', ['$resourc
     return data_link("schedule_glance", $resource)
   }
 ])
+
+angular.module('chi2015_services').factory('papers_factory', ['$resource',
+	function($resource) {
+    return data_link("papers", $resource)
+	}])
+
+angular.module('chi2015_services').factory('sessions_factory', ['$resource',
+	function($resource) {
+    return data_link("sessions", $resource)
+	}])
+
+angular.module('chi2015_services').factory('schedules_factory', ['$resource',
+	function($resource) {
+    return data_link("schedule", $resource)
+	}])
 
 function data_link(data, $resource){
   var array = clean_pathname(window.location.pathname.split("/"));
