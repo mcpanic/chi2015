@@ -39,7 +39,8 @@
 
 <div>
 <h3 ><a name="TOC-Quick-Facts"></a>What is alt.chi</h3>
-<p dir="ltr" ><span ><span >alt.chi is a forum for controversial, risk-taking, and boundary pushing presentations at CHI. The CHI program committee formed alt.chi to as a forum for innovative and insightful work that can go unrecognized through the standard review process. alt.chi papers often innovate methodologically, critique accepted practices, or take on controversial questions. alt.chi's open and juried review processes ensure that the year's best work in human computer interaction finds a space at CHI.</span></span></p>
+<p dir="ltr" ><span ><span >alt.chi is a forum for controversial, risk-taking, and boundary 
+	pushing presentations at CHI. The CHI program committee formed alt.chi as a forum for innovative and insightful work that can go unrecognized through the standard review process. alt.chi papers often innovate methodologically, critique accepted practices, or take on controversial questions. alt.chi's open and juried review processes ensure that the year's best work in human computer interaction finds a space at CHI.</span></span></p>
 </div>
 
 <div>
