@@ -1,6 +1,4 @@
-{
-    "data":
-[
+schedule=[
     {
         "date": "April 20, 2015",
         "day": "Monday",
@@ -14,15 +12,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s146",
+                        "session": "s-float-2",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-2",
+                        "session": "s130",
                         "room": "E6"
                     },
                     {
-                        "session": "s155",
+                        "session": "s119",
                         "room": "E1/E2"
                     },
                     {
@@ -30,7 +28,7 @@
                         "room": "402"
                     },
                     {
-                        "session": "s119",
+                        "session": "s155",
                         "room": "E3"
                     },
                     {
@@ -38,16 +36,16 @@
                         "room": "E4"
                     },
                     {
-                        "session": "s151",
+                        "session": "s-float-43",
                         "room": "403"
                     },
                     {
                         "session": "s-panel1",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s-alt5",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs108",
@@ -72,19 +70,19 @@
                 "time": "14:30 - 15:50",
                 "sessions": [
                     {
-                        "session": "s-award1",
+                        "session": "s-award3",
                         "room": "401"
                     },
                     {
-                        "session": "s-float-33",
+                        "session": "s-float-21",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-21",
+                        "session": "s108",
                         "room": "E6"
                     },
                     {
-                        "session": "s131",
+                        "session": "s-float-45",
                         "room": "E1/E2"
                     },
                     {
@@ -92,24 +90,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-45",
+                        "session": "s131",
                         "room": "E3"
                     },
                     {
-                        "session": "s108",
+                        "session": "s116",
                         "room": "E4"
                     },
                     {
-                        "session": "s109",
+                        "session": "s-float-41",
                         "room": "403"
                     },
                     {
-                        "session": "s-float-41",
-                        "room": "307ABC"
+                        "session": "s109",
+                        "room": "307"
                     },
                     {
                         "session": "s-case1",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs135",
@@ -128,7 +126,7 @@
                         "room": "318BC"
                     },
                     {
-                        "session": "s-sig3",
+                        "session": "s-sig5",
                         "room": "318A"
                     }
                 ]
@@ -142,15 +140,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s130",
+                        "session": "s-float-23",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-23",
+                        "session": "s-float-48",
                         "room": "E6"
                     },
                     {
-                        "session": "s110",
+                        "session": "s118",
                         "room": "E1/E2"
                     },
                     {
@@ -158,11 +156,11 @@
                         "room": "402"
                     },
                     {
-                        "session": "s118",
+                        "session": "s110",
                         "room": "E3"
                     },
                     {
-                        "session": "s-float-48",
+                        "session": "s146",
                         "room": "E4"
                     },
                     {
@@ -170,12 +168,12 @@
                         "room": "403"
                     },
                     {
-                        "session": "s-panel2",
-                        "room": "307ABC"
+                        "session": "s-float-40",
+                        "room": "307"
                     },
                     {
                         "session": "s-alt2",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs135",
@@ -192,10 +190,6 @@
                     {
                         "session": "s-crs111",
                         "room": "318BC"
-                    },
-                    {
-                        "session": "s-sig1",
-                        "room": "318A"
                     }
                 ]
             }
@@ -214,15 +208,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s-float-12",
+                        "session": "s-float-22",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-22",
+                        "session": "s132",
                         "room": "E6"
                     },
                     {
-                        "session": "s107",
+                        "session": "s133",
                         "room": "E1/E2"
                     },
                     {
@@ -230,24 +224,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-15",
+                        "session": "s-float-14",
                         "room": "E3"
                     },
                     {
-                        "session": "s-float-47",
+                        "session": "s-float-12",
                         "room": "E4"
                     },
                     {
-                        "session": "s-float-37",
+                        "session": "s151",
                         "room": "403"
                     },
                     {
-                        "session": "s-float-40",
-                        "room": "307ABC"
+                        "session": "s-float-29",
+                        "room": "307"
                     },
                     {
                         "session": "s-case2",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs122",
@@ -264,10 +258,6 @@
                     {
                         "session": "s-crs106",
                         "room": "318BC"
-                    },
-                    {
-                        "session": "s-sig2",
-                        "room": "318A"
                     }
                 ]
             },
@@ -280,15 +270,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s111",
+                        "session": "s-float-25",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-25",
+                        "session": "s111",
                         "room": "E6"
                     },
                     {
-                        "session": "s135",
+                        "session": "s168",
                         "room": "E1/E2"
                     },
                     {
@@ -296,24 +286,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s120",
+                        "session": "s135",
                         "room": "E3"
                     },
                     {
-                        "session": "s168",
+                        "session": "s-float-33",
                         "room": "E4"
                     },
                     {
-                        "session": "s145",
+                        "session": "s-float-42",
                         "room": "403"
                     },
                     {
                         "session": "s-panel3",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s-alt3",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs122",
@@ -330,6 +320,10 @@
                     {
                         "session": "s-crs106",
                         "room": "318BC"
+                    },
+                    {
+                        "session": "s-sig4",
+                        "room": "318A"
                     }
                 ]
             },
@@ -342,15 +336,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s-float-38",
+                        "session": "s-float-24",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-24",
+                        "session": "s-float-47",
                         "room": "E6"
                     },
                     {
-                        "session": "s164",
+                        "session": "s142",
                         "room": "E1/E2"
                     },
                     {
@@ -358,11 +352,11 @@
                         "room": "402"
                     },
                     {
-                        "session": "s142",
+                        "session": "s164",
                         "room": "E3"
                     },
                     {
-                        "session": "s102",
+                        "session": "s-float-38",
                         "room": "E4"
                     },
                     {
@@ -371,11 +365,11 @@
                     },
                     {
                         "session": "s136",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s-case3",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs134",
@@ -392,10 +386,6 @@
                     {
                         "session": "s-crs131",
                         "room": "318BC"
-                    },
-                    {
-                        "session": "s-sig4",
-                        "room": "318A"
                     }
                 ]
             },
@@ -408,15 +398,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s113",
+                        "session": "s-float-20",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-20",
+                        "session": "s102",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-11",
+                        "session": "s-float-17",
                         "room": "E1/E2"
                     },
                     {
@@ -424,24 +414,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-17",
+                        "session": "s-float-13",
                         "room": "E3"
                     },
                     {
-                        "session": "s-float-29",
+                        "session": "s113",
                         "room": "E4"
                     },
                     {
-                        "session": "s-float-39",
+                        "session": "s-float-5",
                         "room": "403"
                     },
                     {
-                        "session": "s-panel4",
-                        "room": "307ABC"
+                        "session": "s-float-39",
+                        "room": "307"
                     },
                     {
                         "session": "s167",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs134",
@@ -458,6 +448,10 @@
                     {
                         "session": "s-crs131",
                         "room": "318BC"
+                    },
+                    {
+                        "session": "s-sig1",
+                        "room": "318A"
                     }
                 ]
             }
@@ -476,15 +470,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s140",
+                        "session": "s101",
                         "room": "E5"
                     },
                     {
-                        "session": "s101",
+                        "session": "s159",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-10",
+                        "session": "s-float-16",
                         "room": "E1/E2"
                     },
                     {
@@ -492,24 +486,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-16",
+                        "session": "s-float-10",
                         "room": "E3"
                     },
                     {
-                        "session": "s159",
+                        "session": "s152",
                         "room": "E4"
                     },
                     {
-                        "session": "s-float-5",
+                        "session": "s-float-28",
                         "room": "403"
                     },
                     {
-                        "session": "s-float-28",
-                        "room": "307ABC"
+                        "session": "s-float-15",
+                        "room": "307"
                     },
                     {
                         "session": "s-alt4",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs101",
@@ -522,10 +516,6 @@
                     {
                         "session": "s-crs121",
                         "room": "318BC"
-                    },
-                    {
-                        "session": "s-sig5",
-                        "room": "318A"
                     }
                 ]
             },
@@ -538,15 +528,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s143",
+                        "session": "s103",
                         "room": "E5"
                     },
                     {
-                        "session": "s103",
+                        "session": "s143",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-50",
+                        "session": "s104",
                         "room": "E1/E2"
                     },
                     {
@@ -554,7 +544,7 @@
                         "room": "402"
                     },
                     {
-                        "session": "s104",
+                        "session": "s-float-27",
                         "room": "E3"
                     },
                     {
@@ -562,16 +552,16 @@
                         "room": "E4"
                     },
                     {
-                        "session": "s114",
+                        "session": "s-float-46",
                         "room": "403"
                     },
                     {
                         "session": "s-panel5",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s156",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs101",
@@ -588,6 +578,10 @@
                     {
                         "session": "s-crs121",
                         "room": "318BC"
+                    },
+                    {
+                        "session": "s-sig2",
+                        "room": "318A"
                     }
                 ]
             },
@@ -596,19 +590,19 @@
                 "time": "14:30 - 15:50",
                 "sessions": [
                     {
-                        "session": "s-award3",
+                        "session": "s-award1",
                         "room": "401"
                     },
                     {
-                        "session": "s152",
+                        "session": "s127",
                         "room": "E5"
                     },
                     {
-                        "session": "s127",
+                        "session": "s140",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-14",
+                        "session": "s-float-18",
                         "room": "E1/E2"
                     },
                     {
@@ -616,24 +610,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-18",
+                        "session": "s107",
                         "room": "E3"
                     },
                     {
-                        "session": "s149",
+                        "session": "s-float-32",
                         "room": "E4"
                     },
                     {
-                        "session": "s-float-46",
+                        "session": "s125",
                         "room": "403"
                     },
                     {
-                        "session": "s125",
-                        "room": "307ABC"
+                        "session": "s-panel4",
+                        "room": "307"
                     },
                     {
                         "session": "s-crs115",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs104",
@@ -662,15 +656,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s162",
+                        "session": "s128",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-1",
+                        "session": "s162",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-27",
+                        "session": "s-float-3",
                         "room": "E1/E2"
                     },
                     {
@@ -678,11 +672,11 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-3",
+                        "session": "s-float-50",
                         "room": "E3"
                     },
                     {
-                        "session": "s121",
+                        "session": "s145",
                         "room": "E4"
                     },
                     {
@@ -691,11 +685,11 @@
                     },
                     {
                         "session": "s165",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s-crs115",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs104",
@@ -712,6 +706,10 @@
                     {
                         "session": "s-crs107",
                         "room": "318BC"
+                    },
+                    {
+                        "session": "s-sig3",
+                        "room": "318A"
                     }
                 ]
             }
@@ -730,15 +728,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s-float-32",
+                        "session": "s-float-1",
                         "room": "E5"
                     },
                     {
-                        "session": "s129",
+                        "session": "s122",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-35",
+                        "session": "s115",
                         "room": "E1/E2"
                     },
                     {
@@ -746,20 +744,24 @@
                         "room": "402"
                     },
                     {
-                        "session": "s115",
+                        "session": "s-float-11",
                         "room": "E3"
                     },
                     {
-                        "session": "s122",
+                        "session": "s114",
+                        "room": "E4"
+                    },
+                    {
+                        "session": "s-float-37",
                         "room": "403"
                     },
                     {
-                        "session": "s-float-43",
-                        "room": "307ABC"
+                        "session": "s-panel2",
+                        "room": "307"
                     },
                     {
                         "session": "s-case4",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs138",
@@ -784,15 +786,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s112",
+                        "session": "s129",
                         "room": "E5"
                     },
                     {
-                        "session": "s128",
+                        "session": "s149",
                         "room": "E6"
                     },
                     {
-                        "session": "s126",
+                        "session": "s120",
                         "room": "E1/E2"
                     },
                     {
@@ -800,11 +802,11 @@
                         "room": "402"
                     },
                     {
-                        "session": "s133",
+                        "session": "s126",
                         "room": "E3"
                     },
                     {
-                        "session": "s132",
+                        "session": "s121",
                         "room": "E4"
                     },
                     {
@@ -812,12 +814,12 @@
                         "room": "403"
                     },
                     {
-                        "session": "s-float-42",
-                        "room": "307ABC"
+                        "session": "s-panel6",
+                        "room": "307"
                     },
                     {
                         "session": "s-alt1",
-                        "room": "308ABC"
+                        "room": "308"
                     },
                     {
                         "session": "s-crs103",
@@ -838,15 +840,15 @@
                         "room": "401"
                     },
                     {
-                        "session": "s116",
+                        "session": "s-float-26",
                         "room": "E5"
                     },
                     {
-                        "session": "s-float-26",
+                        "session": "s-float-34",
                         "room": "E6"
                     },
                     {
-                        "session": "s-float-13",
+                        "session": "s-float-19",
                         "room": "E1/E2"
                     },
                     {
@@ -854,11 +856,11 @@
                         "room": "402"
                     },
                     {
-                        "session": "s-float-19",
+                        "session": "s-float-35",
                         "room": "E3"
                     },
                     {
-                        "session": "s-float-34",
+                        "session": "s112",
                         "room": "E4"
                     },
                     {
@@ -867,14 +869,14 @@
                     },
                     {
                         "session": "s163",
-                        "room": "307ABC"
+                        "room": "307"
                     },
                     {
                         "session": "s-case5",
-                        "room": "308ABC"
+                        "room": "308"
                     }
                 ]
             }
         ]
     }
-]}
+]

@@ -889,3 +889,169 @@ div.session_title {
 	padding-left: 10px;
 	padding-right: 10px;
 }
+
+/* ==========================================================================
+   Schedule (program/full4.php)
+   ========================================================================== */
+
+.full4_schedule_container_2 {
+	width: 100%;
+}
+
+.full4_schedule_day {
+	margin: 0;
+}
+
+.full4_row_slot {
+	margin: 0;
+}
+
+.full4_schedule_cell{
+	padding: 0;
+	font-size: 100%;
+}
+
+.full4_schedule_cell_inside {
+ 	border: 1px solid #575757;
+ 	background-color: rgb(242,242,242);
+ 	color: #575757;
+ 	padding: 15px;
+ 	height: 140px;
+}
+
+.full4_schedule_cell_time {
+	background-color: #E4211C;
+	border-top: 1px solid #E4211C;;
+}
+
+.full4_session_title {
+	height: 80px;
+	width: 100%;
+	font-weight: light;
+}
+
+.full4_session_room {
+	font-size: 16px;
+	width: 100%;
+	height: 20px;
+	font-weight: bold;
+}
+
+.full4_session_room {
+	text-align: right;
+}
+
+.full4_session_img {
+	text-align: left;
+}
+
+.full4_session_img img {
+	height: 18px;
+	margin-bottom: 2px;
+	float: left;
+}
+
+.full4_paper {
+	background-image: url("../img/program/paper.png");
+	background-size: 60%;
+	background-position: -20px 70px;
+	background-repeat: no-repeat;
+}
+
+.full4_altchi {
+	background-image: url("../img/program/altchi.png");
+	background-size: 60%;
+	background-position: -20px 70px;
+	background-repeat: no-repeat;
+}
+
+.full4_casestudy {
+	background-image: url("../img/program/case.png");
+	background-size: 70%;
+	background-position: -15px 55px;
+	background-repeat: no-repeat;
+}
+
+.full4_course {
+	background-image: url("../img/program/course.png");
+	background-size: 70%;
+	background-position: -15px 55px;
+	background-repeat: no-repeat;
+}
+
+.full4_panel {
+	background-image: url("../img/program/panel.png");
+	background-size: 70%;
+	background-position: -35px 35px;
+	background-repeat: no-repeat;
+}
+
+.full4_SIG {
+	background-image: url("../img/program/sig.png");
+	background-size: 70%;
+	background-position: -25px 45px;
+	background-repeat: no-repeat;
+}
+
+.full4_special {
+	background-image: url("../img/program/special.png");
+	background-size: 70%;
+	background-position: -15px 55px;
+	background-repeat: no-repeat;
+}
+
+/*
+
+
+
+
+.full4_special {
+	background-color: #A6EEFF;
+	color: #222222;
+}*/
+
+.full4_divider {
+	background-color: #E4211C;
+	height: 5px;
+	width: 100%;
+	border-left: 1px solid #E4211C;
+	border-right: 1px solid #E4211C;
+	margin-top: 5px;
+}
+
+.full4_time {
+	font-size: 30px;
+	font-weight: bold;
+	color: #FFFFFF;
+	line-height: 30px;
+}
+
+.full4_schedule_day {
+	margin-top: 30px;
+}
+
+.full4_schedule_day_header h4 {
+	font-size: 30px;
+}
+
+.full4_schedule_div {
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: rgb(242,242,242);
+	padding: 0;
+	border: 1px solid #575757;
+}
+
+.full4_schedule_div_inside {
+	padding: 25px;
+}
+
+.full4_session_description {
+
+}
+
+.full4_abstract {
+	padding-left: 20px;
+	padding-right: 20px;
+}

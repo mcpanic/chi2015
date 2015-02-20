@@ -1,4 +1,4 @@
-{
+entities={
     "sig102": {
         "title": "How and Why to Start and Run a SIGCHI Local Chapter",
         "abstract": "There is a vast and increasing interest towards local HCI communities around the globe and in particular on geographical areas in which HCI has only recently started to gain increasing interest by local industries as well as academic institutions. A SIGCHI Local Chapter is one of the ways a local HCI community can organize and get visibility and support for their activities. However, many active volunteers in this field might not be aware of this possibility. The main goal of the Chapters’ SIG in CHI’15 is to inform interested parties of SIGCHI Local Chapters and to find ways in which SIGCHI could better support local HCI communities with their various needs all over the world.",
@@ -19430,74 +19430,6 @@
                 "country": "United States",
                 "affiliation": "School of Informatics and Computing, Indiana University Bloomington",
                 "location": "Bloomington, United States"
-            }
-        ],
-        "type": "paper",
-        "subtype": "Paper",
-        "award": false,
-        "hm": false
-    },
-    "pn1081": {
-        "title": "Sleepless in Social Media: Effects of Sleep Duration on Focus and Computer Usage",
-        "abstract": "The amount of sleep people receive has become a pressing societal concern. While studies show that IT use affects sleep, here we examine the converse: how sleep duration might affect IT use. We conducted an in situ study, tracking 76 college students for seven days, all waking hours. We logged computer and phone use and collected sleep diaries and daily surveys. Our results show that with less sleep, students spend significantly longer durations on the computer, with shorter focus, and increased time on social media sites. The relationship of sleep duration with social media use is mediated by computer time and focus duration. Less sleep is also associated with higher perceived productivity and work pressure. Our results have theoretical implications for multitasking: physiological and cognitive reasons could explain more social media use and computer activity switches, due to less sleep. We present design ideas for detecting and improving sleep behaviors.",
-        "cAndB": "An in situ tracking study of 76 participants showed a significant relationship of less sleep with longer duration on the computer, shorter focus, and increased time on social media sites. ",
-        "keywords": [
-            "Multitasking",
-            "sleep",
-            "work pressure",
-            "computer logging",
-            "in situ study",
-            "sensors",
-            "social media, mobile phone"
-        ],
-        "authors": [
-            {
-                "name": "Gloria Mark",
-                "givenName": "Gloria",
-                "middleInitial": "",
-                "familyName": "Mark",
-                "dept": "",
-                "institution": "University of California, Irvine",
-                "city": "Irvine",
-                "country": "United States",
-                "affiliation": "University of California, Irvine",
-                "location": "Irvine, United States"
-            },
-            {
-                "name": "Melissa Niiya",
-                "givenName": "Melissa",
-                "middleInitial": "",
-                "familyName": "Niiya",
-                "dept": "School of Education",
-                "institution": "University of California, Irvine",
-                "city": "Irvine",
-                "country": "United States",
-                "affiliation": "School of Education, University of California, Irvine",
-                "location": "Irvine, United States"
-            },
-            {
-                "name": "Yiran Wang",
-                "givenName": "Yiran",
-                "middleInitial": "",
-                "familyName": "Wang",
-                "dept": "",
-                "institution": "University of California, Irvine",
-                "city": "Irvine",
-                "country": "United States",
-                "affiliation": "University of California, Irvine",
-                "location": "Irvine, United States"
-            },
-            {
-                "name": "Stephanie Reich",
-                "givenName": "Stephanie",
-                "middleInitial": "",
-                "familyName": "Reich",
-                "dept": "Education",
-                "institution": "University of California, Irvine",
-                "city": "Irvine",
-                "country": "USA",
-                "affiliation": "Education, University of California, Irvine",
-                "location": "Irvine, USA"
             }
         ],
         "type": "paper",

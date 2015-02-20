@@ -1,27 +1,10 @@
-{
+sessions={
     "s-sig1": {
         "s_title": "SIG: Start and Run a SIGCHI Local Chapter",
         "room": "318A",
         "time": "16:30-17:50",
         "submissions": [
             "sig102"
-        ],
-        "personas": "",
-        "venue": "SIG",
-        "day": "Monday",
-        "s_tags": [],
-        "type": "SIG",
-        "hasAward": false,
-        "hasHonorableMention": false,
-        "subtype": "SIG",
-        "chair": ""
-    },
-    "s-sig2": {
-        "s_title": "SIG: Online Deliberative Processes and Tech",
-        "room": "318A",
-        "time": "9:30-10:50",
-        "submissions": [
-            "sig104"
         ],
         "personas": "",
         "venue": "SIG",
@@ -33,16 +16,33 @@
         "subtype": "SIG",
         "chair": ""
     },
+    "s-sig2": {
+        "s_title": "SIG: Online Deliberative Processes and Tech",
+        "room": "318A",
+        "time": "11:30-12:50",
+        "submissions": [
+            "sig104"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chair": ""
+    },
     "s-sig3": {
         "s_title": "SIG: Understanding Sports",
         "room": "318A",
-        "time": "14:30-15:50",
+        "time": "16:30-17:50",
         "submissions": [
             "sig105"
         ],
         "personas": "",
         "venue": "SIG",
-        "day": "Monday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "SIG",
         "hasAward": false,
@@ -53,7 +53,7 @@
     "s-sig4": {
         "s_title": "SIG: Gender-Inclusive Software",
         "room": "318A",
-        "time": "14:30-15:50",
+        "time": "11:30-12:50",
         "submissions": [
             "sig108"
         ],
@@ -70,13 +70,13 @@
     "s-sig5": {
         "s_title": "SIG: Interactive Childhood ",
         "room": "318A",
-        "time": "9:30-10:50",
+        "time": "14:30-15:50",
         "submissions": [
             "sig109"
         ],
         "personas": "",
         "venue": "SIG",
-        "day": "Wednesday",
+        "day": "Monday",
         "s_tags": [],
         "type": "SIG",
         "hasAward": false,
@@ -85,8 +85,8 @@
         "chair": ""
     },
     "s-case1": {
-        "s_title": "Case Study 1",
-        "room": "308ABC",
+        "s_title": "Case Studies: HCI in Industrial Settings",
+        "room": "308",
         "time": "14:30-15:50",
         "submissions": [
             "case115",
@@ -105,8 +105,8 @@
         "chair": ""
     },
     "s-case2": {
-        "s_title": "Case Study 2",
-        "room": "308ABC",
+        "s_title": "Case Studies: Art &amp; Design Interfaces",
+        "room": "308",
         "time": "9:30-10:50",
         "submissions": [
             "case120",
@@ -125,8 +125,8 @@
         "chair": ""
     },
     "s-case3": {
-        "s_title": "Case Study 3",
-        "room": "308ABC",
+        "s_title": "Case Studies: Education &amp; Work",
+        "room": "308",
         "time": "14:30-15:50",
         "submissions": [
             "case128",
@@ -145,8 +145,8 @@
         "chair": ""
     },
     "s-case4": {
-        "s_title": "Case Study 4",
-        "room": "308ABC",
+        "s_title": "Case Studies:&nbsp; Design &amp; Observations of Real World Systems",
+        "room": "308",
         "time": "9:30-10:50",
         "submissions": [
             "case131",
@@ -165,8 +165,8 @@
         "chair": ""
     },
     "s-case5": {
-        "s_title": "Case Study 5",
-        "room": "308ABC",
+        "s_title": "Case Studies: Gestures, Devices &amp; Content",
+        "room": "308",
         "time": "14:30-15:50",
         "submissions": [
             "case134",
@@ -185,7 +185,7 @@
         "chair": ""
     },
     "s-crs100": {
-        "s_title": "Learn to Sketch (Even if You Can’t Draw): Hands-on Sketching Course (2/2)",
+        "s_title": "Course: Learn to Sketch (Even if You Can’t Draw) 1/2",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -202,7 +202,7 @@
         "chair": ""
     },
     "s-crs101": {
-        "s_title": "Introduction to Creating Musical Interfaces (2/2)",
+        "s_title": "Course: Intro to Creating Musical Interfaces 1/2",
         "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
@@ -219,7 +219,7 @@
         "chair": ""
     },
     "s-crs103": {
-        "s_title": "Designing with the Mind in Mind: The Psychological Basis for UI Design Guidelines (1/1)",
+        "s_title": "Course: Designing with the Mind in Mind 1/1",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -236,7 +236,7 @@
         "chair": ""
     },
     "s-crs104": {
-        "s_title": "Using Experience Sampling Methodology to Collect Deep Data About Your Users (2/2)",
+        "s_title": "Course: Experience Sampling to Collect Deep Data 1/2",
         "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
@@ -253,7 +253,7 @@
         "chair": ""
     },
     "s-crs106": {
-        "s_title": "Practical UX Research Methodologies (2/2)",
+        "s_title": "Course: Practical UX Research Methodologies 1/2",
         "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -270,7 +270,7 @@
         "chair": ""
     },
     "s-crs107": {
-        "s_title": "Conceptual Models: Core to Good Design (2/2)",
+        "s_title": "Course: Conceptual Models: Core to Good Design 1/2",
         "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -287,7 +287,7 @@
         "chair": ""
     },
     "s-crs108": {
-        "s_title": "Designing Websites for Adults 55+: Toward Universal Design (1/1)",
+        "s_title": "Course: Designing Websites for Adults 55+ 1/1",
         "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
@@ -304,7 +304,7 @@
         "chair": ""
     },
     "s-crs109": {
-        "s_title": "HCI Lessons: From Earth to Outer Space... and Back (2/2)",
+        "s_title": "Course: HCI Lessons: From Earth to Outer Space 1/2",
         "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
@@ -321,7 +321,7 @@
         "chair": ""
     },
     "s-crs110": {
-        "s_title": "Introduction to Positive Computing – Technology that fosters wellbeing (1/1)",
+        "s_title": "Course: Introduction to Positive Computing 1/1",
         "room": "318BC",
         "time": "9:30-10:50",
         "submissions": [
@@ -338,7 +338,7 @@
         "chair": ""
     },
     "s-crs111": {
-        "s_title": "Interaction Design for Online Video and Television (2/2)",
+        "s_title": "Course: Design for Online Video &amp; Television 1/2",
         "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -355,7 +355,7 @@
         "chair": ""
     },
     "s-crs112": {
-        "s_title": "Introduction to Human-Computer Interaction (2/2)",
+        "s_title": "Course: Intro to Human-Computer Interaction 2/2",
         "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -372,7 +372,7 @@
         "chair": ""
     },
     "s-crs113": {
-        "s_title": "Cross-channel Conceptual Design – A Methodology (1/1)",
+        "s_title": "Course: Cross-channel Conceptual Design 1/1",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -389,8 +389,8 @@
         "chair": ""
     },
     "s-crs115": {
-        "s_title": "The Glass Class: Designing Wearable Interfaces (2/2)",
-        "room": "308ABC",
+        "s_title": "Course: Designing Wearable Interfaces 1/2",
+        "room": "308",
         "time": "16:30-17:50",
         "submissions": [
             "crs115"
@@ -406,7 +406,7 @@
         "chair": ""
     },
     "s-crs116": {
-        "s_title": "Speech-based Interaction: Myths, Challenges, and Opportunities (2/2)",
+        "s_title": "Course: Speech-based Interaction 1/2",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -423,7 +423,7 @@
         "chair": ""
     },
     "s-crs117": {
-        "s_title": "Rapid Design Labs—A Tool to Turbocharge Design-Led Innovation (2/2)",
+        "s_title": "Course: Rapid Design Labs - Design-Led Innovation 1/2",
         "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
@@ -440,7 +440,7 @@
         "chair": ""
     },
     "s-crs118": {
-        "s_title": "Actionable Inexpensive Games User Research (2/2)",
+        "s_title": "Course: Actionable Inexpensive Games Research 1/2",
         "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
@@ -457,7 +457,7 @@
         "chair": ""
     },
     "s-crs119": {
-        "s_title": "Interaction Design for Reading Devices and Apps (1/1)",
+        "s_title": "Course: Interaction Design for Reading Devices 1/1",
         "room": "E7",
         "time": "9:30-10:50",
         "submissions": [
@@ -474,7 +474,7 @@
         "chair": ""
     },
     "s-crs121": {
-        "s_title": "Designing Surveys for HCI Research (2/2)",
+        "s_title": "Course: Designing Surveys for HCI Research 1/2",
         "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -491,7 +491,7 @@
         "chair": ""
     },
     "s-crs122": {
-        "s_title": "Designing and Assessing Interactive Systems Using Task Models (2/2)",
+        "s_title": "Course: Designing &amp; Assessing Task Models 1/2",
         "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
@@ -508,7 +508,7 @@
         "chair": ""
     },
     "s-crs124": {
-        "s_title": "How You Could Benefit from Using ISO Standards (1/1)",
+        "s_title": "Course: Benefit from Using ISO Standards 1/1",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -525,7 +525,7 @@
         "chair": ""
     },
     "s-crs128": {
-        "s_title": "Design and Adaptation for Cross-Device, Context-dependent User Interfaces (1/1)",
+        "s_title": "Course: Cross-Device, Context-dependent UI 1/1",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -542,7 +542,7 @@
         "chair": ""
     },
     "s-crs129": {
-        "s_title": "Research Methods for Child Computer Interaction (2/2)",
+        "s_title": "Course:&nbsp;Methods for Child Computer Interaction 1/2",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -559,7 +559,7 @@
         "chair": ""
     },
     "s-crs131": {
-        "s_title": "Sketching User Experiences: The Hands-on Course (2/2)",
+        "s_title": "Course: Sketching User Experiences 1/2",
         "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -576,7 +576,7 @@
         "chair": ""
     },
     "s-crs132": {
-        "s_title": "Body, Whys & Videotape: Somatic Approaches to Experience in HCI (1/1)",
+        "s_title": "Course: Body, Whys &amp; Videotape: Somatic Approaches 1/1",
         "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -593,7 +593,7 @@
         "chair": ""
     },
     "s-crs133": {
-        "s_title": "Mobile Human-Computer Interaction (2/2)",
+        "s_title": "Course: Mobile Human-Computer Interaction 1/2",
         "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -610,7 +610,7 @@
         "chair": ""
     },
     "s-crs134": {
-        "s_title": "Methods for Human-Computer Interaction Research (2/2)",
+        "s_title": "Course: Methods for&nbsp;HCI &nbsp;Research 1/2",
         "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
@@ -627,7 +627,7 @@
         "chair": ""
     },
     "s-crs135": {
-        "s_title": "Design for Searching & Finding (2/2)",
+        "s_title": "Course: Design for Searching &amp; Finding 1/2",
         "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
@@ -644,7 +644,7 @@
         "chair": ""
     },
     "s-crs138": {
-        "s_title": "Vision-Driven: Beyond Tangible Bits, Towards Radical Atoms (1/1)",
+        "s_title": "Course: Vision-Driven: Beyond Tangible Bits 1/1",
         "room": "317BC",
         "time": "9:30-10:50",
         "submissions": [
@@ -661,7 +661,7 @@
         "chair": ""
     },
     "s100": {
-        "s_title": "3D Interaction",
+        "s_title": "Interaction in 3D Space",
         "room": "402",
         "time": "14:30-15:50",
         "submissions": [
@@ -682,8 +682,8 @@
         "chair": "Kening Zhu"
     },
     "s101": {
-        "s_title": "Accessibility 1",
-        "room": "E6",
+        "s_title": "Accessibility at Home &amp; on The Go",
+        "room": "E5",
         "time": "9:30-10:50",
         "submissions": [
             "pn1638",
@@ -702,9 +702,9 @@
         "chair": "Hironobu Takagi"
     },
     "s102": {
-        "s_title": "Affective emotion",
-        "room": "E4",
-        "time": "14:30-15:50",
+        "s_title": "Feeling &amp; Communicating Emotions",
+        "room": "E6",
+        "time": "16:30-17:50",
         "submissions": [
             "pn859",
             "pn1195",
@@ -717,13 +717,13 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": false,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Rongrong Wang"
     },
     "s103": {
-        "s_title": "Quantified&nbsp;Self &amp; Pets&nbsp;",
-        "room": "E6",
+        "s_title": "Quantified&nbsp;Self&nbsp;for Humans &amp;&nbsp;Pets&nbsp;",
+        "room": "E5",
         "time": "11:30-12:50",
         "submissions": [
             "pn413",
@@ -743,7 +743,7 @@
     },
     "s104": {
         "s_title": "Art &amp; Performance",
-        "room": "E3",
+        "room": "E1/E2",
         "time": "11:30-12:50",
         "submissions": [
             "pn2300",
@@ -763,7 +763,7 @@
         "chair": "Thecla Schiphorst"
     },
     "s105": {
-        "s_title": "AR / VR 1",
+        "s_title": "Augmented &amp; Virtual Reality in the Real World&nbsp;",
         "room": "401",
         "time": "9:30-10:50",
         "submissions": [
@@ -783,7 +783,7 @@
         "chair": ""
     },
     "s106": {
-        "s_title": "Body Input",
+        "s_title": "Using Random Body Parts for Input",
         "room": "401",
         "time": "16:30-17:50",
         "submissions": [
@@ -804,9 +804,9 @@
         "chair": "Patrick Baudisch"
     },
     "s107": {
-        "s_title": "Citizen X 1",
-        "room": "E1/E2",
-        "time": "9:30-10:50",
+        "s_title": "HCI for Civic Engagement",
+        "room": "E3",
+        "time": "14:30-15:50",
         "submissions": [
             "pn677",
             "pn1156",
@@ -815,7 +815,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -824,8 +824,8 @@
         "chair": "John Vines"
     },
     "s108": {
-        "s_title": "CMC",
-        "room": "E4",
+        "s_title": "Matching &amp; Facilitating Social Interactions",
+        "room": "E6",
         "time": "14:30-15:50",
         "submissions": [
             "pn1541",
@@ -844,8 +844,8 @@
         "chair": "Jofish Kaye"
     },
     "s109": {
-        "s_title": "Design &amp; Reflection",
-        "room": "403",
+        "s_title": "Reflecting Upon Design Reflection",
+        "room": "307",
         "time": "14:30-15:50",
         "submissions": [
             "pn521",
@@ -858,14 +858,14 @@
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": false,
+        "hasAward": false,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Ron Wakkary"
     },
     "s110": {
-        "s_title": "Crowdsourcing applications 1",
-        "room": "E1/E2",
+        "s_title": "Crowdsourcing Fans &amp; Friends",
+        "room": "E3",
         "time": "16:30-17:50",
         "submissions": [
             "pn1808",
@@ -884,8 +884,8 @@
         "chair": "Shaun Lawson"
     },
     "s111": {
-        "s_title": "Viz 3",
-        "room": "E5",
+        "s_title": "Storytelling in InfoVis",
+        "room": "E6",
         "time": "11:30-12:50",
         "submissions": [
             "pn1717",
@@ -904,9 +904,9 @@
         "chair": "Charles Perin"
     },
     "s112": {
-        "s_title": "Disaster Management",
-        "room": "E5",
-        "time": "11:30-12:50",
+        "s_title": "Disasters &amp; Humanitarian Events",
+        "room": "E4",
+        "time": "14:30-15:50",
         "submissions": [
             "pn710",
             "pn327",
@@ -921,11 +921,11 @@
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Tawanna R Dillahunt"
     },
     "s113": {
-        "s_title": "*Eco-Green 1",
-        "room": "E5",
+        "s_title": "Eco-Green: Encouraging Energy Conservation",
+        "room": "E4",
         "time": "16:30-17:50",
         "submissions": [
             "pn849",
@@ -942,12 +942,12 @@
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Adrian K Clear"
+        "chair": "Germaine Irwin"
     },
     "s114": {
-        "s_title": "Empowering Users 1",
-        "room": "403",
-        "time": "11:30-12:50",
+        "s_title": "Empowering Users",
+        "room": "E4",
+        "time": "9:30-10:50",
         "submissions": [
             "pn5133",
             "pn2327",
@@ -956,7 +956,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -965,8 +965,8 @@
         "chair": "Maarten Thissen"
     },
     "s115": {
-        "s_title": "Digital Collections",
-        "room": "E3",
+        "s_title": "Digital Collections, Practice &amp; Legacy",
+        "room": "E1/E2",
         "time": "9:30-10:50",
         "submissions": [
             "pn1312",
@@ -985,8 +985,8 @@
         "chair": "Will Odom"
     },
     "s116": {
-        "s_title": "Security 4&nbsp;",
-        "room": "E5",
+        "s_title": "Social Security Configurations&nbsp;",
+        "room": "E4",
         "time": "14:30-15:50",
         "submissions": [
             "pn1266",
@@ -995,7 +995,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Monday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -1004,7 +1004,7 @@
         "chair": ""
     },
     "s117": {
-        "s_title": "Fabrication 1",
+        "s_title": "Design and 3D Object Fabrication",
         "room": "401",
         "time": "16:30-17:50",
         "submissions": [
@@ -1025,7 +1025,7 @@
     },
     "s118": {
         "s_title": "Family Communication",
-        "room": "E3",
+        "room": "E1/E2",
         "time": "16:30-17:50",
         "submissions": [
             "pn1174",
@@ -1040,13 +1040,13 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": false,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Siân E Lindley"
     },
     "s119": {
-        "s_title": "Game Design 1",
-        "room": "E3",
+        "s_title": "Improving Game Experiences",
+        "room": "E1/E2",
         "time": "11:30-12:50",
         "submissions": [
             "pn282",
@@ -1066,8 +1066,8 @@
         "chair": "Lennart E Nacke"
     },
     "s120": {
-        "s_title": "Gamers 1",
-        "room": "E3",
+        "s_title": "Understanding Gamers",
+        "room": "E1/E2",
         "time": "11:30-12:50",
         "submissions": [
             "pn1599",
@@ -1078,7 +1078,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -1087,9 +1087,9 @@
         "chair": "Toni-Jan Keith Monserrat"
     },
     "s121": {
-        "s_title": "Gender",
+        "s_title": "She or He - Does it Matter?",
         "room": "E4",
-        "time": "16:30-17:50",
+        "time": "11:30-12:50",
         "submissions": [
             "pn2314",
             "pn2234",
@@ -1098,7 +1098,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": true,
@@ -1107,8 +1107,8 @@
         "chair": "Antonella De Angeli"
     },
     "s122": {
-        "s_title": "Maps",
-        "room": "403",
+        "s_title": "Interactive &amp; Multi-Surface Maps",
+        "room": "E6",
         "time": "9:30-10:50",
         "submissions": [
             "pn1892",
@@ -1127,7 +1127,7 @@
         "chair": "Brent Hecht"
     },
     "s123": {
-        "s_title": "Gestures",
+        "s_title": "Gesture Elicitation &amp; Recognition",
         "room": "402",
         "time": "9:30-10:50",
         "submissions": [
@@ -1148,7 +1148,7 @@
         "chair": "Niels Henze"
     },
     "s124": {
-        "s_title": "Global Issues",
+        "s_title": "Activism in Wikipedia &amp; Beyond",
         "room": "E4",
         "time": "11:30-12:50",
         "submissions": [
@@ -1170,8 +1170,8 @@
         "chair": ""
     },
     "s125": {
-        "s_title": "GUI 1",
-        "room": "307ABC",
+        "s_title": "GUI Size, Resolution &amp; Layout",
+        "room": "403",
         "time": "14:30-15:50",
         "submissions": [
             "pn1492",
@@ -1191,8 +1191,8 @@
         "chair": "Enrico Rukzio"
     },
     "s126": {
-        "s_title": "Communities",
-        "room": "E1/E2",
+        "s_title": "Bridging Communities",
+        "room": "E3",
         "time": "11:30-12:50",
         "submissions": [
             "pn824",
@@ -1211,8 +1211,8 @@
         "chair": "Edward Cutrell"
     },
     "s127": {
-        "s_title": "Health - Tech Devices",
-        "room": "E6",
+        "s_title": "Wellness &amp; Wearables",
+        "room": "E5",
         "time": "14:30-15:50",
         "submissions": [
             "pn1894",
@@ -1231,9 +1231,9 @@
         "chair": "Marianna Obrist"
     },
     "s128": {
-        "s_title": "Health Online Support",
-        "room": "E6",
-        "time": "11:30-12:50",
+        "s_title": "Understanding Health through Online Behavior",
+        "room": "E5",
+        "time": "16:30-17:50",
         "submissions": [
             "pn808",
             "pn243",
@@ -1242,7 +1242,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -1252,8 +1252,8 @@
     },
     "s129": {
         "s_title": "Coping &amp; Wellbeing Through HCI",
-        "room": "E6",
-        "time": "9:30-10:50",
+        "room": "E5",
+        "time": "11:30-12:50",
         "submissions": [
             "pn2085",
             "pn862",
@@ -1271,9 +1271,9 @@
         "chair": "Jina Huh"
     },
     "s130": {
-        "s_title": "Viz 1",
-        "room": "E5",
-        "time": "16:30-17:50",
+        "s_title": "Visualizing Data",
+        "room": "E6",
+        "time": "11:30-12:50",
         "submissions": [
             "pn1552",
             "pn500",
@@ -1291,8 +1291,8 @@
         "chair": "Christophe Hurter"
     },
     "s131": {
-        "s_title": "ICT4D 1",
-        "room": "E1/E2",
+        "s_title": "Supporting Change in Developing Countries",
+        "room": "E3",
         "time": "14:30-15:50",
         "submissions": [
             "pn400",
@@ -1311,9 +1311,9 @@
         "chair": "Anirudha Joshi"
     },
     "s132": {
-        "s_title": "Interface aesthetics",
-        "room": "E4",
-        "time": "11:30-12:50",
+        "s_title": "I Like What I See - Interface Aesthetics",
+        "room": "E6",
+        "time": "9:30-10:50",
         "submissions": [
             "pn2480",
             "pn481",
@@ -1323,18 +1323,18 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": false,
+        "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Simon J Bowen"
     },
     "s133": {
-        "s_title": "Kids and Tech 1",
-        "room": "E3",
-        "time": "11:30-12:50",
+        "s_title": "Kids Haptic, Wearable, Tangible Learning",
+        "room": "E1/E2",
+        "time": "9:30-10:50",
         "submissions": [
             "pn1390",
             "pn919",
@@ -1343,7 +1343,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -1352,7 +1352,7 @@
         "chair": "Shuli Gilutz"
     },
     "s134": {
-        "s_title": "Makers",
+        "s_title": "Makers &amp; Hackers",
         "room": "401",
         "time": "16:30-17:50",
         "submissions": [
@@ -1372,14 +1372,15 @@
         "chair": "Ellen Yi-Luen Do"
     },
     "s135": {
-        "s_title": "Crowdsourcing 3",
-        "room": "E1/E2",
+        "s_title": "Evaluating Crowdsourcing ",
+        "room": "E3",
         "time": "11:30-12:50",
         "submissions": [
             "pn2336",
             "pn1840",
-            "pn1662",
-            "pn206"
+            "pn206",
+            "pn2588",
+            "pn1837"
         ],
         "personas": "",
         "venue": "paper",
@@ -1392,14 +1393,14 @@
         "chair": "Bongwon Suh"
     },
     "s136": {
-        "s_title": "Meta-HCI",
-        "room": "307ABC",
+        "s_title": "Innovation in Theories &amp; Products",
+        "room": "307",
         "time": "14:30-15:50",
         "submissions": [
+            "pn1528",
             "pn496",
             "pn2421",
-            "pn5111",
-            "pn1528"
+            "pn5111"
         ],
         "personas": "",
         "venue": "paper",
@@ -1412,7 +1413,7 @@
         "chair": "Volker Wulf"
     },
     "s137": {
-        "s_title": "Mobile - Understanding Use",
+        "s_title": "Understanding Everyday Use of Mobile Phones",
         "room": "402",
         "time": "14:30-15:50",
         "submissions": [
@@ -1432,7 +1433,7 @@
         "chair": "Matt Jones"
     },
     "s138": {
-        "s_title": "Mobile Interaction 1",
+        "s_title": "Grip, Move &amp; Tilt: Novel Interaction",
         "room": "402",
         "time": "14:30-15:50",
         "submissions": [
@@ -1453,15 +1454,15 @@
         "chair": "Jessica Cauchard"
     },
     "s139": {
-        "s_title": "MOOCS e-learning 1",
+        "s_title": "Interactive Video &amp; Collaborative Annotations",
         "room": "403",
         "time": "14:30-15:50",
         "submissions": [
-            "pn738",
-            "pn464",
             "pn382",
             "pn2492",
-            "pn936"
+            "pn936",
+            "pn464",
+            "pn738"
         ],
         "personas": "",
         "venue": "paper",
@@ -1474,9 +1475,9 @@
         "chair": "Amy Ogan"
     },
     "s140": {
-        "s_title": "Multi-Tasking/Interruptions",
-        "room": "E5",
-        "time": "9:30-10:50",
+        "s_title": "Task Interruption &amp; Resumption",
+        "room": "E6",
+        "time": "14:30-15:50",
         "submissions": [
             "pn2281",
             "pn1103",
@@ -1495,7 +1496,7 @@
         "chair": ""
     },
     "s141": {
-        "s_title": "Muscle Sensing",
+        "s_title": "Muscle-Computer Interfaces",
         "room": "401",
         "time": "9:30-10:50",
         "submissions": [
@@ -1515,8 +1516,8 @@
         "chair": "Chris Harrison"
     },
     "s142": {
-        "s_title": "Older Adults",
-        "room": "E3",
+        "s_title": "HCI for the Elderly",
+        "room": "E1/E2",
         "time": "14:30-15:50",
         "submissions": [
             "pn5102",
@@ -1535,8 +1536,8 @@
         "chair": "Maria K Wolters"
     },
     "s143": {
-        "s_title": "Viz 2",
-        "room": "E5",
+        "s_title": "Visualizing Statistics &amp; Graphs ",
+        "room": "E6",
         "time": "11:30-12:50",
         "submissions": [
             "pn697",
@@ -1556,7 +1557,7 @@
         "chair": "Benjamin Bach"
     },
     "s144": {
-        "s_title": "Brains &amp; Eyes - CHAIR ROBERT JACOBS",
+        "s_title": "Brain &amp; Physiological Data use for HCI",
         "room": "402",
         "time": "16:30-17:50",
         "submissions": [
@@ -1576,9 +1577,9 @@
         "chair": "Jacob Robert"
     },
     "s145": {
-        "s_title": "Politics",
-        "room": "403",
-        "time": "11:30-12:50",
+        "s_title": "Socio-Political Interactions",
+        "room": "E4",
+        "time": "16:30-17:50",
         "submissions": [
             "pn917",
             "pn439",
@@ -1587,7 +1588,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": true,
@@ -1596,9 +1597,9 @@
         "chair": ""
     },
     "s146": {
-        "s_title": "Privacy 1",
-        "room": "E5",
-        "time": "11:30-12:50",
+        "s_title": "Managing Personal Privacy",
+        "room": "E4",
+        "time": "16:30-17:50",
         "submissions": [
             "pn466",
             "pn763",
@@ -1616,7 +1617,7 @@
         "chair": "Sameer Patil"
     },
     "s147": {
-        "s_title": "Programming 1",
+        "s_title": "Software Engineering Tools",
         "room": "403",
         "time": "16:30-17:50",
         "submissions": [
@@ -1636,7 +1637,7 @@
         "chair": "Feng Tian"
     },
     "s148": {
-        "s_title": "Mobile Interaction 2",
+        "s_title": "Phones for more than Just Talking &amp; Text&nbsp;",
         "room": "402",
         "time": "9:30-10:50",
         "submissions": [
@@ -1644,7 +1645,8 @@
             "pn1647",
             "pn1129",
             "pn5118",
-            "pn462"
+            "pn462",
+            "pn732"
         ],
         "personas": "",
         "venue": "paper",
@@ -1652,24 +1654,23 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": false,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Naomi Yamashita"
     },
     "s149": {
-        "s_title": "Public Displays &amp; Information",
-        "room": "E4",
-        "time": "14:30-15:50",
+        "s_title": "Interacting with Floors &amp; Situated Displays",
+        "room": "E6",
+        "time": "11:30-12:50",
         "submissions": [
             "pn638",
             "pn667",
             "pn236",
-            "pn229",
-            "pn732"
+            "pn229"
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": true,
@@ -1678,7 +1679,7 @@
         "chair": "Diego Martinez Plasencia"
     },
     "s150": {
-        "s_title": "Robots",
+        "s_title": "Robot Personalities",
         "room": "401",
         "time": "11:30-12:50",
         "submissions": [
@@ -1698,9 +1699,9 @@
         "chair": "Malte F Jung"
     },
     "s151": {
-        "s_title": "Search",
+        "s_title": "Search &amp; Recommendations",
         "room": "403",
-        "time": "11:30-12:50",
+        "time": "9:30-10:50",
         "submissions": [
             "pn1958",
             "pn2207",
@@ -1709,7 +1710,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Monday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -1718,9 +1719,9 @@
         "chair": "Susan Dumais"
     },
     "s152": {
-        "s_title": "Security 1",
-        "room": "E5",
-        "time": "14:30-15:50",
+        "s_title": "Enhanced Security with Passwords &amp; CAPTCHAs ",
+        "room": "E4",
+        "time": "9:30-10:50",
         "submissions": [
             "pn602",
             "pn1743",
@@ -1739,7 +1740,7 @@
         "chair": "Serge Egelman"
     },
     "s153": {
-        "s_title": "Small Device Input 1",
+        "s_title": "How Fast Can you Type on your Phone?",
         "room": "402",
         "time": "16:30-17:50",
         "submissions": [
@@ -1759,7 +1760,7 @@
         "chair": "Michael Rohs"
     },
     "s154": {
-        "s_title": "Smartwatch",
+        "s_title": "Smartwatch Interaction",
         "room": "401",
         "time": "11:30-12:50",
         "submissions": [
@@ -1780,8 +1781,8 @@
         "chair": "Daniel Ashbrook"
     },
     "s155": {
-        "s_title": "Social Media 1",
-        "room": "E1/E2",
+        "s_title": "Facebook Newsfeeds &amp; Friendships",
+        "room": "E3",
         "time": "11:30-12:50",
         "submissions": [
             "pn2341",
@@ -1800,8 +1801,8 @@
         "chair": "David Shamma"
     },
     "s156": {
-        "s_title": "HCIJ 1",
-        "room": "308ABC",
+        "s_title": "Special: Human Computer Interaction&nbsp;Journal 2",
+        "room": "308",
         "time": "11:30-12:50",
         "submissions": [
             "pn5149",
@@ -1820,7 +1821,7 @@
         "chair": ""
     },
     "s157": {
-        "s_title": "Sound",
+        "s_title": "What do I hear? Communicating with Sound",
         "room": "402",
         "time": "11:30-12:50",
         "submissions": [
@@ -1841,7 +1842,7 @@
         "chair": "Ian Oakley"
     },
     "s158": {
-        "s_title": "Speech UI",
+        "s_title": "Speech &amp; Auditory Interfaces",
         "room": "402",
         "time": "14:30-15:50",
         "submissions": [
@@ -1862,8 +1863,8 @@
         "chair": "Cosmin Munteanu"
     },
     "s159": {
-        "s_title": "Telepresence",
-        "room": "E4",
+        "s_title": "Telepresence Video, Robots, and Walls",
+        "room": "E6",
         "time": "9:30-10:50",
         "submissions": [
             "pn271",
@@ -1877,12 +1878,12 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "John Tang"
     },
     "s160": {
-        "s_title": "Tactile Notifications",
+        "s_title": "Tactile Notifications for Phones &amp; Wearables",
         "room": "402",
         "time": "11:30-12:50",
         "submissions": [
@@ -1897,13 +1898,13 @@
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": false,
+        "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Max Wilson"
     },
     "s161": {
-        "s_title": "Tangible UI",
+        "s_title": "Tangible Interactions",
         "room": "402",
         "time": "11:30-12:50",
         "submissions": [
@@ -1924,8 +1925,8 @@
         "chair": "Otmar Hilliges"
     },
     "s162": {
-        "s_title": "Tangible Viz",
-        "room": "E5",
+        "s_title": "Tangible InfoVis",
+        "room": "E6",
         "time": "16:30-17:50",
         "submissions": [
             "pn365",
@@ -1945,8 +1946,8 @@
         "chair": "Bongshin Lee"
     },
     "s163": {
-        "s_title": "GUI 2",
-        "room": "307ABC",
+        "s_title": "Interacting with GUIs",
+        "room": "307",
         "time": "14:30-15:50",
         "submissions": [
             "pn142",
@@ -1966,15 +1967,15 @@
         "chair": "David R Flatla"
     },
     "s164": {
-        "s_title": "*Crowdsourcing 2&nbsp;",
-        "room": "E1/E2",
+        "s_title": "The Impact of Crowd Work on Workers",
+        "room": "E3",
         "time": "14:30-15:50",
         "submissions": [
             "pn2313",
-            "pn747",
             "pn807",
             "pn411",
-            "pn2032"
+            "pn2032",
+            "pn1662"
         ],
         "personas": "",
         "venue": "paper",
@@ -1988,7 +1989,7 @@
     },
     "s165": {
         "s_title": "UX Methods 4 ",
-        "room": "307ABC",
+        "room": "307",
         "time": "16:30-17:50",
         "submissions": [
             "pn308",
@@ -2007,7 +2008,7 @@
         "chair": "Benjamin V Hanrahan"
     },
     "s166": {
-        "s_title": "AR / VR 2",
+        "s_title": "HMDs in Augmented &amp; Virtual Reality",
         "room": "401",
         "time": "9:30-10:50",
         "submissions": [
@@ -2029,8 +2030,8 @@
         "chair": "Shahram Izadi"
     },
     "s167": {
-        "s_title": "HCIJ 2",
-        "room": "308ABC",
+        "s_title": "Special: Human Computer Interaction&nbsp;Journal 1",
+        "room": "308",
         "time": "16:30-17:50",
         "submissions": [
             "pn5151",
@@ -2049,7 +2050,7 @@
     },
     "s-panel1": {
         "s_title": "Panel: Transfer of HCI Research Innovations",
-        "room": "307ABC",
+        "room": "307",
         "time": "11:30-12:50",
         "submissions": [
             "pan106"
@@ -2065,15 +2066,15 @@
         "chair": ""
     },
     "s-panel2": {
-        "s_title": "<span class=\"submission-title\">Panel: You've Been Acquired!</span>",
-        "room": "307ABC",
-        "time": "16:30-17:50",
+        "s_title": "Panel: You've Been Acquired!",
+        "room": "307",
+        "time": "9:30-10:50",
         "submissions": [
             "pan108"
         ],
         "personas": "",
         "venue": "panel",
-        "day": "Monday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "panel",
         "hasAward": false,
@@ -2082,8 +2083,8 @@
         "chair": ""
     },
     "s-panel3": {
-        "s_title": "Panel: <span class=\"submission-title\">Transdisciplinary UX in Design Education</span>",
-        "room": "307ABC",
+        "s_title": "Panel: Transdisciplinary Design in Education",
+        "room": "307",
         "time": "11:30-12:50",
         "submissions": [
             "pan109"
@@ -2099,15 +2100,15 @@
         "chair": ""
     },
     "s-panel4": {
-        "s_title": "Panel: <span class=\"submission-title\">10 Years of alt.chi</span>",
-        "room": "307ABC",
-        "time": "16:30-17:50",
+        "s_title": "Panel: 10 Years of alt.chi",
+        "room": "307",
+        "time": "14:30-15:50",
         "submissions": [
             "pan119"
         ],
         "personas": "",
         "venue": "panel",
-        "day": "Tuesday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "panel",
         "hasAward": false,
@@ -2117,7 +2118,7 @@
     },
     "s-panel5": {
         "s_title": "Panel: Mobile Devices Revolutionizing UI",
-        "room": "307ABC",
+        "room": "307",
         "time": "11:30-12:50",
         "submissions": [
             "pan120"
@@ -2132,9 +2133,24 @@
         "subtype": "panel",
         "chair": ""
     },
+    "s-panel6": {
+        "s_title": "Panel #6",
+        "room": "307",
+        "time": "11:30-12:50",
+        "submissions": [],
+        "personas": "",
+        "venue": "panel",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chair": ""
+    },
     "s-alt1": {
-        "s_title": "alt.chi 1",
-        "room": "308ABC",
+        "s_title": "alt.chi: Mindfulness and Care",
+        "room": "308",
         "time": "11:30-12:50",
         "submissions": [
             "alt107",
@@ -2153,8 +2169,8 @@
         "chair": "Silvia Lindtner"
     },
     "s-alt2": {
-        "s_title": "alt.chi 2",
-        "room": "308ABC",
+        "s_title": "alt.chi: New User Interfaces",
+        "room": "308",
         "time": "16:30-17:50",
         "submissions": [
             "alt151",
@@ -2173,8 +2189,8 @@
         "chair": "Tovi Grossman"
     },
     "s-alt3": {
-        "s_title": "alt.chi 3",
-        "room": "308ABC",
+        "s_title": "alt.chi: HCI Methodology",
+        "room": "308",
         "time": "11:30-12:50",
         "submissions": [
             "alt138",
@@ -2193,8 +2209,8 @@
         "chair": "Henry Duh"
     },
     "s-alt4": {
-        "s_title": "alt.chi 4",
-        "room": "308ABC",
+        "s_title": "alt.chi: Arts and Phiolosphy",
+        "room": "308",
         "time": "9:30-10:50",
         "submissions": [
             "alt142",
@@ -2213,8 +2229,8 @@
         "chair": "Morgan Ames"
     },
     "s-alt5": {
-        "s_title": "alt.chi 5",
-        "room": "308ABC",
+        "s_title": "alt.chi: Augmentation",
+        "room": "308",
         "time": "11:30-12:50",
         "submissions": [
             "alt140",
@@ -2233,9 +2249,9 @@
         "chair": "Aaron Quigley"
     },
     "s-float-1": {
-        "s_title": "Accessibility 2",
-        "room": "E6",
-        "time": "16:30-17:50",
+        "s_title": "Accessibility for Vision Impaired Users",
+        "room": "E5",
+        "time": "9:30-10:50",
         "submissions": [
             "pn1077",
             "pn691",
@@ -2244,7 +2260,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": true,
@@ -2253,8 +2269,8 @@
         "chair": "Xiaojuan Ma"
     },
     "s-float-2": {
-        "s_title": "Accessibility 3",
-        "room": "E6",
+        "s_title": "HMDs &amp; Wearables to Overcome Disabilities",
+        "room": "E5",
         "time": "11:30-12:50",
         "submissions": [
             "pn388",
@@ -2274,8 +2290,8 @@
         "chair": "Shaun K Kane"
     },
     "s-float-3": {
-        "s_title": "Home",
-        "room": "E3",
+        "s_title": "HCI at Home",
+        "room": "E1/E2",
         "time": "16:30-17:50",
         "submissions": [
             "pn2282",
@@ -2294,7 +2310,7 @@
         "chair": "David Geerts"
     },
     "s-float-4": {
-        "s_title": "Work1",
+        "s_title": "Email &amp; Social Media at Work",
         "room": "403",
         "time": "14:30-15:50",
         "submissions": [
@@ -2315,18 +2331,18 @@
         "chair": "Pernille Bjorn"
     },
     "s-float-5": {
-        "s_title": "Work2",
+        "s_title": "Sharing &amp; Collaboration @ Work",
         "room": "403",
-        "time": "9:30-10:50",
+        "time": "16:30-17:50",
         "submissions": [
-            "pn2126",
             "pn581",
+            "pn2126",
             "pn1226",
             "pn973"
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2335,7 +2351,7 @@
         "chair": "Steven M Drucker"
     },
     "s-float-6": {
-        "s_title": "Novel Tech",
+        "s_title": "Non-Rigid Interaction Surfaces",
         "room": "401",
         "time": "11:30-12:50",
         "submissions": [
@@ -2377,7 +2393,7 @@
         "chair": "Yang Li"
     },
     "s-float-8": {
-        "s_title": "Touch Interaction 1",
+        "s_title": "Understanding &amp; Extending Touch Interfaces",
         "room": "402",
         "time": "16:30-17:50",
         "submissions": [
@@ -2418,8 +2434,8 @@
         "chair": "Michael Nebeling"
     },
     "s-float-10": {
-        "s_title": "Citizen X 2",
-        "room": "E1/E2",
+        "s_title": "Neighborhoods &amp; Disadvantaged Communities",
+        "room": "E3",
         "time": "9:30-10:50",
         "submissions": [
             "pn262",
@@ -2438,9 +2454,9 @@
         "chair": "Katharina Reinecke"
     },
     "s-float-11": {
-        "s_title": "ICT4D 2",
-        "room": "E1/E2",
-        "time": "16:30-17:50",
+        "s_title": "Multilingual Communication",
+        "room": "E3",
+        "time": "9:30-10:50",
         "submissions": [
             "pn1972",
             "pn1497",
@@ -2449,7 +2465,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2458,8 +2474,8 @@
         "chair": "Hao-Chuan Wang"
     },
     "s-float-12": {
-        "s_title": "Eco-Green 2",
-        "room": "E5",
+        "s_title": "Sustainability &amp; Recycling",
+        "room": "E4",
         "time": "9:30-10:50",
         "submissions": [
             "pn982",
@@ -2475,12 +2491,12 @@
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Tawanna R Dillahunt"
+        "chair": "Adrian K Clear"
     },
     "s-float-13": {
-        "s_title": "Crowdsourcing 4",
-        "room": "E1/E2",
-        "time": "14:30-15:50",
+        "s_title": "Understanding Crowdwork in Many Domains",
+        "room": "E3",
+        "time": "16:30-17:50",
         "submissions": [
             "pn2423",
             "pn1539",
@@ -2489,7 +2505,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2498,19 +2514,18 @@
         "chair": "Uichin Lee"
     },
     "s-float-14": {
-        "s_title": "Crowdsourcing 1",
-        "room": "E1/E2",
-        "time": "14:30-15:50",
+        "s_title": "Motivating Crowd Workers",
+        "room": "E3",
+        "time": "9:30-10:50",
         "submissions": [
             "pn1059",
             "pn906",
             "pn2375",
-            "pn2588",
-            "pn1837"
+            "pn747"
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Wednesday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2519,8 +2534,8 @@
         "chair": "Meredith R Morris"
     },
     "s-float-15": {
-        "s_title": "Game Design 2",
-        "room": "E3",
+        "s_title": "Experience Design for Games",
+        "room": "307",
         "time": "9:30-10:50",
         "submissions": [
             "pn1061",
@@ -2530,7 +2545,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2539,8 +2554,8 @@
         "chair": "Florian Mueller"
     },
     "s-float-16": {
-        "s_title": "Gamers 2&nbsp; ",
-        "room": "E3",
+        "s_title": "Player Performance &amp; Experience in Games&nbsp; ",
+        "room": "E1/E2",
         "time": "9:30-10:50",
         "submissions": [
             "pn2627",
@@ -2559,8 +2574,8 @@
         "chair": "Jan D Smeddinck"
     },
     "s-float-17": {
-        "s_title": "Families",
-        "room": "E3",
+        "s_title": "Families and Their Use of Technology",
+        "room": "E1/E2",
         "time": "16:30-17:50",
         "submissions": [
             "pn1051",
@@ -2579,8 +2594,8 @@
         "chair": "Jennifer Marlow"
     },
     "s-float-18": {
-        "s_title": "Kids and Tech 2",
-        "room": "E3",
+        "s_title": "Kids Social, Emotional &amp; Special Needs",
+        "room": "E1/E2",
         "time": "14:30-15:50",
         "submissions": [
             "pn1337",
@@ -2596,18 +2611,17 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Konstantinos Kazakos"
     },
     "s-float-19": {
-        "s_title": "Kids and Tech 3",
-        "room": "E3",
+        "s_title": "Understanding &amp; Protecting Kids Tech Use",
+        "room": "E1/E2",
         "time": "14:30-15:50",
         "submissions": [
             "pn1742",
             "pn598",
-            "pn1081",
             "pn2340",
             "pn1530"
         ],
@@ -2622,8 +2636,8 @@
         "chair": "Svetlana Yarosh"
     },
     "s-float-20": {
-        "s_title": "Health - Sports Training",
-        "room": "E6",
+        "s_title": "Sports Tracking &amp; Training",
+        "room": "E5",
         "time": "16:30-17:50",
         "submissions": [
             "pn611",
@@ -2642,8 +2656,8 @@
         "chair": "Hao-Hua Chu"
     },
     "s-float-21": {
-        "s_title": "Health&nbsp;- Assistive Technology",
-        "room": "E6",
+        "s_title": "Making &amp; Sharing Assistive Technologies",
+        "room": "E5",
         "time": "14:30-15:50",
         "submissions": [
             "pn885",
@@ -2663,8 +2677,8 @@
         "chair": "Suranga Nanayakkara"
     },
     "s-float-22": {
-        "s_title": "Health Social Support",
-        "room": "E6",
+        "s_title": "The Value of the Village in Caregiving",
+        "room": "E5",
         "time": "9:30-10:50",
         "submissions": [
             "pn2185",
@@ -2684,8 +2698,8 @@
         "chair": "Lena Mamykina"
     },
     "s-float-23": {
-        "s_title": "Health Monitoring",
-        "room": "E6",
+        "s_title": "Health Sensors &amp; Monitoring",
+        "room": "E5",
         "time": "16:30-17:50",
         "submissions": [
             "pn408",
@@ -2704,8 +2718,8 @@
         "chair": "Regan L Mandryk"
     },
     "s-float-24": {
-        "s_title": "Health DIY",
-        "room": "E6",
+        "s_title": "DIY Healthcare: Apps &amp; Wearables",
+        "room": "E5",
         "time": "14:30-15:50",
         "submissions": [
             "pn780",
@@ -2724,8 +2738,8 @@
         "chair": "David Coyle"
     },
     "s-float-25": {
-        "s_title": "Health Medical Informatics",
-        "room": "E6",
+        "s_title": "Healthcare Bias, Engagement &amp; Adaptation",
+        "room": "E5",
         "time": "11:30-12:50",
         "submissions": [
             "pn1045",
@@ -2744,8 +2758,8 @@
         "chair": ""
     },
     "s-float-26": {
-        "s_title": "Health - Home Therapy",
-        "room": "E6",
+        "s_title": "Home Physiotherapy &amp; Rehabilitation",
+        "room": "E5",
         "time": "14:30-15:50",
         "submissions": [
             "pn1439",
@@ -2765,9 +2779,9 @@
         "chair": "Yi-Ping Hung"
     },
     "s-float-27": {
-        "s_title": "Social Media 2",
-        "room": "E1/E2",
-        "time": "16:30-17:50",
+        "s_title": "Bridging People &amp; Beliefs with Social Media",
+        "room": "E3",
+        "time": "11:30-12:50",
         "submissions": [
             "pn409",
             "pn1506",
@@ -2785,8 +2799,8 @@
         "chair": "N. Sadat Shami"
     },
     "s-float-28": {
-        "s_title": "GUI 3",
-        "room": "307ABC",
+        "s_title": "UI Impact on Performance &amp; Decisions",
+        "room": "403",
         "time": "9:30-10:50",
         "submissions": [
             "pn1889",
@@ -2802,12 +2816,12 @@
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Tom Gross"
     },
     "s-float-29": {
-        "s_title": "HCI in Real World",
-        "room": "E4",
-        "time": "16:30-17:50",
+        "s_title": "The Value of Things",
+        "room": "307",
+        "time": "9:30-10:50",
         "submissions": [
             "pn5113",
             "pn1376",
@@ -2825,7 +2839,7 @@
         "chair": "Mark Blythe"
     },
     "s-float-30": {
-        "s_title": "MOOCS e-learning 2",
+        "s_title": "Understand &amp; Enhancing Learning",
         "room": "403",
         "time": "16:30-17:50",
         "submissions": [
@@ -2845,7 +2859,7 @@
         "chair": "Chris Quintana"
     },
     "s-float-31": {
-        "s_title": "MOOCS e-learning 3",
+        "s_title": "MOOCS &amp;&nbsp;e-Learning",
         "room": "403",
         "time": "11:30-12:50",
         "submissions": [
@@ -2865,9 +2879,9 @@
         "chair": "Juho Kim"
     },
     "s-float-32": {
-        "s_title": "Security 2",
-        "room": "E5",
-        "time": "9:30-10:50",
+        "s_title": "Security Feedback &amp; Warnings ",
+        "room": "E4",
+        "time": "14:30-15:50",
         "submissions": [
             "pn652",
             "pn1047",
@@ -2876,7 +2890,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2885,9 +2899,9 @@
         "chair": "Alexander De Luca"
     },
     "s-float-33": {
-        "s_title": "Security 3",
-        "room": "E5",
-        "time": "14:30-15:50",
+        "s_title": "Smart Smartphone Authentication",
+        "room": "E4",
+        "time": "11:30-12:50",
         "submissions": [
             "pn136",
             "pn657",
@@ -2898,7 +2912,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Monday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2907,8 +2921,8 @@
         "chair": "Andrea Bianchi"
     },
     "s-float-34": {
-        "s_title": "Walls &amp; Tables 1",
-        "room": "E4",
+        "s_title": "Interaction Techniques for Tables &amp; Walls",
+        "room": "E6",
         "time": "14:30-15:50",
         "submissions": [
             "pn1673",
@@ -2922,15 +2936,15 @@
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Tom Bartindale"
     },
     "s-float-35": {
-        "s_title": "Citizen Science &amp; Social Methodologies",
-        "room": "E1/E2",
-        "time": "9:30-10:50",
+        "s_title": "Social Media &amp; Citizen Science",
+        "room": "E3",
+        "time": "14:30-15:50",
         "submissions": [
             "pn1386",
             "pn2224",
@@ -2950,7 +2964,7 @@
         "chair": "Elena L Glassman"
     },
     "s-float-36": {
-        "s_title": "Small Device Input 2",
+        "s_title": "Tangible Interaction with Phones",
         "room": "402",
         "time": "9:30-10:50",
         "submissions": [
@@ -2970,7 +2984,7 @@
         "chair": "Shengdong Zhao"
     },
     "s-float-37": {
-        "s_title": "Programming 2",
+        "s_title": "Programming Environments",
         "room": "403",
         "time": "9:30-10:50",
         "submissions": [
@@ -2982,7 +2996,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Thursday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -2991,8 +3005,8 @@
         "chair": "Joonhwan Lee"
     },
     "s-float-38": {
-        "s_title": "Privacy 2",
-        "room": "E5",
+        "s_title": "Social Media and Mobile Camera Privacy",
+        "room": "E4",
         "time": "14:30-15:50",
         "submissions": [
             "pn895",
@@ -3013,7 +3027,7 @@
     },
     "s-float-39": {
         "s_title": "Critical Design",
-        "room": "403",
+        "room": "307",
         "time": "16:30-17:50",
         "submissions": [
             "pn1641",
@@ -3032,9 +3046,9 @@
         "chair": "Giulio Jacucci"
     },
     "s-float-40": {
-        "s_title": "UX Methods 1",
-        "room": "307ABC",
-        "time": "9:30-10:50",
+        "s_title": "Supporting Creativity&nbsp;through UX Design",
+        "room": "307",
+        "time": "16:30-17:50",
         "submissions": [
             "pn5104",
             "pn1419",
@@ -3044,7 +3058,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Tuesday",
+        "day": "Monday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -3053,8 +3067,8 @@
         "chair": "Luciano Gamberini"
     },
     "s-float-41": {
-        "s_title": "UX Methods 2",
-        "room": "307ABC",
+        "s_title": "Understanding &amp; Evaluating Performance",
+        "room": "403",
         "time": "14:30-15:50",
         "submissions": [
             "pn2048",
@@ -3073,8 +3087,8 @@
         "chair": "Richard C Davis"
     },
     "s-float-42": {
-        "s_title": "UX Methods 3",
-        "room": "307ABC",
+        "s_title": "New Evaluation Approaches",
+        "room": "403",
         "time": "11:30-12:50",
         "submissions": [
             "pn2425",
@@ -3084,7 +3098,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -3093,9 +3107,9 @@
         "chair": "David England"
     },
     "s-float-43": {
-        "s_title": "UX Methods 5",
-        "room": "307ABC",
-        "time": "9:30-10:50",
+        "s_title": "Rethinking Evaluation for Today's HCI",
+        "room": "403",
+        "time": "11:30-12:50",
         "submissions": [
             "pn1573",
             "pn1166",
@@ -3105,7 +3119,7 @@
         ],
         "personas": "",
         "venue": "paper",
-        "day": "Thursday",
+        "day": "Monday",
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
@@ -3115,7 +3129,7 @@
     },
     "s-float-45": {
         "s_title": "Music &amp; Art",
-        "room": "E3",
+        "room": "E1/E2",
         "time": "14:30-15:50",
         "submissions": [
             "pn1942",
@@ -3134,9 +3148,9 @@
         "chair": "Jonathan Hook"
     },
     "s-float-46": {
-        "s_title": "Automation, Detection &amp; Feedback",
+        "s_title": "Automation and Interactive&nbsp;Feedback",
         "room": "403",
-        "time": "14:30-15:50",
+        "time": "11:30-12:50",
         "submissions": [
             "pn2147",
             "pn2651",
@@ -3148,15 +3162,15 @@
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Davide Spano"
     },
     "s-float-47": {
-        "s_title": "Embodied Interaction",
-        "room": "E4",
-        "time": "9:30-10:50",
+        "s_title": "Social Embodied Interaction",
+        "room": "E6",
+        "time": "14:30-15:50",
         "submissions": [
             "pn1828",
             "pn1258",
@@ -3174,8 +3188,8 @@
         "chair": "Gina Venolia"
     },
     "s-float-48": {
-        "s_title": "Walls &amp; Tables 2",
-        "room": "E4",
+        "s_title": "Collaborative Tables, Walls &amp; Rooms",
+        "room": "E6",
         "time": "16:30-17:50",
         "submissions": [
             "pn564",
@@ -3188,13 +3202,13 @@
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": false,
-        "hasHonorableMention": false,
+        "hasAward": true,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Harald Reiterer"
     },
     "s-float-49": {
-        "s_title": "Fabrication 2",
+        "s_title": "Digital &amp; Materials Fabrication",
         "room": "401",
         "time": "11:30-12:50",
         "submissions": [
@@ -3209,14 +3223,14 @@
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": false,
+        "hasHonorableMention": true,
         "subtype": "paper",
         "chair": "Stefanie Mueller"
     },
     "s-float-50": {
-        "s_title": "Citizen X 3",
-        "room": "E1/E2",
-        "time": "11:30-12:50",
+        "s_title": "Voting &amp; Volunteerism",
+        "room": "E3",
+        "time": "16:30-17:50",
         "submissions": [
             "pn2348",
             "pn1299",
@@ -3234,7 +3248,7 @@
         "chair": "Andres Monroy-Hernandez"
     },
     "s-award1": {
-        "s_title": "Award #1",
+        "s_title": "Special: SIGCHI Lifetime Practice Award ",
         "room": "401",
         "time": "14:30-15:50",
         "submissions": [
@@ -3242,7 +3256,7 @@
         ],
         "personas": "",
         "venue": "special",
-        "day": "Monday",
+        "day": "Wednesday",
         "s_tags": [],
         "type": "special",
         "hasAward": false,
@@ -3251,7 +3265,7 @@
         "chair": ""
     },
     "s-award2": {
-        "s_title": "Award #2",
+        "s_title": "Special: SIGCHI Lifetime Research Award ",
         "room": "401",
         "time": "14:30-15:50",
         "submissions": [
@@ -3268,7 +3282,7 @@
         "chair": ""
     },
     "s-award3": {
-        "s_title": "Award #3",
+        "s_title": "Special: SIGCHI Social Impact Award",
         "room": "401",
         "time": "14:30-15:50",
         "submissions": [
@@ -3276,7 +3290,7 @@
         ],
         "personas": "",
         "venue": "special",
-        "day": "Wednesday",
+        "day": "Monday",
         "s_tags": [],
         "type": "special",
         "hasAward": false,
@@ -3285,7 +3299,7 @@
         "chair": ""
     },
     "s-src": {
-        "s_title": "SRC",
+        "s_title": "Special: Student Research Competition Finals",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -3302,7 +3316,7 @@
         "chair": ""
     },
     "s-sdc": {
-        "s_title": "SDC",
+        "s_title": "Special: Student Design Competition Finals",
         "room": "317BC",
         "time": "14:30-15:50",
         "submissions": [
@@ -3319,7 +3333,7 @@
         "chair": ""
     },
     "s-sgc": {
-        "s_title": "SGC",
+        "s_title": "Special: Student Game Competition Finals",
         "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
@@ -3336,8 +3350,8 @@
         "chair": ""
     },
     "s168": {
-        "s_title": "FnT 1",
-        "room": "E4",
+        "s_title": "Special: Foundations &amp; Trends in HCI 1",
+        "room": "E1/E2",
         "time": "11:30-12:50",
         "submissions": [
             "pn5138",
@@ -3351,10 +3365,10 @@
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Gregory Abowd"
     },
     "s169": {
-        "s_title": "FnT 2",
+        "s_title": "Special: Foundations &amp; Trends in HCI 2",
         "room": "E4",
         "time": "11:30-12:50",
         "submissions": [
@@ -3369,6 +3383,6 @@
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Yvonne Rogers"
     }
 }
