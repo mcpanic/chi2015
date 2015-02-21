@@ -5,7 +5,7 @@
     <h1>Program</h1>
 
 <div>
-  <p>The CHI 2015 program will be updated as more venues finalize their schedule.</p>
+  <p>The <a href="<?php echo $prefix; ?>/program/full_schedule">CHI 2015 full program</a> is now available. You can check it out <a href="<?php echo $prefix; ?>/program/full_schedule">here</a></p>.
 
   <p>
     This year, CHI is planning to provide simultaneous translation from English to Chinese,

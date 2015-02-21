@@ -15,6 +15,11 @@ echo '
 			"link": "/program/",
 			"sub_links" : [
 				{
+					"rank": -1,
+					"title": "Full Schedule",
+					"link": "/program/full_schedule/"
+				},
+				{
 					"rank": 0,
 					"title": "Schedule at a Glance",
 					"link": "/program/schedule_glance/"

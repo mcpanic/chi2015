@@ -48,6 +48,7 @@ include "production.php";
         <script src="<?php echo $prefix; ?>/js/angular/angular-sanitize.min.js"></script>
         <script src="<?php echo $prefix; ?>/js/angular/angular-resource.min.js"></script>
         <script src="<?php echo $prefix; ?>/js/angular/angular-route.min.js"></script>
+        <script src="<?php echo $prefix; ?>/js/angular/angular-animate.min.js"></script>
 
 
         <script src="<?php echo $prefix; ?>/js/angular/modules/main_app.js"></script>

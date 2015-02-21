@@ -1,4 +1,4 @@
-angular.module('chi2015_app', ['chi2015_controllers', 'ngRoute']);
+angular.module('chi2015_app', ['chi2015_controllers', 'ngRoute', 'ngAnimate']);
 angular.module('chi2015_controllers', ["ngSanitize", "chi2015_services"]);
 angular.module('chi2015_services', ['ngResource']);
 
