@@ -128,6 +128,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 	function($scope, papers_factory, sessions_factory, schedules_factory, $window, 
 		     $location, $anchorScroll){
 
+	$scope.hide_icons = false
 	$scope.schedule = [];
 	$scope.sessions = {};
 	$scope.papers = {};

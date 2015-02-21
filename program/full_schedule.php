@@ -79,10 +79,10 @@
 									</div>
 									<div class="full_schedule_session_room">
 										<span class="full4_session_img">
-											<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="sessions[session.session].hasAward && !session.hover"/>
-											<img src="<?php echo $prefix; ?>/img/program/best_white.png" ng-if="sessions[session.session].hasAward && session.hover"/>
-											<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="sessions[session.session].hasHonorableMention && !session.hover"/>
-											<img src="<?php echo $prefix; ?>/img/program/honorable_white.png" ng-if="sessions[session.session].hasHonorableMention && session.hover"/>
+											<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="sessions[session.session].hasAward && !session.hover && hide_icons"/>
+											<img src="<?php echo $prefix; ?>/img/program/best_white.png" ng-if="sessions[session.session].hasAward && session.hover && hide_icons"/>
+											<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="sessions[session.session].hasHonorableMention && !session.hover && hide_icons"/>
+											<img src="<?php echo $prefix; ?>/img/program/honorable_white.png" ng-if="sessions[session.session].hasHonorableMention && session.hover && hide_icons"/>
 										</span>
 										<span class="full_schedule_session_room_text" ng-bind="'Rm: '+sessions[session.session].room">
 
@@ -119,8 +119,8 @@
 											<h4 class="full_schedule_submission_h4">
 
 												<span ng-bind="papers[submissions].title"></span>
-												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award"/>
-												<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm"/>
+												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
+												<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
 
 											</h4>
 
