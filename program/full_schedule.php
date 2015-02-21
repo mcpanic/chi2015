@@ -12,7 +12,7 @@
 
 		<!-- Add buttons and Search bar here -->
 		<div class="row full_schedule_options">
-			<div class="full_schedule_checkbox col-xs-9">
+			<div class="full_schedule_checkbox col-sm-9">
 				<b><i>View by:</i></b><br/>
 				<div class="row">
 					<form>
@@ -38,7 +38,7 @@
 				</div>
 			</div>
 
-			<div class="full_schedule_search col-xs-3">
+			<div class="full_schedule_search col-sm-3">
 				<form>
 					<input type="text" class="form-control" id="search" ng-model="full_schedule_query" placeholder="Search here">
 				</form>
