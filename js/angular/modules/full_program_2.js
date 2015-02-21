@@ -200,6 +200,10 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 			index: 7
 		}
 	}
+	$scope.schedule_days = [
+		"Monday", "Tuesday", "Wednesday", "Thursday" 
+	]
+
 	var sm = 768
 	var md = 992
 
@@ -290,8 +294,9 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 		//if ($scope.focused_group) $scope.focus();		
 	}
 
-	$scope.focus = function() {
-		$location.hash("focus");
+	$scope.focus = function(id) {
+		if (id=="" || id==null) id="focus"
+		$location.hash(id);
 		$anchorScroll();
 	}
 

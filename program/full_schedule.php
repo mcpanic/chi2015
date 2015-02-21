@@ -16,7 +16,7 @@
 				<b><i>View by:</i></b><br/>
 				<div class="row">
 					<form>
-						<div class="col-xs-2 col-sm-3" ng-repeat="type in session_type | session_type_filter" style="margin-top: 10px">
+						<div class="col-xs-6 col-sm-3" ng-repeat="type in session_type | session_type_filter" style="margin-top: 10px">
 							<input type="checkbox" style="margin-right: 10px" ng-model="type.bool" 
 							ng-click="toggle_legends(type.id)"/>
 							<img 
@@ -25,6 +25,16 @@
 							<span ng-bind="type.name"></span>
 						</div>
 					</form>
+				</div>
+				<div style="margin-top: 10px">
+					<b><i>Jump to</i></b>
+					<div class="row">
+						<div class="col-xs-6 col-sm-3 btn" ng-repeat="day_word in schedule_days" ng-click="focus(day_word)">
+							<div style="" ng-bind="day_word">
+
+							</div>
+						</div>
+					</div>
 				</div>
 			</div>
 
