@@ -316,13 +316,41 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
 	$scope.toggle_legends = function(id) {
 		if (id=="all") {
-			
-			for (var i in $scope.session_type) {
-				if (i!="all")
-				$scope.session_type[i].bool = $scope.session_type["all"].bool
+			var check_all = false
+			if (!$scope.session_type["all"].bool) {
+				for (var j in $scope.session_type) {
+
+					if (j!="all") {
+						if (!$scope.session_type[j].bool) {
+							check_all = true
+							$scope.session_type[j].bool = true
+						}
+					}
+				}
+				if (!check_all) {
+					for (var k in $scope.session_type) {
+					if (k!="all")
+						$scope.session_type[k].bool = $scope.session_type["all"].bool
+					}
+				}
+				else $scope.session_type["all"].bool=true
+
 			}
-			
+			else {
+				for (var i in $scope.session_type) {
+				if (i!="all")
+					$scope.session_type[i].bool = $scope.session_type["all"].bool
+				}
+			}		
 		}
+		else if (!$scope.session_type[id].bool && $scope.session_type["all"].bool) {
+			for (var k in $scope.session_type) {
+			if (k!=id)
+				$scope.session_type[k].bool = false
+			}
+			$scope.session_type[id].bool = true
+		}
+		
 		// console.log($scope.session_type)
 	}
 
