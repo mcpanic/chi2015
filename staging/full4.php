@@ -56,7 +56,7 @@
 									</span>
 								
 									<div ng-repeat="submissions in sessions[session.session].submissions">
-										<h4 >
+										<h4 class="full4_submission_h4">
 											<span ng-bind="papers[submissions].title"></span>
 											<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award"/>
 											<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm"/>
