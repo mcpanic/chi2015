@@ -40,7 +40,7 @@
 
 			<div class="full_schedule_search col-sm-3">
 				<form>
-					<input type="text" class="form-control" id="search" ng-model="full_schedule_query" placeholder="Search here">
+					<input type="text" class="form-control" id="search" ng-model="full_schedule_query" placeholder="Search Paper, Title, Author, Country">
 				</form>
 			</div>
 		</div>

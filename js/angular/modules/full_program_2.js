@@ -21,6 +21,10 @@ function check_query(objs, sessions, papers, type, query) {
 					type[sessions[session_index].type].bool) {
 					filtered.push(objs[i])
 				}
+				if (sessions[session_index].chair.toLowerCase().indexOf(query) > -1 && 
+					type[sessions[session_index].type].bool) {
+					filtered.push(objs[i])
+				}
 				else {
 					for (var k in sessions[session_index].submissions) {
 						var paper_index = sessions[session_index].submissions[k]
@@ -40,7 +44,33 @@ function check_query(objs, sessions, papers, type, query) {
 										break;
 									}
 								}
-								if (checker) break;
+								if (checker) {
+									break;
+								}
+								else {
+									for (var m in papers[paper_index].authors) {
+										if (papers[paper_index].authors[m].name.toLowerCase().indexOf(query) > -1 &&
+											type[sessions[session_index].type].bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].city.toLowerCase().indexOf(query) > -1 &&
+												 type[sessions[session_index].type].bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].country.toLowerCase().indexOf(query) > -1 &&
+												 type[sessions[session_index].type].bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+
+									}
+									if (checker) break;
+								}
 							}
 						}
 
