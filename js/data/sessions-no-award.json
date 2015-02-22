@@ -677,7 +677,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Kening Zhu"
     },
@@ -717,7 +717,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Rongrong Wang"
     },
@@ -737,7 +737,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Rodrigo de Oliveira"
     },
@@ -758,7 +758,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Thecla Schiphorst"
     },
@@ -798,8 +798,8 @@ sessions={
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Patrick Baudisch"
     },
@@ -819,7 +819,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "John Vines"
     },
@@ -859,7 +859,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Ron Wakkary"
     },
@@ -939,8 +939,8 @@ sessions={
         "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Germaine Irwin"
     },
@@ -999,7 +999,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Emilee Rader"
     },
@@ -1019,7 +1019,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David Kim"
     },
@@ -1040,7 +1040,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Siân E Lindley"
     },
@@ -1101,7 +1101,7 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Antonella De Angeli"
@@ -1121,8 +1121,8 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Brent Hecht"
     },
@@ -1164,8 +1164,8 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": ""
     },
@@ -1226,7 +1226,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Marianna Obrist"
     },
@@ -1266,7 +1266,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jina Huh"
     },
@@ -1286,7 +1286,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Christophe Hurter"
     },
@@ -1305,7 +1305,7 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Anirudha Joshi"
@@ -1326,8 +1326,8 @@ sessions={
         "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Simon J Bowen"
     },
@@ -1347,7 +1347,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Shuli Gilutz"
     },
@@ -1367,7 +1367,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Ellen Yi-Luen Do"
     },
@@ -1388,7 +1388,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Bongwon Suh"
     },
@@ -1407,8 +1407,8 @@ sessions={
         "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Volker Wulf"
     },
@@ -1449,7 +1449,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jessica Cauchard"
     },
@@ -1470,7 +1470,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Amy Ogan"
     },
@@ -1490,8 +1490,8 @@ sessions={
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Martin Halvey"
     },
@@ -1552,7 +1552,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Benjamin Bach"
     },
@@ -1591,8 +1591,8 @@ sessions={
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Liang Gou"
     },
@@ -1654,7 +1654,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Naomi Yamashita"
     },
@@ -1673,7 +1673,7 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Diego Martinez Plasencia"
@@ -1693,8 +1693,8 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Malte F Jung"
     },
@@ -1714,7 +1714,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Susan Dumais"
     },
@@ -1754,8 +1754,8 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Michael Rohs"
     },
@@ -1795,7 +1795,7 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David Shamma"
@@ -1837,7 +1837,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Ian Oakley"
     },
@@ -1898,8 +1898,8 @@ sessions={
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Max Wilson"
     },
@@ -1941,7 +1941,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Bongshin Lee"
     },
@@ -1962,7 +1962,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David R Flatla"
     },
@@ -1983,7 +1983,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jaime Teevan"
     },
@@ -2003,7 +2003,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Benjamin V Hanrahan"
     },
@@ -2265,7 +2265,7 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Xiaojuan Ma"
@@ -2287,7 +2287,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Shaun K Kane"
     },
@@ -2307,7 +2307,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David Geerts"
     },
@@ -2328,7 +2328,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Pernille Bjorn"
     },
@@ -2348,7 +2348,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Steven M Drucker"
     },
@@ -2369,7 +2369,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jörg Müller"
     },
@@ -2390,7 +2390,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Yang Li"
     },
@@ -2411,7 +2411,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Theophanis Tsandilas"
     },
@@ -2451,7 +2451,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Katharina Reinecke"
     },
@@ -2471,7 +2471,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Hao-Chuan Wang"
     },
@@ -2491,7 +2491,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Adrian K Clear"
     },
@@ -2511,7 +2511,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Uichin Lee"
     },
@@ -2531,7 +2531,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Meredith R Morris"
     },
@@ -2571,7 +2571,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jan D Smeddinck"
     },
@@ -2590,7 +2590,7 @@ sessions={
         "day": "Tuesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jennifer Marlow"
@@ -2632,7 +2632,7 @@ sessions={
         "day": "Thursday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Svetlana Yarosh"
@@ -2673,8 +2673,8 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Suranga Nanayakkara"
     },
@@ -2695,7 +2695,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Lena Mamykina"
     },
@@ -2715,7 +2715,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Regan L Mandryk"
     },
@@ -2735,7 +2735,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David Coyle"
     },
@@ -2755,7 +2755,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": ""
     },
@@ -2776,7 +2776,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Yi-Ping Hung"
     },
@@ -2796,7 +2796,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "N. Sadat Shami"
     },
@@ -2816,7 +2816,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Tom Gross"
     },
@@ -2836,7 +2836,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Mark Blythe"
     },
@@ -2876,7 +2876,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Juho Kim"
     },
@@ -2896,7 +2896,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Alexander De Luca"
     },
@@ -2918,7 +2918,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Andrea Bianchi"
     },
@@ -2961,7 +2961,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Elena L Glassman"
     },
@@ -2980,7 +2980,7 @@ sessions={
         "day": "Wednesday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
+        "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Shengdong Zhao"
@@ -3002,7 +3002,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Joonhwan Lee"
     },
@@ -3043,7 +3043,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Giulio Jacucci"
     },
@@ -3064,7 +3064,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Luciano Gamberini"
     },
@@ -3104,7 +3104,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "David England"
     },
@@ -3125,7 +3125,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Wendy E Mackay"
     },
@@ -3145,7 +3145,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Jonathan Hook"
     },
@@ -3165,7 +3165,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Davide Spano"
     },
@@ -3204,8 +3204,8 @@ sessions={
         "day": "Monday",
         "s_tags": [],
         "type": "paper",
-        "hasAward": true,
-        "hasHonorableMention": true,
+        "hasAward": false,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Harald Reiterer"
     },
@@ -3225,7 +3225,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Stefanie Mueller"
     },
@@ -3245,7 +3245,7 @@ sessions={
         "s_tags": [],
         "type": "paper",
         "hasAward": false,
-        "hasHonorableMention": true,
+        "hasHonorableMention": false,
         "subtype": "paper",
         "chair": "Andres Monroy-Hernandez"
     },

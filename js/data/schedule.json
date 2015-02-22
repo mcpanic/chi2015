@@ -6,6 +6,7 @@ schedule=[
             {
                 "slot_id": "Monday_11_30_12_50",
                 "time": "11:30 - 12:50",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s-float-6",
@@ -68,6 +69,7 @@ schedule=[
             {
                 "slot_id": "Monday_14_30_15_50",
                 "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
                 "sessions": [
                     {
                         "session": "s-award3",
@@ -134,6 +136,7 @@ schedule=[
             {
                 "slot_id": "Monday_16_30_17_50",
                 "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
                 "sessions": [
                     {
                         "session": "s134",
@@ -202,6 +205,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_9_30_10_50",
                 "time": "9:30 - 10:50",
+                "slot_class": "morning1",
                 "sessions": [
                     {
                         "session": "s141",
@@ -264,6 +268,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_11_30_12_50",
                 "time": "11:30 - 12:50",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s154",
@@ -330,6 +335,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_14_30_15_50",
                 "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
                 "sessions": [
                     {
                         "session": "s-award2",
@@ -392,6 +398,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_16_30_17_50",
                 "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
                 "sessions": [
                     {
                         "session": "s117",
@@ -464,6 +471,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_9_30_10_50",
                 "time": "9:30 - 10:50",
+                "slot_class": "morning1",
                 "sessions": [
                     {
                         "session": "s166",
@@ -522,6 +530,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_11_30_12_50",
                 "time": "11:30 - 12:50",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s-float-49",
@@ -588,6 +597,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_14_30_15_50",
                 "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
                 "sessions": [
                     {
                         "session": "s-award1",
@@ -650,6 +660,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_16_30_17_50",
                 "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
                 "sessions": [
                     {
                         "session": "s106",
@@ -722,6 +733,7 @@ schedule=[
             {
                 "slot_id": "Thursday_9_30_10_50",
                 "time": "9:30 - 10:50",
+                "slot_class": "morning1",
                 "sessions": [
                     {
                         "session": "s105",
@@ -780,6 +792,7 @@ schedule=[
             {
                 "slot_id": "Thursday_11_30_12_50",
                 "time": "11:30 - 12:50",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s150",
@@ -834,6 +847,7 @@ schedule=[
             {
                 "slot_id": "Thursday_14_30_15_50",
                 "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
                 "sessions": [
                     {
                         "session": "s-float-9",
