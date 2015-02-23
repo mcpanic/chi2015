@@ -75,7 +75,8 @@
 								<div class="full_schedule_cell_inside full_schedule_bg"
 								style="background-image: url('<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_bg.png')" 
 								>
-									<div ng-bind-html="sessions[session.session].s_title" class="full_schedule_session_title" >
+									<div class="full_schedule_session_title" >
+										<span ng-bind-html="sessions[session.session].s_title.substr(0, 70).trim()" ></span><span ng-if="sessions[session.session].s_title.length>70">...</span>
 									</div>
 									<div class="full_schedule_session_room">
 										<span class="full4_session_img">
