@@ -48,9 +48,18 @@ function check_query(objs, sessions, papers, type, query) {
 									break;
 								}
 								else {
+
 									for (var m in papers[paper_index].authors) {
+										var reverse_name = papers[paper_index].authors[m].familyName.toLowerCase() + ", "+
+									                   papers[paper_index].authors[m].givenName.toLowerCase()
 										if (papers[paper_index].authors[m].name.toLowerCase().indexOf(query) > -1 &&
 											type[sessions[session_index].type].bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (reverse_name.toLowerCase().indexOf(query) > -1 &&
+												 type[sessions[session_index].type].bool) {
 											filtered.push(objs[i])
 											checker = true
 											break;
