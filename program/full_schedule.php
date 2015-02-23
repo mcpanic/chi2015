@@ -30,7 +30,7 @@
 					<b><i>Jump to</i></b>
 					<div class="row">
 						<div class="col-xs-6 col-sm-3 btn" ng-repeat="day_word in schedule_days" ng-click="focus(day_word)">
-							<div style="" ng-bind="day_word">
+							<div class="day-button" ng-bind="day_word">
 
 							</div>
 						</div>
