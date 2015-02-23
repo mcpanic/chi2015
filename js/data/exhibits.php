@@ -10,7 +10,7 @@ echo '
 	        "name": "Golfzon",
 	        "link": "http://golfsimulator.golfzon.com/",
 	        "Booth": "17 & 18",
-	        "Description": "We’re presenting golf in a way never seen before to provide golf in a new way for our customers. We deliver true enjoyment and unique perspectives to create a new kind of golf culture. Furthermore, based on our technologies in sensors, network, 3D vision etc, Golfzon pursue an objective to establish a new "culture of play" over the golf, in the domain of sports, leisure, entertainment and more."
+	        "Description": "We’re presenting golf in a way never seen before to provide golf in a new way for our customers. We deliver true enjoyment and unique perspectives to create a new kind of golf culture. Furthermore, based on our technologies in sensors, network, 3D vision etc, Golfzon pursue an objective to establish a new \"culture of play\" over the golf, in the domain of sports, leisure, entertainment and more."
 	      },
 	      {
           "name": "Google",
