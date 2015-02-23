@@ -9,7 +9,7 @@ echo '
         {
           "name": "Samsung",
           "link": "http://samsung.com/",
-          "Booth": "",
+          "Booth": "34 & 35",
           "Description": ""
         }
       ]
