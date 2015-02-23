@@ -3,6 +3,17 @@ header('Content-Type: application/json');
 echo '
 {
 	"data" : [
+    {
+      "group": "Hero Sponsor Exhibitors",
+      "data": [
+        {
+          "name": "Samsung",
+          "link": "http://samsung.com/",
+          "Booth": "",
+          "Description": ""
+        }
+      ]
+    },
 	  {
 	    "group": "Champion Sponsor Exhibitors",
 	    "data": [
@@ -23,6 +34,12 @@ echo '
           "link": "http://www.microsoft.com",
           "Booth": "1, 2 & 3",
           "Description": "At Microsoft, we have a passion for HCI. Our Design and Research professions impact the interactions of millions of users around the globe. At Microsoft, you would collaborate with brilliant people on projects with the potential to change the world. Come by our booth to play, pick up free swag, enter to win Microsoft prizes, and chat about the great opportunities for shaping HCI at Microsoft."
+        },
+        {
+          "name": "SK Planet",
+          "link": "http://www.skplanet.com/eng/",
+          "Booth": "23",
+          "Description": ""
         }
 	    ]
 	  },
@@ -64,6 +81,12 @@ echo '
           "link": "http://as.wiley.com/WileyCDA/Section/index.html",
           "Booth": "TBD",
           "Description": "Wiley is a global provider of knowledge and knowledge-enabled services that improve outcomes in areas of research, professional practice, and education, with online tools, journals, books, databases, reference works and laboratory protocols. With strengths in every major academic, scientific and professional field, we partners with over 800 prestigious societies representing two million members."
+        },
+        {
+          "name": "Letsee Inc.",
+          "link": "www.letsee.kr",
+          "Booth": "TBD",
+          "Description": "Letsee’s webized AR technology lets users to augment existing web contents to objects and places around us. Our unique web-based AR content structure enables users to create AR contents instantly and have realtime interaction with other users. With our platform, anyone can contribute their own contents creating a healthy content-ecosystem filled with user-created valuable digital assets."
         },
         {
           "name": "Morgan & Claypool Publishers",
@@ -124,12 +147,6 @@ echo '
           "link": "http://www.vtouchinc.com/",
           "Booth": "8",
           "Description": "Vtouch provides the most natural way of interacting with devices and things such as TV, light, thermostat, photo album, etc. The Vtouch interface works from a distance by tracking users\' eyes and fingers with camera, which enables the users to directly click what they see without any delay or preparation, as tapping a smartphone app."
-        },
-        {
-          "name": "Letsee Inc",
-          "link": "www.letsee.kr",
-          "Booth": "TBD",
-          "Description": "Letsee’s webized AR technology lets users to augment existing web contents to objects and places around us. Our unique web-based AR content structure enables users to create AR contents instantly and have realtime interaction with other users. With our platform, anyone can contribute their own contents creating a healthy content-ecosystem filled with user-created valuable digital assets."
         }
       ]
     }

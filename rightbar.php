@@ -30,6 +30,11 @@
             <img alt="Naver" title="Sponsored by Naver" width="140px" src="<?php echo $prefix; ?>/img/sponsors/naver-140.png">
             </a>
         </p>
+        <p>
+            <a class="sLink" href="http://www.skplanet.com/eng/" target="_blank">
+            <img alt="SK Planet" title="Sponsored by SK Planet" width="140px" src="<?php echo $prefix; ?>/img/sponsors/skplanet_color.jpg">
+            </a>
+        </p>
 <!--
 		<div>company 2</div>
 		<div>company 3</div>
