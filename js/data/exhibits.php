@@ -10,7 +10,7 @@ echo '
 	        "name": "Golfzon",
 	        "link": "http://golfsimulator.golfzon.com/",
 	        "Booth": "17 & 18",
-	        "Description": ""
+	        "Description": "We’re presenting golf in a way never seen before to provide golf in a new way for our customers. We deliver true enjoyment and unique perspectives to create a new kind of golf culture. Furthermore, based on our technologies in sensors, network, 3D vision etc, Golfzon pursue an objective to establish a new "culture of play" over the golf, in the domain of sports, leisure, entertainment and more."
 	      },
 	      {
           "name": "Google",
@@ -124,6 +124,12 @@ echo '
           "link": "http://www.vtouchinc.com/",
           "Booth": "8",
           "Description": "Vtouch provides the most natural way of interacting with devices and things such as TV, light, thermostat, photo album, etc. The Vtouch interface works from a distance by tracking users\' eyes and fingers with camera, which enables the users to directly click what they see without any delay or preparation, as tapping a smartphone app."
+        },
+        {
+          "name": "Letsee Inc",
+          "link": "www.letsee.kr",
+          "Booth": "TBD",
+          "Description": "Letsee’s webized AR technology lets users to augment existing web contents to objects and places around us. Our unique web-based AR content structure enables users to create AR contents instantly and have realtime interaction with other users. With our platform, anyone can contribute their own contents creating a healthy content-ecosystem filled with user-created valuable digital assets."
         }
       ]
     }
