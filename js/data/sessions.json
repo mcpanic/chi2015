@@ -985,10 +985,11 @@ sessions={
         "chair": "Will Odom"
     },
     "s116": {
-        "s_title": "Social Security Configurations&nbsp;",
+        "s_title": "Privacy, Security &amp; Interruptions",
         "room": "E4",
         "time": "14:30-15:50",
         "submissions": [
+            "pn169",
             "pn1266",
             "pn904",
             "pn1501"
@@ -1604,7 +1605,7 @@ sessions={
             "pn466",
             "pn763",
             "pn1480",
-            "pn169"
+            "pn895"
         ],
         "personas": "",
         "venue": "paper",
@@ -2757,7 +2758,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Tae-Jung Yun"
     },
     "s-float-26": {
         "s_title": "Home Physiotherapy &amp; Rehabilitation",
@@ -3011,11 +3012,11 @@ sessions={
         "room": "E4",
         "time": "14:30-15:50",
         "submissions": [
-            "pn895",
             "pn2244",
             "pn371",
             "pn287",
-            "pn2478"
+            "pn2478",
+            "pn655"
         ],
         "personas": "",
         "venue": "paper",
