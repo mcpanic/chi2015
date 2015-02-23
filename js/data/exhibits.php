@@ -10,7 +10,7 @@ echo '
           "name": "Samsung",
           "link": "http://samsung.com/",
           "Booth": "34 & 35",
-          "Description": ""
+          "Description": "TBD"
         }
       ]
     },
@@ -64,6 +64,12 @@ echo '
     {
       "group": "Additional Exhibitors",
       "data": [
+        {
+          "name": "Apropose",
+          "link": "http://www.apropose.com",
+          "Booth": "9",
+          "Description": "Spun out of the Stanford computer science department in 2013, Apropose brings data to the design process. Our analytics platform helps designers search, aggregate, and operationalize design data from the millions of sites on the Web. Apropose empowers designers to make better design decisions, more quickly, with greater confidence."
+        },
         {
           "name": "ELSEVIER",
           "link": "http://www.elsevier.com/computerscience",
