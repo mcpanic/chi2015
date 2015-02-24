@@ -1088,7 +1088,7 @@ sessions={
         "chair": "Toni-Jan Keith Monserrat"
     },
     "s121": {
-        "s_title": "She or He - Does it Matter?",
+        "s_title": "Gender &amp; Technology",
         "room": "E4",
         "time": "11:30-12:50",
         "submissions": [
@@ -1168,7 +1168,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Gary Hsieh"
     },
     "s125": {
         "s_title": "GUI Size, Resolution &amp; Layout",
@@ -1819,7 +1819,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Scott R Klemmer"
     },
     "s157": {
         "s_title": "What do I hear? Communicating with Sound",
@@ -2047,7 +2047,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": ""
+        "chair": "Sharon Oviatt"
     },
     "s-panel1": {
         "s_title": "Panel: Transfer of HCI Research Innovations",
@@ -2517,7 +2517,7 @@ sessions={
         "chair": "Uichin Lee"
     },
     "s-float-14": {
-        "s_title": "Motivating Crowd Workers",
+        "s_title": "Motivation &amp; Participation",
         "room": "E3",
         "time": "9:30-10:50",
         "submissions": [
@@ -3265,7 +3265,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": ""
+        "chair": "Jacob Robert"
     },
     "s-award2": {
         "s_title": "Special: SIGCHI Lifetime Research Award",
@@ -3282,7 +3282,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": ""
+        "chair": "Scott R Klemmer"
     },
     "s-award3": {
         "s_title": "Special: SIGCHI Social Impact Award",
@@ -3299,7 +3299,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": ""
+        "chair": "Loren Terveen"
     },
     "s-src": {
         "s_title": "Special: Student Research Competition Finals",

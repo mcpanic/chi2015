@@ -141,8 +141,15 @@
 												<span ng-if="sessions[session.session].type=='altchi'">
 													<b><i>Authors</i></b>
 												</span>
-												<span ng-if="sessions[session.session].type=='special'">
+												<span ng-if="sessions[session.session].type=='special' && 
+												              !(session.session=='s-src' || session.session=='s-sdc' ||
+												             session.session=='s-sgc')  ">
 													<b><i>Hosts</i></b>
+												</span>
+												<span ng-if="sessions[session.session].type=='special' && 
+												             (session.session=='s-src' || session.session=='s-sdc' ||
+												             session.session=='s-sgc')">
+													<b><i>Judges</i></b>
 												</span>
 												<span ng-if="sessions[session.session].type=='course'">
 													<b><i>Facilitators</i></b>
