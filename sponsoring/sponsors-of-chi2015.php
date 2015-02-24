@@ -35,6 +35,9 @@
 <hr>
   <h4 id="friends">Friends of CHI</h4>
 
+  <div class="sponsor">
+     Adobe Systems, Inc.
+  </div>
 </div>
 
 
