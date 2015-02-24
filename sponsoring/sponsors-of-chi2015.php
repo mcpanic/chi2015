@@ -25,6 +25,8 @@
   <h4 id="contributors">Contributors</h4>
     <div class="sponsor"><a href="http://www.autodesk.com/" target="_blank"><img width="160" alt="Autodesk" title="Sponsored by Autodesk" src="<?php echo $prefix; ?>/img/sponsors/autodesk.png" border="0"></a></div>
 
+    <div class="sponsor"><a href="http://www.daumkakao.com/en/main" target="_blank"><img width="160" alt="DaumKakao" title="Sponsored by DaumKakao" src="<?php echo $prefix; ?>/img/sponsors/daumkakao.png" border="0"></a></div>
+
     <div class="sponsor"><a href="http://www.disneyresearch.com/" target="_blank"><img width="160" alt="Disney Research" title="Sponsored by Disney Research" src="<?php echo $prefix; ?>/img/sponsors/disney.png" border="0"></a></div>
 
     <div class="sponsor"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
