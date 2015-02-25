@@ -39,7 +39,7 @@ echo '
           "name": "SK Planet",
           "link": "http://www.skplanet.com/eng/",
           "Booth": "23",
-          "Description": "Based on its open platform, SK Planet creates values in diverse business areas. Shop kick is a mobile shopping companion that delights customers with rewards and promotions to drive foot traffic for retailers, and build in-store engagement for brands. Syrup’s Mall Guide is mobile guide that informs and delivers benefits through BLE to support customers to have enjoyable shopping experience."
+          "Description": "Based on its open platform, SK Planet creates values in diverse business areas. Shop kick is a mobile shopping companion that delights customers with rewards and promotions to drive foot traffic for retailers, and build in-store engagement for brands. Syrup’s Mall Guide is a mobile guide that informs and delivers benefits through BLE to support customers to have an enjoyable shopping experience."
         }
 	    ]
 	  },
