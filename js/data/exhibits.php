@@ -21,7 +21,7 @@ echo '
 	        "name": "Golfzon",
 	        "link": "http://golfsimulator.golfzon.com/",
 	        "Booth": "17 & 18",
-	        "Description": "We’re presenting golf in a way never seen before to provide golf in a new way for our customers. We deliver true enjoyment and unique perspectives to create a new kind of golf culture. Furthermore, based on our technologies in sensors, network, 3D vision etc, Golfzon pursue an objective to establish a new \"culture of play\" over the golf, in the domain of sports, leisure, entertainment and more."
+	        "Description": "We’re presenting golf in a way never seen before. Golfzon\'s product combine the best of golf and IT to offer new levels of fun and unforgettable experiences. Our golf simulators utilize numerous innovative technologies such as sensors, networks, and 3D vision to provide an immersive and enjoyable experience to improving your golf game.  Our goal is to establish a new golf culture to share with customers and build global relationships not only in the golf industry but also in even other industries."
 	      },
 	      {
           "name": "Google",
