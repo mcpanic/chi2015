@@ -35706,6 +35706,18 @@ entities={
                 "location": "Taipei, Taiwan"
             },
             {
+                "name": "Chiuan Wang",
+                "givenName": "Chiuan",
+                "middleInitial": "",
+                "familyName": "Wang",
+                "dept": "Computer Science And Information Engineering",
+                "institution": "National Taiwan University",
+                "city": "Taipei",
+                "country": "Taiwan",
+                "affiliation": "Computer Science And Information Engineering, National Taiwan University",
+                "location": "Taipei, Taiwan"
+            },
+            {
                 "name": "Mike Y Chen",
                 "givenName": "Mike",
                 "middleInitial": "Y.",
@@ -35717,6 +35729,7 @@ entities={
                 "affiliation": "National Taiwan University",
                 "location": "Taipei, Taiwan"
             }
+            
         ],
         "type": "paper",
         "subtype": "Note",
