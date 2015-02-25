@@ -123,7 +123,9 @@ Over the last decade, the rise of web services has made it possible to gather tr
 <h3>Closing Plenary</h3>
 <h4>PSY</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/psy.png" width="200px" class="speaker-image">
-
+<h5>Cultural Crossing from Local to Global through Music: Technology, Media, and Future</h5>
+<p> Many people think that the global success of the song Gangnam Style has contributed to the tremendous success of the Korean Wave. Being in front of experts in technology and human interactions, I’d like to share my thinking and story about questions like the following: What was the effect of global social media such as YouTube on the global crossing of local culture? How do I plan and utilize the new way of interacting with audience across national and cultural boundaries? Reflecting on the great success of Gangnam Style, what was the main trigger to the big bang of the spread of the Korean wave? As both a musician and an entrepreneur, what do I think is the new process from the ideation of a new song to a global distribution, publicity, and performance of that song? For the creativity that can be appreciated by global audience, how do I think about the technology and media of the future, in terms of creative works? I am looking forward to sharing my experience and opinion here at CHI 2015.
+</p>
 <p>
 <strong>Biography</strong>: Jai Sang Park, better known as PSY, is a singer-songwriter, record producer, rapper and entrepreneur.  He is best known for producing the first video on YouTube to have exceeded 1 billion views.  , Gangnam Style is still the most viewed video at over 2.14 billion views, breaking the software counter on the online service.  His provocative and irreverent lyrics and style have led to dozens of music awards across the globe.
 </p>
