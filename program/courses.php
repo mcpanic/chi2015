@@ -28,7 +28,7 @@
                             <td class="course_room_header">Room</td>
                             <td class="course_time">9:30 - 10:50</td>
                             <td class="course_time">11:30 - 12:50</td>
-                            <td class="course_time">14:30 - 15:30</td>
+                            <td class="course_time">14:30 - 15:50</td>
                             <td class="course_time">16:40 - 17:50</td>
                         </tr>
                     </thead>
@@ -100,7 +100,7 @@
                     </tr>
 
                     <tr ng-if="day.day!='Thursday'">
-                        <td class="m_course_time">14:30 - 15:30</td>
+                        <td class="m_course_time">14:30 - 15:50</td>
                     </tr>
                     <tr ng-if="day.day!='Thursday'">
                         <td>

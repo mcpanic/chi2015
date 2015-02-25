@@ -326,7 +326,7 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 			},
 			c27: {
 				id : "C27",
-				short_title: "Psychological Bases for UI Design",
+				short_title: "Psychological Basis for UI Design",
 				paper_title: "Designing with the Mind in Mind: The Psychological Basis for UI Design Guidelines",
 				author: "Johnson, Jeff",
 				instructor: "Jeff Johnson , UI Wizards, Inc, San Francisco, California, United States",
