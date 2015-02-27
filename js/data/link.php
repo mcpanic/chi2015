@@ -17,12 +17,12 @@ echo '
 				{
 					"rank": -1,
 					"title": "Full Schedule",
-					"link": "/program/full_schedule/"
+					"link": "/program/full-schedule/"
 				},
 				{
 					"rank": 0,
 					"title": "Schedule at a Glance",
-					"link": "/program/schedule_glance/"
+					"link": "/program/schedule-glance/"
 				},
 				{
 					"rank": 1,
