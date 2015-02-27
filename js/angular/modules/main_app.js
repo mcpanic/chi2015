@@ -3,7 +3,7 @@ angular.module('chi2015_controllers', ["ngSanitize", "chi2015_services"]);
 angular.module('chi2015_services', ['ngResource']);
 
 angular.module('chi2015_app').config(['$routeProvider','$locationProvider', function($routeProvider, $locationProvider){
- 
+
  $routeProvider.otherwise({redirectTo: window.location.pathname})
 
  $locationProvider.html5Mode({
@@ -46,7 +46,7 @@ angular.module('chi2015_controllers').controller('link_controller',
 				else if (array[link_num].trim()==link) return "selected";
 				else return "";
 			}
-			else return "";					
+			else return "";
 		}
 
 		$scope.is_selected_dropdown = function(link) {
@@ -61,11 +61,11 @@ angular.module('chi2015_controllers').controller('link_controller',
 		function start(){
 
 			link_factory.get({}, function(data){
-				
+
 				$scope.data = data.data;
-				
+
 				for (var i in $scope.data) {
-					$scope.data[i].sub_links_count = $scope.data[i].sub_links.length 
+					$scope.data[i].sub_links_count = $scope.data[i].sub_links.length
 				}
 			})
 		}

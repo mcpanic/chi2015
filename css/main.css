@@ -145,7 +145,7 @@ blockquote p {
 }
 
 .nav li a.dropdown-toggle {
-  background-color: transparent;	
+  background-color: transparent;
 }
 
 .nav li ul {
@@ -503,7 +503,7 @@ footer {
 	padding: 0 20px;
 }
 
-.course-entry .go-back-up {	
+.course-entry .go-back-up {
 	margin-top: 10px;
 }
 
@@ -540,7 +540,7 @@ table.course_schedule td.course_room {
 	text-align: center;
 	font-weight: bold;
 	background-color: #F2F2F2;
-	
+
 }
 
 table.course_schedule td.empty_slot {
@@ -550,11 +550,11 @@ table.course_schedule td.empty_slot {
 table.course_schedule td.course_entry {
 	text-align: center;
 	vertical-align: middle;
-	padding: 10px 5px;	
+	padding: 10px 5px;
 }
 
 table.course_schedule td {
-	border: 1px solid #b4b4b4;	
+	border: 1px solid #b4b4b4;
 	background-color: rgb(255, 255, 255);
 }
 
@@ -606,7 +606,7 @@ table.m_course_schedule table.m_course_room_table td.m_empty_slot {
 }
 
 table.m_course_schedule table.m_course_room_table td {
-	border: 1px solid #b4b4b4;	
+	border: 1px solid #b4b4b4;
 	background-color: rgb(255, 255, 255);
 }
 
@@ -736,6 +736,39 @@ td.pub-ready-check {
 }
 
 /* ==========================================================================
+   Best of CHI (program/best-of-chi.php)
+   ========================================================================== */
+
+.best-of-chi-entry {
+	margin: 20px 0;
+}
+
+.best-of-chi-entry .icon img {
+	margin-right: 15px;
+}
+
+.best-of-chi-entry .authors {
+	margin-left: 10px;
+	background: #eee;
+	padding: 5px 10px;
+	margin-bottom: 10px;
+}
+
+.best-of-chi-entry .authors span:after{
+	content: " | ";
+}
+
+.best-of-chi-entry .authors span:last-of-type:after{
+	content: "";
+}
+
+
+.best-of-chi-entry .abstract {
+	margin-left: 10px;
+}
+
+
+/* ==========================================================================
    Schedule at a Glance (program/schedule_glance.php)
    ========================================================================== */
 
@@ -780,7 +813,7 @@ div.slot_time {
 	text-align: center;
 	vertical-align: center;
 	padding-top: 15px;
-	
+
 }
 
 div.session_cell {

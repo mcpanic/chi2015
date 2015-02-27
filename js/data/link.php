@@ -53,6 +53,11 @@ echo '
 					"rank": 6,
 					"title": "Interactivity",
 					"link": "/program/interactivity/"
+				},
+				{
+					"rank": 7,
+					"title": "Best of CHI",
+					"link": "/program/best-of-chi/"
 				}
 			]
 		},
