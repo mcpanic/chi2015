@@ -5,10 +5,10 @@
     <h1>Program</h1>
 
 <div>
-  <p>The <a href="<?php echo $prefix; ?>/program/full_schedule">CHI 2015 full program</a> is now available.</p>
+  <p>The <a href="<?php echo $prefix; ?>/program/full-schedule">CHI 2015 full program</a> is now available.</p>
 
   <p>
-    You can also check the <a href="<?php echo $prefix; ?>/program/schedule_glance">CHI 2015 Schedule at a Glance</a> for a quick detail of what will happen this CHI 2015.
+    You can also check the <a href="<?php echo $prefix; ?>/program/schedule-glance">CHI 2015 Schedule at a Glance</a> for a quick detail of what will happen this CHI 2015.
   </p>
 
   <p>

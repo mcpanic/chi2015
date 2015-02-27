@@ -10,14 +10,14 @@
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">21 February 2015</div>
 		<ul>
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/full_schedule">CHI 2015 Full Program Schedule is now available</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule">CHI 2015 Full Program Schedule is now available</a></li>
 		</ul>
 	</div>
 
 	<div class="sidebar-block first-block">
 		<div class="sidebar-date">12 February 2015</div>
 		<ul>
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/schedule_glance">CHI 2015 Schedule at a Glance is now available</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/schedule-glance">CHI 2015 Schedule at a Glance is now available</a></li>
 		</ul>
 	</div>
 
