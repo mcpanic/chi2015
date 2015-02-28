@@ -1,6 +1,6 @@
 angular.module('chi2015_controllers').controller("best_of_chi_controller",
-  ["$scope", "papers_factory",
-  function($scope, papers_factory) {
+  ["$scope", "papers_factory", "$location", "$anchorScroll",
+  function($scope, papers_factory, $location, $anchorScroll) {
 
     $scope.data = []
 
@@ -41,12 +41,25 @@ angular.module('chi2015_controllers').controller("best_of_chi_controller",
           } else {
             continue;
           }
+
+          setTimeout(function(){
+            if (get_url_vars()['id']) {
+              $scope.focus(get_url_vars()['id'])
+            }            
+          }, 100)
+
+
         }
 
         $scope.bp_count = bp_count;
         $scope.hm_count = hm_count;
         $scope.bp_papers = bp_papers;
         $scope.hm_papers = hm_papers;
+
+        $scope.focus = function(id) {
+          $location.hash(id);
+          $anchorScroll();
+        }
 
         console.log($scope.bp_count, $scope.hm_count);
       })
@@ -64,4 +77,17 @@ angular.module('chi2015_controllers').controller("best_of_chi_controller",
       $scope.papers[id].abstract_toggle = !$scope.papers[id].abstract_toggle;
     }
 
+
+
 }])
+
+function get_url_vars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+      if (value.indexOf('#') > -1) {
+        value = value.trim().split('#')[0];
+      }
+        vars[key] = value;
+    });
+    return vars;
+}

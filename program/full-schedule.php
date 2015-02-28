@@ -118,15 +118,22 @@
 
 										<div ng-repeat="submissions in sessions[session.session].submissions"
 										class="full_schedule_submission" ng-if="papers[submissions]!=null">
-											<a ng-href="<?php echo $prefix; ?>/program/best-of-chi/#{{paper.id}}">
-											<h4 class="full_schedule_submission_h4" >
+											<a class="h4_a" ng-href="<?php echo $prefix; ?>/program/best-of-chi/?id={{submissions}}" ng-if="papers[submissions].award || papers[submissions].hm">
+												<h4 class="full_schedule_submission_h4" >
+												
+													<span ng-attr-id="{{submissions}}" ng-bind="papers[submissions].title"></span>
+													<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
+													<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
+												
+												</h4>
+											</a>
+											<h4 class="full_schedule_submission_h4" ng-if="!(papers[submissions].award || papers[submissions].hm)">
 												
 												<span ng-attr-id="{{submissions}}" ng-bind="papers[submissions].title"></span>
 												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
 												<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
-												
+											
 											</h4>
-											</a>
 
 											<div class="full_schedule_keywords" ng-if="papers[submissions].keyword_string.trim()!=''">
 												<b><i>Keywords</i></b>: 
