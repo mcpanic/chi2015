@@ -21,7 +21,11 @@
     <table>
       <tr>
         <td class="icon"><img style="float:left" src="<?php echo $prefix; ?>/img/program/best.png" ng-if="paper.award"/></td>
-        <td class=""><h4 style="float:left" ng-bind="paper.title" id="{{paper.id}}"></h4></td>
+        <td class="">
+          <a ng-href="<?php echo $prefix; ?>/program/full-schedule/?id={{paper.id}}">
+            <h4 style="float:left" ng-bind="paper.title" id="{{paper.id}}"></h4>
+          </a>
+        </td>
       </tr>
     </table>
     <!-- <div style="clear:both"></div> -->
@@ -61,7 +65,11 @@
     <table>
       <tr>
         <td class="icon"><img style="float:left" src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="paper.hm"/></td>
-        <td class=""><h4 style="float:left" ng-bind="paper.title" id="{{paper.id}}"></h4></td>
+        <td class="">
+          <a ng-href="<?php echo $prefix; ?>/program/full-schedule/?id={{paper.id}}">
+            <h4 style="float:left" ng-bind="paper.title" id="{{paper.id}}"></h4>
+          </a>
+        </td>
       </tr>
     </table>
     <!-- <div style="clear:both"></div> -->

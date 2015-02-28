@@ -93,6 +93,17 @@ function check_query(objs, sessions, papers, type, query) {
 	return filtered
 }
 
+function get_url_vars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+    	if (value.indexOf('#') > -1) {
+    		value = value.trim().split('#')[0];
+    	}
+        vars[key] = value;
+    });
+    return vars;
+}
+
 angular.module('chi2015_app').filter("full_schedule_session", function(){
 	return function(objs, index, length, sessions, papers, type, query) {
 		var filtered = check_query(objs, sessions, papers, type, query) 
@@ -167,7 +178,9 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 	function($scope, papers_factory, sessions_factory, schedules_factory, $window, 
 		     $location, $anchorScroll){
 
-	$scope.hide_icons = false
+	console.log(get_url_vars()['id'])
+
+	$scope.hide_icons = true
 	$scope.schedule = [];
 	$scope.sessions = {};
 	$scope.papers = {};
@@ -178,6 +191,11 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 	$scope.row_index = 0;
 	$scope.focused_group = null;
 	$scope.full_schedule_query = ""
+	$scope.id_flag = true;
+
+
+
+
 	$scope.row_counts = [
 		[
 			[0, 5], [5, 6], [11, 6]
@@ -246,6 +264,10 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
 	var sm = 768
 	var md = 992
+
+	$scope.clear_query = function() {
+		$scope.full_schedule_query = ""
+	}
 
 	$scope.isDesktop = function() {
     	return $window.innerWidth >= md; //your breakpoint here.
@@ -336,6 +358,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
 	$scope.focus = function(id) {
 		if (id=="" || id==null) id="focus"
+		console.log(id)
 		$location.hash(id);
 		$anchorScroll();
 	}
@@ -404,7 +427,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
         	$scope.schedule[j].index = j;
         	for (var a in $scope.schedule[j].slots) {
         		for (var b in $scope.schedule[j].slots[a].sessions) {
-					$scope.schedule[j].slots[a].sessions[b].indices = [j,a,b];
+					$scope.schedule[j].slots[a].sessions[b].indices = [j,a,b];					
 					$scope.schedule[j].slots[a].sessions[b].index = b;
 					$scope.schedule[j].slots[a].sessions[b].hover = false;
 					$scope.schedule[j].slots[a].sessions[b].focus = false;
@@ -414,8 +437,8 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
         $scope.schedule_count = $scope.schedule.length;
 
-        console.log($scope.schedule)
-        console.log($scope.schedule.length)
+        // console.log($scope.schedule)
+        // console.log($scope.schedule.length)
 
         sessions_factory.get({}, function(data){
         	$scope.sessions = data
@@ -427,8 +450,8 @@ angular.module('chi2015_controllers').controller('full_program_controller',
         	}
 
         	$scope.session_count = count
-        	console.log($scope.session_count)
-        	console.log($scope.sessions)
+        	// console.log($scope.session_count)
+        	// console.log($scope.sessions)
 
         	papers_factory.get({}, function(data){
         		$scope.papers = data
@@ -436,6 +459,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
         		var count = 0
         		for (var k in $scope.papers) {
         			$scope.papers[k].index = count;
+        			$scope.papers[k].id = k;
         			if ($scope.papers[k].cAndB) {
         				if ($scope.papers[k].cAndB.trim()!="") $scope.papers[k].abstract_toggle = false;
 	        			else $scope.papers[k].abstract_toggle = true;
@@ -455,8 +479,58 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
         		$scope.paper_count = count
 
-        		console.log($scope.paper_count)
-        		console.log($scope.papers)
+        		// console.log($scope.paper_count)
+        		// console.log($scope.papers)
+
+        		var id = null;
+
+        		if (get_url_vars()['id']!=null) {
+					if (get_url_vars()['id'].trim()!="") {
+						if ($scope.papers[get_url_vars()['id']]) {
+							id = get_url_vars()['id'];
+						}
+						
+					}	
+				}
+
+				if (id && $scope.id_flag) {
+					$scope.full_schedule_query = $scope.papers[id.trim()].title;
+
+					for (var sesi in $scope.sessions) {
+						var flag = false;
+						for (var papi in $scope.sessions[sesi].submissions) {
+							
+							if ($scope.sessions[sesi].submissions[papi].trim()==id.trim()) {
+
+								for (var schi in $scope.schedule) {
+									var flag2= false;
+									for (var schj in $scope.schedule[schi].slots) {
+										for (var schl in $scope.schedule[schi].slots[schj].sessions) {
+											if ($scope.schedule[schi].slots[schj].sessions[schl].session==sesi) {
+												$scope.schedule[schi].slots[schj].sessions[schl].hover = true;
+												$scope.schedule[schi].slots[schj].sessions[schl].focus = true;
+												flag2 = true
+												setTimeout(function(){
+													$scope.focus()
+												}, 100)
+												
+												$scope.id_flag = false;
+												break
+											}
+										}
+									}
+									if (flag2) break
+								}
+								
+								flag=true;
+								break;
+							}
+							
+						}
+						if (flag) break;
+					}
+				}
+				
         	})
         })
       })

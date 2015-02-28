@@ -117,7 +117,7 @@
 
 										<div ng-repeat="submissions in sessions[session.session].submissions"
 										class="full_schedule_submission" ng-if="papers[submissions]!=null">
-											<h4 class="full_schedule_submission_h4">
+											<h4 class="full_schedule_submission_h4" >
 
 												<span ng-bind="papers[submissions].title"></span>
 												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>

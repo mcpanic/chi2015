@@ -41,6 +41,7 @@
 			<div class="full_schedule_search col-sm-3">
 				<form>
 					<input type="text" class="form-control" id="search" ng-model="full_schedule_query" placeholder="Search Paper, Title, Author, Country">
+					<br/><div class="day-button" ng-if="full_schedule_query.trim()!=''" ng-click="clear_query()">Clear</div>
 				</form>
 			</div>
 		</div>
@@ -117,13 +118,15 @@
 
 										<div ng-repeat="submissions in sessions[session.session].submissions"
 										class="full_schedule_submission" ng-if="papers[submissions]!=null">
-											<h4 class="full_schedule_submission_h4">
-
-												<span ng-bind="papers[submissions].title"></span>
+											<a ng-href="<?php echo $prefix; ?>/program/best-of-chi/#{{paper.id}}">
+											<h4 class="full_schedule_submission_h4" >
+												
+												<span ng-attr-id="{{submissions}}" ng-bind="papers[submissions].title"></span>
 												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
 												<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
-
+												
 											</h4>
+											</a>
 
 											<div class="full_schedule_keywords" ng-if="papers[submissions].keyword_string.trim()!=''">
 												<b><i>Keywords</i></b>: 
