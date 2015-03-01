@@ -14,11 +14,25 @@ CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class
   <li><a href="http://chi2015seoul.wordpress.com/">Visitor information prepared specially for CHI attendees</a></li>
   <li>Conference venue: <a href="http://www.coex.co.kr/eng/index.asp">COEX</a></li>
   <li><a href="<?php echo $prefix; ?>/attending/physical-accessibility">Physical Accessibility</a></li>
+  <li><a href="#industrial-and-city-tours">Industrial and City Tours</a></li>
 </ul>
 
 <p>
 <img src="<?php echo $prefix; ?>/img/coex.jpg" width="100%">
 </p>
+
+<h3 id="industrial-and-city-tours">Industrial and City Tours</h3>
+There are two (2) tour programs that are available. Please register here:
+<ul>
+  <li>
+    <a href="https://chi2015seoul.wordpress.com/2015/02/28/industry-tour-courses-and-link-to-register/">Industrial Tour</a>
+  </li>
+  <li>
+    <a href="https://chi2015seoul.wordpress.com/2015/02/28/city-tour-program/">City Tour</a>
+  </li>
+</ul>
+
+
 <br/>
 <p>
   We look forward to seeing you in Seoul!!<br/><br/>
