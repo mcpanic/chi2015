@@ -8,6 +8,20 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">1 March 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Indutry and City Tours Registration is Open</a></li>
+		</ul>
+	</div>
+
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">1 March 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/best-of-chi">CHI 2015 Best of CHI is now available</a></li>
+		</ul>
+	</div>
+
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">21 February 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule">CHI 2015 Full Program Schedule is now available</a></li>
