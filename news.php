@@ -7,6 +7,60 @@
 <div>
   <p>CHI 2015 news updates are archived here.</p>
   <div class="sidebar-block">
+    <div class="sidebar-date">1 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/best-of-chi/">Best of CHI winners are announced.</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">21 February 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule">CHI 2015 Full Program Schedule is now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">12 February 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/schedule-glance">CHI 2015 Schedule at a Glance is now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">12 February 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/">Plans to simultaneously translate English to Chinese, Japanese and Korean languages in the main auditorium are on the way</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">12 February 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/interactivity">List of Accepted Interactivity Submissions are now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">12 February 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/physical-accessibility">Physical Accessibility to CHI 2015 is now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">31 January 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/womens-breakfast">Details for CHI Women's Breakfast are now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">27 January 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/papers-notes">List of accepted papers/notes available.</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">22 January 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/courses">Course program is announced.</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
     <div class="sidebar-date">4 January 2015</div>
     <ul>
       <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/housing">Hotel reservations are open.</a></li>
