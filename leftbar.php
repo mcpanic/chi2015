@@ -11,7 +11,7 @@
 		<div class="sidebar-date">1 March 2015</div>
 		<ul>
 
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Indutry and City Tours Registration is Open</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Industry and City Tours Registration is Open</a></li>
 		</ul>
 	</div>
 
