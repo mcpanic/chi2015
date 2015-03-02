@@ -12,7 +12,7 @@
 <div role="main" id="best-of-chi" ng-controller="best_of_chi_controller">
   <ul>
     <li><a href="#best-papers">Best Papers (<span>{{bp_papers.length}}</span>)</a></li>
-    <li><a href="#best-papers">Honorable Mentions (<span>{{hm_papers.length}}</span>)</a></li>
+    <li><a href="#honorable-mentions">Honorable Mentions (<span>{{hm_papers.length}}</span>)</a></li>
   </ul>
 
   <a name="best-papers"></a>
