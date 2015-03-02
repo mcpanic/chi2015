@@ -22,7 +22,7 @@
     <li><a href="#attendance">Attendance</a></li>
     <li><a href="#recruiting-opportunities">Recruiting Opportunities</a></li>
     <li><a href="#sponsorship-opportunities">Sponsoring Opportunities</a></li>
-    <li><a href="#exhibitor-resources">SExhibitor Resources</a></li>
+    <li><a href="#exhibitor-resources">Exhibitor Resources</a></li>
   </ul>
 
   <h3 id="grand-opening-of-exhibits-and-reception">Grand Opening of Exhibits and Reception</h3>
