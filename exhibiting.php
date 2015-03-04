@@ -13,16 +13,23 @@
     </a>
   </div>
 
+  <h3 id="exhibitor-resources">Exhibitor Resources</h3>
+  <p>CHI 2015 Exhbitors can get you Exhibitor's Kit here.</p>
+
+  <ul>
+    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service_Kit_Final_150226.docx">Exhibitor Service Kit (docx)</a></li>
+    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service Kit_Final_150226.pdf">Exhibitor Service Kit (pdf)</a></li>
+  </ul>
+
   <!-- <p>See <a href="http://chi2014.acm.org/exhibiting/list-of-exhibitors" target="_blank">last year’s exhibitors</a>.</p> -->
-    <p>See <a href="http://chi2015.acm.org/exhibiting/list-of-exhibitors/" target="_blank">CHI 2015 exhibitors</a>.</p>
+    <p>You can also see <a href="http://chi2015.acm.org/exhibiting/list-of-exhibitors/" target="_blank">CHI 2015 exhibitors here</a>.</p>
   <p>For complete details about exhibiting, see the <a href="<?php echo $prefix; ?>/files/CHI2015_Exhibit_Invitation_2_18.pdf">CHI 2015 Invitation to Exhibit</a>, or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2015.acm.org">exhibits@chi2015.acm.org</a>. You may also preview the <a href="<?php echo $prefix; ?>/files/CHI2015_Exhibit_Map2_18.pdf">floor plan &amp; schedule</a>, and register online at that time. Highlights for the exhibit program are listed below.</p>
   <ul>
     <li><a href="#grand-opening-of-exhibits-and-reception">Grand Opening of Exhibits and Reception</a></li>
     <li><a href="#location-of-exhibits">Location of Exhibits</a></li>
     <li><a href="#attendance">Attendance</a></li>
     <li><a href="#recruiting-opportunities">Recruiting Opportunities</a></li>
-    <li><a href="#sponsorship-opportunities">Sponsoring Opportunities</a></li>
-    <li><a href="#exhibitor-resources">SExhibitor Resources</a></li>
+    <li><a href="#sponsorship-opportunities">Sponsoring Opportunities</a></li>    
   </ul>
 
   <h3 id="grand-opening-of-exhibits-and-reception">Grand Opening of Exhibits and Reception</h3>
@@ -42,11 +49,8 @@
   <p>Exhibiting and recruiting efforts are further enhanced by becoming a conference sponsor. For more detailed information about this and the many other advantages of sponsoring, <a href="<?php echo $prefix; ?>/sponsoring">click here</a> or contact Carol Klyver, Sponsor and Exhibit Coordinator, at <a href="mailto:exhibits@chi2015.acm.org">exhibits@chi2015.acm.org</a>.
   </p>
 
-  <h3 id="exhibitor-resources">Exhibitor Resources</h3>
-  <ul>
-    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service_Kit_Final_150226.docx">Exhibitor Service Kit (docx)</a></li>
-    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service Kit_Final_150226.pdf">Exhibitor Service Kit (pdf)</a></li>
-  </ul>
+  
+  
 
   <h3>Related Links</h3>
   <ul>

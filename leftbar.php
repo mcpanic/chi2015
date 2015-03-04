@@ -8,10 +8,18 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">2 March 2015</div>
+		<ul>
+
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/exhibiting#exhibitor-resources">CHI 2015 Exhibitor's Kit is now available!</a></li>
+		</ul>
+	</div>
+
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">1 March 2015</div>
 		<ul>
 
-			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Indutry and City Tours Registration is Open</a></li>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Industry and City Tours Registration is Open</a></li>
 		</ul>
 	</div>
 

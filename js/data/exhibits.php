@@ -9,7 +9,7 @@ echo '
         {
           "name": "Samsung",
           "link": "http://samsung.com/",
-          "Booth": "34 & 35",
+          "Booth": "1, 2 & 3",
           "Description": "TBD"
         }
       ]
@@ -29,12 +29,7 @@ echo '
           "Booth": "21 & 22",
           "Description": "Google\'s mission is to organize the world\'s information, making it universally accessible and useful. Every day, we bring our spirit of innovation and entrepreneurship to work. Come by our booth, meet our engineers and researchers, demo some new products and learn about some of the great opportunities we have at Google."
         },
-        {
-          "name": "Microsoft",
-          "link": "http://www.microsoft.com",
-          "Booth": "1, 2 & 3",
-          "Description": "At Microsoft, we have a passion for HCI. Our Design and Research professions impact the interactions of millions of users around the globe. At Microsoft, you would collaborate with brilliant people on projects with the potential to change the world. Come by our booth to play, pick up free swag, enter to win Microsoft prizes, and chat about the great opportunities for shaping HCI at Microsoft."
-        },
+        
         {
           "name": "SK Planet",
           "link": "http://www.skplanet.com/eng/",
