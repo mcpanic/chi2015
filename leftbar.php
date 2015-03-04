@@ -148,6 +148,12 @@
 		</ul>
 	</div>
 	<div class="sidebar-block">
+		<div class="sidebar-date">6 March 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="https://www.regonline.com/CHI2015AttendeeRegistration">Early Registration</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date">16 February 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="<?php echo $prefix; ?>/authors/video-previews/">Video Previews</a></li>
