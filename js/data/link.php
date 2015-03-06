@@ -129,7 +129,13 @@ echo '
 			"rank": 8,
 			"title": "Recruiting",
 			"link": "/recruiting",
-			"sub_links" : []
+			"sub_links" : [
+				{
+					"rank": 1,
+					"title": "List of Recruiters",
+					"link": "/recruiting/list-of-recruiters/"
+				}
+			]
 		}
 
 	]
