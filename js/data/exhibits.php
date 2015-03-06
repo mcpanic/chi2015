@@ -78,16 +78,22 @@ echo '
           "Description": "EyeTracking, Inc. is the leading provider of eye tracking services, software and expertise. For over a decade we have been at the forefront of innovation in virtually every area of visual behavior and cognitive workload research. Visit our booth to learn about our software: EyeWorks for eye tracking, Quad Server for physiological sensor integration, Workload RT for cognitive workload measurement."
         },
         {
+          "name": "IUEditor",
+          "link": "http://www.iueditor.org/",
+          "Booth": "31",
+          "Description": "IUEditor is a world top class web editor, which realized the concept of visual language in life. It can embody HTML, CSS, Javascript without any coding. Moreover, It supports Python, Wordpress of Backend, and is able to synchronize with cloud server like Heroku. Plus, you can convert to website for mobile, tablet by just one click. All of these will be supported by gorgeous GUI."
+        },
+        {
           "name": "John Wiley & Sons",
           "link": "http://as.wiley.com/WileyCDA/Section/index.html",
-          "Booth": "TBD",
+          "Booth": "24",
           "Description": "Wiley is a global provider of knowledge and knowledge-enabled services that improve outcomes in areas of research, professional practice, and education, with online tools, journals, books, databases, reference works and laboratory protocols. With strengths in every major academic, scientific and professional field, we partners with over 800 prestigious societies representing two million members."
         },
         {
           "name": "Letsee Inc.",
           "link": "www.letsee.kr",
-          "Booth": "TBD",
-          "Description": "Letsee’s webized AR technology lets users to augment existing web contents to objects and places around us. Our unique web-based AR content structure enables users to create AR contents instantly and have realtime interaction with other users. With our platform, anyone can contribute their own contents creating a healthy content-ecosystem filled with user-created valuable digital assets."
+          "Booth": "31",
+          "Description": "Letsee\'s web-based augmented reality (AR) technology lets users augment existing web contents with objects and places around us.  Our unique AR content structure enables users to augment contents instantly with real-time interaction with other users.  With our platform, anyone can contribute their own contents creating a healthy ecosystem filled with user-created digital assets."
         },
         {
           "name": "Morgan & Claypool Publishers",
@@ -122,8 +128,14 @@ echo '
         {
           "name": "Oxford University Press",
           "link": "http://www.iwc.oxfordjournals.org",
-          "Booth": "TBD",
+          "Booth": "15",
           "Description": "Oxford University Press is pleased to publish Interacting with Computers on behalf of BCS, The Chartered Institute for IT and Interaction, a specialist group from BCS. Visit the Oxford University Press stand for free journal copies and discounted books! For more information visit <a href=\'http://www.iwc.oxfordjournals.org\'>www.iwc.oxfordjournals.org</a> and look at our related books at <a href=\'http://www.oup.com\'>http://www.oup.com.</a>"
+        },
+        {
+          "name": "SAP",
+          "link": "#",
+          "Booth": "11",
+          "Description": "TBD"
         },
         {
           "name": "Smart Eye",
