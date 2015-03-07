@@ -1427,11 +1427,11 @@ entities={
                 "givenName": "Paweł",
                 "middleInitial": "",
                 "familyName": "Woźniak",
-                "dept": "t2i Interaction Laboratory",
+                "dept": "t2i Lab",
                 "institution": "Chalmers University of Technology",
                 "city": "Gothenburg",
                 "country": "Sweden",
-                "affiliation": "t2i Interaction Laboratory, Chalmers University of Technology",
+                "affiliation": "t2i Lab, Chalmers University of Technology",
                 "location": "Gothenburg, Sweden"
             },
             {
@@ -33022,11 +33022,11 @@ entities={
                 "givenName": "Paweł",
                 "middleInitial": "W",
                 "familyName": "Woźniak",
-                "dept": "t2i Interaction Laboratory",
+                "dept": "t2i Lab",
                 "institution": "Chalmers University of Technology",
                 "city": "Gothenburg",
                 "country": "Sweden",
-                "affiliation": "t2i Interaction Laboratory, Chalmers University of Technology",
+                "affiliation": "t2i Lab, Chalmers University of Technology",
                 "location": "Gothenburg, Sweden"
             },
             {
@@ -38275,11 +38275,11 @@ entities={
                 "givenName": "Alexandru",
                 "middleInitial": "",
                 "familyName": "Dancu",
-                "dept": "Dept. of Applied IT",
+                "dept": "t2i Lab",
                 "institution": "Chalmers University of Technology",
                 "city": "Gothenburg",
                 "country": "Sweden",
-                "affiliation": "Dept. of Applied IT, Chalmers University of Technology",
+                "affiliation": "t2i Lab, Chalmers University of Technology",
                 "location": "Gothenburg, Sweden"
             },
             {
@@ -38311,11 +38311,11 @@ entities={
                 "givenName": "Ayça",
                 "middleInitial": "",
                 "familyName": "Ünlüer",
-                "dept": "Dept. of Applied IT",
+                "dept": "t2i Lab",
                 "institution": "Chalmers University of Technology",
                 "city": "Gothenburg",
                 "country": "Sweden",
-                "affiliation": "Dept. of Applied IT, Chalmers University of Technology",
+                "affiliation": "t2i Lab, Chalmers University of Technology",
                 "location": "Gothenburg, Sweden"
             },
             {
