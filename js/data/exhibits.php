@@ -133,9 +133,9 @@ echo '
         },
         {
           "name": "SAP",
-          "link": "#",
+          "link": "http://go.sap.com/index.html",
           "Booth": "11",
-          "Description": "TBD"
+          "Description": "SAP helps companies of all sizes run better. With over 282,000 customers in 190 countries, over 74% of the world’s transactions touch SAP systems. Come see how our UX professionals are changing the way our customers do business. Looking to join our SAP family? Bring your resume and talk to our team about positions available in Korea and throughout SAP."
         },
         {
           "name": "Smart Eye",
