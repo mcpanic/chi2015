@@ -24050,36 +24050,36 @@ entities={
                 "givenName": "Fuming",
                 "middleInitial": "",
                 "familyName": "Shih",
-                "dept": "Computer and Artificial Intelligence Lab, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States",
+                "dept": "CSAIL",
                 "institution": "Massachusetts Institute of Technology",
                 "city": "Cambridge",
-                "country": "United States",
-                "affiliation": "Computer and Artificial Intelligence Lab, Massachusetts Institute of Technology, Cambridge, Massachusetts, United States, Massachusetts Institute of Technology",
-                "location": "Cambridge, United States"
+                "country": "USA",
+                "affiliation": "CSAIL, Massachusetts Institute of Technology",
+                "location": "Cambridge, USA"
             },
             {
                 "name": "Ilaria Liccardi",
                 "givenName": "Ilaria",
                 "middleInitial": "",
                 "familyName": "Liccardi",
-                "dept": "Computer Science and Artificial Intelligence Laboratory ",
+                "dept": "CSAIL",
                 "institution": "Massachusetts Institute of Technology",
                 "city": "Cambridge",
                 "country": "USA",
-                "affiliation": "Computer Science and Artificial Intelligence Laboratory , Massachusetts Institute of Technology",
-                "location": "Cambridge, USA"
+                "affiliation": "CSAIL, Massachusetts Institute of Technology",
+                "location": "Cambridge, USA - University of Oxford, UK"
             },
             {
                 "name": "Daniel Weitzner",
                 "givenName": "Daniel",
                 "middleInitial": "",
                 "familyName": "Weitzner",
-                "dept": "Computer and Artificial Intelligence Lab",
+                "dept": "CSAIL",
                 "institution": "Massachusetts Institute of Technology",
                 "city": "Cambridge",
-                "country": "United States",
-                "affiliation": "Computer and Artificial Intelligence Lab, Massachusetts Institute of Technology",
-                "location": "Cambridge, United States"
+                "country": "USA",
+                "affiliation": "CSAIL, Massachusetts Institute of Technology",
+                "location": "Cambridge, USA"
             }
         ],
         "type": "paper",
