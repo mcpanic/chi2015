@@ -179,19 +179,19 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs135",
+                        "session": "s-crs135-1",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs112",
+                        "session": "s-crs112-1",
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs118",
+                        "session": "s-crs118-1",
                         "room": "E7"
                     },
                     {
-                        "session": "s-crs111",
+                        "session": "s-crs111-1",
                         "room": "318BC"
                     }
                 ]
@@ -311,19 +311,19 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs122",
+                        "session": "s-crs122-1",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs100",
+                        "session": "s-crs100-1",
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs129",
+                        "session": "s-crs129-1",
                         "room": "E7"
                     },
                     {
-                        "session": "s-crs106",
+                        "session": "s-crs106-1",
                         "room": "318BC"
                     },
                     {
@@ -441,19 +441,19 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs134",
+                        "session": "s-crs134-1",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs133",
+                        "session": "s-crs133-1",
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs109",
+                        "session": "s-crs109-1",
                         "room": "E7"
                     },
                     {
-                        "session": "s-crs131",
+                        "session": "s-crs131-1",
                         "room": "318BC"
                     },
                     {
@@ -573,7 +573,7 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs101",
+                        "session": "s-crs101-1",
                         "room": "317A"
                     },
                     {
@@ -581,11 +581,11 @@ schedule=[
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs116",
+                        "session": "s-crs116-1",
                         "room": "E7"
                     },
                     {
-                        "session": "s-crs121",
+                        "session": "s-crs121-1",
                         "room": "318BC"
                     },
                     {
@@ -699,11 +699,11 @@ schedule=[
                         "room": "307"
                     },
                     {
-                        "session": "s-crs115",
+                        "session": "s-crs115-1",
                         "room": "308"
                     },
                     {
-                        "session": "s-crs104",
+                        "session": "s-crs104-1",
                         "room": "317A"
                     },
                     {
@@ -711,11 +711,11 @@ schedule=[
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs117",
+                        "session": "s-crs117-1",
                         "room": "E7"
                     },
                     {
-                        "session": "s-crs107",
+                        "session": "s-crs107-1",
                         "room": "318BC"
                     },
                     {

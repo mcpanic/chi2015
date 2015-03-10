@@ -187,6 +187,23 @@ sessions={
     "s-crs100": {
         "s_title": "Course: Learn to Sketch (Even if You Can’t Draw) 1/2",
         "room": "317BC",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs100"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs100-1": {
+        "s_title": "Course: Learn to Sketch (Even if You Can’t Draw) 2/2",
+        "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
             "crs100"
@@ -204,6 +221,23 @@ sessions={
     "s-crs101": {
         "s_title": "Course: Intro to Creating Musical Interfaces 1/2",
         "room": "317A",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs101"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs101-1": {
+        "s_title": "Course: Intro to Creating Musical Interfaces 2/2",
+        "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
             "crs101"
@@ -219,7 +253,7 @@ sessions={
         "chair": ""
     },
     "s-crs103": {
-        "s_title": "Course: Designing with the Mind in Mind 1/1",
+        "s_title": "Course: Designing with the Mind in Mind",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -238,6 +272,23 @@ sessions={
     "s-crs104": {
         "s_title": "Course: Experience Sampling to Collect Deep Data 1/2",
         "room": "317A",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs104"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs104-1": {
+        "s_title": "Course: Experience Sampling to Collect Deep Data 2/2",
+        "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
             "crs104"
@@ -254,6 +305,23 @@ sessions={
     },
     "s-crs106": {
         "s_title": "Course: Practical UX Research Methodologies 1/2",
+        "room": "318BC",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs106"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs106-1": {
+        "s_title": "Course: Practical UX Research Methodologies 2/2",
         "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -272,6 +340,23 @@ sessions={
     "s-crs107": {
         "s_title": "Course: Conceptual Models: Core to Good Design 1/2",
         "room": "318BC",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs107"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs107-1": {
+        "s_title": "Course: Conceptual Models: Core to Good Design 2/2",
+        "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs107"
@@ -287,7 +372,7 @@ sessions={
         "chair": ""
     },
     "s-crs108": {
-        "s_title": "Course: Designing Websites for Adults 55+ 1/1",
+        "s_title": "Course: Designing Websites for Adults 55+ ",
         "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
@@ -306,6 +391,23 @@ sessions={
     "s-crs109": {
         "s_title": "Course: HCI Lessons: From Earth to Outer Space 1/2",
         "room": "E7",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs109"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs109-1": {
+        "s_title": "Course: HCI Lessons: From Earth to Outer Space 2/2",
+        "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
             "crs109"
@@ -321,7 +423,7 @@ sessions={
         "chair": ""
     },
     "s-crs110": {
-        "s_title": "Course: Introduction to Positive Computing 1/1",
+        "s_title": "Course: Introduction to Positive Computing ",
         "room": "318BC",
         "time": "9:30-10:50",
         "submissions": [
@@ -340,6 +442,23 @@ sessions={
     "s-crs111": {
         "s_title": "Course: Design for Online Video &amp; Television 1/2",
         "room": "318BC",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs111"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs111-1": {
+        "s_title": "Course: Design for Online Video &amp; Television 2/2",
+        "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs111"
@@ -355,6 +474,23 @@ sessions={
         "chair": ""
     },
     "s-crs112": {
+        "s_title": "Course: Intro to Human-Computer Interaction 1/2",
+        "room": "317BC",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs112"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs112-1": {
         "s_title": "Course: Intro to Human-Computer Interaction 2/2",
         "room": "317BC",
         "time": "16:30-17:50",
@@ -372,7 +508,7 @@ sessions={
         "chair": ""
     },
     "s-crs113": {
-        "s_title": "Course: Cross-channel Conceptual Design 1/1",
+        "s_title": "Course: Cross-channel Conceptual Design ",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -391,6 +527,23 @@ sessions={
     "s-crs115": {
         "s_title": "Course: Designing Wearable Interfaces 1/2",
         "room": "308",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs115"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs115-1": {
+        "s_title": "Course: Designing Wearable Interfaces 2/2",
+        "room": "308",
         "time": "16:30-17:50",
         "submissions": [
             "crs115"
@@ -407,6 +560,23 @@ sessions={
     },
     "s-crs116": {
         "s_title": "Course: Speech-based Interaction 1/2",
+        "room": "E7",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs116"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs116-1": {
+        "s_title": "Course: Speech-based Interaction 2/2",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -425,6 +595,23 @@ sessions={
     "s-crs117": {
         "s_title": "Course: Rapid Design Labs - Design-Led Innovation 1/2",
         "room": "E7",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs117"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs117-1": {
+        "s_title": "Course: Rapid Design Labs - Design-Led Innovation 2/2",
+        "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
             "crs117"
@@ -442,6 +629,23 @@ sessions={
     "s-crs118": {
         "s_title": "Course: Actionable Inexpensive Games Research 1/2",
         "room": "E7",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs118"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs118-1": {
+        "s_title": "Course: Actionable Inexpensive Games Research 2/2",
+        "room": "E7",
         "time": "16:30-17:50",
         "submissions": [
             "crs118"
@@ -457,7 +661,7 @@ sessions={
         "chair": ""
     },
     "s-crs119": {
-        "s_title": "Course: Interaction Design for Reading Devices 1/1",
+        "s_title": "Course: Interaction Design for Reading Devices ",
         "room": "E7",
         "time": "9:30-10:50",
         "submissions": [
@@ -476,6 +680,23 @@ sessions={
     "s-crs121": {
         "s_title": "Course: Designing Surveys for HCI Research 1/2",
         "room": "318BC",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs121"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs121-1": {
+        "s_title": "Course: Designing Surveys for HCI Research 2/2",
+        "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
             "crs121"
@@ -493,6 +714,23 @@ sessions={
     "s-crs122": {
         "s_title": "Course: Designing &amp; Assessing Task Models 1/2",
         "room": "317A",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs122"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs122-1": {
+        "s_title": "Course: Designing &amp; Assessing Task Models 2/2",
+        "room": "317A",
         "time": "11:30-12:50",
         "submissions": [
             "crs122"
@@ -508,7 +746,7 @@ sessions={
         "chair": ""
     },
     "s-crs124": {
-        "s_title": "Course: Benefit from Using ISO Standards 1/1",
+        "s_title": "Course: Benefit from Using ISO Standards ",
         "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
@@ -525,7 +763,7 @@ sessions={
         "chair": ""
     },
     "s-crs128": {
-        "s_title": "Course: Cross-Device, Context-dependent UI 1/1",
+        "s_title": "Course: Cross-Device, Context-dependent UI ",
         "room": "317BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -544,6 +782,23 @@ sessions={
     "s-crs129": {
         "s_title": "Course:&nbsp;Methods for Child Computer Interaction 1/2",
         "room": "E7",
+        "time": "9:30-10:50",
+        "submissions": [
+            "crs129"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs129-1": {
+        "s_title": "Course:&nbsp;Methods for Child Computer Interaction 2/2",
+        "room": "E7",
         "time": "11:30-12:50",
         "submissions": [
             "crs129"
@@ -561,6 +816,23 @@ sessions={
     "s-crs131": {
         "s_title": "Course: Sketching User Experiences 1/2",
         "room": "318BC",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs131"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs131-1": {
+        "s_title": "Course: Sketching User Experiences 2/2",
+        "room": "318BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs131"
@@ -576,7 +848,7 @@ sessions={
         "chair": ""
     },
     "s-crs132": {
-        "s_title": "Course: Body, Whys &amp; Videotape: Somatic Approaches 1/1",
+        "s_title": "Course: Body, Whys &amp; Videotape: Somatic Approaches ",
         "room": "318BC",
         "time": "11:30-12:50",
         "submissions": [
@@ -595,6 +867,23 @@ sessions={
     "s-crs133": {
         "s_title": "Course: Mobile Human-Computer Interaction 1/2",
         "room": "317BC",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs133"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs133-1": {
+        "s_title": "Course: Mobile Human-Computer Interaction 2/2",
+        "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs133"
@@ -611,6 +900,23 @@ sessions={
     },
     "s-crs134": {
         "s_title": "Course: Methods for&nbsp;HCI &nbsp;Research 1/2",
+        "room": "317A",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs134"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs134-1": {
+        "s_title": "Course: Methods for&nbsp;HCI &nbsp;Research 2/2",
         "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
@@ -629,6 +935,23 @@ sessions={
     "s-crs135": {
         "s_title": "Course: Design for Searching &amp; Finding 1/2",
         "room": "317A",
+        "time": "14:30-15:50",
+        "submissions": [
+            "crs135"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chair": ""
+    },
+    "s-crs135-1": {
+        "s_title": "Course: Design for Searching &amp; Finding 2/2",
+        "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
             "crs135"
@@ -644,7 +967,7 @@ sessions={
         "chair": ""
     },
     "s-crs138": {
-        "s_title": "Course: Vision-Driven: Beyond Tangible Bits 1/1",
+        "s_title": "Course: Vision-Driven: Beyond Tangible Bits ",
         "room": "317BC",
         "time": "9:30-10:50",
         "submissions": [
