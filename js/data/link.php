@@ -82,10 +82,15 @@ echo '
 					"link": "/attending/womens-breakfast/"
 				},
 				{
-          "rank": 4,
-          "title": "Physical Accessibility",
-          "link": "/attending/physical-accessibility/"
-        }
+		          "rank": 4,
+		          "title": "Physical Accessibility",
+		          "link": "/attending/physical-accessibility/"
+		        },
+				{
+		          "rank": 5,
+		          "title": "Press",
+		          "link": "/attending/press/"
+		        }
 			]
 		},
 		{
