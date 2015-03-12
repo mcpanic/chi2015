@@ -1,4 +1,4 @@
-function check_query(objs, sessions, papers, type, query) {
+function check_query(objs, sessions, papers, type, search, query) {
 
 	query = query.toLowerCase()
 
@@ -18,11 +18,11 @@ function check_query(objs, sessions, papers, type, query) {
 			if (sessions[session_index]!=null) {
 
 				if (sessions[session_index].s_title.toLowerCase().indexOf(query) > -1 && 
-					type[sessions[session_index].type].bool) {
+					type[sessions[session_index].type].bool && search.session.bool) {
 					filtered.push(objs[i])
 				}
 				if (sessions[session_index].chair.toLowerCase().indexOf(query) > -1 && 
-					type[sessions[session_index].type].bool) {
+					type[sessions[session_index].type].bool && search.session.chair) {
 					filtered.push(objs[i])
 				}
 				else {
@@ -30,7 +30,7 @@ function check_query(objs, sessions, papers, type, query) {
 						var paper_index = sessions[session_index].submissions[k]
 						if (papers[paper_index]) {
 							if (papers[paper_index].title.toLowerCase().indexOf(query) > -1 && 
-								type[sessions[session_index].type].bool) {
+								type[sessions[session_index].type].bool && search.title.bool) {
 								filtered.push(objs[i])
 								break;
 							}
@@ -38,7 +38,7 @@ function check_query(objs, sessions, papers, type, query) {
 								var checker = false
 								for (var l in papers[paper_index].keywords) {
 									if (papers[paper_index].keywords[l].toLowerCase().indexOf(query) > - 1
-										&& type[sessions[session_index].type].bool) {
+										&& type[sessions[session_index].type].bool && search.keywords.bool) {
 										filtered.push(objs[i])
 										checker = true
 										break;
@@ -53,25 +53,49 @@ function check_query(objs, sessions, papers, type, query) {
 										var reverse_name = papers[paper_index].authors[m].familyName.toLowerCase() + ", "+
 									                   papers[paper_index].authors[m].givenName.toLowerCase()
 										if (papers[paper_index].authors[m].name.toLowerCase().indexOf(query) > -1 &&
-											type[sessions[session_index].type].bool) {
+											type[sessions[session_index].type].bool && search.author.bool) {
 											filtered.push(objs[i])
 											checker = true
 											break;
 										}
 										else if (reverse_name.toLowerCase().indexOf(query) > -1 &&
-												 type[sessions[session_index].type].bool) {
+												 type[sessions[session_index].type].bool && search.author.bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].dept.toLowerCase().indexOf(query) > -1 &&
+												type[sessions[session_index].type].bool && search.affiliation.bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].institution.toLowerCase().indexOf(query) > -1 &&
+												type[sessions[session_index].type].bool && search.affiliation.bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].affiliation.toLowerCase().indexOf(query) > -1 &&
+												type[sessions[session_index].type].bool && search.affiliation.bool) {
 											filtered.push(objs[i])
 											checker = true
 											break;
 										}
 										else if (papers[paper_index].authors[m].city.toLowerCase().indexOf(query) > -1 &&
-												 type[sessions[session_index].type].bool) {
+												 type[sessions[session_index].type].bool && search.location.bool) {
 											filtered.push(objs[i])
 											checker = true
 											break;
 										}
 										else if (papers[paper_index].authors[m].country.toLowerCase().indexOf(query) > -1 &&
-												 type[sessions[session_index].type].bool) {
+												 type[sessions[session_index].type].bool && search.location.bool) {
+											filtered.push(objs[i])
+											checker = true
+											break;
+										}
+										else if (papers[paper_index].authors[m].location.toLowerCase().indexOf(query) > -1 &&
+												 type[sessions[session_index].type].bool && search.location.bool) {
 											filtered.push(objs[i])
 											checker = true
 											break;
@@ -105,8 +129,8 @@ function get_url_vars() {
 }
 
 angular.module('chi2015_app').filter("full_schedule_session", function(){
-	return function(objs, index, length, sessions, papers, type, query) {
-		var filtered = check_query(objs, sessions, papers, type, query) 
+	return function(objs, index, length, sessions, papers, type, search, query) {
+		var filtered = check_query(objs, sessions, papers, type, search, query) 
 		var new_filtered = []
 
 		var count = 0
@@ -122,13 +146,13 @@ angular.module('chi2015_app').filter("full_schedule_session", function(){
 })
 
 angular.module('chi2015_app').filter("full_schedule_day_filter", function(){
-	return function(objs, sessions, papers, type, query) {
+	return function(objs, sessions, papers, type, search, query) {
 		var filtered = []
 
 		for (var i in objs) {
 			
 			for (var j in objs[i].slots) {
-				var session_list = check_query(objs[i].slots[j].sessions, sessions, papers, type, query)
+				var session_list = check_query(objs[i].slots[j].sessions, sessions, papers, type, search, query)
 				if (session_list.length>0) {
 					filtered.push(objs[i])
 					break;
@@ -141,11 +165,11 @@ angular.module('chi2015_app').filter("full_schedule_day_filter", function(){
 })
 
 angular.module('chi2015_app').filter("full_schedule_time_filter", function(){
-	return function(objs, sessions, papers, type, query) {
+	return function(objs, sessions, papers, type, search, query) {
 		var filtered = []
 
 		for (var i in objs) {			
-			var session_list = check_query(objs[i].sessions, sessions, papers, type, query)
+			var session_list = check_query(objs[i].sessions, sessions, papers, type, search, query)
 			if (session_list.length>0) {
 				filtered.push(objs[i])
 			}			
@@ -207,6 +231,58 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 			[0, 1], [2, 2], [4, 2], [6, 2], [8, 2], [10, 2], [12, 2], [14, 2]
 		]
 	]
+
+	$scope.search_type = {
+		all: {
+			id: "all",
+			name: "All",
+			bool: true,
+			index: 0
+		},
+		title: {
+			id: "title",
+			name: "Paper Title",
+			bool: true,
+			index: 1
+		},
+		keywords: {
+			id: "keywords",
+			name: "Keywords",
+			bool: true,
+			index: 2
+		},
+		author: {
+			id: "author",
+			name: "Author",
+			bool: true,
+			index: 3
+		},
+		affiliation: {
+			id: "affiliation",
+			name: "Affiliation",
+			bool: true,
+			index: 4
+		},
+		location: {
+			id: "location",
+			name: "Location",
+			bool: true,
+			index: 5
+		},
+		chair: {
+			id: "chair",
+			name: "Session Chair",
+			bool: true,
+			index: 5
+		},
+		session: {
+			id: "session",
+			name: "Session Title",
+			bool: true,
+			index: 5
+		}
+
+	}
 
 	$scope.session_type = {
 		all: {
@@ -376,41 +452,41 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 		$scope.papers[id].abstract_toggle = !$scope.papers[id].abstract_toggle
 	}
 
-	$scope.toggle_legends = function(id) {
+	$scope.toggle_legends = function(id, type) {
 		if (id=="all") {
 			var check_all = false
-			if (!$scope.session_type["all"].bool) {
-				for (var j in $scope.session_type) {
+			if (!$scope[type]["all"].bool) {
+				for (var j in $scope[type]) {
 
 					if (j!="all") {
-						if (!$scope.session_type[j].bool) {
+						if (!$scope[type][j].bool) {
 							check_all = true
-							$scope.session_type[j].bool = true
+							$scope[type][j].bool = true
 						}
 					}
 				}
 				if (!check_all) {
-					for (var k in $scope.session_type) {
+					for (var k in $scope[type]) {
 					if (k!="all")
-						$scope.session_type[k].bool = $scope.session_type["all"].bool
+						$scope[type][k].bool = $scope[type]["all"].bool
 					}
 				}
-				else $scope.session_type["all"].bool=true
+				else $scope[type]["all"].bool=true
 
 			}
 			else {
-				for (var i in $scope.session_type) {
+				for (var i in $scope[type]) {
 				if (i!="all")
-					$scope.session_type[i].bool = $scope.session_type["all"].bool
+					$scope[type][i].bool = $scope[type]["all"].bool
 				}
 			}		
 		}
-		else if (!$scope.session_type[id].bool && $scope.session_type["all"].bool) {
-			for (var k in $scope.session_type) {
+		else if (!$scope[type][id].bool && $scope[type]["all"].bool) {
+			for (var k in $scope[type]) {
 			if (k!=id)
-				$scope.session_type[k].bool = false
+				$scope[type][k].bool = false
 			}
-			$scope.session_type[id].bool = true
+			$scope[type][id].bool = true
 		}
 		
 		// console.log($scope.session_type)

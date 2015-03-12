@@ -18,7 +18,7 @@
 					<form>
 						<div class="col-xs-6 col-sm-3" ng-repeat="type in session_type | session_type_filter" style="margin-top: 10px">
 							<input type="checkbox" style="margin-right: 10px" ng-model="type.bool" 
-							ng-click="toggle_legends(type.id)"/>
+							ng-click="toggle_legends(type.id, 'session_type')"/>
 							<img 
 							style="margin-right: 10px"
 							ng-src="<?php echo $prefix; ?>/img/program/{{type.id}}_black.png" height="20"/>
@@ -42,18 +42,25 @@
 				<form>
 					<input type="text" class="form-control" id="search" ng-model="full_schedule_query" placeholder="Search Paper, Title, Author, Country">
 					<br/><div class="day-button" ng-if="full_schedule_query.trim()!=''" ng-click="clear_query()">Clear</div>
+					<br/><div class="row">
+							<div class="col-xs-6" ng-repeat="type in search_type | session_type_filter" style="margin-top: 10px">
+								<input type="checkbox" style="margin-right: 10px" ng-model="type.bool" 
+								ng-click="toggle_legends(type.id, 'search_type')"/>
+								<span ng-bind="type.name"></span>
+							</div>
+						</div>
 				</form>
 			</div>
 		</div>
 
-		<div class="row full_schedule_day" ng-repeat="day in schedule | full_schedule_day_filter:sessions:papers:session_type:full_schedule_query ">
+		<div class="row full_schedule_day" ng-repeat="day in schedule | full_schedule_day_filter:sessions:papers:session_type:search_type:full_schedule_query ">
 			<div class="full_schedule_day_header" ng-attr-id="{{day.day}}">
 				<h4><span ng-bind="day.day"></span>,&nbsp;<span ng-bind="day.date"></span></h4>
 			</div>
 
 			<div class="full_schedule_container_2">
 
-				<div class="row full_schedule_row_slot" ng-repeat="slot in day.slots | full_schedule_time_filter:sessions:papers:session_type:full_schedule_query">
+				<div class="row full_schedule_row_slot" ng-repeat="slot in day.slots | full_schedule_time_filter:sessions:papers:session_type:search_type:full_schedule_query">
 					<div class="full_schedule_divider">
 					</div>
 					<div class="full_schedule_cell col-md-2 col-sm-3 col-xs-6">
@@ -66,7 +73,7 @@
 
 						<div>
 							<div 
-							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:full_schedule_query" 
+							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:search_type:full_schedule_query" 
 							class="full_schedule_cell col-md-2 col-sm-3 col-xs-6" 
 							ng-mouseover="schedule_mouse_enter(session.indices)"
 							ng-mouseleave="schedule_mouse_exit(session.indices)"
@@ -96,7 +103,7 @@
 
 						<div>
 							<div 
-							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:full_schedule_query"
+							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:search_type:full_schedule_query"
 							id="{{session.session}}" class="animate-if full_schedule_div col-md-11 col-sm-11 col-xs-11" 
 							ng-if="session.focus">
 								<div class="full_schedule_div_inside">
