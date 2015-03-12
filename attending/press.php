@@ -38,5 +38,9 @@ To provide you with the appropriate support, please send an e-mail with the info
   <li>Is there anything else we should know about your interest in covering CHI 2015?</li>
 </ul>
 <p>
-We will review your information and contact you within the next 48-72 hours.
-  </p>
+  We will review your information and contact you within the next 48-72 hours.
+</p>
+
+<?php
+  include "../footer.php";
+?>
