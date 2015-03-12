@@ -23,7 +23,7 @@ CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class
 </p>
 
 <h3 id="industrial-and-city-tours">Industrial and City Tours</h3>
-There are two (2) tour programs that are available. Please register here:
+There are two tour programs that are available. Please register here:
 <ul>
   <li>
     <a href="https://chi2015seoul.wordpress.com/2015/02/28/industry-tour-courses-and-link-to-register/">Industrial Tour</a>
@@ -46,7 +46,7 @@ Please Note: <i>Even if you have qualified for a CHI press badge in the past, yo
 
 <h4>CHI 2015 Press Accreditation Form</h4>
 <p>
-To provide you with the appropriate support, please send an e-mail with the information requested below to <a href="mailto:conferencechair@chi2015.acm.org?cc=chiregistration@executivevents.com&subject=Press%20Accreditation%20Form">Conference Chairs and Registrar</a> .
+To provide you with the appropriate support, please send an e-mail with the information requested below to <a href="mailto:conferencechair@chi2015.acm.org?cc=chiregistration@executivevents.com&subject=Press%20Accreditation%20Form">Conference Chairs and Registrar</a>.
 </p>
 <ul>
   <li>Name</li>
@@ -55,13 +55,13 @@ To provide you with the appropriate support, please send an e-mail with the info
   <li>Web site/s with which you are associated</li>
   <li>Phone number at which you can be reached</li>
   <li>What is your area of expertise?</li>
-  <li>What are your areas of interest within the CHI 2014 program?</li>
+  <li>What are your areas of interest within the CHI 2015 program?</li>
   <li>Are there particular presenters you would like to interview?  </li>
   <li>When and where do you expect to publish your articles?</li>
   <li>Please provide links to articles you have published.</li>
   <li>Have you attended previous CHI conferences? If so, which ones?</li>
   <li>Have you attended previous ACM conferences or events? If so, which ones?</li>
-  <li>Is there anything else we should know about your interest in covering CHI 2014?</li>
+  <li>Is there anything else we should know about your interest in covering CHI 2015?</li>
 </ul>
 <p>
 We will review your information and contact you within the next 48-72 hours.
