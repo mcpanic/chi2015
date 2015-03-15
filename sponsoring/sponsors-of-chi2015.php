@@ -40,6 +40,28 @@
   <div class="sponsor">
      Adobe Systems, Inc.
   </div>
+  <div class="sponsor">
+     H9Works.com
+  </div>
+  <div class="sponsor">
+     HCI Lab, Yonsei University
+  </div>
+  <div class="sponsor">
+     Institute of Convergence Science, Yonsei University
+  </div>
+  <div class="sponsor">
+     KIPFA
+  </div>
+  <div class="sponsor">
+     Samsung Art and Design Institute
+  </div>
+
+
+
+
+
+
+
 </div>
 
 
