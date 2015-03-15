@@ -16,7 +16,7 @@
 	</p>
 
 	<div ng-repeat="int_data in data" class="interactivity_box">
-		<h3 ng-bind="int_data.title" id="{{int_data.id}}"></h3>
+		<h3 ng-bind="int_data.id+': '+int_data.title" id="{{int_data.id}}"></h3>
 		<div>
 			<h4>Authors</h4>
 			<p ng-bind="int_data.authors" class="authors"></p>
