@@ -109,6 +109,11 @@ angular.module('chi2015_services').factory('schedules_factory', ['$resource',
     return data_link("schedule", $resource)
 	}])
 
+angular.module('chi2015_services').factory('wip_factory', ['$resource',
+	function($resource) {
+    return data_link("wip", $resource)
+	}])
+
 function data_link(data, $resource){
   var array = clean_pathname(window.location.pathname.split("/"));
   var pathcount = array.length
