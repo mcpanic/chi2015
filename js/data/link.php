@@ -56,6 +56,11 @@ echo '
 				},
 				{
 					"rank": 7,
+					"title": "Works in Progress - Rotation Schedule",
+					"link": "/program/works-in-progress-rotation-schedule/"
+				},
+				{
+					"rank": 8,
 					"title": "Best of CHI",
 					"link": "/program/best-of-chi/"
 				}
