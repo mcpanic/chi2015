@@ -104,14 +104,14 @@ as possible at the original submission.</span></strong><br>
 <div>
 <h3><span><span>Upon Acceptance of Your Work-in-Progress Submission</span></span></h3>
 
-<p dir="ltr"><span><span>Work-in-Progress authors will be notified of acceptance or rejection on 2 February, 2015.Authors of accepted submissions will receive instructions how to prepare and submit the publication-ready version, and details on the poster presentation and scheduling at the conference.</span></span></p>
+<p dir="ltr"><span><span>Work-in-Progress authors will be notified of acceptance or rejection on 2 February, 2015. Authors of accepted submissions will receive instructions how to prepare and submit the publication-ready version, and details on the poster presentation and scheduling at the conference.</span></span></p>
 
 </div>
 
 <div>
 <h3><span><span>At the Conference</span></span></h3>
 
-<p dir="ltr"><span><span>Authors will be expected to attend the conference and will be assigned a time and location to present their poster to conference attendees. Note that it is possible that each poster may be presented over two consecutive days, so please keep that in mind while making travel plans. Work-in-progress submissions whose authors are not at the conference to present their poster may be withdrawn from the ACM Digital Library. Please see previous year’s CHI programs for examples of typical poster schedules.</span></span></p>
+<p dir="ltr"><span><span>Authors will be expected to attend the conference and will be assigned a time and location to present their poster to conference attendees. Please see the <a href="http://chi2015.acm.org/program/works-in-progress-rotation-schedule/">WiP presentation schedule</a> for this information. Work-in-progress submissions whose authors are not at the conference to present their poster may be withdrawn from the ACM Digital Library.</span></span></p>
 
 </div>
 
