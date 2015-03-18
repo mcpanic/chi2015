@@ -17,12 +17,16 @@ function check_query(objs, sessions, papers, type, search, query) {
 			
 			if (sessions[session_index]!=null) {
 
+				// console.log(sessions[session_index].chair.toLowerCase())
+				// console.log(query)
+				// console.log(search.session.chair)
+
 				if (sessions[session_index].s_title.toLowerCase().indexOf(query) > -1 && 
 					type[sessions[session_index].type].bool && search.session.bool) {
 					filtered.push(objs[i])
 				}
-				if (sessions[session_index].chair.toLowerCase().indexOf(query) > -1 && 
-					type[sessions[session_index].type].bool && search.session.chair) {
+				else if (sessions[session_index].chair.toLowerCase().indexOf(query) > -1 && 
+					type[sessions[session_index].type].bool && search.chair.bool) {
 					filtered.push(objs[i])
 				}
 				else {
