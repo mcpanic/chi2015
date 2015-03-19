@@ -5,6 +5,7 @@
     <h1>Exhibiting</h1>
 
 <div>
+  <h5><b>URGENT: CHI 2015 Exhibitor's Kit has been revised (March 17)!<br/><a href="#exhibitor-resources">Please download the new files below</a></b></h5>
   <p>The CHI 2015 exhibits program is an opportunity for your organization to showcase its offerings to the broadest professional community of human-computer interaction (HCI) practitioners and researchers. By exhibiting at CHI 2015, you gain access to professionals in the HCI field with interests spanning the design, development, and evaluation of current human-computer interaction and future technologies.</p>
 
   <div class="link-button-wrapper">
