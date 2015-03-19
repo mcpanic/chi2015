@@ -14,11 +14,11 @@
   </div>
 
   <h3 id="exhibitor-resources">Exhibitor Resources</h3>
-  <p>CHI 2015 Exhbitors can get you Exhibitor's Kit here.</p>
+  <p>CHI 2015 Exhibitors can get an Exhibitor's Kit here.</p>
 
   <ul>
-    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service_Kit_Final_150226.docx">Exhibitor Service Kit (docx)</a></li>
-    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibtior_Service Kit_Final_150226.pdf">Exhibitor Service Kit (pdf)</a></li>
+    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibitor_Service_Kit_Revised_150318.docx">Exhibitor Service Kit (docx)</a> - IMPORTANT SHIPPING ADDRESS REVISION 17 MARCH</li>
+    <li><a href="<?php echo $prefix; ?>/files/CHI_2015_Exhibitor_Service_Kit_Revised_150318.pdf">Exhibitor Service Kit (pdf)</a> - IMPORTANT SHIPPING ADDRESS REVISION 17 MARCH</li>
   </ul>
 
   <!-- <p>See <a href="http://chi2014.acm.org/exhibiting/list-of-exhibitors" target="_blank">last year’s exhibitors</a>.</p> -->

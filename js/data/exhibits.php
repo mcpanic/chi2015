@@ -17,12 +17,7 @@ echo '
 	  {
 	    "group": "Champion Sponsor Exhibitors",
 	    "data": [
-	      {
-	        "name": "Golfzon",
-	        "link": "http://golfsimulator.golfzon.com/",
-	        "Booth": "17 & 18",
-	        "Description": "We’re presenting golf in a way never seen before. Golfzon\'s product combine the best of golf and IT to offer new levels of fun and unforgettable experiences. Our golf simulators utilize numerous innovative technologies such as sensors, networks, and 3D vision to provide an immersive and enjoyable experience to improving your golf game.  Our goal is to establish a new golf culture to share with customers and build global relationships not only in the golf industry but also in even other industries."
-	      },
+	      
 	      {
           "name": "Google",
           "link": "http://www.google.com/about/company/",
@@ -90,8 +85,8 @@ echo '
           "Description": "Wiley is a global provider of knowledge and knowledge-enabled services that improve outcomes in areas of research, professional practice, and education, with online tools, journals, books, databases, reference works and laboratory protocols. With strengths in every major academic, scientific and professional field, we partners with over 800 prestigious societies representing two million members."
         },
         {
-          "name": "Letsee Inc.",
-          "link": "www.letsee.kr",
+          "name": "Letsee",
+          "link": "http://www.letsee.kr",
           "Booth": "31",
           "Description": "Letsee\'s web-based augmented reality (AR) technology lets users augment existing web contents with objects and places around us.  Our unique AR content structure enables users to augment contents instantly with real-time interaction with other users.  With our platform, anyone can contribute their own contents creating a healthy ecosystem filled with user-created digital assets."
         },
@@ -132,9 +127,15 @@ echo '
           "Description": "Oxford University Press is pleased to publish Interacting with Computers on behalf of BCS, The Chartered Institute for IT and Interaction, a specialist group from BCS. Visit the Oxford University Press stand for free journal copies and discounted books! For more information visit <a href=\'http://www.iwc.oxfordjournals.org\'>www.iwc.oxfordjournals.org</a> and look at our related books at <a href=\'http://www.oup.com\'>http://www.oup.com.</a>"
         },
         {
+          "name": "Samsung SDS, CX Team",
+          "link": "http://samsung.com/",
+          "Booth": "11",
+          "Description": "TBD"
+        },
+        {
           "name": "SAP",
           "link": "http://go.sap.com/index.html",
-          "Booth": "11",
+          "Booth": "34 & 35",
           "Description": "SAP helps companies of all sizes run better. With over 282,000 customers in 190 countries, over 74% of the world’s transactions touch SAP systems. Come see how our UX professionals are changing the way our customers do business. Looking to join our SAP family? Bring your resume and talk to our team about positions available in Korea and throughout SAP."
         },
         {
