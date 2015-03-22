@@ -130,7 +130,7 @@ echo '
           "name": "Samsung SDS, CX Team",
           "link": "http://samsung.com/",
           "Booth": "11",
-          "Description": "TBD"
+          "Description": "Samsung SDS believes smart technology can make the world happier. We are growing to be a global ICT company with a competitive  edge offering diverse ICT services including manufacturing IT, office IT, medical IT and so on. We innovate our customers\' experiences to provide them new business opportunities. Come see how our CX experts create smarter future and start the innovation here."
         },
         {
           "name": "SAP",
