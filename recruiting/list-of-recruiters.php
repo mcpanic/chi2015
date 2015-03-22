@@ -10,11 +10,27 @@
 
 <div role="main" id="list-of-exhibitors">
 
+  <h3>Hero Sponsor Recruiters</h3>
+  <ul>
+    <li>Samsung</li>
+  </ul>
+
+  <h3>Champion Sponsor Recruiters</h3>
+  <ul>
+    <li>Golfzon</li>
+    <li>Google</li>
+  </ul>
+
+  <h3>Contributing Sponsor Recruiters</h3>
+  <ul>
+    <li>Facebook</li>
+  </ul>
+
+  <h3>Additional Recruiters</h3>
   <ul>
     <li>Cisco Systems</li>
-    <li>Facebook</li>
-    <li>Google</li>
-    <li>SAP</li>
+    <li>Robert Bosch</li>
+    <li>Samsung SDS, CX Team</li>
     <li>SMART Technologies</li>
   </ul>
 
