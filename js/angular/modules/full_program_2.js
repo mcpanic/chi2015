@@ -45,6 +45,17 @@ function check_query(objs, sessions, papers, type, search, query) {
 							}
 							else {
 								var checker = false
+
+								if (papers[paper_index].speaker) {
+									if (papers[paper_index].speaker.toLowerCase().indexOf(query) > -1 && 
+									type[sessions[session_index].type].bool && search.author.bool) {
+										filtered.push(objs[i])
+										checker = true
+										break;
+									}
+								}
+
+								
 								for (var l in papers[paper_index].keywords) {
 									if (papers[paper_index].keywords[l].toLowerCase().indexOf(query) > - 1
 										&& type[sessions[session_index].type].bool && search.keywords.bool) {
@@ -109,6 +120,8 @@ function check_query(objs, sessions, papers, type, search, query) {
 											checker = true
 											break;
 										}
+										
+
 
 									}
 									if (checker) break;
@@ -341,7 +354,32 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 			name: "Special",
 			bool: true,
 			index: 7
+		},
+		keynote: {
+			id: "keynote",
+			name: "Keynote",
+			bool: true,
+			index: 8
+		},
+		wip: {
+			id: "wip",
+			name: "Work in Progress",
+			bool: true,
+			index: 9
+		},
+		interactivity: {
+			id: "interactivity",
+			name: "Interactivity Demos",
+			bool: true,
+			index: 10
+		},
+		breaks: {
+			id: "breaks",
+			name: "Session Break",
+			bool: true,
+			index: 11
 		}
+
 	}
 	$scope.schedule_days = [
 		"Monday", "Tuesday", "Wednesday", "Thursday" 

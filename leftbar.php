@@ -8,6 +8,13 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">23 March 2015</div>
+		<ul>
+
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule">WiP, Interactivity, Keynote Schedules are now part of the CHI 2015 Full Schedule!</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">19 March 2015</div>
 		<ul>
 

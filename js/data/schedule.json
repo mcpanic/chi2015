@@ -4,6 +4,36 @@ schedule=[
         "day": "Monday",
         "slots": [
             {
+                "slot_id": "Monday_8_30_10_00",
+                "time": "8:30 - 10:00",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "keynote-1",
+                        "room": "Plenary Hall"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Monday_10_00_11_30",
+                "time": "8:30 - 10:00",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "break-1",
+                        "room": ""
+                    },
+                    {
+                        "session": "sgc-ex-1",
+                        "room": "Exhibit Hall"
+                    },
+                    {
+                        "session": "vid-1",
+                        "room": ""
+                    }
+                ]
+            },
+            {
                 "slot_id": "Monday_11_30_12_50",
                 "time": "11:30 - 12:50",
                 "slot_class": "morning2",
@@ -63,6 +93,17 @@ schedule=[
                     {
                         "session": "s-crs132",
                         "room": "318BC"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Monday_12_50_14_30",
+                "time": "12:50 - 14:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "break-2",
+                        "room": ""
                     }
                 ]
             },
@@ -134,6 +175,17 @@ schedule=[
                 ]
             },
             {
+                "slot_id": "Monday_15_50_16_30",
+                "time": "15:50 - 16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "break-3",
+                        "room": ""
+                    }
+                ]
+            },
+            {
                 "slot_id": "Monday_16_30_17_50",
                 "time": "16:30 - 17:50",
                 "slot_class": "afternoon2",
@@ -195,6 +247,17 @@ schedule=[
                         "room": "318BC"
                     }
                 ]
+            },
+            {
+                "slot_id": "Monday_18_00_19_30",
+                "time": "18:00 - 19:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "special-1",
+                        "room": "Exhibit Hall"
+                    }
+                ]
             }
         ]
     },
@@ -202,6 +265,17 @@ schedule=[
         "date": "April 21, 2015",
         "day": "Tuesday",
         "slots": [
+            {
+                "slot_id": "Tuesday_8_30_9_20",
+                "time": "8:30 - 9:20",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "keynote-2",
+                        "room": "Plenary Hall"
+                    }
+                ]
+            },
             {
                 "slot_id": "Tuesday_9_30_10_50",
                 "time": "9:30 - 10:50",
@@ -265,6 +339,26 @@ schedule=[
                     }
                 ]
             },
+            {
+                "slot_id": "Tuesday_10_50_11_30",
+                "time": "10:50 - 11:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "break-4",
+                        "room": ""
+                    },
+                    {
+                        "session": "wip-1",
+                        "room": "Exhibit Hall"
+                    },
+                    {
+                        "session": "int-1",
+                        "room": "Exhibit Hall"
+                    }
+                ]
+            },
+
             {
                 "slot_id": "Tuesday_11_30_12_50",
                 "time": "11:30 - 12:50",
@@ -333,6 +427,17 @@ schedule=[
                 ]
             },
             {
+                "slot_id": "Tuesday_12_50_14_30",
+                "time": "12:50 - 14:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "break-5",
+                        "room": ""
+                    }
+                ]
+            },
+            {
                 "slot_id": "Tuesday_14_30_15_50",
                 "time": "14:30 - 15:50",
                 "slot_class": "afternoon1",
@@ -392,6 +497,25 @@ schedule=[
                     {
                         "session": "s-crs131",
                         "room": "318BC"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Tuesday_15_50_16_30",
+                "time": "15:50 - 16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "break-6",
+                        "room": ""
+                    },
+                    {
+                        "session": "wip-2",
+                        "room": "Exhibit Hall"
+                    },
+                    {
+                        "session": "int-2",
+                        "room": "Exhibit Hall"
                     }
                 ]
             },
@@ -461,6 +585,17 @@ schedule=[
                         "room": "318A"
                     }
                 ]
+            },
+            {
+                "slot_id": "Tuesday_18_00_19_30",
+                "time": "18:00 - 19:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "special-2",
+                        "room": "Exhibit Hall"
+                    }
+                ]
             }
         ]
     },
@@ -468,6 +603,17 @@ schedule=[
         "date": "April 22, 2015",
         "day": "Wednesday",
         "slots": [
+            {
+                "slot_id": "Wednesday_8_30_9_20",
+                "time": "8:30 - 9:20",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "keynote-3",
+                        "room": "Plenary Hall"
+                    }
+                ]
+            },
             {
                 "slot_id": "Wednesday_9_30_10_50",
                 "time": "9:30 - 10:50",
@@ -524,6 +670,25 @@ schedule=[
                     {
                         "session": "s-crs121",
                         "room": "318BC"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_10_50_11_30",
+                "time": "10:50 - 11:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "break-7",
+                        "room": ""
+                    },
+                    {
+                        "session": "wip-3",
+                        "room": "Exhibit Hall"
+                    },
+                    {
+                        "session": "int-3",
+                        "room": "Exhibit Hall"
                     }
                 ]
             },
@@ -595,6 +760,17 @@ schedule=[
                 ]
             },
             {
+                "slot_id": "Wednesday_12_50_14_30",
+                "time": "12:50 - 14:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "break-8",
+                        "room": ""
+                    }
+                ]
+            },
+            {
                 "slot_id": "Wednesday_14_30_15_50",
                 "time": "14:30 - 15:50",
                 "slot_class": "afternoon1",
@@ -654,6 +830,25 @@ schedule=[
                     {
                         "session": "s-crs107",
                         "room": "318BC"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_15_50_16_30",
+                "time": "15:50 - 16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "break-9",
+                        "room": ""
+                    },
+                    {
+                        "session": "wip-4",
+                        "room": "Exhibit Hall"
+                    },
+                    {
+                        "session": "int-4",
+                        "room": "Exhibit Hall"
                     }
                 ]
             },
@@ -731,6 +926,17 @@ schedule=[
         "day": "Thursday",
         "slots": [
             {
+                "slot_id": "Thursday_8_30_9_20",
+                "time": "8:30 - 9:20",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "keynote-4",
+                        "room": "Plenary Hall"
+                    }
+                ]
+            },
+            {
                 "slot_id": "Thursday_9_30_10_50",
                 "time": "9:30 - 10:50",
                 "slot_class": "morning1",
@@ -790,6 +996,21 @@ schedule=[
                 ]
             },
             {
+                "slot_id": "Thursday_10_50_11_30",
+                "time": "10:50 - 11:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "break-10",
+                        "room": ""
+                    },
+                    {
+                        "session": "int-4",
+                        "room": "Exhibit Hall"
+                    }
+                ]
+            },
+            {
                 "slot_id": "Thursday_11_30_12_50",
                 "time": "11:30 - 12:50",
                 "slot_class": "morning2",
@@ -845,6 +1066,17 @@ schedule=[
                 ]
             },
             {
+                "slot_id": "Thursday_12_50_14_30",
+                "time": "12:50 - 14:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "break-11",
+                        "room": ""
+                    }
+                ]
+            },
+            {
                 "slot_id": "Thursday_14_30_15_50",
                 "time": "14:30 - 15:50",
                 "slot_class": "afternoon1",
@@ -888,6 +1120,28 @@ schedule=[
                     {
                         "session": "s-case5",
                         "room": "308"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_15_50_16_30",
+                "time": "15:50 - 16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "break-12",
+                        "room": ""
+                    }
+                ]
+            },
+            {
+                "slot_id": "Thursday_16_30_17_50",
+                "time": "16:30 - 17:50",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "keynote-5",
+                        "room": "Plenary Hall"
                     }
                 ]
             }

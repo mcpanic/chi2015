@@ -93,7 +93,7 @@
 											<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="sessions[session.session].hasHonorableMention && !session.hover && hide_icons"/>
 											<img src="<?php echo $prefix; ?>/img/program/honorable_white.png" ng-if="sessions[session.session].hasHonorableMention && session.hover && hide_icons"/>
 										</span>
-										<span class="full_schedule_session_room_text" ng-bind="'Rm: '+sessions[session.session].room">
+										<span ng-if="sessions[session.session].room.trim()!=''" class="full_schedule_session_room_text" ng-bind="'Rm: '+sessions[session.session].room">
 
 										</span>
 									</div>	
@@ -115,7 +115,9 @@
 									</h3>
 
 									<div class="full_schedule_session_description">
-										Room: <span ng-bind="sessions[session.session].room"></span><br/>
+										<span ng-if="sessions[session.session].room.trim()!=''">
+											Room: <span ng-bind="sessions[session.session].room"></span><br/>
+										</span>
 										<span ng-if="sessions[session.session].chair.trim()!=''">
 											Chair: 
 											<span ng-bind="sessions[session.session].chair"></span><br/>
@@ -163,6 +165,7 @@
 												             session.session=='s-sgc')  ">
 													<b><i>Hosts</i></b>
 												</span>
+												
 												<span ng-if="sessions[session.session].type=='special' && 
 												             (session.session=='s-src' || session.session=='s-sdc' ||
 												             session.session=='s-sgc')">
@@ -180,6 +183,11 @@
 												<span ng-if="sessions[session.session].type=='panel'">
 													<b><i>Panelists</i></b>
 												</span>
+												<span ng-if="sessions[session.session].type=='keynote'">
+													<p><b><i>Plenary Speaker: </i></b><span ng-bind="papers[submissions].speaker"></span><br/>
+														<i><span ng-bind="papers[submissions]['speaker-affiliation']"></span></i></p>
+												</span>
+
 												<ul>
 													<li ng-repeat="author in papers[submissions].authors">
 														<span ng-bind="author.name"></span>,
@@ -188,6 +196,7 @@
 
 													</li>
 												</ul>
+												
 											</div>
 											<div class="full_schedule_abstract" ng-if="papers[submissions].abstract.trim()!='' && papers[submissions].abstract_toggle">
 												<b><i>Abstract: </i></b>
@@ -199,11 +208,18 @@
 												<p ng-bind-html="''+papers[submissions].cAndB"></p>
 												<p><a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].abstract.trim()!=''" style="cursor:pointer">Show Abstract</a></p>
 											</div>
+											<div class="full_schedule_abstract" ng-if="papers[submissions].bio">
+												<b><i>Biography: </i></b>
+												<p ng-bind-html="''+papers[submissions].bio"></p>
+											</div>
+
 											<a ng-click="focus()" style="cursor:pointer">Go back Up</a><br/>
 											<a ng-click="schedule_click(session.indices, true)" style="cursor:pointer">Close</a>
 										</div>
 
-										
+										<br ng-if="sessions[session.session].type=='wip' || sessions[session.session].type=='interactivity'"/>
+										<a href="<?php echo $prefix; ?>/program/works-in-progress-rotation-schedule" ng-if="sessions[session.session].type=='wip'">See Work in Progress Submissions here</a>
+										<a href="<?php echo $prefix; ?>/program/interactivity" ng-if="sessions[session.session].type=='interactivity'">See Interactivity Demo Submissions here</a>
 
 									</div>
 								</div>

@@ -1,4 +1,514 @@
 sessions={
+    "keynote-1": {
+        "s_title": "Opening Plenary - Crossing: HCI, Design and Sustainability",
+        "room": "Plenary Hall",
+        "time": "8:30-10:00",
+        "submissions": [
+            "key1"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chair": ""
+    },
+    "keynote-2": {
+        "s_title": "Plenary Session - UX Design in the IoT Era ",
+        "room": "Plenary Hall",
+        "time": "8:30-10:00",
+        "submissions": [
+            "key2"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chair": ""
+    },
+    "keynote-3": {
+        "s_title": "Plenary Session - Journey to a Better Life",
+        "room": "Plenary Hall",
+        "time": "8:30-10:00",
+        "submissions": [
+            "key3"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chair": ""
+    },
+    "keynote-4": {
+        "s_title": "Plenary Session - ACM-W Athena Lecture: Large-Scale Behavioral Data: Potential and Pitfalls",
+        "room": "Plenary Hall",
+        "time": "8:30-10:00",
+        "submissions": [
+            "key4"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chair": ""
+    },
+    "keynote-5": {
+        "s_title": "Plenary Session - Cultural Crossing from Local to Global through Music: Technology, Media, and Future",
+        "room": "Plenary Hall",
+        "time": "16:30-17:50",
+        "submissions": [
+            "key5"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chair": ""
+    },
+    "wip-1": {
+        "s_title": "Work in Progress Exhibit",
+        "room": "Exhibit Hall",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "wip",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "wip",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "wip",
+        "chair": ""
+    },
+    "int-1": {
+        "s_title": "Interactivity Demos Exhibit",
+        "room": "Exhibit Hall",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "interactivity",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "interactivity",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "interactivity",
+        "chair": ""
+    },
+    "wip-2": {
+        "s_title": "Work in Progress Exhibit",
+        "room": "Exhibit Hall",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "wip",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "wip",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "wip",
+        "chair": ""
+    },
+    "int-2": {
+        "s_title": "Interactivity Demos Exhibit",
+        "room": "Exhibit Hall",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "interactivity",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "interactivity",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "interactivity",
+        "chair": ""
+    },
+    "wip-3": {
+        "s_title": "Work in Progress Exhibit",
+        "room": "Exhibit Hall",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "wip",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "wip",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "wip",
+        "chair": ""
+    },
+    "int-3": {
+        "s_title": "Interactivity Demos Exhibit",
+        "room": "Exhibit Hall",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "interactivity",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "interactivity",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "interactivity",
+        "chair": ""
+    },
+    "wip-4": {
+        "s_title": "Work in Progress Exhibit",
+        "room": "Exhibit Hall",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "wip",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "wip",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "wip",
+        "chair": ""
+    },
+    "int-4": {
+        "s_title": "Interactivity Demos Exhibit",
+        "room": "Exhibit Hall",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "interactivity",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "interactivity",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "interactivity",
+        "chair": ""
+    },
+    "int-5": {
+        "s_title": "Interactivity Demos Exhibit",
+        "room": "Exhibit Hall",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "interactivity",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "interactivity",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "interactivity",
+        "chair": ""
+    },
+    "break-1": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "10:00-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-2": {
+        "s_title": "Lunch Break (on your own)",
+        "room": "",
+        "time": "12:50-14:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-3": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-4": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-5": {
+        "s_title": "Lunch Break (on your own)",
+        "room": "",
+        "time": "12:50-14:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-6": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-7": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-8": {
+        "s_title": "Lunch Break (on your own)",
+        "room": "",
+        "time": "12:50-14:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-9": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-10": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "10:50-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-11": {
+        "s_title": "Lunch Break (on your own) - Exhibit hall closes at 13:30",
+        "room": "",
+        "time": "12:50-14:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "break-12": {
+        "s_title": "Coffee Break",
+        "room": "",
+        "time": "15:50-16:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "breaks",
+        "day": "Thursday",
+        "s_tags": [],
+        "type": "breaks",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "breaks",
+        "chair": ""
+    },
+    "sgc-ex-1": {
+        "s_title": "Student Game Competition Exhibit",
+        "room": "",
+        "time": "10:00-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
+    "special-1": {
+        "s_title": "Opening Reception & Exhibit Hall Grand Opening",
+        "room": "Exhbit Hall",
+        "time": "18:00-19:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
+    "special-2": {
+        "s_title": "Job Fair",
+        "room": "Exhbit Hall",
+        "time": "18:00-19:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
+    "vid-1": {
+        "s_title": "Video Preview Session",
+        "room": "",
+        "time": "10:00-11:30",
+        "submissions": [
+            
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Monday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
     "s-sig1": {
         "s_title": "SIG: Start and Run a SIGCHI Local Chapter",
         "room": "318A",
