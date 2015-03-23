@@ -19,7 +19,7 @@
 
 <p>So for a poster with ID wip20607 this number means that the poster is a work-in-progress poster (as opposed to a doctoral consortium or student research competition poster), belongs to the second rotation (so will be presented on Wednesday), belongs to cluster 06 and is poster #7 in that cluster.</p>
 
-<p>The Tuesday and Wednesday coffee breaks (10:50-11:30, 15:50-16:30 –see here <a href="http://chi2015.acm.org/program/schedule-glance/">http://chi2015.acm.org/program/schedule-glance/</a>) are the designated poster viewing sessions during this year’s conference. However your posters should be hung all day (depending on your rotation) i.e. they should be put up first thing and taken down in the evening.</p>
+<p>The Tuesday and Wednesday coffee breaks (10:50-11:30, 15:50-16:30 –see here <a href="http://chi2015.acm.org/program/full-schedule/">http://chi2015.acm.org/program/full-schedule/</a>) are the designated poster viewing sessions during this year’s conference. However your posters should be hung all day (depending on your rotation) i.e. they should be put up first thing and taken down in the evening.</p>
 
 <p>You are expected to bring your own printed posters and hang the posters yourselves. You also must be physically present at the poster during two spotlight sessions on your designated day - during the morning coffee break and the afternoon coffee break at the Exhibit hall. Your posters should be hung up before 10 AM and must be taken down at the end of the day.</p>
 
