@@ -1,6 +1,11 @@
 function check_query(objs, sessions, papers, type, search, query) {
-
-	query = query.toLowerCase()
+	if (query) {
+		query = query.toLowerCase()	
+	}
+	else {
+		query = ""
+	}
+	
 
 	var filtered = [];
 
