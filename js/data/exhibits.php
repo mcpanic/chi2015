@@ -10,7 +10,7 @@ echo '
           "name": "Samsung",
           "link": "http://samsung.com/",
           "Booth": "1, 2 & 3",
-          "Description": "TBD"
+          "Description": "Design and software are the critical types of soft power that will lead future businesses. In light of this, Samsung Electronics operates talent-fostering programs called the Samsung Design Membership and the Samsung Software Membership. These programs help aspiring students pursue their creative interests through academic-industrial cooperation and many other research activities. Come and visit us."
         }
       ]
     },
@@ -128,7 +128,7 @@ echo '
         },
         {
           "name": "Samsung SDS, CX Team",
-          "link": "http://samsung.com/",
+          "link": "http://www.sds.samsung.com",
           "Booth": "11",
           "Description": "Samsung SDS believes smart technology can make the world happier. We are growing to be a global ICT company with a competitive  edge offering diverse ICT services including manufacturing IT, office IT, medical IT and so on. We innovate our customers\' experiences to provide them new business opportunities. Come see how our CX experts create smarter future and start the innovation here."
         },
