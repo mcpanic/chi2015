@@ -410,7 +410,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 		else {
 			$scope.row_index = 2
 		}
-		console.log("CheckResize")
+		//console.log("CheckResize")
 		console.log($scope.row_index)
 	}
 

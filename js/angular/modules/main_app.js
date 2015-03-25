@@ -25,8 +25,23 @@ angular.module('chi2015_app').config(['$routeProvider','$locationProvider', func
 //    });
 //  }]);
 
-angular.module('chi2015_controllers').controller('main_controller', ['$scope', function($scope){
+angular.module('chi2015_controllers').controller('main_controller', ['$scope', '$window', function($scope, $window){
+	var sm = 768
+	var md = 992
+	$scope.isGeneralSmallWindow = function() {
+		console.log($window.innerWidth)
+		return ($window.innerWidth >= sm && $window.innerWidth < md )
+	}
 
+	$scope.isGeneralMediumWindow = function() {
+		console.log($window.innerWidth)
+		return $window.innerWidth >= md
+	}
+
+	angular.element($window).on('resize', angular.bind($scope, function(){	
+		//console.log("resize")
+		$scope.$apply();
+	}));
 }])
 
 angular.module('chi2015_controllers').controller('link_controller',
