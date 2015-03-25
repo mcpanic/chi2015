@@ -29,13 +29,17 @@
 
     <div class="sponsor"><a href="http://www.disneyresearch.com/" target="_blank"><img width="160" alt="Disney Research" title="Sponsored by Disney Research" src="<?php echo $prefix; ?>/img/sponsors/disney.png" border="0"></a></div>
 
-    <div class="sponsor"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
-
     <div class="sponsor"><a href="http://facebook.com/" target="_blank"><img width="160" alt="Facebook" title="Sponsored by Facebook" src="<?php echo $prefix; ?>/img/sponsors/facebook2.png" border="0"></a></div>
 
-    <div class="sponsor"><a href="http://langrid.org/en/index.html" target="_blank"><img width="160" alt="Facebook" title="Sponsored by Language Grid" src="<?php echo $prefix; ?>/img/sponsors/language_grid.png" border="0"></a></div>
+    <div class="sponsor"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
 
-    <div class="sponsor"><a href="http://www.nsf.gov/" target="_blank"><img width="220" alt="Facebook" title="Sponsored by NSF" src="<?php echo $prefix; ?>/img/sponsors/nsf.png" border="0"></a></div>
+    
+
+    <div class="sponsor"><a href="http://langrid.org/en/index.html" target="_blank"><img width="160" alt="LG" title="Sponsored by Language Grid" src="<?php echo $prefix; ?>/img/sponsors/language_grid.png" border="0"></a></div>
+
+    <div class="sponsor"><a href="http://www.lg.com/" target="_blank"><img width="160" alt="Language Grid" title="Sponsored by LG" src="<?php echo $prefix; ?>/img/sponsors/lg.png" border="0"></a></div>
+
+    <div class="sponsor"><a href="http://www.nsf.gov/" target="_blank"><img width="220" alt="NSF" title="Sponsored by NSF" src="<?php echo $prefix; ?>/img/sponsors/nsf.png" border="0"></a></div>
 <hr>
   <h4 id="friends">Friends of CHI</h4>
 
