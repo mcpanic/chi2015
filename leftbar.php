@@ -8,6 +8,20 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block first-block">
+		<div class="sidebar-date">25 March 2015</div>
+		<ul>
+
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/">CHI 2015 Teaser for Korea now at Attending Page</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
+		<div class="sidebar-date">25 March 2015</div>
+		<ul>
+
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/">CHI 2015 Opening Movie now Online at Landing Page</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block first-block">
 		<div class="sidebar-date">23 March 2015</div>
 		<ul>
 
