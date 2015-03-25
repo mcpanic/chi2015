@@ -73,9 +73,9 @@ echo '
           "Description": "EyeTracking, Inc. is the leading provider of eye tracking services, software and expertise. For over a decade we have been at the forefront of innovation in virtually every area of visual behavior and cognitive workload research. Visit our booth to learn about our software: EyeWorks for eye tracking, Quad Server for physiological sensor integration, Workload RT for cognitive workload measurement."
         },
         {
-          "name": "IUEditor",
+          "name": "IUEditor (JD Labs)",
           "link": "http://www.iueditor.org/",
-          "Booth": "30",
+          "Booth": "10",
           "Description": "IUEditor is a world top class web editor, which realized the concept of visual language in life. It can embody HTML, CSS, Javascript without any coding. Moreover, It supports Python, Wordpress of Backend, and is able to synchronize with cloud server like Heroku. Plus, you can convert to website for mobile, tablet by just one click. All of these will be supported by gorgeous GUI."
         },
         {
