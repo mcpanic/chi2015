@@ -33,7 +33,7 @@
 
     <div class="sponsor"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
 
-    
+    <div class="sponsor"><a href="http://worldwide.hyundai.com/" target="_blank"><img width="160" alt="Hyundai" title="Sponsored by Hyundai" src="<?php echo $prefix; ?>/img/sponsors/hyundai.png" border="0"></a></div>    
 
     <div class="sponsor"><a href="http://langrid.org/en/index.html" target="_blank"><img width="160" alt="LG" title="Sponsored by Language Grid" src="<?php echo $prefix; ?>/img/sponsors/language_grid.png" border="0"></a></div>
 
