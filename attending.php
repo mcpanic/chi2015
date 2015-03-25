@@ -4,6 +4,10 @@
 ?>
 <h1>Attending</h1>
 
+<div style="text-align: center; margin-bottom: 20px">
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/iX9I8YKrqKs?rel=0&amp;controls=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
 <p>
 CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class center of emerging trends in culture, technology, and design. The following information should help you register for the conference and make the most of your travels.
 </p>
