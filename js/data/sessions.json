@@ -89,7 +89,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "wip",
@@ -106,7 +106,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "interactivity",
@@ -123,7 +123,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "wip",
@@ -140,7 +140,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "interactivity",
@@ -157,7 +157,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "wip",
@@ -174,7 +174,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "interactivity",
@@ -191,7 +191,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "wip",
@@ -208,7 +208,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "interactivity",
@@ -225,7 +225,7 @@ sessions={
         "room": "Exhibit Hall",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "interactivity",
@@ -242,7 +242,7 @@ sessions={
         "room": "",
         "time": "10:00-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -259,7 +259,7 @@ sessions={
         "room": "",
         "time": "12:50-14:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -276,7 +276,7 @@ sessions={
         "room": "",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -293,7 +293,7 @@ sessions={
         "room": "",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -310,7 +310,7 @@ sessions={
         "room": "",
         "time": "12:50-14:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -327,7 +327,7 @@ sessions={
         "room": "",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -344,7 +344,7 @@ sessions={
         "room": "",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -361,7 +361,7 @@ sessions={
         "room": "",
         "time": "12:50-14:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -378,7 +378,7 @@ sessions={
         "room": "",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -395,7 +395,7 @@ sessions={
         "room": "",
         "time": "10:50-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -412,7 +412,7 @@ sessions={
         "room": "",
         "time": "12:50-14:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -429,7 +429,7 @@ sessions={
         "room": "",
         "time": "15:50-16:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "breaks",
@@ -446,7 +446,7 @@ sessions={
         "room": "",
         "time": "10:00-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "special",
@@ -463,7 +463,7 @@ sessions={
         "room": "Exhbit Hall",
         "time": "18:00-19:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "special",
@@ -480,7 +480,7 @@ sessions={
         "room": "Exhbit Hall",
         "time": "18:00-19:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "special",
@@ -497,7 +497,7 @@ sessions={
         "room": "",
         "time": "10:00-11:30",
         "submissions": [
-            
+
         ],
         "personas": "",
         "venue": "special",
@@ -587,6 +587,40 @@ sessions={
         "personas": "",
         "venue": "SIG",
         "day": "Monday",
+        "s_tags": [],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chair": ""
+    },
+    "s-sig6": {
+        "s_title": "SIG: Games Research Subcommittee",
+        "room": "318A",
+        "time": "14:30-15:50",
+        "submissions": [
+            "sig111"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "Wednesday",
+        "s_tags": [],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chair": ""
+    },
+    "s-sig7": {
+        "s_title": "SIG: Moving to a Virtual PC Meeting",
+        "room": "318A",
+        "time": "11:30-12:50",
+        "submissions": [
+            "sig112"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "Thursday",
         "s_tags": [],
         "type": "SIG",
         "hasAward": false,

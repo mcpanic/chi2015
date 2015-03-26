@@ -5,7 +5,7 @@
 <h1>Attending</h1>
 
 <div style="text-align: center; margin-bottom: 20px">
-    <iframe width="100%" height="315" src="https://www.youtube.com/embed/iX9I8YKrqKs?rel=0&amp;controls=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/iX9I8YKrqKs?rel=0&amp;controls=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <p>

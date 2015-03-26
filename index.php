@@ -5,7 +5,7 @@
 ?>
             <h1>Welcome</h1>
             <div style="text-align: center; margin-bottom: 20px">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/9cgI2xAelNc?rel=0&amp;controls=0&amp;autoplay=1" frameborder="0" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/9cgI2xAelNc?rel=0&amp;controls=0&amp;autoplay=0" frameborder="0" allowfullscreen></iframe>
             </div>
             <p>For over 30 years, the CHI conference (pronounced ‘kai’) has attracted the world’s leading researchers and practitioners in the field of Human Computer Interaction (HCI) from businesses and universities to share ground-breaking research and innovations related to how humans interact with digital technologies.  The Association for Computing Machinery’s (ACM) CHI conference is the world's premiere conference on Human Factors in Computing Systems, presenting a highly selective showcase of the very best advances across the disciplines of computer science, cognitive psychology, design, social science, human factors, artificial intelligence, graphics, visualization, multi-media design and other disciplines.</p>
             <p>

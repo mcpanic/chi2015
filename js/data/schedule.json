@@ -830,6 +830,10 @@ schedule=[
                     {
                         "session": "s-crs107",
                         "room": "318BC"
+                    },
+                    {
+                        "session": "s-sig6",
+                        "room": "318A"
                     }
                 ]
             },
@@ -1062,6 +1066,10 @@ schedule=[
                     {
                         "session": "s-crs124",
                         "room": "E7"
+                    },
+                    {
+                        "session": "s-sig7",
+                        "room": "318A"
                     }
                 ]
             },

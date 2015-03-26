@@ -50,7 +50,7 @@ entities={
         "subtype": "keynote",
         "award": false,
         "hm": false
-    }, 
+    },
     "key5": {
         "title": "Cultural Crossing from Local to Global through Music: Technology, Media, and Future",
         "abstract": "Many people think that the global success of the song Gangnam Style has contributed to the tremendous success of the Korean Wave. Being in front of experts in technology and human interactions, I’d like to share my thinking and story about questions like the following: What was the effect of global social media such as YouTube on the global crossing of local culture? How do I plan and utilize the new way of interacting with audience across national and cultural boundaries? Reflecting on the great success of Gangnam Style, what was the main trigger to the big bang of the spread of the Korean wave? As both a musician and an entrepreneur, what do I think is the new process from the ideation of a new song to a global distribution, publicity, and performance of that song? For the creativity that can be appreciated by global audience, how do I think about the technology and media of the future, in terms of creative works? I am looking forward to sharing my experience and opinion here at CHI 2015.",
@@ -195,7 +195,7 @@ entities={
         "hm": false
     },
     "sig105": {
-        "title": "Understanding Sports-HCI by Going Jogging at CH",
+        "title": "Understanding Sports-HCI by Going Jogging at CHI",
         "abstract": "More and more technologies are emerging that aim to support sports activities, for example there are jogging apps, cycling computers and quadcopters for sportspeople to videorecord their actions. These new technologies appear to become more and more popular, yet interaction design knowledge how to support the associated exertion experiences is still limited. In order to bring practitioners and academics interested in sports-HCI together and examine the topic “in the wild”, we propose to go outside and jog around the CHI venue while using and discussing some of these new technologies. The goal is to investigate and shape the future of the field of sports-HCI.",
         "cAndB": "",
         "keywords": [
@@ -402,6 +402,30 @@ entities={
                 "affiliation": "University of Aarhus",
                 "location": "Aarhus, Denmark"
             }
+        ],
+        "type": "SIG",
+        "subtype": "SIG",
+        "award": false,
+        "hm": false
+    },
+    "sig111": {
+        "title": "Games Research Subcommittee SIG",
+        "abstract": "For CHI 2016, there will be a subcommittee devoted to research in the area of computer games, centralizing games submissions into a single process, rather than having them be distributed across the other subcommittees. Although game-related CHI submissions have much in common, there are also big differences in terms of methodology, approach, standards, contribution, and outcome. In this SIG, the CHI games community will talk about what this new change means for moving games research forward at CHI.",
+        "cAndB": "",
+        "keywords": [],
+        "authors": [
+        ],
+        "type": "SIG",
+        "subtype": "SIG",
+        "award": false,
+        "hm": false
+    },
+    "sig112": {
+        "title": "SIG for Moving to a Virtual PC Meeting",
+        "abstract": "CHI 2016 will pilot the process of having a virtual PC meeting for one of the subcommittees, instead of a face-to-face meeting. Although this pilot project is moving forward, there are still many decisions to be made about how the virtual PC meeting will be conducted. People interested in contributing ideas and concerns should attend this SIG - this is your chance to shape the future of the review process at CHI.",
+        "cAndB": "",
+        "keywords": [],
+        "authors": [
         ],
         "type": "SIG",
         "subtype": "SIG",
