@@ -476,8 +476,9 @@ footer {
 	margin: 30px 0;
 }
 
-.course-entry .id{
-	display: none;
+.course-entry .id, .course-entry .title{
+	/*display: none;*/
+	display: inline;
 }
 
 .course-entry .instructors{

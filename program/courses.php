@@ -156,7 +156,7 @@
 <h3>List of Courses</h3>
 
 <div class="course-entry" ng-repeat="course in data" id="{{course.id}}">
-    <div class="id" ng-bind="course.id"></div>
+    <h4 class="id" ng-bind="course.id"></h4>&nbsp;
     <h4 class="title" ng-bind="course.paper_title"></h4>
     <div class="instructors" ng-bind-html="course.instructor"></div>
     <div class="schedule">
