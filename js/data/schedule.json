@@ -6,7 +6,7 @@ schedule=[
             {
                 "slot_id": "Monday_8_30_10_00",
                 "time": "8:30 - 10:00",
-                "slot_class": "morning2",
+                "slot_class": "keynote",
                 "sessions": [
                     {
                         "session": "keynote-1",
@@ -16,7 +16,7 @@ schedule=[
             },
             {
                 "slot_id": "Monday_10_00_11_30",
-                "time": "8:30 - 10:00",
+                "time": "10:00 - 11:30",
                 "slot_class": "morning2",
                 "sessions": [
                     {
@@ -36,7 +36,7 @@ schedule=[
             {
                 "slot_id": "Monday_11_30_12_50",
                 "time": "11:30 - 12:50",
-                "slot_class": "morning2",
+                "slot_class": "morning4",
                 "sessions": [
                     {
                         "session": "s-float-6",
@@ -95,7 +95,7 @@ schedule=[
             {
                 "slot_id": "Monday_12_50_14_30",
                 "time": "12:50 - 14:30",
-                "slot_class": "morning2",
+                "slot_class": "lunch",
                 "sessions": [
                     {
                         "session": "break-2",
@@ -184,7 +184,7 @@ schedule=[
             {
                 "slot_id": "Monday_16_30_17_50",
                 "time": "16:30 - 17:50",
-                "slot_class": "afternoon2",
+                "slot_class": "afternoon3",
                 "sessions": [
                     {
                         "session": "s134",
@@ -247,7 +247,7 @@ schedule=[
             {
                 "slot_id": "Monday_18_00_19_30",
                 "time": "18:00 - 19:30",
-                "slot_class": "afternoon2",
+                "slot_class": "afternoon4",
                 "sessions": [
                     {
                         "session": "special-1",
@@ -264,7 +264,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_8_30_9_20",
                 "time": "8:30 - 9:20",
-                "slot_class": "morning2",
+                "slot_class": "keynote",
                 "sessions": [
                     {
                         "session": "keynote-2",
@@ -275,7 +275,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_9_30_10_50",
                 "time": "9:30 - 10:50",
-                "slot_class": "morning1",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s141",
@@ -338,7 +338,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_10_50_11_30",
                 "time": "10:50 - 11:30",
-                "slot_class": "morning1",
+                "slot_class": "morning3",
                 "sessions": [
                     {
                         "session": "break-4",
@@ -358,7 +358,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_11_30_12_50",
                 "time": "11:30 - 12:50",
-                "slot_class": "morning2",
+                "slot_class": "morning4",
                 "sessions": [
                     {
                         "session": "s154",
@@ -425,7 +425,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_12_50_14_30",
                 "time": "12:50 - 14:30",
-                "slot_class": "morning2",
+                "slot_class": "lunch",
                 "sessions": [
                     {
                         "session": "break-5",
@@ -518,7 +518,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_16_30_17_50",
                 "time": "16:30 - 17:50",
-                "slot_class": "afternoon2",
+                "slot_class": "afternoon3",
                 "sessions": [
                     {
                         "session": "s117",
@@ -585,7 +585,7 @@ schedule=[
             {
                 "slot_id": "Tuesday_18_00_19_30",
                 "time": "18:00 - 19:30",
-                "slot_class": "afternoon2",
+                "slot_class": "afternoon4",
                 "sessions": [
                     {
                         "session": "special-2",
@@ -602,7 +602,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_8_30_9_20",
                 "time": "8:30 - 9:20",
-                "slot_class": "morning2",
+                "slot_class": "keynote",
                 "sessions": [
                     {
                         "session": "keynote-3",
@@ -613,7 +613,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_9_30_10_50",
                 "time": "9:30 - 10:50",
-                "slot_class": "morning1",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s166",
@@ -672,7 +672,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_10_50_11_30",
                 "time": "10:50 - 11:30",
-                "slot_class": "morning1",
+                "slot_class": "morning3",
                 "sessions": [
                     {
                         "session": "break-7",
@@ -691,7 +691,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_11_30_12_50",
                 "time": "11:30 - 12:50",
-                "slot_class": "morning2",
+                "slot_class": "morning4",
                 "sessions": [
                     {
                         "session": "s-float-49",
@@ -758,7 +758,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_12_50_14_30",
                 "time": "12:50 - 14:30",
-                "slot_class": "morning2",
+                "slot_class": "lunch",
                 "sessions": [
                     {
                         "session": "break-8",
@@ -855,7 +855,7 @@ schedule=[
             {
                 "slot_id": "Wednesday_16_30_17_50",
                 "time": "16:30 - 17:50",
-                "slot_class": "afternoon2",
+                "slot_class": "afternoon3",
                 "sessions": [
                     {
                         "session": "s106",
@@ -928,7 +928,7 @@ schedule=[
             {
                 "slot_id": "Thursday_8_30_9_20",
                 "time": "8:30 - 9:20",
-                "slot_class": "morning2",
+                "slot_class": "keynote",
                 "sessions": [
                     {
                         "session": "keynote-4",
@@ -939,7 +939,7 @@ schedule=[
             {
                 "slot_id": "Thursday_9_30_10_50",
                 "time": "9:30 - 10:50",
-                "slot_class": "morning1",
+                "slot_class": "morning2",
                 "sessions": [
                     {
                         "session": "s105",
@@ -998,7 +998,7 @@ schedule=[
             {
                 "slot_id": "Thursday_10_50_11_30",
                 "time": "10:50 - 11:30",
-                "slot_class": "morning1",
+                "slot_class": "morning3",
                 "sessions": [
                     {
                         "session": "break-10",
@@ -1013,7 +1013,7 @@ schedule=[
             {
                 "slot_id": "Thursday_11_30_12_50",
                 "time": "11:30 - 12:50",
-                "slot_class": "morning2",
+                "slot_class": "morning4",
                 "sessions": [
                     {
                         "session": "s150",
@@ -1072,7 +1072,7 @@ schedule=[
             {
                 "slot_id": "Thursday_12_50_14_30",
                 "time": "12:50 - 14:30",
-                "slot_class": "morning2",
+                "slot_class": "lunch",
                 "sessions": [
                     {
                         "session": "break-11",
@@ -1141,7 +1141,7 @@ schedule=[
             {
                 "slot_id": "Thursday_16_30_17_50",
                 "time": "16:30 - 17:50",
-                "slot_class": "afternoon1",
+                "slot_class": "keynote",
                 "sessions": [
                     {
                         "session": "keynote-5",
