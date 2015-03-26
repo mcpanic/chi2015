@@ -10,7 +10,7 @@
 </div>
 
 <div role="main" id="courses" ng-controller="course_controller">
-    
+
     <h3 id="schedule">Schedule</h3>
 
 
@@ -19,7 +19,7 @@
         <h4 id="{{day.day}}" ng-bind="day.day"></h4>
 
         <div ng-if="isWide()">
-            
+
 
             <div>
                 <table class="course_schedule">
@@ -47,7 +47,7 @@
                     </tbody>
                 </table>
 
-            </div> 
+            </div>
 
         </div>
 
@@ -75,7 +75,7 @@
                                 </tbody>
                             </table>
                         </td>
-                    </tr>   
+                    </tr>
 
                     <tr>
                         <td class="m_course_time">11:30 - 12:50</td>
@@ -119,7 +119,7 @@
                                 </tbody>
                             </table>
                         </td>
-                    </tr> 
+                    </tr>
 
                     <tr ng-if="day.day!='Thursday'">
                         <td class="m_course_time">16:40 - 17:50</td>
@@ -141,13 +141,13 @@
                                 </tbody>
                             </table>
                         </td>
-                    </tr>                 
+                    </tr>
                 </tbody>
             </table>
 
 
         </div>
-        
+
 
     </div>
 
@@ -157,11 +157,11 @@
 
 <div class="course-entry" ng-repeat="course in data" id="{{course.id}}">
     <div class="id" ng-bind="course.id"></div>
-    <h4 class="title" ng-bind="course.paper_title"></h4>    
-    <div class="instructors" ng-bind-html="course.instructor"></div> 
+    <h4 class="title" ng-bind="course.paper_title"></h4>
+    <div class="instructors" ng-bind-html="course.instructor"></div>
     <div class="schedule">
-        <span ng-bind="getDay(course.id)"></span> : <span ng-bind="getRoom(course.id)"></span> : <span ng-bind="getTime(course.id)"></span> : Layout - <span ng-bind="getLayout(course.id)"></span>
-    </div>   
+        <span ng-bind="getDay(course.id)"></span> <span ng-bind="getTime(course.id)"></span> | Room: <span ng-bind="getRoom(course.id)"></span> | Layout: <span ng-bind="getLayout(course.id)"></span>
+    </div>
     <div class="candb" ng-bind-html="course.candb"></div>
     <div class="description" ng-bind-html="course.description"></div>
     <div class="go-back-up"><a href="#schedule">Go back up</a></div>

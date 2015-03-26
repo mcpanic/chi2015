@@ -110,8 +110,8 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 			},
 			c03: {
 				id: "C03",
-				short_title: "Cross-channel Conceptual Design",
-				paper_title: "Cross-channel Conceptual Design - A Methodology",
+				short_title: "[CANCELED] Cross-channel Conceptual Design",
+				paper_title: "[CANCELED] Cross-channel Conceptual Design - A Methodology",
 				author: "Parush, Avi",
 				instructor: "Avi Parush, Faculty of Industrial Management and Engineering, Israel Institute of Technology, Haifa, Israel",
 				candb: "This course provides a proven strategy for transforming your research into a Conceptual Model, taking into consideration the users’ mental model.",
@@ -368,14 +368,14 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							t_1430: {
 								class: "course_entry",
 								time: 1430,
-								data: $scope.data.c05
+								data: $scope.data.c06
 							},
 							t_1640: {
 								class: "course_entry",
 								time: 1640,
-								data: $scope.data.c05
-							}	
-						}						
+								data: $scope.data.c06
+							}
+						}
 					},
 					{
 						name: $scope.rooms[1],
@@ -393,14 +393,14 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							t_1430: {
 								class: "course_entry",
 								time: 1430,
-								data: $scope.data.c06
+								data: $scope.data.c05
 							},
 							t_1640: {
 								class: "course_entry",
 								time: 1640,
-								data: $scope.data.c06
-							}	
-						}											
+								data: $scope.data.c05
+							}
+						}
 					},
 					{
 						name: $scope.rooms[2],
@@ -424,8 +424,8 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 								class: "course_entry",
 								time: 1640,
 								data: $scope.data.c07
-							}	
-						}											
+							}
+						}
 					},
 					{
 						name: $scope.rooms[3],
@@ -449,9 +449,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 								class: "course_entry",
 								time: 1640,
 								data: $scope.data.c08
-							}	
+							}
 						}
-												
+
 					}
 				]
 			},
@@ -476,12 +476,12 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							t_1430: {
 								class: "course_entry",
 								time: 1430,
-								data: $scope.data.c13
+								data: $scope.data.c14
 							},
 							t_1640: {
 								class: "course_entry",
 								time: 1640,
-								data: $scope.data.c13
+								data: $scope.data.c14
 							}
 						}
 
@@ -503,15 +503,15 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 						t_1430: {
 							class: "course_entry",
 							time: 1430,
-							data: $scope.data.c14
+							data: $scope.data.c13
 						},
 						t_1640: {
 							class: "course_entry",
 							time: 1640,
-							data: $scope.data.c14
-						}	
+							data: $scope.data.c13
 						}
-												
+						}
+
 					},
 					{
 						name: $scope.rooms[2],
@@ -536,9 +536,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 								class: "course_entry",
 								time: 1640,
 								data: $scope.data.c15
-							}	
+							}
 						}
-												
+
 					},
 					{
 						name: $scope.rooms[3],
@@ -563,9 +563,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							class: "course_entry",
 							time: 1640,
 							data: $scope.data.c16
-						}	
 						}
-												
+						}
+
 					}
 				]
 			},
@@ -586,7 +586,7 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 								class: "course_entry", time: 1130,
 								data: $scope.data.c17
 							},
-							
+
 							t_1430: {
 								class: "course_entry", time: 1430,
 								data: $scope.data.c21
@@ -594,9 +594,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							t_1640: {
 								class: "course_entry", time: 1640,
 								data: $scope.data.c21
-							}	
+							}
 						}
-						
+
 
 					},
 					{
@@ -620,7 +620,7 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							data: $scope.data.c22
 						}
 						}
-												
+
 					},
 					{
 						name: $scope.rooms[3],
@@ -641,9 +641,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 						t_1640: {
 							class: "course_entry", time: 1640,
 							data: $scope.data.c23
-						}	
 						}
-												
+						}
+
 					},
 					{
 						name: $scope.rooms[4],
@@ -662,9 +662,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 							t_1640: {
 								class: "course_entry", time: 1640,
 								data: $scope.data.c20
-							}	
+							}
 						}
-												
+
 					}
 				]
 			},
@@ -689,9 +689,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 						},
 						t_1640: {
 							class: "empty_slot", time: 1640
-						}	
 						}
-						
+						}
+
 
 					},
 					{
@@ -711,9 +711,9 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 						},
 						t_1640: {
 							class: "empty_slot", time: 1640
-						}	
 						}
-												
+						}
+
 					},
 					{
 						name: $scope.rooms[3],
@@ -731,10 +731,10 @@ angular.module('chi2015_controllers').controller("course_controller", ["$scope",
 						},
 						t_1640: {
 							class: "empty_slot", time: 1640
-						}	
 						}
-												
-					}					
+						}
+
+					}
 				]
 			}
 		]
