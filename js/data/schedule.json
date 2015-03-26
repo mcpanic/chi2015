@@ -153,11 +153,11 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs135",
+                        "session": "s-crs112",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs112",
+                        "session": "s-crs135",
                         "room": "317BC"
                     },
                     {
@@ -231,11 +231,11 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs135-1",
+                        "session": "s-crs112-1",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs112-1",
+                        "session": "s-crs135-1",
                         "room": "317BC"
                     },
                     {
@@ -483,11 +483,11 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs134",
+                        "session": "s-crs133",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs133",
+                        "session": "s-crs134",
                         "room": "317BC"
                     },
                     {
@@ -565,11 +565,11 @@ schedule=[
                         "room": "308"
                     },
                     {
-                        "session": "s-crs134-1",
+                        "session": "s-crs133-1",
                         "room": "317A"
                     },
                     {
-                        "session": "s-crs133-1",
+                        "session": "s-crs134-1",
                         "room": "317BC"
                     },
                     {

@@ -1019,7 +1019,7 @@ sessions={
     },
     "s-crs112": {
         "s_title": "Course: Intro to Human-Computer Interaction 1/2",
-        "room": "317BC",
+        "room": "317A",
         "time": "14:30-15:50",
         "submissions": [
             "crs112"
@@ -1036,7 +1036,7 @@ sessions={
     },
     "s-crs112-1": {
         "s_title": "Course: Intro to Human-Computer Interaction 2/2",
-        "room": "317BC",
+        "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
             "crs112"
@@ -1410,7 +1410,7 @@ sessions={
     },
     "s-crs133": {
         "s_title": "Course: Mobile Human-Computer Interaction 1/2",
-        "room": "317BC",
+        "room": "317A",
         "time": "14:30-15:50",
         "submissions": [
             "crs133"
@@ -1427,7 +1427,7 @@ sessions={
     },
     "s-crs133-1": {
         "s_title": "Course: Mobile Human-Computer Interaction 2/2",
-        "room": "317BC",
+        "room": "317A",
         "time": "16:30-17:50",
         "submissions": [
             "crs133"
@@ -1444,7 +1444,7 @@ sessions={
     },
     "s-crs134": {
         "s_title": "Course: Methods for&nbsp;HCI &nbsp;Research 1/2",
-        "room": "317A",
+        "room": "317BC",
         "time": "14:30-15:50",
         "submissions": [
             "crs134"
@@ -1461,7 +1461,7 @@ sessions={
     },
     "s-crs134-1": {
         "s_title": "Course: Methods for&nbsp;HCI &nbsp;Research 2/2",
-        "room": "317A",
+        "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs134"
@@ -1478,7 +1478,7 @@ sessions={
     },
     "s-crs135": {
         "s_title": "Course: Design for Searching &amp; Finding 1/2",
-        "room": "317A",
+        "room": "317BC",
         "time": "14:30-15:50",
         "submissions": [
             "crs135"
@@ -1495,7 +1495,7 @@ sessions={
     },
     "s-crs135-1": {
         "s_title": "Course: Design for Searching &amp; Finding 2/2",
-        "room": "317A",
+        "room": "317BC",
         "time": "16:30-17:50",
         "submissions": [
             "crs135"
