@@ -87,10 +87,6 @@ schedule=[
                         "room": "317BC"
                     },
                     {
-                        "session": "s-crs113",
-                        "room": "E7"
-                    },
-                    {
                         "session": "s-crs132",
                         "room": "318BC"
                     }

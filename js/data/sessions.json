@@ -1051,23 +1051,6 @@ sessions={
         "subtype": "course",
         "chair": ""
     },
-    "s-crs113": {
-        "s_title": "Course: Cross-channel Conceptual Design ",
-        "room": "E7",
-        "time": "11:30-12:50",
-        "submissions": [
-            "crs113"
-        ],
-        "personas": "",
-        "venue": "course",
-        "day": "Monday",
-        "s_tags": [],
-        "type": "course",
-        "hasAward": false,
-        "hasHonorableMention": false,
-        "subtype": "course",
-        "chair": ""
-    },
     "s-crs115": {
         "s_title": "Course: Designing Wearable Interfaces 1/2",
         "room": "308",

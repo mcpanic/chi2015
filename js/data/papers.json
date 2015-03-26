@@ -2312,33 +2312,6 @@ entities={
         "award": false,
         "hm": false
     },
-    "crs113": {
-        "title": "Cross-channel Conceptual Design – A Methodology",
-        "abstract": "Taking the leap from research and requirements to product design is an age-old challenge. This course provides a proven strategy for transforming your research into a Conceptual Model. It provides an iterative process that allows you to build the essential foundation for a successful interactive system, taking into consideration the users’ mental model. It provides one with a framework for envisioning how users perceive, understand, and experience their tasks and processes in the context of your product. This way, one can mold the model to facilitate users’ understanding of their tasks and processes and positively influence their experience, including: functionality - what they do; configuration – where; and navigation - how they go from one place to another within the system.",
-        "cAndB": "This course provides a proven strategy for transforming your research into a Conceptual Model, taking into consideration the users’ mental model. ",
-        "keywords": [
-            "Conceptual Design",
-            "Conceptual Model;"
-        ],
-        "authors": [
-            {
-                "name": "Avi Parush",
-                "givenName": "Avi",
-                "middleInitial": "",
-                "familyName": "Parush",
-                "dept": "Faculty of Industrial Management and Engineering",
-                "institution": "Israel Institute of Technology",
-                "city": "Haifa",
-                "country": "Israel",
-                "affiliation": "Faculty of Industrial Management and Engineering, Israel Institute of Technology",
-                "location": "Haifa, Israel"
-            }
-        ],
-        "type": "course",
-        "subtype": "course",
-        "award": false,
-        "hm": false
-    },
     "crs115": {
         "title": "The Glass Class: Designing Wearable Interfaces",
         "abstract": "This course will teach how to design and develop effective interfaces for head mounted or wrist worn wearable computers through the application of user-centered design principles. It will enable existing HCI practitioners to enter the fast growing area of wearable computing. Attendees will gain the knowledge and tools needed to develop prototype applications, and an understanding of the important areas of current research and development.",
