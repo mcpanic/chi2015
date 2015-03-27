@@ -2003,11 +2003,10 @@ sessions={
         "room": "E4",
         "time": "11:30-12:50",
         "submissions": [
-            "pn965",
             "pn1135",
             "pn1626",
-            "pn323",
             "pn2108",
+            "pn323",
             "pn2370"
         ],
         "personas": "",
@@ -3513,9 +3512,9 @@ sessions={
         "room": "E5",
         "time": "14:30-15:50",
         "submissions": [
-            "pn885",
-            "pn1001",
             "pn1118",
+            "pn1001",
+            "pn885",
             "pn1124",
             "pn2191"
         ],
