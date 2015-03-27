@@ -57,7 +57,7 @@ At the Conference: All accepted students will participate in juried poster sessi
 
 <p dir="ltr"><span>Seungyon “Claire” Lee, Google [x], USA</span></p>
 <p><span>Derek Reilly,&nbsp;</span><span>Dalhousie</span><span> University, Canada</span></p>
-<p><span>Geehyuk Lee, KAIST, South Korea</span></p>
+<p><span>Geehyuk Lee, KAIST, Korea</span></p>
 
 
 <p dir="ltr"><span>CHI 2015 Student Research Competition Co-Chairs</span></p>
