@@ -9,7 +9,7 @@
 <dl>
         <dt><strong><a href="mailto:conferencechair@chi2015.acm.org">General Conference Chairs</a>: </strong></dt>
                 <dd>
-                        Jinwoo Kim, <i>Yonsei University</i>, <i>South Korea</i>
+                        Jinwoo Kim, <i>Yonsei University</i>, <i>Korea</i>
                         <br>
                         Bo Begole, <i>Huawei</i>, <i>USA</i>
                 </dd>
@@ -20,7 +20,7 @@
 <dl>
         <dt><strong><a href="mailto:technicalprogram@chi2015.acm.org">Technical Program Chairs</a>: </strong></dt>
                 <dd>
-                        Woontack Woo, <i>KAIST</i>, <i>South Korea</i>
+                        Woontack Woo, <i>KAIST</i>, <i>Korea</i>
                         <br>
                         Kori Inkpen, <i>Microsoft Research</i>, <i>USA</i>
                 </dd>
@@ -59,7 +59,7 @@
                 <dd>
                         Danielle Cooley, <i>USA</i>
                         <br>
-                        Joonhwan Lee, <i>Seoul National University</i>, <i>South Korea</i>
+                        Joonhwan Lee, <i>Seoul National University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -77,14 +77,14 @@
                 <dd>
                         Julie Rico Williamson, <i>University of Glasgow</i>, <i>United Kingdom</i>
                         <br>
-                        Juhyun Eune, <i>Seoul National University</i>, <i>South Korea</i>
+                        Juhyun Eune, <i>Seoul National University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
 <dl>
         <dt><strong><a href="mailto:showcase@chi2015.acm.org">Video Showcase</a>: </strong></dt>
                 <dd>
-                        Jinwook Seo, <i>Seoul National University</i>, <i>South Korea</i>
+                        Jinwook Seo, <i>Seoul National University</i>, <i>Korea</i>
                         <br>
                         Rodrigo de Oliveira, <i>YouTube</i>, <i>USA</i>
                 </dd>
@@ -135,7 +135,7 @@
 <dl>
         <dt><strong><a href="mailto:sdc@chi2015.acm.org">Student Design</a>: </strong></dt>
                 <dd>
-                        Youn-Kyung Lim, <i>KAIST</i>, <i>South Korea</i>
+                        Youn-Kyung Lim, <i>KAIST</i>, <i>Korea</i>
                         <br>
                         Anirudha Joshi, <i>IIT Bombay</i>, <i>India</i>
                 </dd>
@@ -148,7 +148,7 @@
                         <br>
                         Derek Reilly, <i>Dalhousie University</i>, <i>Canada</i>
                         <br>
-                        Geehyuk Lee, <i>KAIST</i>, <i>South Korea</i>
+                        Geehyuk Lee, <i>KAIST</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -159,7 +159,7 @@
                         <br>
                         Alessandro Canossa, <i>Northeastern University</i>, <i>USA</i>
                         <br>
-                        Soojin Jun, <i>Yonsei University</i>, <i>South Korea</i>
+                        Soojin Jun, <i>Yonsei University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -186,7 +186,7 @@
 <dl>
         <dt><strong><a href="mailto:kylekim@gmail.com">Conference Theme</a>: </strong></dt>
                 <dd>
-                        Kyle Hyunsuk Kim, <i>Hongik University</i>, <i>South Korea</i>
+                        Kyle Hyunsuk Kim, <i>Hongik University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -199,14 +199,14 @@
                         <br>
                         Siroberto Scerbo, <i>Virginia Tech</i>, <i>USA</i>
                         <br>
-                        Jieun Wee, <i>Seoul National University</i>, <i>South Korea</i>
+                        Jieun Wee, <i>Seoul National University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
 <dl>
         <dt><strong>Chair's Assistants: </strong></dt>
                 <dd>
-                        Yoojin Lee, <i>Yonsei University</i>, <i>South Korea</i>
+                        Yoojin Lee, <i>Yonsei University</i>, <i>Korea</i>
                         <br>
                         Nikolas Martelaro, <i>Stanford University</i>, <i>USA</i>
                 </dd>
@@ -217,7 +217,7 @@
                 <dd>
                         Max Van Kleek, <i>University of Southampton</i>, <i>UK</i>
                         <br>
-                        BoYu Gao, <i>Konkuk University</i>, <i>South Korea</i>
+                        BoYu Gao, <i>Konkuk University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -233,7 +233,7 @@
 <dl>
         <dt><strong>Opening Animation Director</a>: </strong></dt>
                 <dd>
-                        Chris Inkyong Whang, <i>Hongik University</i>, <i>South Korea</i>
+                        Chris Inkyong Whang, <i>Hongik University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -251,21 +251,21 @@
                 <dd>
                         Deana Brown, <i>Georgia Tech</i>, <i>USA</i>
                         <br>
-                        Jaejeung Kim, <i>KAIST</i>, <i>South Korea</i>
+                        Jaejeung Kim, <i>KAIST</i>, <i>Korea</i>
                 </dd>
 </dl>
 
 <dl>
         <dt><strong><a href="mailto:posters@chi2015.acm.org">Posters</a>: </strong></dt>
                 <dd>
-                        Hyunjoo Song, <i>Seoul National University</i>, <i>South Korea</i>
+                        Hyunjoo Song, <i>Seoul National University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
 <dl>
         <dt><strong><a href="mailto:infrastructureaccessibility@chi2015.acm.org">Infrastructure Accessibility</a>: </strong></dt>
                 <dd>
-                        Jongbae Kim, <i>Yonsei University</i>, <i>South Korea</i>
+                        Jongbae Kim, <i>Yonsei University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -279,7 +279,7 @@
 <dl>
         <dt><strong><a href="mailto:localhospitality@chi2015.acm.org">Local Hospitality</a>: </strong></dt>
                 <dd>
-                        Junho Choi, <i>Yonsei University</i>, <i>South Korea</i>
+                        Junho Choi, <i>Yonsei University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
@@ -297,7 +297,7 @@
                 <dd>
                         Max Wilson, <i>University of Nottingham</i>, <i>UK</i>
                         <br>
-                        Kwangsu Cho, <i>Yonsei University</i>, <i>South Korea</i>
+                        Kwangsu Cho, <i>Yonsei University</i>, <i>Korea</i>
                 </dd>
 </dl>
 

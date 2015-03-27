@@ -29,7 +29,7 @@ schedule=[
                     },
                     {
                         "session": "vid-1",
-                        "room": ""
+                        "room": "401"
                     }
                 ]
             },
