@@ -443,7 +443,7 @@ sessions={
     },
     "sgc-ex-1": {
         "s_title": "Student Game Competition Exhibit",
-        "room": "",
+        "room": "Exhibit Hall",
         "time": "10:00-11:30",
         "submissions": [
 
@@ -494,7 +494,7 @@ sessions={
     },
     "vid-1": {
         "s_title": "Video Preview Session",
-        "room": "",
+        "room": "401",
         "time": "10:00-11:30",
         "submissions": [
 
