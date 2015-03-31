@@ -2718,9 +2718,9 @@ sessions={
         "time": "9:30-10:50",
         "submissions": [
             "pn271",
-            "pn1688",
             "pn2196",
-            "pn5112"
+            "pn5112",
+            "pn1688"
         ],
         "personas": "",
         "venue": "paper",
@@ -3801,8 +3801,8 @@ sessions={
             "pn1386",
             "pn2224",
             "pn207",
-            "pn586",
             "pn1558",
+            "pn586",
             "pn1257"
         ],
         "personas": "",
