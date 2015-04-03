@@ -82,6 +82,7 @@
 							ng-attr-id="{{isFocus(session.indices)}}">
 								<div class="full_schedule_cell_inside full_schedule_bg"
 								style="background-image: url('<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_bg.png')" 
+								ng-class="schedule_inside_class(sessions[session.session].url)"
 								>
 									<div class="full_schedule_session_title" >
 										<span ng-bind-html="sessions[session.session].s_title.substr(0, 70).trim()" ></span><span ng-if="sessions[session.session].s_title.length>70">...</span>
@@ -107,13 +108,14 @@
 							id="{{session.session}}" class="animate-if full_schedule_div col-md-11 col-sm-11 col-xs-11" 
 							ng-if="session.focus">
 								<div class="full_schedule_div_inside">
-									<h3 >
+									<div class="sessions_title">
 										<img 
 										ng-src="<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_black.png"/ class="full_schedule_icon">
 										<span ng-bind-html="sessions[session.session].s_title">
 										</span>
-									</h3>
-
+									</div>
+									<div class="sessions_subtitle_link" ng-if="sessions[session.session].url">During this session, real-time captioning will be available <br>at: <a ng-href="{{sessions[session.session].url}}" ng-bind-html="''+sessions[session.session].url"></a></div>
+									<div class="sessions_subtitle_border"></div>
 									<div class="full_schedule_session_description">
 										<span ng-if="sessions[session.session].room.trim()!=''">
 											Room: <span ng-bind="sessions[session.session].room"></span><br/>
@@ -198,9 +200,16 @@
 												</ul>
 												
 											</div>
+											
 											<div class="full_schedule_abstract" ng-if="papers[submissions].abstract.trim()!='' && papers[submissions].abstract_toggle">
-												<b><i>Abstract: </i></b>
-												<p ng-bind-html="''+papers[submissions].abstract"></p>
+												<div style="height: 30px;">
+													<div style="text-align:left; float: left;width: 50%;height: 100%;border:solid 0px;padding-top: 7px;"><b><i>Abstract: </i></b></div>
+													<div style="text-align:right;  float: right;width: 50%;height: 100%;border:solid 0px; padding-right: 10px; padding-botton: 20px"  ng-if="'<?PHP echo $language; ?>'!='o'"><button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions,'<?PHP echo $language; ?>')" ng-init="count=0"> translate </button></div>
+												</div>
+												<p ng-bind-html="''+papers[submissions].abstract" ng-if="papers[submissions].abstract_lang=='e'"></p>
+												<p ng-bind-html="''+papers[submissions].abstract_j" ng-if="papers[submissions].abstract_lang=='j'"></p>
+												<p ng-bind-html="''+papers[submissions].abstract_c" ng-if="papers[submissions].abstract_lang=='c'"></p>
+												<p ng-bind-html="''+papers[submissions].abstract_k" ng-if="papers[submissions].abstract_lang=='k'"></p>
 												<p><a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].cAndB.trim()!=''" style="cursor:pointer">Short Description</a></p>
 											</div>
 											<div class="full_schedule_abstract" ng-if="papers[submissions].cAndB.trim()!='' && !papers[submissions].abstract_toggle">
