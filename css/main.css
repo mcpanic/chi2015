@@ -1153,6 +1153,11 @@ div.session_title {
  	color: #FFFFFF;
 }
 
+.full_schedule_cell_inside_emphasize {
+	border: 5px solid #FF0;
+	outline: 1px solid #575757;
+	outline-offset: -1px;
+}
 .full_schedule_cell_time {
 	background-color: #E4211C;
 	border-top: 1px solid #E4211C;;
@@ -1270,6 +1275,26 @@ div.session_title {
 .day-button:hover {
 	background-color: rgb(242,242,242);
  	color: #575757;
+}
+
+.sessions_title {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: 200;
+	font-size: 24px;
+	color: #231F20;
+	padding-bottom: 5px;
+	margin: 0;
+	line-height: 24px;
+}
+
+.sessions_subtitle_link{
+	font-size: 150%;
+	padding: 10px;
+	line-height: 130%;
+}
+
+.sessions_subtitle_border{
+	border-bottom: 1px solid #E4211C;
 }
 
 /* ANIMATION */
