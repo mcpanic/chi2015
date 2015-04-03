@@ -8,6 +8,7 @@
 </div>
 
 <p>
+    <b>The event is now SOLD OUT.</b><br/>
 	<b>Tuesday, April 21</b><br/>
 	<b>7:00 - 8:30</b><br/>
 	COEX Convention Center - Room 327ABC
