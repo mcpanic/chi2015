@@ -19777,12 +19777,12 @@ entities={
                 "givenName": "Tariq",
                 "middleInitial": "",
                 "familyName": "Zaman",
-                "dept": "",
-                "institution": "",
-                "city": "",
-                "country": "",
-                "affiliation": "",
-                "location": ""
+                "dept": "Institute of Social Informatics and Technological Innovations",
+                "institution": "Universiti Malaysia Sarawak",
+                "city": "Kuching",
+                "country": "Malaysia",
+                "affiliation": "Institute of Social Informatics and Technological Innovations , Universiti Malaysia Sarawak",
+                "location": "Kuching, Malaysia"
             },
             {
                 "name": "Kasun Karunanayaka",
@@ -19801,11 +19801,11 @@ entities={
                 "givenName": "Alvin",
                 "middleInitial": "W",
                 "familyName": "Yeo",
-                "dept": "Institute of Social Informatics and Technological Innovations ",
+                "dept": "Institute of Social Informatics and Technological Innovations",
                 "institution": "Universiti Malaysia Sarawak",
                 "city": "Kuching",
                 "country": "Malaysia",
-                "affiliation": "Institute of Social Informatics and Technological Innovations , Universiti Malaysia Sarawak",
+                "affiliation": "Institute of Social Informatics and Technological Innovations, Universiti Malaysia Sarawak",
                 "location": "Kuching, Malaysia"
             },
             {
