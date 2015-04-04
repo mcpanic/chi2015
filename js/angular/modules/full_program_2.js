@@ -510,16 +510,18 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 		$scope.papers[id].abstract_toggle = !$scope.papers[id].abstract_toggle
 	}
 
-	$scope.abstract_translate = function(id) {
-		if($scope.papers[id].abstract_lang == 'e'){
-			$scope.papers[id].abstract_lang = 'k'
-		}else if($scope.papers[id].abstract_lang == 'k'){
-			$scope.papers[id].abstract_lang = 'j'
-		}else if($scope.papers[id].abstract_lang == 'j'){
-			$scope.papers[id].abstract_lang = 'c'
-		}else{
-			$scope.papers[id].abstract_lang = 'e'
-		}
+	$scope.abstract_translate = function(id, lang) {
+		$scope.papers[id].abstract_lang = lang
+
+		// if($scope.papers[id].abstract_lang == 'e'){
+		// 	$scope.papers[id].abstract_lang = 'k'
+		// }else if($scope.papers[id].abstract_lang == 'k'){
+		// 	$scope.papers[id].abstract_lang = 'j'
+		// }else if($scope.papers[id].abstract_lang == 'j'){
+		// 	$scope.papers[id].abstract_lang = 'c'
+		// }else{
+		// 	$scope.papers[id].abstract_lang = 'e'
+		// }
 	}
 	$scope.toggle_legends = function(id, type) {
 		if (id=="all") {
