@@ -22,7 +22,7 @@ CHI 2015 is being held for the first time in Asia in Seoul, Korea, a world-class
   <li><a href="<?php echo $prefix; ?>/attending/press">Press Information</a></li>
 </ul>
 
-<h3>Transportation Information</h3>
+<h3 id="transportation">Transportation Information</h3>
 <ul>
   <li><a href="<?php echo $prefix; ?>/attending/how-to-go-from-incheon-airport-to-coex/">How to go from the Incheon airport to COEX</a>
   <li><a href="<?php echo $prefix; ?>/attending/how-to-use-the-subway/">How to use the subway</a>
