@@ -26,6 +26,7 @@
   <ul>
     <li>Disney Research <span style="float: right; margin-right: 20px">Recruiting Board</span></li>
     <li>Facebook <span style="float: right; margin-right: 20px">Booth: 16</span></li>
+    <li>FuturePlay<span style="float: right; margin-right: 20px">Booth: 6 & Recruiting Board</span></li>
   </ul>
 
   <h3>Additional Recruiters</h3>
@@ -36,6 +37,7 @@
     <li>Samsung SDS, CX Team<span style="float: right; margin-right: 20px">Booth: 11</span></li>
     <li>SAP<span style="float: right; margin-right: 20px">Booths 34 & 35</span></li>
     <li>SMART Technologies<span style="float: right; margin-right: 20px">Recruiting Board</span></li>
+    <li>Splunk, Inc.<span style="float: right; margin-right: 20px">Recruiting Board</span></li>
   </ul>
 
   
