@@ -204,7 +204,12 @@
 											<div class="full_schedule_abstract" ng-if="papers[submissions].abstract.trim()!='' && papers[submissions].abstract_toggle">
 												<div style="height: 30px;">
 													<div style="text-align:left; float: left;width: 50%;height: 100%;border:solid 0px;padding-top: 7px;"><b><i>Abstract: </i></b></div>
-													<div style="text-align:right;  float: right;width: 50%;height: 100%;border:solid 0px; padding-right: 10px; padding-botton: 20px"  ng-if="'<?PHP echo $language; ?>'!='o'"><button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions,'<?PHP echo $language; ?>')" ng-init="count=0"> translate </button></div>
+													<div style="text-align:right;  float: right;width: 50%;height: 100%;border:solid 0px; padding-right: 10px; padding-botton: 20px" >
+														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'e')" ng-init="count=0"> English </button>
+														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'k')" ng-init="count=0"> Korean </button>
+														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'j')" ng-init="count=0"> Japanese </button>
+														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'c')" ng-init="count=0"> Chinese </button>
+													</div>
 												</div>
 												<p ng-bind-html="''+papers[submissions].abstract" ng-if="papers[submissions].abstract_lang=='e'"></p>
 												<p ng-bind-html="''+papers[submissions].abstract_j" ng-if="papers[submissions].abstract_lang=='j'"></p>
