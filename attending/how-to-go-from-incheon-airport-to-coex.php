@@ -16,6 +16,20 @@
   </p>
 </div>
 
+<h3>Bus</h3>
+
+<p>Buses are the easiest and most convenient way to get to COEX from the Incheon airport.</p>
+
+<p>Buses leave the airport for COEX approximately every 15 to 20 mins and take approximately 1.5 - 1.75 hours to arrive.  The price is 16,000 KRW (approximately $15).</p>
+
+<p>To get on the right bus, go up to the bus ticket counter near exits 4 or 9 and tell them which hotel you want to go to and they'll put you on the right bus.
+For hotels near COEX, bus 6704 goes to the Intercontinental Hotel (connected to north side of COEX), 6006 or 6103 go to Samseong Stn. on the south side of COEX.</p>
+
+<p>More information: <a href="http://www.airport.kr/airport/traffic/bus/busList.iia?flag=E">Incheon Bus Guide</a></p>
+
+
+
+
 <h3>Airport Railroad and Subway</h3>
 <div>
 
@@ -111,7 +125,6 @@
     You can conveniently get to COEX by taking the exit number 6 at Samseong Station on Line 2. Coming from the subway, use exit five or six connected to the Coex Mall. Follow the Coex sign and you will come out at Millennium Plaza with the Coex Mall entrance in the back of the plaza. Hyundai Department Store will be to your left and CoexArtium straight ahead.
   </p>
 
-  <a href="javascript:history.back()">Go back</a>
 </div>
 <?php
   include "../footer.php";
