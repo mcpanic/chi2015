@@ -12,6 +12,9 @@
 
     <script src="<?php echo $prefix; ?>/js/vendor/bootstrap.min.js"></script>
 
+    <script src="<?php echo $prefix; ?>/js/vendor/fancybox/source/jquery.fancybox.js?v=2.1.5"></script>
+    <script src="<?php echo $prefix; ?>/js/vendor/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6"></script>
+
     <script src="<?php echo $prefix; ?>/js/main.js"></script>
 
     <script type="text/javascript">

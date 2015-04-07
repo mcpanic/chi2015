@@ -1228,10 +1228,35 @@ div.session_title {
 	margin-bottom: 30px;
 }
 
+.h4_a .full_schedule_submission_h4:hover {
+	color: #888888;
+}
+
+.full_schedule_submission_h4 {
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	color: #575757;
+	line-height: 18px;
+}
+
 .full_schedule_submission_h4 a {
 	font-size: 12px;
 	margin-top: 10px;
 	float: right;
+}
+
+.full_schedule_submission_h4 .paper-subtype {
+	font-weight: normal;
+	font-size: 13px;
+}
+
+.full_schedule_submission .vp-paper {
+	margin-bottom: 8px;
+}
+
+.full_schedule_submission .vp-paper:hover {
+	opacity: 0.5;
 }
 
 .full_schedule_icon {
@@ -1240,7 +1265,21 @@ div.session_title {
 	margin-right: 10px;
 }
 
-.full_schedule_authors ul li{
+.full_schedule_authors span b {
+	padding-left: 20px;
+}
+
+.full_schedule_authors ul {
+	margin-left: -5px;
+	padding-right: 10px;
+}
+
+.full_schedule_authors ul li {
+	/*padding-left: 20px;*/
+	/*padding-right: 20px;*/
+}
+
+.full_schedule_abstract > div {
 	padding-left: 20px;
 	padding-right: 20px;
 }
@@ -1252,8 +1291,8 @@ div.session_title {
 }
 
 .full_schedule_keywords p {
-	padding-left: 20px;
-	padding-right: 20px;
+	/*padding-left: 20px;*/
+	/*padding-right: 20px;*/
 }
 
 .full_schedule_options {
@@ -1318,5 +1357,5 @@ div.session_title {
 }
 
 .h4_a:hover {
-	text-decoration: underline;
+	/*color: #888888;*/
 }

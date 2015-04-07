@@ -37,6 +37,9 @@ include "production.php";
         <link rel="icon" type="image/png" href="<?php echo $prefix; ?>/chi_favicon.png">
         <link rel="stylesheet" href="<?php echo $prefix; ?>/css/bootstrap.min.css">
         <link rel="stylesheet" href="<?php echo $prefix; ?>/css/bootstrap-theme.min.css">
+
+        <link rel="stylesheet" href="<?php echo $prefix; ?>/js/vendor/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen">
+
         <link rel="stylesheet" href="<?php echo $prefix; ?>/css/main.css">
         <!--[if lte IE 8]>
             <link rel = "stylesheet" href="css/ie.css" />

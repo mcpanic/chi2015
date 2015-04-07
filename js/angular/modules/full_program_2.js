@@ -1,6 +1,7 @@
 var full_schedule;
 var full_sessions;
 var full_papers;
+var full_video_previews;
 
 function check_query(objs, sessions, papers, type, search, query) {
 	if (query) {
@@ -223,10 +224,8 @@ angular.module('chi2015_app').filter("session_type_filter", function(){
 
 
 angular.module('chi2015_controllers').controller('full_program_controller',
-	['$scope', 'papers_factory', 'sessions_factory', 'schedules_factory', "$window",
-	 '$location', '$anchorScroll',
-	function($scope, papers_factory, sessions_factory, schedules_factory, $window,
-		     $location, $anchorScroll){
+	['$scope', 'papers_factory', 'sessions_factory', 'schedules_factory', 'video_previews_factory', "$window", '$location', '$anchorScroll',
+	function($scope, papers_factory, sessions_factory, schedules_factory, video_previews_factory, $window, $location, $anchorScroll){
 
 	console.log(get_url_vars()['id'])
 
@@ -234,6 +233,7 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 	$scope.schedule = [];
 	$scope.sessions = {};
 	$scope.papers = {};
+	$scope.video_previews = {};
 	$scope.schedule_index = 0;
 	$scope.schedule_count = 0;
 	$scope.session_count = 0;
@@ -567,6 +567,23 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
 	function start(){
 		checkResize();
+
+
+    	video_previews_factory.get({}, function(data){
+    		for (var j in data.data) {
+    			var id = data.data[j][0]
+    			entry = {
+    				'id': data.data[j][0],
+    				'acm_id': data.data[j][1],
+    				'yt_id': data.data[j][4],
+    				'early': data.data[j][13]
+    			}
+    			$scope.video_previews[id] = entry
+	    		// console.log(entry)
+    		}
+    		full_video_previews = $scope.video_previews
+    	})
+
 		schedules_factory.get({}, function(data){
         $scope.schedule = data.data;
 
@@ -621,9 +638,9 @@ angular.module('chi2015_controllers').controller('full_program_controller',
         				if (l==$scope.papers[k].keywords.length-1) $scope.papers[k].keyword_string += $scope.papers[k].keywords[l]
         				else $scope.papers[k].keyword_string += $scope.papers[k].keywords[l]+", "
         			}
-					
+
 					$scope.papers[k].abstract_lang='e';
-        			
+
 					count++
         		}
 

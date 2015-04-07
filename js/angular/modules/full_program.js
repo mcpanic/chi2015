@@ -1,12 +1,11 @@
-angular.module('chi2015_controllers').controller('full_program_controller', 
-	['$scope', 'papers_factory', 'sessions_factory', 'schedules_factory', "$window",
-	 '$location', '$anchorScroll',
-	function($scope, papers_factory, sessions_factory, schedules_factory, $window, 
-		     $location, $anchorScroll){
+angular.module('chi2015_controllers').controller('full_program_controller',
+	['$scope', 'papers_factory', 'sessions_factory', 'schedules_factory', 'video_previews_factory', "$window", '$location', '$anchorScroll',
+	function($scope, papers_factory, sessions_factory, schedules_factory, video_previews_factory, $window,$location, $anchorScroll){
 
 	$scope.schedule = []
 	$scope.sessions = {}
 	$scope.papers = {}
+    $scope.video_previews = {}
 	$scope.schedule_index = 0;
 
 
@@ -49,6 +48,12 @@ angular.module('chi2015_controllers').controller('full_program_controller',
 
         		console.log($scope.papers)
         	})
+        })
+
+        video_previews_factory.get({}, function(data){
+            $scope.video_previews = data
+
+            console.log($scope.video_previews)
         })
       })
 	}

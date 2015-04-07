@@ -60,6 +60,14 @@ $( document ).ready(function() {
 	resizeHandler();
 	window.onresize = resizeHandler;
 
+	$(".fancybox-media").fancybox({
+		openEffect: 'none',
+		closeEffect: 'none',
+		padding: 0,
+		helpers: {media: {}},
+		scrolling: 'no'
+	});
+
 	$(document).on("click", "button.navbar-toggle", function(){
 		if ($(this).hasClass("collapsed")) {// toggle yes
 			$(this).closest(".navbar").css("background-color", "transparent");

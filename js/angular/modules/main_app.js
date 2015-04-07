@@ -38,7 +38,7 @@ angular.module('chi2015_controllers').controller('main_controller', ['$scope', '
 		return $window.innerWidth >= md
 	}
 
-	angular.element($window).on('resize', angular.bind($scope, function(){	
+	angular.element($window).on('resize', angular.bind($scope, function(){
 		//console.log("resize")
 		$scope.$apply();
 	}));
@@ -108,6 +108,11 @@ angular.module('chi2015_services').factory('schedule_glance_factory', ['$resourc
     return data_link("schedule_glance", $resource)
   }
 ])
+
+angular.module('chi2015_services').factory('video_previews_factory', ['$resource',
+    function($resource) {
+    return data_link("video_previews", $resource)
+    }])
 
 angular.module('chi2015_services').factory('papers_factory', ['$resource',
 	function($resource) {

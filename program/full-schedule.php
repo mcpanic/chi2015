@@ -3,6 +3,7 @@
   $ng_app = "full_program_2";
   include "../header.php";
 ?>
+
 </div>
 <h1>Full Program</h1>
 
@@ -13,13 +14,13 @@
 		<!-- Add buttons and Search bar here -->
 		<div class="row full_schedule_options">
 			<div class="full_schedule_checkbox col-sm-9">
-				<b><i>View by:</i></b><br/>
+				<b><i>View by</i></b><br/>
 				<div class="row">
 					<form>
 						<div class="col-xs-6 col-sm-3" ng-repeat="type in session_type | session_type_filter" style="margin-top: 10px">
-							<input type="checkbox" style="margin-right: 10px" ng-model="type.bool" 
+							<input type="checkbox" style="margin-right: 10px" ng-model="type.bool"
 							ng-click="toggle_legends(type.id, 'session_type')"/>
-							<img 
+							<img
 							style="margin-right: 10px"
 							ng-src="<?php echo $prefix; ?>/img/program/{{type.id}}_black.png" height="20"/>
 							<span ng-bind="type.name"></span>
@@ -44,7 +45,7 @@
 					<br/><div class="day-button" ng-if="full_schedule_query.trim()!=''" ng-click="clear_query()">Clear</div>
 					<br/><div class="row">
 							<div class="col-xs-6" ng-repeat="type in search_type | session_type_filter" style="margin-top: 10px">
-								<input type="checkbox" style="margin-right: 10px" ng-model="type.bool" 
+								<input type="checkbox" style="margin-right: 10px" ng-model="type.bool"
 								ng-click="toggle_legends(type.id, 'search_type')"/>
 								<span ng-bind="type.name"></span>
 							</div>
@@ -72,16 +73,16 @@
 					<div ng-repeat="row in row_counts[row_index]">
 
 						<div>
-							<div 
-							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:search_type:full_schedule_query" 
-							class="full_schedule_cell col-md-2 col-sm-3 col-xs-6" 
+							<div
+							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:search_type:full_schedule_query"
+							class="full_schedule_cell col-md-2 col-sm-3 col-xs-6"
 							ng-mouseover="schedule_mouse_enter(session.indices)"
 							ng-mouseleave="schedule_mouse_exit(session.indices)"
 							ng-class="schedule_hover(session.hover)"
 							ng-click="schedule_click(session.indices, false)"
 							ng-attr-id="{{isFocus(session.indices)}}">
 								<div class="full_schedule_cell_inside full_schedule_bg"
-								style="background-image: url('<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_bg.png')" 
+								style="background-image: url('<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_bg.png')"
 								ng-class="schedule_inside_class(sessions[session.session].url)"
 								>
 									<div class="full_schedule_session_title" >
@@ -97,19 +98,19 @@
 										<span ng-if="sessions[session.session].room.trim()!=''" class="full_schedule_session_room_text" ng-bind="'Rm: '+sessions[session.session].room">
 
 										</span>
-									</div>	
+									</div>
 								</div>
 							</div>
 						</div>
 
 						<div>
-							<div 
+							<div
 							ng-repeat="session in slot.sessions | full_schedule_session:row[0]:row[1]:sessions:papers:session_type:search_type:full_schedule_query"
-							id="{{session.session}}" class="animate-if full_schedule_div col-md-11 col-sm-11 col-xs-11" 
+							id="{{session.session}}" class="animate-if full_schedule_div col-md-11 col-sm-11 col-xs-11"
 							ng-if="session.focus">
 								<div class="full_schedule_div_inside">
 									<div class="sessions_title">
-										<img 
+										<img
 										ng-src="<?php echo $prefix; ?>/img/program/{{sessions[session.session].type}}_black.png"/ class="full_schedule_icon">
 										<span ng-bind-html="sessions[session.session].s_title">
 										</span>
@@ -121,7 +122,7 @@
 											Room: <span ng-bind="sessions[session.session].room"></span><br/>
 										</span>
 										<span ng-if="sessions[session.session].chair.trim()!=''">
-											Chair: 
+											Chair:
 											<span ng-bind="sessions[session.session].chair"></span><br/>
 										</span>
 										Date: <span ng-bind="day.day"></span>,&nbsp;<span ng-bind="day.date"></span><br/>
@@ -130,80 +131,82 @@
 										<div ng-repeat="submissions in sessions[session.session].submissions"
 										class="full_schedule_submission" ng-if="papers[submissions]!=null">
 											<a class="h4_a" ng-href="<?php echo $prefix; ?>/program/best-of-chi/?id={{submissions}}" ng-if="papers[submissions].award || papers[submissions].hm">
-												<h4 class="full_schedule_submission_h4" >
-												
+												<span class="full_schedule_submission_h4" >
+
 													<span ng-attr-id="{{submissions}}" ng-bind="papers[submissions].title"></span>
+													<span class="paper-subtype" ng-bind="'[' + papers[submissions].subtype + ']'" ng-if="papers[submissions].type=='paper'"></span>
 													<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
 													<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
-												
-												</h4>
+												</span>
 											</a>
-											<h4 class="full_schedule_submission_h4" ng-if="!(papers[submissions].award || papers[submissions].hm)">
-												
+
+											<a class="full_schedule_submission_h4" ng-if="!(papers[submissions].award || papers[submissions].hm)">
+
 												<span ng-attr-id="{{submissions}}" ng-bind="papers[submissions].title"></span>
 												<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="papers[submissions].award && hide_icons"/>
 												<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="papers[submissions].hm && hide_icons"/>
-											
-											</h4>
+												<span class="paper-subtype" ng-bind="'[' + papers[submissions].subtype + ']'" ng-if="papers[submissions].type=='paper'"></span>
+											</a>
 
-											<div class="full_schedule_keywords" ng-if="papers[submissions].keyword_string.trim()!=''">
-												<b><i>Keywords</i></b>: 
+											<a class="fancybox-media fancybox.iframe" href="https://www.youtube.com/watch?v={{video_previews[papers[submissions].id].yt_id}}&amp;autoplay=1" target="_blank" ng-if="video_previews[papers[submissions].id] !== undefined"><img class="vp-paper" src="<?php echo $prefix; ?>/img/program/vp_16x16.png"/></a>
+
+<!-- 											<div class="full_schedule_keywords" ng-if="papers[submissions].keyword_string.trim()!=''">
+												<b>Keywords</b>:
 												<p>
 													<span
 													ng-bind="papers[submissions].keyword_string">
 													</span>
 												</p>
-											</div>
-											
+											</div> -->
+
 											<div class="full_schedule_authors">
 												<span ng-if="sessions[session.session].type=='paper'">
-													<b><i>Authors</i></b>
+													<b>Authors</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='altchi'">
-													<b><i>Authors</i></b>
+													<b>Authors</b>
 												</span>
-												<span ng-if="sessions[session.session].type=='special' && 
+												<span ng-if="sessions[session.session].type=='special' &&
 												              !(session.session=='s-src' || session.session=='s-sdc' ||
 												             session.session=='s-sgc')  ">
-													<b><i>Hosts</i></b>
+													<b>Hosts</b>
 												</span>
-												
-												<span ng-if="sessions[session.session].type=='special' && 
+
+												<span ng-if="sessions[session.session].type=='special' &&
 												             (session.session=='s-src' || session.session=='s-sdc' ||
 												             session.session=='s-sgc')">
-													<b><i>Judges</i></b>
+													<b>Judges</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='course'">
-													<b><i>Facilitators</i></b>
+													<b>Facilitators</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='SIG'">
-													<b><i>Hosts</i></b>
+													<b>Hosts</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='casestudy'">
-													<b><i>Authors</i></b>
+													<b>Authors</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='panel'">
-													<b><i>Panelists</i></b>
+													<b>Panelists</b>
 												</span>
 												<span ng-if="sessions[session.session].type=='keynote'">
-													<p><b><i>Plenary Speaker: </i></b><span ng-bind="papers[submissions].speaker"></span><br/>
-														<i><span ng-bind="papers[submissions]['speaker-affiliation']"></span></i></p>
+													<b><span ng-bind="papers[submissions].speaker"></span></b>, <i><span ng-bind="papers[submissions]['speaker-affiliation']"></span></i>
 												</span>
 
 												<ul>
 													<li ng-repeat="author in papers[submissions].authors">
-														<span ng-bind="author.name"></span>,
-														<span ng-bind="author.affiliation"></span>, 
+														<strong><span ng-bind="author.name"></span></strong>,
+														<span ng-bind="author.affiliation"></span>,
 														<span ng-bind="author.location"></span>
 
 													</li>
 												</ul>
-												
+
 											</div>
-											
+
 											<div class="full_schedule_abstract" ng-if="papers[submissions].abstract.trim()!='' && papers[submissions].abstract_toggle">
 												<div style="height: 30px;">
-													<div style="text-align:left; float: left;width: 50%;height: 100%;border:solid 0px;padding-top: 7px;"><b><i>Abstract: </i></b></div>
+													<div style="text-align:left; float: left;width: 50%;height: 100%;border:solid 0px;padding-top: 7px;"><b>Abstract</b></div>
 													<div style="text-align:right;  float: right;width: 50%;height: 100%;border:solid 0px; padding-right: 10px; padding-botton: 20px" >
 														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'e')" ng-init="count=0"> English </button>
 														<button style="font-size: 11px; " class="btn btn-danger" ng-click="abstract_translate(submissions, 'k')" ng-init="count=0"> Korean </button>
@@ -215,20 +218,23 @@
 												<p ng-bind-html="''+papers[submissions].abstract_j" ng-if="papers[submissions].abstract_lang=='j'"></p>
 												<p ng-bind-html="''+papers[submissions].abstract_c" ng-if="papers[submissions].abstract_lang=='c'"></p>
 												<p ng-bind-html="''+papers[submissions].abstract_k" ng-if="papers[submissions].abstract_lang=='k'"></p>
-												<p><a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].cAndB.trim()!=''" style="cursor:pointer">Short Description</a></p>
+												<a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].cAndB.trim()!=''" style="cursor:pointer">Show Description</a>
 											</div>
 											<div class="full_schedule_abstract" ng-if="papers[submissions].cAndB.trim()!='' && !papers[submissions].abstract_toggle">
-												<b><i>Short Description: </i></b>
-												<p ng-bind-html="''+papers[submissions].cAndB"></p>
-												<p><a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].abstract.trim()!=''" style="cursor:pointer">Show Abstract</a></p>
+												<p>
+												<b>Description: </b>
+												<span ng-bind-html="''+papers[submissions].cAndB"></span></p>
+												<a ng-click="abstract_toggle(submissions)" ng-if="papers[submissions].abstract.trim()!=''" style="cursor:pointer">Show Abstract</a>
 											</div>
 											<div class="full_schedule_abstract" ng-if="papers[submissions].bio">
-												<b><i>Biography: </i></b>
+												<p>
+												<b>Biography</b>
+												</p>
 												<p ng-bind-html="''+papers[submissions].bio"></p>
 											</div>
 
-											<a ng-click="focus()" style="cursor:pointer">Go back Up</a><br/>
-											<a ng-click="schedule_click(session.indices, true)" style="cursor:pointer">Close</a>
+											<a ng-click="focus()" style="cursor:pointer">Go back up</a>
+											&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a ng-click="schedule_click(session.indices, true)" style="cursor:pointer">Close</a>
 										</div>
 
 										<br ng-if="sessions[session.session].type=='wip' || sessions[session.session].type=='interactivity'"/>
