@@ -39468,16 +39468,16 @@ entities={
                 "location": "Champaign, United States"
             },
             {
-                "name": "Tapan S Parikh",
-                "givenName": "Tapan",
-                "middleInitial": "S.",
-                "familyName": "Parikh",
-                "dept": "School of Information",
-                "institution": "University of California, Berkeley",
-                "city": "Berkeley",
-                "country": "United States",
-                "affiliation": "School of Information, University of California, Berkeley",
-                "location": "Berkeley, United States"
+                "name": "Patrick Baudisch",
+                "givenName": "Patrick",
+                "middleInitial": "",
+                "familyName": "Baudisch",
+                "dept": "",
+                "institution": "Hasso Plattner Institute",
+                "city": "Potsdam",
+                "country": "Germany",
+                "affiliation": "Hasso Plattner Institute",
+                "location": "Potsdam, Germany"
             },
             {
                 "name": "Shumin Zhai",

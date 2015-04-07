@@ -14,7 +14,8 @@
 <p>Catch up with old friends and meet new ones at the CHI 2015 Confer­ence Reception and explore almost 50 hands-on demonstrations at the Grand Opening of Exhibits and Interactivity.</p>
 
 <h3>Job Fair</h3>
-<strong>Tuesday, April 21 17:30 - 19:30</strong>
+<strong>Tuesday, April 21 17:30 - 19:30</strong><br/>
+<strong>Hall C2/C3</strong>
 <br/><br/>
 <p>Recruiters and job candidates are invited to take advantage of the CHI 2015 Job Fair on Tuesday evening. Visit the Recruiting Boards and des­ignated exhibit booths throughout the conference to find out more about available positions.</p>
 
