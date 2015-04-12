@@ -279,7 +279,8 @@
 <dl>
         <dt><strong><a href="mailto:localhospitality@chi2015.acm.org">Local Hospitality</a>: </strong></dt>
                 <dd>
-                        Junho Choi, <i>Yonsei University</i>, <i>Korea</i>
+                        Junho Choi, <i>Yonsei University</i>, <i>Korea</i><br/>
+                        Seungyon-Seny Lee, <i>SangMyung University</i>, <i>Korea</i>
                 </dd>
 </dl>
 
