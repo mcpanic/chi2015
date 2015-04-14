@@ -39534,6 +39534,30 @@ entities={
                 "country": "United States",
                 "affiliation": "create, Samsung",
                 "location": "San Jose, United States"
+            },
+            {
+                "name": "Mike Buzzard",
+                "givenName": "Mike",
+                "middleInitial": "",
+                "familyName": "Buzzard",
+                "dept": "",
+                "institution": "Google",
+                "city": "Mountain View",
+                "country": "USA",
+                "affiliation": "Google",
+                "location": "Mountain View, USA"
+            },
+            {
+                "name": "Justin Maxwell",
+                "givenName": "Justin",
+                "middleInitial": "",
+                "familyName": "Maxwell",
+                "dept": "",
+                "institution": "Google",
+                "city": "Mountain View",
+                "country": "USA",
+                "affiliation": "UX, Google",
+                "location": "Mountain View, USA"
             }
         ],
         "type": "panel",
