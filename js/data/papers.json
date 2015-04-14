@@ -40765,6 +40765,186 @@ entities={
         "award": false,
         "hm": false
     },
+    "src2": {
+        "title": "Student Research Competition",
+        "abstract": "",
+        "cAndB": "",
+        "keywords": [],
+        "authors": [
+            {
+                "name": " Thad Starner",
+                "givenName": " Thad",
+                "middleInitial": "",
+                "familyName": "Starner",
+                "dept": "",
+                "institution": "Georgia Institute of Technology",
+                "city": "Atlanta",
+                "country": "United States",
+                "affiliation": "Georgia Institute of Technology",
+                "location": "Atlanta, United States"
+            },
+            {
+                "name": "Regan L Mandryk",
+                "givenName": "Regan",
+                "middleInitial": "L",
+                "familyName": "Mandryk",
+                "dept": "",
+                "institution": "University of Saskatchewan",
+                "city": "Saskatoon",
+                "country": "Canada",
+                "affiliation": "University of Saskatchewan",
+                "location": "Saskatoon, Canada"
+            },
+            {
+                "name": "Tilde Bekker",
+                "givenName": "Tilde",
+                "middleInitial": "",
+                "familyName": "Bekker",
+                "dept": "Department of Industrial Design",
+                "institution": "Technische Universiteit Eindhoven",
+                "city": "Eindhoven",
+                "country": "The Netherlands",
+                "affiliation": "Department of Industrial Design, Technische Universiteit Eindhoven",
+                "location": "Eindhoven, The Netherlands"
+            },
+            {
+                "name": "John Tang",
+                "givenName": "John",
+                "middleInitial": "",
+                "familyName": "Tang",
+                "dept": "",
+                "institution": "Microsoft Research",
+                "city": "",
+                "country": "United States",
+                "affiliation": "Microsoft Research",
+                "location": "United States"
+            },
+            {
+                "name": "Xiangshi Ren",
+                "givenName": "Xiangshi",
+                "middleInitial": "",
+                "familyName": "Ren",
+                "dept": "",
+                "institution": "Kochi University of Technology",
+                "city": "",
+                "country": "Japan",
+                "affiliation": "Kochi University of Technology",
+                "location": "Japan"
+            }
+        ],
+        "type": "special",
+        "subtype": "special",
+        "award": false,
+        "hm": false
+    },
+    "sdc2": {
+        "title": "Student Design Competition",
+        "abstract": "",
+        "cAndB": "",
+        "keywords": [],
+        "authors": [
+            {
+                "name": "Elisa Giaccardi",
+                "givenName": "Elisa",
+                "middleInitial": "",
+                "familyName": "Giaccardi",
+                "dept": "Department of Industrial Design",
+                "institution": "Delft University of Technology",
+                "city": "Delft",
+                "country": "Netherlands",
+                "affiliation": "Department of Industrial Design, Delft University of Technology",
+                "location": "Delft, Netherlands"
+            },
+            {
+                "name": "Will Odom",
+                "givenName": "Will",
+                "middleInitial": "",
+                "familyName": "Odom",
+                "dept": "",
+                "institution": "",
+                "city": "",
+                "country": "",
+                "affiliation": "",
+                "location": ""
+            },
+            {
+                "name": "Zhiyong Fu",
+                "givenName": "Zhiyong",
+                "middleInitial": "",
+                "familyName": "Fu",
+                "dept": "",
+                "institution": "",
+                "city": "",
+                "country": "",
+                "affiliation": "",
+                "location": ""
+            },
+            {
+                "name": "Jung-Joo Lee",
+                "givenName": "Jung-Joo",
+                "middleInitial": "",
+                "familyName": "Lee",
+                "dept": "",
+                "institution": "",
+                "city": "",
+                "country": "",
+                "affiliation": "",
+                "location": ""
+            }
+        ],
+        "type": "special",
+        "subtype": "special",
+        "award": false,
+        "hm": false
+    },
+    "sgc2": {
+        "title": "Student Game Competition",
+        "abstract": "",
+        "cAndB": "",
+        "keywords": [],
+        "authors": [
+            {
+                "name": "Casper Harteveld",
+                "givenName": "Casper",
+                "middleInitial": "",
+                "familyName": "Harteveld",
+                "dept": "Game Design Program",
+                "institution": "Northeastern University",
+                "city": "Boston",
+                "country": "United States",
+                "affiliation": "Game Design Program, Northeastern University",
+                "location": "Boston, United States"
+            },
+            {
+                "name": "Peter Lee",
+                "givenName": "Peter",
+                "middleInitial": "",
+                "familyName": "Lee",
+                "dept": "",
+                "institution": "",
+                "city": "",
+                "country": "",
+                "affiliation": "",
+                "location": ""
+            },
+            {
+                "name": "Seth Cooper",
+                "givenName": "Seth",
+                "middleInitial": "",
+                "familyName": "Cooper",
+                "dept": "",
+                "institution": "",
+                "city": "",
+                "country": "",
+                "affiliation": "",
+                "location": ""
+            }
+        ],
+        "type": "special",
+        "subtype": "special",
+        "award": false,
+        "hm": false
+    },
     "pan119": {
         "title": "10 Years of alt.chi: Reflections and Outlook",
         "abstract": "",

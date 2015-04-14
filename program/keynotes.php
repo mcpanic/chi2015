@@ -43,7 +43,7 @@ sustainability is not only a value of ethics, but a value of
 surviving. How to use and encourage a new kind of HCI design, to
 generate sustainable behaviors and social changes, further, to
 redesign the commensalism of the four systems mentioned above will be
-the main focus of my talk. 	
+the main focus of my talk.
 </p>
 <p>
 <strong>Biography</strong>: Prof. Dr. Lou Yongqi is Dean of the College of Design and Innovation at Tongji University in Shanghai. He is a full professor at Tongji, Visiting Professor at the School of Art, Design, and Architecture at Aalto University in Finland, and Visiting Professor at the School of Design of Politecnico di Milano in Italy. Lou has been the pioneer in China for design-driven innovation education that connects design, business, and technology. He advances these issues through his leadership of two institutions at Tongji University: the College of Design and Innovation, and the Sino-Finnish Centre. He also furthers this agenda through international collaboration.
@@ -81,7 +81,7 @@ how UX design can realize the well balanced and harmonious IoT environment.
 <strong>Biography</strong>: Donghoon Chang is Executive VP, Head of Design Strategy Team and UX Center in Corporate Design Center, Samsung Electronics.  Since joining Samsung in 2006, he has played a critical role in establishing the company’s design vision for the future which has gradually shifted from a focus on style and convenience to a holistic user experience design and has developed mid to long-term design strategies, including ‘Design 3.0’ which envisions design that delivers new meaning and delight to people and contributes to society by creating sustainable and innovative value.
 </p>
 <p>
-Chang received two MFA degrees from the School of the Art Institute of Chicago (Chicago, USA) and Seoul National University (Seoul, Korea). He worked for IBM Korea and Time &amps; Space Tech inc. as a communications specialist and art director respectively. Before joining Samsung, he was a professor at EWHA Womans University (Seoul, Korea) where he taught visual design, information design as well as user experience design.  He was selected as 'the 2nd most creative people in the world' by Fast Company in 2013.
+Chang received two MFA degrees from the School of the Art Institute of Chicago (Chicago, USA) and Seoul National University (Seoul, Korea). He worked for IBM Korea and Time &amp; Space Tech inc. as a communications specialist and art director respectively. Before joining Samsung, he was a professor at EWHA Womans University (Seoul, Korea) where he taught visual design, information design as well as user experience design.  He was selected as 'the 2nd most creative people in the world' by Fast Company in 2013.
 </p>
 
 
@@ -95,12 +95,12 @@ New technologies and devices are coming out every day along with the rapid growt
 We all strive for the same goal: “to make people’s lives better,” no matter how we define our role in life. In this talk, we will present what we do in LG Electronics to address this goal within the aspects of software engineering and UX design, and also discuss what we should care about when delivering innovative products to the world.
 </p>
 <p>
-<strong>Biography</strong>: David Min is a Senior Research Fellow at LG Electronics and is head of the Software Center. 
+<strong>Biography</strong>: David Min is a Senior Research Fellow at LG Electronics and is head of the Software Center.
 He is known for spearheading one of the most successful SmartTV platforms in the industry, providing a superior user experience and an open API for 3rd party developers.
 </p>
 <p>
-David studied computer science and statistics at Seoul National University for BS degree and computer science at Korea Advanced Institute of Science & Technology for MS degree. 
-After four years work at Samsung Co. as an IT system analyst, he went to the USA to enroll in the computer science PhD program at the University of Illinois at Urbana-Champaign.  After finishing his advanced studies at UIUC, he worked for many years at various companies in computer, software, and consumer electronics industries, including Digital Equipment Corp. (now HP), Microsoft, Samsung Electronics.  
+David studied computer science and statistics at Seoul National University for BS degree and computer science at Korea Advanced Institute of Science & Technology for MS degree.
+After four years work at Samsung Co. as an IT system analyst, he went to the USA to enroll in the computer science PhD program at the University of Illinois at Urbana-Champaign.  After finishing his advanced studies at UIUC, he worked for many years at various companies in computer, software, and consumer electronics industries, including Digital Equipment Corp. (now HP), Microsoft, Samsung Electronics.
 David joined LG Electronics in 2006.
 </p>
 
