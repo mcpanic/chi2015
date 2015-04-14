@@ -26,14 +26,14 @@
   <div class="row">
     <div class="sponsor col-sm-6 col-md-4"><a href="http://www.autodesk.com/" target="_blank"><img width="160" alt="Autodesk" title="Sponsored by Autodesk" src="<?php echo $prefix; ?>/img/sponsors/autodesk.png" border="0"></a></div>
 
-    <div class="sponsor col-sm-6 col-md-4"><a href="http://www.daumkakao.com/en/main" target="_blank"><img width="160" alt="DaumKakao" title="Sponsored by DaumKakao" src="<?php echo $prefix; ?>/img/sponsors/daumkakao.png" border="0"></a></div>
+    <div class="sponsor col-sm-6 col-md-4"><a href="http://www.daumkakao.com/en/main" target="_blank"><img width="160" alt="DaumKakao" title="Sponsored by DaumKakao" src="<?php echo $prefix; ?>/img/sponsors/daumkakao.jpg" border="0"></a></div>
 
     <div ng-if="isGeneralSmallWindow()" class="clearfix visible-sm-block"></div>
 
     <div class="sponsor col-sm-6 col-md-4"><a href="http://www.disneyresearch.com/" target="_blank"><img width="160" alt="Disney Research" title="Sponsored by Disney Research" src="<?php echo $prefix; ?>/img/sponsors/disney.png" border="0"></a></div>
 
     <div ng-if="isGeneralMediumWindow()" class="clearfix visible-sm-block"></div>
-    
+
     <div class="sponsor col-sm-6 col-md-4"><a href="http://facebook.com/" target="_blank"><img width="160" alt="Facebook" title="Sponsored by Facebook" src="<?php echo $prefix; ?>/img/sponsors/facebook2.png" border="0"></a></div>
 
     <div ng-if="isGeneralSmallWindow()" class="clearfix visible-sm-block"></div>
@@ -41,13 +41,13 @@
     <div class="sponsor col-sm-6 col-md-4"><a href="http://home.futureplay.co/" target="_blank"><img width="160" alt="FuturePlay" title="Sponsored by FuturePlay" src="<?php echo $prefix; ?>/img/sponsors/futureplay.png" border="0"></a></div>
 
 
-    <div class="sponsor col-sm-6 col-md-4"><a href="http://worldwide.hyundai.com/" target="_blank"><img width="160" alt="Hyundai" title="Sponsored by Hyundai" src="<?php echo $prefix; ?>/img/sponsors/hyundai.png" border="0"></a></div>    
+    <div class="sponsor col-sm-6 col-md-4"><a href="http://worldwide.hyundai.com/" target="_blank"><img width="160" alt="Hyundai" title="Sponsored by Hyundai" src="<?php echo $prefix; ?>/img/sponsors/hyundai.png" border="0"></a></div>
 
     <div ng-if="isGeneralMediumWindow()" class="clearfix visible-md-block"></div>
     <div class="sponsor col-sm-6 col-md-4"><a href="http://langrid.org/en/index.html" target="_blank"><img width="160" alt="LG" title="Sponsored by Language Grid" src="<?php echo $prefix; ?>/img/sponsors/language_grid.png" border="0"></a></div>
 
     <div class="sponsor col-sm-6 col-md-4"><a href="http://www.lg.com/" target="_blank"><img width="160" alt="Language Grid" title="Sponsored by LG" src="<?php echo $prefix; ?>/img/sponsors/lg.png" border="0"></a></div>
-    
+
     <div class="sponsor  col-sm-6 col-md-4" ><a href="http://www.nsf.gov/" target="_blank"><img width="220" alt="NSF" title="Sponsored by NSF" src="<?php echo $prefix; ?>/img/sponsors/nsf.png" border="0"></a></div>
   </div>
 <hr>
@@ -73,7 +73,7 @@
        Samsung Art and Design Institute
     </div>
   </div>
-<hr>  
+<hr>
   <h4 id="friends">Special Support</h4>
   <div class="row">
   <div class="sponsor col-xs-6"><a href="http://english.seoul.go.kr/" target="_blank"><img width="220" alt="Seoul Metropolitan Government" title="Sponsored by Seoul Metropolitan Government" src="<?php echo $prefix; ?>/img/sponsors/kto.jpg" border="0"></a></div>
