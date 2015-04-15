@@ -105,6 +105,11 @@ echo '
 		          "rank": 5,
 		          "title": "Press",
 		          "link": "/attending/press/"
+		        },
+				{
+		          "rank": 6,
+		          "title": "Mobile Apps",
+		          "link": "/attending/mobileapps/"
 		        }
 			]
 		},
