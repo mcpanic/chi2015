@@ -10,6 +10,12 @@
 	<div class="sidebar-block">
 		<div class="sidebar-date">15 April 2015</div>
 		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/mobileapps">Check out an awesome suite of mobile apps for CHI 2015</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
+		<div class="sidebar-date">15 April 2015</div>
+		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/program#video-previews">Video previews are available</a></li>
 		</ul>
 	</div>
