@@ -4201,6 +4201,23 @@ sessions={
         "subtype": "special",
         "chair": ""
     },
+    "s-competition": {
+        "s_title": "Special: Student Research / Design / Game Competition 1st Round",
+        "room": "Exhibit Hall",
+        "time": "11:30-12:50",
+        "submissions": [
+            "src2", "sdc2", "sgc2"
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Tuesday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
     "s168": {
         "s_title": "Special: Foundations &amp; Trends in HCI 1",
         "room": "E1/E2",

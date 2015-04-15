@@ -2,7 +2,7 @@ nav_hide=["nav_meetups"]
 fb_comment = true
 s_filters=[
     {
-        "label":"Sessions",
+        "label":"Session",
         "vals":
             [
                 {
@@ -28,6 +28,84 @@ s_filters=[
                     "class":"p_session filter",
                     "type":"p_session",
                     "label":"Award"
+                }
+        ]
+    },
+    {
+        "label":"Venue",
+        "vals":
+            [
+                {
+                    "data":"all",
+                    "class":"venue filter active f_all",
+                    "type":"venue",
+                    "label":"All"
+                },
+                {
+                    "data":"paper",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Paper"
+                },
+                {
+                    "data":"altchi",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"alt.chi"
+                },
+                {
+                    "data":"casestudy",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Case Study"
+                },
+                {
+                    "data":"SIG",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"SIG"
+                },
+                {
+                    "data":"course",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Course"
+                },
+                {
+                    "data":"panel",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Panel"
+                },
+                {
+                    "data":"special",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Special"
+                },
+                {
+                    "data":"keynote",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Keynote"
+                },
+                {
+                    "data":"wip",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Work in Progress"
+                },
+                {
+                    "data":"interactivity",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Interactivity Demos"
+                },
+                {
+                    "data":"breaks",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Session Break"
                 }
         ]
     },

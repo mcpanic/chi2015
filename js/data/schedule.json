@@ -419,6 +419,10 @@ schedule=[
                     {
                         "session": "s-sig4",
                         "room": "318A"
+                    },
+                    {
+                        "session": "s-competition",
+                        "room": "Exhibit Hall"
                     }
                 ]
             },
