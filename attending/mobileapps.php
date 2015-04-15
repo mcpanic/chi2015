@@ -36,7 +36,7 @@
   <p>Struggling to fill all 9 spaces? Try <a href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/papers">Confer</a>, which can help you discover people with similar interests.</p>
   <p><strong>Don't have an Android device? Try the <a href="http://chi2015.acm.org/chibingo/" target="_blank">CHI Bingo Web App</a>.</strong><br><i>(Note: not compatible with Windows Phone)</i></p>
   <p><iframe width="502" height="282" src="//www.youtube.com/embed/WL85T_LH39c?rel=0" frameborder="0" allowfullscreen=""></iframe></p>
-  <p>Researchers at the <a href="http://www.fitlab.eu/">FIT Lab</a> at Swansea University developed the app, though do not take all of the credit.</p>
+  <p>Researchers at the <a href="http://www.fitlab.eu/">FIT Lab</a> at Swansea University developed the app, though do not take all of the credit. CHI Bingo was inspired by the late Gary Marsden — a CHI veteran and dear friend.</p>
 
   <br>
   <h3>Confer</h3>
