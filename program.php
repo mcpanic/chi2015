@@ -5,12 +5,6 @@
     <h1>Program</h1>
 
 <div>
-  <p>The <a href="<?php echo $prefix; ?>/program/full-schedule">CHI 2015 full program</a> is now available.</p>
-
-  <p>
-    You can also check the <a href="<?php echo $prefix; ?>/program/schedule-glance">CHI 2015 Schedule at a Glance</a> for a quick detail of what will happen this CHI 2015.
-  </p>
-
   <p>
     This year, CHI is planning to provide simultaneous translation from English to Chinese,
     Japanese and Korean in the main auditorium throughout the first and last day of conference,
@@ -18,6 +12,18 @@
     support such as machine translation and closed captioning will be available for other sessions
     throughout the conference.
   </p>
+
+  <h3>Program</h3>
+  <ul>
+    <li><a href="<?php echo $prefix; ?>/program/full-schedule">CHI 2015 full program on the Web</a></li>
+
+    <li><a href="<?php echo $prefix; ?>/files/CHI2015-Program.pdf">Downloadable PDF version of the full program</a></li>
+
+    <li>
+      <a href="<?php echo $prefix; ?>/program/schedule-glance">CHI 2015 Schedule at a Glance</a>: a quick overview of the program
+    </li>
+  </ul>
+
 
   <h3>Special events</h3>
   <ul>
