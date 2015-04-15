@@ -24,6 +24,16 @@
     </li>
   </ul>
 
+  <h3>Video Previews</h3>
+    <p>Get a quick video overview of all the exciting research and events! YouTube playlists for daily video previews:</p>
+    <ul>
+      <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjZp2cUxcrwGhw8hEySRi-bn">All Video Previews</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjYVVJ0ZrOb1-3md2P-F0WeA">Monday</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjbSC9xHtJJtCYQih73yvppU">Tuesday</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjZtg9r6vH1LIKI8pY3M3XHK">Wednesday</a></li>
+      <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjaakmOUZOBu5-JLicawDNcv">Thursday</a></li>
+    </ul>
+    <p><a href="<?php echo $prefix; ?>/program/full-schedule">The full program</a> includes links to video previews for individual papers.</p>
 
   <h3>Special events</h3>
   <ul>
