@@ -24,7 +24,7 @@
     </li>
   </ul>
 
-  <h3>Video Previews</h3>
+  <h3 id="video-previews">Video Previews</h3>
     <p>Get a quick video overview of all the exciting research and events! YouTube playlists for daily video previews:</p>
     <ul>
       <li><a href="https://www.youtube.com/playlist?list=PLn0nrSd4xjjZp2cUxcrwGhw8hEySRi-bn">All Video Previews</a></li>
