@@ -4201,16 +4201,33 @@ sessions={
         "subtype": "special",
         "chair": ""
     },
-    "s-competition": {
-        "s_title": "Special: Student Research / Design / Game Competition 1st Round",
+    "s-src2": {
+        "s_title": "Special: Student Research Competition 1st Round",
         "room": "Exhibit Hall",
         "time": "11:30-12:50",
         "submissions": [
-            "src2", "sdc2", "sgc2"
+            "src2"
         ],
         "personas": "",
         "venue": "special",
         "day": "Tuesday",
+        "s_tags": [],
+        "type": "special",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "special",
+        "chair": ""
+    },
+    "s-sdc2": {
+        "s_title": "Special: Student Design Competition 1st Round",
+        "room": "317ABC",
+        "time": "10:30-11:30",
+        "submissions": [
+            "sdc2"
+        ],
+        "personas": "",
+        "venue": "special",
+        "day": "Monday",
         "s_tags": [],
         "type": "special",
         "hasAward": false,

@@ -30,6 +30,10 @@ schedule=[
                     {
                         "session": "vid-1",
                         "room": "401"
+                    },
+                    {
+                        "session": "s-sdc2",
+                        "room": "317ABC"
                     }
                 ]
             },
@@ -421,7 +425,7 @@ schedule=[
                         "room": "318A"
                     },
                     {
-                        "session": "s-competition",
+                        "session": "s-src2",
                         "room": "Exhibit Hall"
                     }
                 ]
