@@ -6,6 +6,65 @@
 
 <div>
   <p>CHI 2015 news updates are archived here.</p>
+    <div class="sidebar-date first-block">15 April 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/mobileapps">Check out an awesome suite of mobile apps for CHI 2015</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">15 April 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program#video-previews">Video previews are available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">15 April 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/files/CHI2015-Program.pdf">PDF version of the full program is available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">15 April 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/press/">ACM's official press release</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">4 April 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending#transportation">Transportation information is available.</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">25 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending/">CHI 2015 teaser video is now online</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">25 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/">CHI 2015 opening movie is now online</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">23 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule">WIP, Interactivity, Keynote Schedules are now part of the full schedule!</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">19 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/exhibiting#exhibitor-resources">Revised CHI 2015 Exhibitor's Kit is now available</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-block">
+    <div class="sidebar-date">1 March 2015</div>
+    <ul>
+      <li class="sidebar-item"><a href="http://chi2015.acm.org/attending#industrial-and-city-tours">CHI 2015 Industry and City Tours Registration is open</a></li>
+    </ul>
+  </div>
   <div class="sidebar-block">
     <div class="sidebar-date">1 March 2015</div>
     <ul>

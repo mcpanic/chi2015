@@ -55,7 +55,7 @@ $( document ).ready(function() {
 	selectMenu();
 	adjustMenuWidth();
 	addCrossingsPopover();
-	$("#counter .days-left").text(computeDaysUntil());
+//	$("#counter .days-left").text(computeDaysUntil());
 
 	resizeHandler();
 	window.onresize = resizeHandler;

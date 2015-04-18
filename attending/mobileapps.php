@@ -47,6 +47,18 @@
   <p>
   You can <a href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/papers">create an account to save your favorite papers and personal schedule</a>. Or, you can <a href="http://confer.csail.mit.edu/chi2015/papers">browse the program as a guest</a>.
   </p>
+
+  <br>
+  <h3>Flashbulb</h3>
+  <p><a href="http://egs.excite.drexel.edu/flashbulb/">Flashbulb</a> is an app to break the ice! Players will photograph their "celebrity" targets to gain notoriety points. May the most notorious photographer win!
+  </p>
+
+  <p>In Flashbulb everyone is both celebrity and paparazzi. Players are assigned a “celebrity” target to find and photograph. Successfully photographing targets will gain you notoriety points. The goal of the game is to become the most notorious photographer of them all.  A new game of "social" tag, Flashbulb gives players at various events a fun new way to break the ice.</p>
+
+  <p><a href="http://egs.excite.drexel.edu/flashbulb/">Download</a> the app on 20 April 2015.</p>
+
+  <p>Flashbulb was designed and developed by the <a href="http://egs.excite.drexel.edu/flashbulb/">Entrepreneurial Game Studio at Drexel University</a>.</p>
+  </p>
 </div>
 
 

@@ -1,8 +1,10 @@
+
+<!--
 <div id="counter">
 	<span class="days-left">&nbsp;</span>
 	<span>days until CHI 2015</span>
 </div>
-
+-->
 
 
 <div class="sidebar-wrapper">
@@ -37,6 +39,7 @@
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending#transportation">Transportation information is available.</a></li>
 		</ul>
 	</div>
+<!--
 	<div class="sidebar-block">
 		<div class="sidebar-date">25 March 2015</div>
 		<ul>
@@ -74,7 +77,6 @@
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/best-of-chi/">Best of CHI winners are announced</a></li>
 		</ul>
 	</div>
-<!--
 	<div class="sidebar-block">
 		<div class="sidebar-date">21 February 2015</div>
 		<ul>
