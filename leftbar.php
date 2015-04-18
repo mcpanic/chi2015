@@ -10,7 +10,13 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block">
-		<div class="sidebar-date first-block">15 April 2015</div>
+		<div class="sidebar-date first-block">18 April 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/files/localhero_final_design.pdf">Meet local Heroes from across Asia who have made significant contributions to the field of HCI.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
+		<div class="sidebar-date">15 April 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/attending/mobileapps">Check out an awesome suite of mobile apps for CHI 2015</a></li>
 		</ul>

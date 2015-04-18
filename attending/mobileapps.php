@@ -29,8 +29,11 @@
   <br>
   <h3>CHI Bingo Mobile App</h3>
   <div class="app-downloads">
-    <p><a href="https://play.google.com/store/apps/details?id=eu.fitlab.chi_bingo " target="_blank"><img border="0" src="<?php echo $prefix; ?>/img/icons/google-play.png"></a></p>
+    <p><a href="https://itunes.apple.com/us/app/id984489692" target="_blank"><img border="0" src="<?php echo $prefix; ?>/img/icons/app-store.png"></a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=eu.fitlab.chi_bingo " target="_blank"><img border="0" src="<?php echo $prefix; ?>/img/icons/google-play.png"></a></p>
   </div>
+
+
+
   <p>CHI Bingo is a fun app that aims to increase social activity at CHI.</p>
   <p>The aim is simple - before the conference, enter the names of 9 people you wish to talk to. Then, the race is on to get 'selfie' photos with each of them before the week ends. You can share your bingo card at any time via Facebook, Twitter and many other services. Simple!</p>
   <p>Struggling to fill all 9 spaces? Try <a href="http://confer.csail.mit.edu/login?redirect_url=/chi2015/papers">Confer</a>, which can help you discover people with similar interests.</p>
