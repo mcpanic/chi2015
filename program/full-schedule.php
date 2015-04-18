@@ -148,7 +148,7 @@
 												<span class="paper-subtype" ng-bind="'[' + papers[submissions].subtype + ']'" ng-if="papers[submissions].type=='paper'"></span>
 											</a>
 
-											<a class="fancybox-media fancybox.iframe" href="https://www.youtube.com/watch?v={{video_previews[papers[submissions].id].yt_id}}&amp;autoplay=1" target="_blank" ng-if="video_previews[papers[submissions].id] !== undefined && video_previews[papers[submissions].id].early == 'TRUE'"><img class="vp-paper" src="<?php echo $prefix; ?>/img/program/vp_16x16.png"/></a>
+											<a class="fancybox-media fancybox.iframe" href="https://www.youtube.com/watch?v={{video_previews[papers[submissions].id].yt_id}}&amp;autoplay=1" target="_blank" ng-if="video_previews[papers[submissions].id] !== undefined"><img class="vp-paper" src="<?php echo $prefix; ?>/img/program/vp_16x16.png"/></a>
 
 <!-- 											<div class="full_schedule_keywords" ng-if="papers[submissions].keyword_string.trim()!=''">
 												<b>Keywords</b>:
