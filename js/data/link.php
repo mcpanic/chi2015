@@ -73,6 +73,11 @@ echo '
 					"rank": 9,
 					"title": "Special Events",
 					"link": "/program/special-events/"
+				},
+				{
+					"rank": 10,
+					"title": "Local Heroes",
+					"link": "/files/localhero_final_design.pdf"
 				}
 			]
 		},

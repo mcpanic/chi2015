@@ -22,6 +22,10 @@
     <li>
       <a href="<?php echo $prefix; ?>/program/schedule-glance">CHI 2015 Schedule at a Glance</a>: a quick overview of the program
     </li>
+
+    <li>
+      <a href="<?php echo $prefix; ?>/files/localhero_final_design.pdf">Local Heroes</a>
+    </li>
   </ul>
 
   <h3 id="video-previews">Video Previews</h3>
