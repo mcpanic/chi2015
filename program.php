@@ -20,6 +20,10 @@
     <li><a href="<?php echo $prefix; ?>/files/CHI2015-Program.pdf">Downloadable PDF version of the full program</a></li>
 
     <li>
+      <a href="<?php echo $prefix; ?>/vote">Vote for your favorite CHI presentation here!</a>
+    </li>
+
+    <li>
       <a href="<?php echo $prefix; ?>/program/schedule-glance">CHI 2015 Schedule at a Glance</a>: a quick overview of the program
     </li>
 

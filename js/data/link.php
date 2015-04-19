@@ -15,14 +15,19 @@ echo '
 			"link": "/program/",
 			"sub_links" : [
 				{
-					"rank": -2,
+					"rank": -3,
 					"title": "Full Schedule",
 					"link": "/program/full-schedule/"
 				},
 				{
-					"rank": -1,
+					"rank": -2,
 					"title": "Full Schedule (PDF)",
 					"link": "/files/CHI2015-Program.pdf"
+				},
+				{
+					"rank": -1,
+					"title": "CHI Vote",
+					"link": "/vote"
 				},
 				{
 					"rank": 0,
