@@ -63,7 +63,7 @@ blockquote p {
    Overall
    ========================================================================== */
 .navbar-collapse, .navbar-header{
-	background-color: transparent; /*#E4211C;*/
+	background-color: #E4211C; /*transparent;*/ /*#E4211C;*/
 /*	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter:alpha(opacity=100);
 	opacity: 1;*/
