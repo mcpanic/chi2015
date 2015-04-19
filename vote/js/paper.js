@@ -246,7 +246,7 @@
 			var type = paper.type;
 			if(_.indexOf(["paper", "note", "TOCHI", "altchi", "Paper", "Note", "alt.chi", "Case Study", "case study"], type) >= 0) {
 				var curr_time = (new Date()).getTime();
-				return (paper.start_time-46800)*1000 < curr_time;
+				return (paper.start_time-68400)*1000 < curr_time;
 			}
 			return false;
 		}
