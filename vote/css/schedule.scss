@@ -1,0 +1,538 @@
+html {
+    body {
+		padding-top: 80px;
+		
+		nav {
+			&.affix {
+				position: fixed;
+				top: 0px;
+				left: 0px;
+				width: 100%;
+				z-index:10;
+				margin-left: 0px;
+				margin-right: 0px;
+			}
+			z-index: 10;
+			.open {
+				position: relative;
+				.immediate_search_results {
+					position: absolute;
+					background-color: white;
+					left: 0px;
+					right: auto;
+
+					li {
+						&.dropdown-header {
+							text-transform: uppercase;
+						}
+						font-size: 0.8em;
+						overflow: hidden;
+						max-width: 400px;
+
+
+						&.search_result {
+							&.selected {
+								background-image: -webkit-linear-gradient(top,#f5f5f5 0,#e8e8e8 100%);
+								background-image: linear-gradient(to bottom,#f5f5f5 0,#e8e8e8 100%);
+								background-repeat: repeat-x;
+								filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+								background-color: #e8e8e8;
+							}
+						}
+					}
+				}
+			}
+			.filters {
+				border-top: 1px solid #428bca;
+				clear: both;
+				overflow: hidden;
+				.filters_label {
+					float: left;
+					color: #428bca;
+					padding-right: 7px;
+				}
+				.filter {
+					margin: 2px;
+					float: left;
+					.glyphicon.glyphicon-remove {
+						cursor: pointer;
+					}
+				}
+			}
+			.day_header {
+				a {
+					text-transform: uppercase;
+					color: #AAA;
+					font-weight: 700;
+				}
+			}
+
+		}
+		.navbar-text.login {
+			color: rgb(0, 123, 232);
+			cursor: pointer;
+			#dropbox_logo {
+			}
+			&.logged_in {
+				color: black;
+				cursor: default;
+				.logout {
+					color: rgb(0, 123, 232);
+					cursor: pointer;
+				}
+			}
+		}
+		.time_bubbles {
+			text-align: left;
+
+			
+			background-position: right;
+			background-repeat: no-repeat;
+
+			.time_bubble {
+				background-color: #FAFAFA;
+				border: 1px solid #DDD;
+				height: 14px;
+				display: inline-block;
+				border-radius: 7px;
+
+				>.award {
+					height: 14px;
+					background-position: right;
+					background-repeat: no-repeat;
+					background-size: auto 22px;
+					border-radius: 7px;
+					position: relative;
+					top: -1px;
+					left: -1px;
+					&.Best {
+						background-image: url('../images/best_paper_light.png');
+					}
+					&.Honorable_Mention {
+						background-image: url('../images/nominee_light.png');
+					}
+				}
+
+				&:hover, &.hover {
+					border: 1px solid #f0ad4e;
+					background-color: #fcf8f2;
+				}
+				
+				&.schedule,&.readinglist,&.voted,&.notes {
+					border: 1px solid #AAA;
+					>.award {
+						&.Best {
+							background-image: url('../images/best_paper_white.png');
+						}
+						&.Honorable_Mention {
+							background-image: url('../images/nominee_white.png');
+						}
+					}
+				}
+
+				&.notes {
+					background-color: #fa7d7d; // red
+				}
+				&.voted {
+					background-color: #e3a50e; // orange
+					//&.notes {
+						//background-image: url('stripes/orange_red.png');
+					//}
+				}
+				&.readinglist {
+					background-color: #65dc33; // green
+					//&.voted {
+						//background-image: url('stripes/green_orange.png');
+						//&.notes {
+							//background-image: url('stripes/green_orange_red.png');
+						//}
+					//}
+					//&.notes {
+						//background-image: url('stripes/green_red.png');
+					//}
+				}
+				&.schedule {
+					background-color: #47c8fa; // blue
+					//&.readinglist {
+						//background-image: url('stripes/blue_green.png');
+						//&.voted {
+							//background-image: url('stripes/blue_green_orange.png');
+							//&.notes {
+								//background-image: url('stripes/blue_green_orange_red.png');
+							//}
+						//}
+						//&.notes {
+							//background-image: url('stripes/blue_green_red.png');
+						//}
+					//}
+					//&.voted {
+						//background-image: url('stripes/blue_orange.png');
+						//&.notes {
+							//background-image: url('stripes/blue_orange_red.png');
+						//}
+					//}
+					//&.notes {
+						//background-image: url('stripes/blue_red.png');
+					//}
+				}
+
+
+
+				
+				//&.Best, &.Honorable_Mention {
+					//background-size: 20px;
+				//}
+			}
+			.pover {
+				.award {
+					font-size: 1.3em;
+					background-repeat: no-repeat;
+					background-position: 0% 50%;
+					background-size: auto 14px;
+					padding-left: 16px;
+					height: 14px;
+					&.Best {
+						background-image: url('../images/best_paper_light.png');
+					}
+					&.Honorable_Mention {
+						background-image: url('../images/nominee_light.png');
+					}
+					font-size: 0.8em;
+					color: #AAA;
+				}
+				.ev_title {
+					font-size: 0.9em;
+				}
+				.ev_authors {
+					color: #AAA;
+					font-size: 0.8em;
+				}
+			}
+		}
+		.user_save_icons {
+			padding-top: 12px;
+			padding-bottom: 10px;
+			.icon_row {
+			}
+		}
+		> .container {
+			.video-container {
+				float: right;
+				margin: 0px 0px 12px 12px;
+				//position: relative;
+				//padding-bottom: 56.25%;
+				//padding-top: 30px; height: 0; overflow: hidden;
+				//width: 300px;
+
+				iframe, object, embed {
+					//position: absolute;
+					top: 0;
+					left: 0;
+					//width: 100%;
+					//height: 100%;
+				}
+			}
+			> .row {
+				.day {
+					.day_name {
+						font-size: 3em;
+					}
+					.date_name {
+						font-size: 3em;
+						color: #AAA;
+						font-weight: 100;
+					}
+					.dayVideoPreviews {
+						margin-left: 15px;
+						font-size: 0.9em;
+					}
+				}
+			}
+
+			h4 {
+				//text-align: center;
+			}
+			.authors.row.full {
+				margin-bottom: 10px;
+			}
+			.time {
+				font-size: 1.2em;
+				font-weight: 800;
+				.day_name {
+					font-weight: 100;
+					padding-left: 10px;
+				}
+			}
+			.expanded {
+				background-color: #fcf8f2;
+
+				.time_bubbles,&.session_header {
+					background-color: #cb7e11;//#ed9c28;
+					.close_session {
+						position: relative;
+						top: -20px;
+						color: white;
+						opacity: 0.8;
+						font-size: 2.5em;
+						&:hover {
+							opacity: 1.0;
+						}
+					}
+				}
+
+				> p {
+					text-align: justify;
+				}
+
+				&.session_header {
+					
+					h3 {
+						color: white;
+					}
+					h5 {
+						color: #DDD;
+					}
+
+					.user_save_icons {
+						padding-top: 24px;
+						.icon_row {
+							&.not_selected {
+								color: #DDD;
+							}
+						}
+					}
+				}
+
+				h3 {
+					color: #f0ad4e;
+				}
+				.paper_title {
+				}
+				.author_summary {
+					color: #AAA;
+				}
+
+				.description {
+					font-size: 0.8em;
+					text-align: justify;
+				}
+				.type {
+					color: #AAA;
+					text-transform: uppercase;
+					font-weight: 700;
+					margin-top: 10px;
+				}
+				.author {
+					.affiliation {
+						color: #AAA;
+					}
+					&:hover {
+						background-color: #d9edf7;
+					}
+					cursor: pointer;
+					border-radius: 3px;
+				}
+
+				.paper.row {
+					border-top: 1px solid #DDD;
+					padding-top: 3px;
+					padding-bottom: 3px;
+
+					.award {
+						background-position: center;
+						background-repeat: no-repeat;
+						//vertical-align: bottom;
+						//margin-bottom:10px;
+						//color: #999;
+						//float: left;
+						&.Best {
+							background-image: url('../images/best_paper_light.png');
+						}
+						&.Honorable_Mention {
+							background-image: url('../images/nominee_light.png');
+						}
+					}
+					&.expanded {
+						.Best, .Honorable_Mention {
+							float: left;
+							height: 60px;
+							background-size: 50px;
+							//border-bottom: 1px solid #DDD;
+							background-position: 50% 100%;
+							text-align: center;
+							margin: 3px;
+							margin-right: 8px;
+							color: #999;
+							text-transform: uppercase;
+						}
+					}
+					&.collapsed {
+						cursor: pointer;
+						.Best, .Honorable_Mention {
+							background-size: 30px;
+							height: 35px;
+						}
+						.conficon {
+							margin: 5px;
+							float: right;
+						}
+					}
+					textarea {
+						border: 1px solid #f0ad4e;
+						&:focus {
+							-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #c0a16b;
+							box-shadow: inset 0 1px 1px rgba(0,0,0,.075),0 0 6px #c0a16b;
+						}
+					}
+					.saving_note_state {
+						font-size: 0.8em;
+						color: #888;
+					}
+				}
+
+				.highlight {
+					border-left: 5px solid #f0ad4e;
+				}
+
+				.no_highlight {
+					border-left: 5px solid #fcf8f2;
+				}
+
+			}
+
+			.author_name {
+				//text-align: center;
+			}
+			.author_affiliation {
+				font-size: 0.8em;
+				color: #AAA;
+				//text-align: center;
+			}
+
+			.session_container {
+				&.expanded_thumbnail {
+					color: #AAA;
+					background-color: #EEE;
+					//cursor: default;
+					&:hover {
+						background-color: #EEE;
+					}
+				}
+
+				cursor: pointer;
+				&:hover {
+					background-color: #F7F7F7;
+				}
+
+				&.gridded {
+					padding-top: 5px;
+					padding-bottom: 5px;
+				}
+
+				&.full_row {
+					padding-top: 2px;
+					padding-bottom: 5px;
+				}
+
+
+				.session_type {
+					color: #AAA;
+				}
+
+				.session_location {
+					&:before {
+						content: ' / ';
+						color: #AAA;
+					}
+					color: #AAA;
+				}
+
+			}
+		}
+		footer {
+			a , a:hover{
+				color: #AAA;
+				font-weight: 200;
+				text-decoration: none;
+				margin-bottom: 15px;
+				img {
+					position: relative;
+					top: -2px;
+				}
+			}
+		}
+		.icon_row {
+			.conficon_label {
+				//padding-bottom: 3px;
+				position: relative;
+				top: -2px;
+			}
+			font-size: 0.9em;
+			color: #AAA;
+			text-transform: uppercase;
+			text-align: right;
+			&.selected {
+				&.schedule {
+					color: #47c8fa;
+				}
+				&.readinglist {
+					color: #65dc33;
+				}
+				&.vote {
+					color: #f89a1b; // orange
+				}
+			}
+			cursor: pointer;
+			&.selected {
+				> .conficon {
+					&.conficon-schedule {
+						background-image: url('icons/schedule-selected-48@2x.png');
+					}
+					&.conficon-readinglist {
+						background-image: url('icons/readinglist-selected-48@2x.png');
+					}
+					&.conficon-vote {
+						background-image: url('icons/besttalk-selected.png');
+					}
+					&.conficon-note {
+						background-image: url('icons/note-selected.png');
+					}
+				}
+			}
+
+			> .conficon {
+				&.conficon-schedule {
+					background-image: url('icons/schedule-48@2x.png');
+				}
+				&.conficon-readinglist {
+					background-image: url('icons/readinglist-48@2x.png');
+				}
+				&.conficon-vote {
+					background-image: url('icons/besttalk.png');
+				}
+			}
+		}
+
+		.conficon {
+			display: inline-block;
+			width: 14px;
+			height: 14px;
+			background-size: auto 14px;
+			background-position: 50% 50%;
+			background-repeat: no-repeat;
+		}
+		.unselectable {
+			-moz-user-select: none;
+			-webkit-user-select: none;
+			-ms-user-select: none;
+			user-select: none;
+		}
+
+		input#voterIDInput {
+		}
+		.novoting {
+			color: #900;
+			font-size: 0.8em;
+		}
+    }
+}
