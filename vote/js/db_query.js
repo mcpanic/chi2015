@@ -336,7 +336,7 @@
 
 			_.each(ee_rows, function(row) {
 				if(row[ee_headers.parent_fk] === parent_fk) {
-					child_fks[row[ee_headers.sequence]-1] = row[ee_headers.child_fk];
+					child_fks[row[ee_headers.sequence]] = row[ee_headers.child_fk];
 				}
 			});
 
