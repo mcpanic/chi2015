@@ -99,7 +99,7 @@ s_filters=[
                     "data":"interactivity",
                     "class":"venue filter",
                     "type":"venue",
-                    "label":"Interactivity Demos"
+                    "label":"Interactivity Demo"
                 },
                 {
                     "data":"breaks",
