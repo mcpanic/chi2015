@@ -233,11 +233,16 @@
 												<p ng-bind-html="''+papers[submissions].bio"></p>
 											</div>
 
+											
+											<a ng-href="<?php echo $prefix;?>/files/{{papers[submissions].slide}}" ng-if="papers[submissions].slide">Download Slides here</a>
+											<br ng-if="papers[submissions].slide" />
 											<a ng-click="focus()" style="cursor:pointer">Go back up</a>
 											&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a ng-click="schedule_click(session.indices, true)" style="cursor:pointer">Close</a>
 										</div>
 
+										
 										<br ng-if="sessions[session.session].type=='wip' || sessions[session.session].type=='interactivity'"/>
+
 										<a href="<?php echo $prefix; ?>/program/works-in-progress-rotation-schedule" ng-if="sessions[session.session].type=='wip'">See Work in Progress Submissions here</a>
 										<a href="<?php echo $prefix; ?>/program/interactivity" ng-if="sessions[session.session].type=='interactivity'">See Interactivity Demo Submissions here</a>
 

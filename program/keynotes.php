@@ -118,6 +118,10 @@ Over the last decade, the rise of web services has made it possible to gather tr
 <strong>Biography</strong>: Susan Dumais a Distinguished Scientist at Microsoft and Deputy Managing Director of the Microsoft Research Lab in Redmond.   Prior to joining Microsoft Research, she was at Bell Labs and Bellcore, where she worked on Latent Semantic Analysis, techniques for combining search and navigation, and organizational impacts of new technology.  Her current research focuses on user modeling and personalization, context and search and temporal dynamics of information. She has worked closely with several Microsoft groups (Bing, Windows Desktop Search, SharePoint, and Office Online Help) on search-related innovations.  Susan has published widely in the fields of information science, human-computer interaction and cognitive science, and holds several patents on novel retrieval algorithms and interfaces.  Susan is also an adjunct professor in the Information School at the University of Washington.  She is Past-Chair of ACM's Special Interest Group in Information Retrieval (SIGIR), and serves on several editorial boards, technical program committees, and government panels.  She was elected to the CHI Academy in 2005, an ACM Fellow in 2006, received the SIGIR Gerard Salton Award for Lifetime Achievement 2009, was elected to the National Academy of Engineering (NAE) in 2011, and received the ACM Athena Lecturer Award, and Tony Kent Strix Award in 2014.
 </p>
 
+<p>
+<a href="<?php echo $prefix; ?>/files/CHI2015-Athena-Dumais_ShareBuilds.pdf">Download Slides Here</a>
+</p>
+
 
 <a name="thu-closing"></a>
 <h3>Closing Plenary</h3>

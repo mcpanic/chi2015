@@ -61,7 +61,8 @@ entities={
     "type" : "keynote",
     "subtype" : "keynote",
     "award" : false,
-    "hm" : false
+    "hm" : false,
+    "slide": "CHI2015-Athena-Dumais_ShareBuilds.pdf"
   },
   "key5" : {
     "title" : "Cultural Crossing from Local to Global through Music: Technology, Media, and Future",
