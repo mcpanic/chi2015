@@ -10,6 +10,18 @@
 <div class="sidebar-wrapper">
 	<h3>News</h3>
 	<div class="sidebar-block">
+		<div class="sidebar-date first-block">15 December 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/full-schedule/">Session videos are posted. Recorded sessions have a play icon.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
+		<div class="sidebar-date first-block">15 December 2015</div>
+		<ul>
+			<li class="sidebar-item"><a href="http://chi2015.acm.org/program/keynotes/">Plenary videos are posted.</a></li>
+		</ul>
+	</div>
+	<div class="sidebar-block">
 		<div class="sidebar-date first-block">19 April 2015</div>
 		<ul>
 			<li class="sidebar-item"><a href="http://chi2015.acm.org/vote">Vote for your favorite CHI presentation here!!!</a></li>
