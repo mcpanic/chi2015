@@ -14,7 +14,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/hHCVHbMSnyx2537yjJoEA/"
     },
     "keynote-2": {
         "s_title": "Plenary Session - UX Design in the IoT Era ",
@@ -31,7 +32,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/ik8vCFkWmixRZQFm4B4ULY/"
     },
     "keynote-3": {
         "s_title": "Plenary Session - Journey to a Better Life",
@@ -48,7 +50,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/M7a3hD7NABrrk56SkekAXG/"
     },
     "keynote-4": {
         "s_title": "Plenary Session - ACM-W Athena Lecture: Large-Scale Behavioral Data: Potential and Pitfalls",
@@ -65,7 +68,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/tYB7DtHHqH5J87cpdBJDkm/"
     },
     "keynote-5": {
         "s_title": "Plenary Session - Cultural Crossing from Local to Global through Music: Technology, Media, and Future",
@@ -82,7 +86,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/rx4E75Asf3xWBrq54WRL8h/"
     },
     "wip-1": {
         "s_title": "Work in Progress Exhibit",
@@ -1529,7 +1534,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Kening Zhu"
+        "chair": "Kening Zhu",
+        "video": "https://portal.klewel.com/watch/webcast/QRcs8igkqz9QUDLUpztDRb/"
     },
     "s101": {
         "s_title": "Papers: Accessibility at Home &amp; on The Go",
@@ -1569,7 +1575,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Rongrong Wang"
+        "chair": "Rongrong Wang",
+        "video": "https://portal.klewel.com/watch/webcast/nze6ESTcT34AcDWsWmxWDP/"
     },
     "s103": {
         "s_title": "Papers: Quantified&nbsp;Self&nbsp;for Humans &amp;&nbsp;Pets&nbsp;",
@@ -1630,7 +1637,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Morten Fjeld"
+        "chair": "Morten Fjeld",
+        "video": "https://portal.klewel.com/watch/webcast/Notmg3St5XpxHW9DSNjXYC/"
     },
     "s106": {
         "s_title": "Papers: Using Random Body Parts for Input",
@@ -1651,7 +1659,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Patrick Baudisch"
+        "chair": "Patrick Baudisch",
+        "video": "https://portal.klewel.com/watch/webcast/ZTMC9p6yvurrqvgxRi9pWF/"
     },
     "s107": {
         "s_title": "Papers: HCI for Civic Engagement",
@@ -1691,7 +1700,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Jofish Kaye"
+        "chair": "Jofish Kaye",
+        "video": "https://portal.klewel.com/watch/webcast/JM8fnXyWSoSYLawyV8LyTZ/"
     },
     "s109": {
         "s_title": "Papers: Reflecting Upon Design Reflection",
@@ -1711,7 +1721,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Ron Wakkary"
+        "chair": "Ron Wakkary",
+        "video": "https://portal.klewel.com/watch/webcast/rYZ74ihG7Qc6zGf5MBYaSF/"
     },
     "s110": {
         "s_title": "Papers: Crowdsourcing Fans &amp; Friends",
@@ -1751,7 +1762,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Charles Perin"
+        "chair": "Charles Perin",
+        "video": "https://portal.klewel.com/watch/webcast/hNWz5wfFGUHHVc4DbkNprb/"
     },
     "s112": {
         "s_title": "Papers: Disasters &amp; Humanitarian Events",
@@ -1872,7 +1884,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "David Kim"
+        "chair": "David Kim",
+        "video": "https://portal.klewel.com/watch/webcast/nze6ESTcT34AcDWsWmxWDP/"
     },
     "s118": {
         "s_title": "Papers: Family Communication",
@@ -1996,7 +2009,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Niels Henze"
+        "chair": "Niels Henze",
+        "video": "https://portal.klewel.com/watch/webcast/nsbM5KLmQ9EE47ber6zPod/"
     },
     "s124": {
         "s_title": "Papers: Activism in Wikipedia &amp; Beyond",
@@ -2138,7 +2152,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Christophe Hurter"
+        "chair": "Christophe Hurter",
+        "video": "https://portal.klewel.com/watch/webcast/zQz5qpVzM33AK6TLtz7eJd/"
     },
     "s131": {
         "s_title": "Papers: Supporting Change in Developing Countries",
@@ -2219,7 +2234,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Ellen Yi-Luen Do"
+        "chair": "Ellen Yi-Luen Do",
+        "video": "https://portal.klewel.com/watch/webcast/L4guJsuNd8dVYpJS6KvrRe/"
     },
     "s135": {
         "s_title": "Papers: Evaluating Crowdsourcing ",
@@ -2260,7 +2276,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Volker Wulf"
+        "chair": "Volker Wulf",
+        "video": "https://portal.klewel.com/watch/webcast/rC7sNbVR97JpxpY8vagKG9/"
     },
     "s137": {
         "s_title": "Papers: Understanding Everyday Use of Mobile Phones",
@@ -2280,7 +2297,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Matt Jones"
+        "chair": "Matt Jones",
+        "video": "https://portal.klewel.com/watch/webcast/zqaov2PNR2usKcmBgshqFV/"
     },
     "s138": {
         "s_title": "Papers: Grip, Move &amp; Tilt: Novel Interaction",
@@ -2301,7 +2319,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Jessica Cauchard"
+        "chair": "Jessica Cauchard",
+        "video": "https://portal.klewel.com/watch/webcast/ydFtBRkbq8qcb4oeLC4qH8/"
     },
     "s139": {
         "s_title": "Papers: Interactive Video &amp; Collaborative Annotations",
@@ -2343,7 +2362,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Martin Halvey"
+        "chair": "Martin Halvey",
+        "video": "https://portal.klewel.com/watch/webcast/cz44QGkMajjvr9w7LSZdjm/"
     },
     "s141": {
         "s_title": "Papers: Muscle-Computer Interfaces",
@@ -2363,7 +2383,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Chris Harrison"
+        "chair": "Chris Harrison",
+        "video": "https://portal.klewel.com/watch/webcast/H2nwK53Pge8b5HLNg2GKDj/"
     },
     "s142": {
         "s_title": "Papers: HCI for the Elderly",
@@ -2404,7 +2425,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Benjamin Bach"
+        "chair": "Benjamin Bach",
+        "video": "https://portal.klewel.com/watch/webcast/sU8bqbtuqf4fAFJwz8hSZn/"
     },
     "s144": {
         "s_title": "Papers: Brain &amp; Physiological Data use for HCI",
@@ -2424,7 +2446,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Jacob Robert"
+        "chair": "Jacob Robert",
+        "video": "https://portal.klewel.com/watch/webcast/b2EYBPydzpocwscBNF64xD/"
     },
     "s145": {
         "s_title": "Papers: Socio-Political Interactions",
@@ -2506,7 +2529,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Naomi Yamashita"
+        "chair": "Naomi Yamashita",
+        "video": "https://portal.klewel.com/watch/webcast/uVbwskZLrrwWvXiVR6nFpd/"
     },
     "s149": {
         "s_title": "Papers: Interacting with Floors &amp; Situated Displays",
@@ -2526,7 +2550,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Diego Martinez Plasencia"
+        "chair": "Diego Martinez Plasencia",
+        "video": "https://portal.klewel.com/watch/webcast/5Uh5tZvY64k3GjhDWH2tbU/"
     },
     "s150": {
         "s_title": "Papers: Robot Personalities",
@@ -2546,7 +2571,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Malte F Jung"
+        "chair": "Malte F Jung",
+        "video": "https://portal.klewel.com/watch/webcast/rECty5E8feG9ckYZ9ovuKg/"
     },
     "s151": {
         "s_title": "Papers: Search &amp; Recommendations",
@@ -2607,7 +2633,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Michael Rohs"
+        "chair": "Michael Rohs",
+        "video": "https://portal.klewel.com/watch/webcast/tYt2ZR777dciAHSU2phyVd/"
     },
     "s154": {
         "s_title": "Papers: Smartwatch Interaction",
@@ -2628,7 +2655,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Daniel Ashbrook"
+        "chair": "Daniel Ashbrook",
+        "video": "https://portal.klewel.com/watch/webcast/AsZXRA3NiABTZYoeTeRh7A/"
     },
     "s155": {
         "s_title": "Papers: Facebook Newsfeeds &amp; Friendships",
@@ -2689,7 +2717,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Ian Oakley"
+        "chair": "Ian Oakley",
+        "video": "https://portal.klewel.com/watch/webcast/4URetgzu3DUo2GLUhdfqnb/"
     },
     "s158": {
         "s_title": "Papers: Speech &amp; Auditory Interfaces",
@@ -2710,7 +2739,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Cosmin Munteanu"
+        "chair": "Cosmin Munteanu",
+        "video": "https://portal.klewel.com/watch/webcast/Rps9xe5mDkreJZpqhh8RPM/"
     },
     "s159": {
         "s_title": "Papers: Telepresence Video, Robots, and Walls",
@@ -2751,7 +2781,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Max Wilson"
+        "chair": "Max Wilson",
+        "video": "https://portal.klewel.com/watch/webcast/vQLLwbU5UzrJfPj9ZNRvDY/"
     },
     "s161": {
         "s_title": "Papers: Tangible Interactions",
@@ -2772,7 +2803,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Otmar Hilliges"
+        "chair": "Otmar Hilliges",
+        "video": "https://portal.klewel.com/watch/webcast/2WPbsGEJXQeUVHNPkKvqbU/"
     },
     "s162": {
         "s_title": "Papers: Natural User Interfaces for InfoVis",
@@ -2793,7 +2825,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Bongshin Lee"
+        "chair": "Bongshin Lee",
+        "video": "https://portal.klewel.com/watch/webcast/hNWz5wfFGUHHVc4DbkNprb/"
     },
     "s163": {
         "s_title": "Papers: Interacting with GUIs",
@@ -2814,7 +2847,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "David R Flatla"
+        "chair": "David R Flatla",
+        "video": "https://portal.klewel.com/watch/webcast/aXpvrxa23NPPTgE2hyYMAc/"
     },
     "s164": {
         "s_title": "Papers: The Impact of Crowd Work on Workers",
@@ -2855,7 +2889,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Benjamin V Hanrahan"
+        "chair": "Benjamin V Hanrahan",
+        "video": "https://portal.klewel.com/watch/webcast/Ez6SRUgets9MSoJ24RBEJN/"
     },
     "s166": {
         "s_title": "Papers: HMDs in Augmented &amp; Virtual Reality",
@@ -2877,7 +2912,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Shahram Izadi"
+        "chair": "Shahram Izadi",
+        "video": "https://portal.klewel.com/watch/webcast/vqtkGpBvd7bjmfvjEgmJvi/"
     },
     "s167": {
         "s_title": "Special: Human Computer Interaction&nbsp;Journal 1",
@@ -2899,7 +2935,7 @@ sessions={
         "chair": "Sharon Oviatt"
     },
     "s-panel1": {
-        "s_title": "Panel: Transfer of HCI Research Innovations",
+        "s_title": "Panel: Technology Transfer of HCI Research Innovations",
         "room": "307",
         "time": "11:30-12:50",
         "submissions": [
@@ -2913,7 +2949,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "panel",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/hHCVHbMSnyx2537yjJoEA/"
     },
     "s-panel2": {
         "s_title": "Panel: You've Been Acquired!",
@@ -2947,7 +2984,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "panel",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/YJaoyydQDQDBuWyuoJJrSZ/"
     },
     "s-panel4": {
         "s_title": "Panel: 10 Years of alt.chi",
@@ -2964,7 +3002,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "panel",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/5iQiRBtkkEmXpFpBCvJDz3/"
     },
     "s-panel5": {
         "s_title": "Panel: Mobile Devices Revolutionizing UI",
@@ -2981,7 +3020,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "panel",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/CavEorbd4q35cCRnAQ3er6/"
     },
     "s-panel6": {
         "s_title": "Panel: Why Google cannot be the # 1 in Korea?: In Search for Critical Success Factors from Local User Experience",
@@ -2998,7 +3038,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "panel",
-        "chair": ""
+        "chair": "",
+        "video": "https://portal.klewel.com/watch/webcast/a7ti5PPwwDXx25baDouMWG/"
     },
     "s-alt1": {
         "s_title": "alt.chi: Mindfulness and Care",
@@ -3242,7 +3283,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Yang Li"
+        "chair": "Yang Li",
+        "video": "https://portal.klewel.com/watch/webcast/KQFVoiz6KHBu2E5cxCTH6o/"
     },
     "s-float-8": {
         "s_title": "Papers: Understanding &amp; Extending Touch Interfaces",
@@ -3263,7 +3305,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Theophanis Tsandilas"
+        "chair": "Theophanis Tsandilas",
+        "video": "https://portal.klewel.com/watch/webcast/G9CuURc3ApbfJut4KNANjU/"
     },
     "s-float-9": {
         "s_title": "Papers: Multi-Device Interaction",
@@ -3283,7 +3326,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Michael Nebeling"
+        "chair": "Michael Nebeling",
+        "video": "https://portal.klewel.com/watch/webcast/65kSkywAS8sdaURLiEp5Bm/"
     },
     "s-float-10": {
         "s_title": "Papers: Neighborhoods &amp; Disadvantaged Communities",
@@ -3403,7 +3447,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Florian Mueller"
+        "chair": "Florian Mueller",
+        "video": "https://portal.klewel.com/watch/webcast/iN5QxQntCs5UwZyRHH89QY/"
     },
     "s-float-16": {
         "s_title": "Papers: Player Performance &amp; Experience in Games&nbsp; ",
@@ -3688,7 +3733,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Mark Blythe"
+        "chair": "Mark Blythe",
+        "video:": "https://portal.klewel.com/watch/webcast/zCqQsX6f8BR7qYjFerqUiL/"
     },
     "s-float-30": {
         "s_title": "Papers: Understand &amp; Enhancing Learning",
@@ -3791,7 +3837,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Tom Bartindale"
+        "chair": "Tom Bartindale",
+        "video": "https://portal.klewel.com/watch/webcast/v4DTGQYp3RveTusJn4LdHK/"
     },
     "s-float-35": {
         "s_title": "Papers: Social Media &amp; Citizen Science",
@@ -3833,7 +3880,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Shengdong Zhao"
+        "chair": "Shengdong Zhao",
+        "video": "https://portal.klewel.com/watch/webcast/67YaRr28pdYYs6sR7EKjzd/"
     },
     "s-float-37": {
         "s_title": "Papers: Programming Environments",
@@ -3895,7 +3943,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Mark Blythe"
+        "chair": "Mark Blythe",
+        "video": "https://portal.klewel.com/watch/webcast/uF2pdEkNVrk7Ds7q72xxtZ/"
     },
     "s-float-40": {
         "s_title": "Papers: Supporting Creativity&nbsp;through UX Design",
@@ -3916,7 +3965,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Paul Dourish"
+        "chair": "Paul Dourish",
+        "video": "https://portal.klewel.com/watch/webcast/NLVGy9Thi3LsBCwCPitpri/"
     },
     "s-float-41": {
         "s_title": "Papers: Understanding &amp; Evaluating Performance",
@@ -4037,7 +4087,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "paper",
-        "chair": "Gina Venolia"
+        "chair": "Gina Venolia",
+        "video": "https://portal.klewel.com/watch/webcast/XnZUxqUtRGMwj5Nefv882S/"
     },
     "s-float-48": {
         "s_title": "Papers: Collaborative Tables, Walls &amp; Rooms",
@@ -4057,7 +4108,8 @@ sessions={
         "hasAward": true,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Harald Reiterer"
+        "chair": "Harald Reiterer",
+        "video": "https://portal.klewel.com/watch/webcast/BxATasDf9MxiESU4oZHVqe/"
     },
     "s-float-49": {
         "s_title": "Papers: Digital &amp; Materials Fabrication",
@@ -4077,7 +4129,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": true,
         "subtype": "paper",
-        "chair": "Stefanie Mueller"
+        "chair": "Stefanie Mueller",
+        "video": "https://portal.klewel.com/watch/webcast/FovqU4dizLV93cUYbRnBJE/"
     },
     "s-float-50": {
         "s_title": "Papers: Voting &amp; Volunteerism",
@@ -4114,7 +4167,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": "Jacob Robert"
+        "chair": "Jacob Robert",
+        "video": "https://portal.klewel.com/watch/webcast/LWZayRwkENsX9HYrJuVTDJ/"
     },
     "s-award2": {
         "s_title": "Special: SIGCHI Lifetime Research Award",
@@ -4131,7 +4185,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": "Scott R Klemmer"
+        "chair": "Scott R Klemmer",
+        "video": "https://portal.klewel.com/watch/webcast/qMXRn2cpX9E95djRgEdX3E/"
     },
     "s-award3": {
         "s_title": "Special: SIGCHI Social Impact Award",
@@ -4148,7 +4203,8 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "special",
-        "chair": "Loren Terveen"
+        "chair": "Loren Terveen",
+        "video": "https://portal.klewel.com/watch/webcast/Sdq7CHHrcZg9W9Ucjg3Skd/"
     },
     "s-src": {
         "s_title": "Special: Student Research Competition Finals",

@@ -90,6 +90,7 @@
 									</div>
 									<div class="full_schedule_session_room">
 										<span class="full4_session_img">
+											<img src="<?php echo $prefix; ?>/img/program/vp_16x16.png" ng-if="sessions[session.session].video && !session.hover && hide_icons"/>
 											<img src="<?php echo $prefix; ?>/img/program/best.png" ng-if="sessions[session.session].hasAward && !session.hover && hide_icons"/>
 											<img src="<?php echo $prefix; ?>/img/program/best_white.png" ng-if="sessions[session.session].hasAward && session.hover && hide_icons"/>
 											<img src="<?php echo $prefix; ?>/img/program/honorable.png" ng-if="sessions[session.session].hasHonorableMention && !session.hover && hide_icons"/>
@@ -127,6 +128,9 @@
 										</span>
 										Date: <span ng-bind="day.day"></span>,&nbsp;<span ng-bind="day.date"></span><br/>
 										Time: <span ng-bind="slot.time"></span>
+										<span ng-if="sessions[session.session].video"><br/>
+											Video: <a href="sessions[session.session].video" ng-bind="sessions[session.session].video"></a>
+										</span>
 
 										<div ng-repeat="submissions in sessions[session.session].submissions"
 										class="full_schedule_submission" ng-if="papers[submissions]!=null">
