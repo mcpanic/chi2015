@@ -21,6 +21,9 @@
 <img src="<?php echo $prefix; ?>/img/keynotes/lou-yongqi.png" width="200px" class="speaker-image">
 <h5>Crossing: HCI, Design and Sustainability</h5>
 <p>
+<a href="https://portal.klewel.com/watch/webcast/hHCVHbMSnyx2537yjJoEA/">Watch video</a>
+</p>
+<p>
 Two great inventions that opened the era of human-computer interaction
 design—desktop and mouse—are now disappearing. Computers are becoming
 smaller and smaller, smarter and smarter. Everyone is now surrounded
@@ -63,6 +66,9 @@ Lou is Vice President of CUMULUS, the International Association of Universities 
 
 <h5>UX Design in the IoT Era</h5>
 <p>
+<a href="https://portal.klewel.com/watch/webcast/ik8vCFkWmixRZQFm4B4ULY/">Watch video</a>
+</p>
+<p>
 The current advancement of IoT technology has accelerated the era of
 hyper-connectivity in our lives.
 This has vastly driven convergence among different fields along with
@@ -91,6 +97,9 @@ Chang received two MFA degrees from the School of the Art Institute of Chicago (
 <img src="<?php echo $prefix; ?>/img/keynotes/david-min.png" width="200px" class="speaker-image">
 <h5>Journey to a Better Life</h5>
 <p>
+<a href="https://portal.klewel.com/watch/webcast/M7a3hD7NABrrk56SkekAXG/">Watch video</a>
+</p>
+<p>
 New technologies and devices are coming out every day along with the rapid growth of the internet and enhancement of hardware performance.  These trends are connected and tangled with each other. This era of "Smart" brings us great benefits and convenience, but there are still many technical hurdles and interface obstacles to be crossed. Now we are able to access massive amount of data, but at the expense of privacy and security.  How can we untie this knot?
 We all strive for the same goal: “to make people’s lives better,” no matter how we define our role in life. In this talk, we will present what we do in LG Electronics to address this goal within the aspects of software engineering and UX design, and also discuss what we should care about when delivering innovative products to the world.
 </p>
@@ -111,6 +120,13 @@ David joined LG Electronics in 2006.
 <img src="<?php echo $prefix; ?>/img/keynotes/sue-dumais.jpg" width="200px" class="speaker-image">
 <h5>ACM-W Athena Lecture: Large-Scale Behavioral Data: Potential and Pitfalls</h5>
 <p>
+<a href="https://portal.klewel.com/watch/webcast/tYB7DtHHqH5J87cpdBJDkm/">Watch video</a>
+</p>
+<p>
+<a href="<?php echo $prefix; ?>/files/CHI2015-Athena-Dumais_ShareBuilds.pdf">Download Slides Here</a>
+</p>
+
+<p>
 Over the last decade, the rise of web services has made it possible to gather traces of human behavior in situ at a scale and fidelity previously unimaginable.  Large-scale behavioral data enables researchers and practitioners to detect adverse drug reactions and interactions, to understand how information diffuses through social networks, how people browse and search for information, how individual learning strategies are related to educational outcome, etc.  Using examples from search, I will highlight how observational logs provide a rich new lens onto the diversity of searchers, tasks, and interactivity that characterize information systems today, and how experimental logs have revolutionized the way in which web-based systems are designed and evaluated.  Although logs provide a great deal of information about what people are doing, they provide little insight about why they are doing so or whether they are satisfied.  Complementary methods from observations, laboratory studies and panels are necessary to provide a more complete understanding of and support for search which is increasingly a core fabric of people’s everyday lives.  The CHI community should lead the way in shaping best practices and policy in behavioral log studies.
 </p>
 
@@ -118,9 +134,6 @@ Over the last decade, the rise of web services has made it possible to gather tr
 <strong>Biography</strong>: Susan Dumais a Distinguished Scientist at Microsoft and Deputy Managing Director of the Microsoft Research Lab in Redmond.   Prior to joining Microsoft Research, she was at Bell Labs and Bellcore, where she worked on Latent Semantic Analysis, techniques for combining search and navigation, and organizational impacts of new technology.  Her current research focuses on user modeling and personalization, context and search and temporal dynamics of information. She has worked closely with several Microsoft groups (Bing, Windows Desktop Search, SharePoint, and Office Online Help) on search-related innovations.  Susan has published widely in the fields of information science, human-computer interaction and cognitive science, and holds several patents on novel retrieval algorithms and interfaces.  Susan is also an adjunct professor in the Information School at the University of Washington.  She is Past-Chair of ACM's Special Interest Group in Information Retrieval (SIGIR), and serves on several editorial boards, technical program committees, and government panels.  She was elected to the CHI Academy in 2005, an ACM Fellow in 2006, received the SIGIR Gerard Salton Award for Lifetime Achievement 2009, was elected to the National Academy of Engineering (NAE) in 2011, and received the ACM Athena Lecturer Award, and Tony Kent Strix Award in 2014.
 </p>
 
-<p>
-<a href="<?php echo $prefix; ?>/files/CHI2015-Athena-Dumais_ShareBuilds.pdf">Download Slides Here</a>
-</p>
 
 
 <a name="thu-closing"></a>
@@ -128,6 +141,9 @@ Over the last decade, the rise of web services has made it possible to gather tr
 <h4>PSY</h4>
 <img src="<?php echo $prefix; ?>/img/keynotes/psy.png" width="200px" class="speaker-image">
 <h5>Cultural Crossing from Local to Global through Music: Technology, Media, and Future</h5>
+<p>
+<a href="https://portal.klewel.com/watch/webcast/rx4E75Asf3xWBrq54WRL8h/">Watch video</a>
+</p>
 <p> Many people think that the global success of the song Gangnam Style has contributed to the tremendous success of the Korean Wave. Being in front of experts in technology and human interactions, I’d like to share my thinking and story about questions like the following: What was the effect of global social media such as YouTube on the global crossing of local culture? How do I plan and utilize the new way of interacting with audience across national and cultural boundaries? Reflecting on the great success of Gangnam Style, what was the main trigger to the big bang of the spread of the Korean wave? As both a musician and an entrepreneur, what do I think is the new process from the ideation of a new song to a global distribution, publicity, and performance of that song? For the creativity that can be appreciated by global audience, how do I think about the technology and media of the future, in terms of creative works? I am looking forward to sharing my experience and opinion here at CHI 2015.
 </p>
 <p>
