@@ -86,8 +86,7 @@ sessions={
         "hasAward": false,
         "hasHonorableMention": false,
         "subtype": "keynote",
-        "chair": "",
-        "video": "https://portal.klewel.com/watch/webcast/rx4E75Asf3xWBrq54WRL8h/"
+        "chair": ""        
     },
     "wip-1": {
         "s_title": "Work in Progress Exhibit",
